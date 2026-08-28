@@ -1,0 +1,1682 @@
+vocabulario,nivel,codigo,descricao,pai
+conhecimentos-i,dominios,0,DOMÍNIOS DE FORMAÇÃO GERAL E/OU TRANSVERSAL,
+conhecimentos-i,dominios,1,DOMÍNIOS TÉCNICO-PROFISSIONAIS DA PRODUÇÃO DE BENS E SERVIÇOS,
+conhecimentos-i,areas,1,CIÊNCIAS EXATAS E INFORMÁTICA,0
+conhecimentos-i,areas,11,"ADMINISTRAÇÃO, GESTÃO E NEGÓCIOS",1
+conhecimentos-i,areas,12,"PROCESSOS DE PRODUÇÃO EM AGRICULTURA, PECUÁRIA, PRODUÇÃO FLORESTAL, PESCA E AQUICULTURA",1
+conhecimentos-i,areas,13,PROCESSOS DE PRODUÇÃO INDUSTRIAL,1
+conhecimentos-i,areas,14,PROCESSOS DE COMÉRCIO,1
+conhecimentos-i,areas,15,SERVIÇOS DA SAÚDE E BEM-ESTAR,1
+conhecimentos-i,areas,16,"SERVIÇOS DE TRANSPORTES, ARMAZENAGEM E CORREIOS",1
+conhecimentos-i,areas,17,"TURISMO, HOSPEDAGEM, ALIMENTAÇÃO, EVENTOS, ESPORTE E LAZER",1
+conhecimentos-i,areas,18,"MODA, ESTÉTICA, EMBELEZAMENTO E SERVIÇOS ÀS PESSOAS",1
+conhecimentos-i,areas,19,"SAÚDE, CUIDADOS E ADESTRAMENTO DE ANIMAIS DOMÉSTICOS",1
+conhecimentos-i,areas,2,CIÊNCIAS BIOLÓGICAS,0
+conhecimentos-i,areas,20,"PRODUÇÃO CULTURAL, DESIGN E DECORAÇÃO",1
+conhecimentos-i,areas,21,"LIMPEZA, CONSERVAÇÃO, PORTARIA, VIGILÂNCIA, ZELADORIA E MANUTENÇÃO DE EDIFÍCIOS E DE ÁREAS PÚBLICAS",1
+conhecimentos-i,areas,22,"SERVIÇOS DE UTILIDADE PÚBLICA (TELECOMUNICAÇÕES, SANEAMENTO BÁSICO E ENERGIA)",1
+conhecimentos-i,areas,23,SERVIÇOS FINANCEIROS E AFINS,1
+conhecimentos-i,areas,24,"SERVIÇOS EDUCACIONAIS, DE DESENVOLVIMENTO COMUNITÁRIO E DEFESA CIVIL",1
+conhecimentos-i,areas,3,CIÊNCIAS DA SAÚDE,0
+conhecimentos-i,areas,4,CIÊNCIAS AGRÁRIAS,0
+conhecimentos-i,areas,5,CIÊNCIAS SOCIAIS APLICADAS,0
+conhecimentos-i,areas,6,CIÊNCIAS HUMANAS,0
+conhecimentos-i,areas,7,"LINGUÍSTICA, LETRAS E ARTES",0
+conhecimentos-i,areas,9,OUTROS CONHECIMENTOS DOS DOMÍNIOS DE FORMAÇÃO GERAL E/OU TRANSVERSAL,0
+conhecimentos-i,campos,01.01.00,CIÊNCIA DA COMPUTAÇÃO,1
+conhecimentos-i,campos,01.02.00,TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO,1
+conhecimentos-i,campos,01.03.00,CIÊNCIAS DA TERRA E DO AMBIENTE,1
+conhecimentos-i,campos,01.04.00,FÍSICA,1
+conhecimentos-i,campos,01.05.00,QUÍMICA,1
+conhecimentos-i,campos,01.06.00,DESENHO TÉCNICO E DE PROJETO,1
+conhecimentos-i,campos,01.07.00,MATEMÁTICA E ESTATÍSTICA,1
+conhecimentos-i,campos,02.01.00,BIOLOGIA,2
+conhecimentos-i,campos,02.02.00,BIOFÍSICA,2
+conhecimentos-i,campos,02.03.00,BIOQUÍMICA,2
+conhecimentos-i,campos,02.04.00,ECOLOGIA E GESTÃO AMBIENTAL,2
+conhecimentos-i,campos,02.05.00,IMUNOLOGIA,2
+conhecimentos-i,campos,02.06.00,MICROBIOLOGIA,2
+conhecimentos-i,campos,02.07.00,PARASITOLOGIA,2
+conhecimentos-i,campos,03.01.00,EDUCAÇÃO FÍSICA,3
+conhecimentos-i,campos,04.01.00,CIÊNCIAS AGRÁRIAS,4
+conhecimentos-i,campos,05.01.00,CIÊNCIA DA INFORMAÇÃO,5
+conhecimentos-i,campos,05.02.00,ESTUDOS ECONÔMICOS E DEMOGRÁFICOS,5
+conhecimentos-i,campos,05.03.00,COMUNICAÇÃO,5
+conhecimentos-i,campos,05.04.00,DIREITO,5
+conhecimentos-i,campos,05.05.00,ARQUITETURA E ORGANIZAÇÃO DO ESPAÇO,5
+conhecimentos-i,campos,06.01.00,ESTUDOS SOCIAIS,6
+conhecimentos-i,campos,06.02.00,EDUCAÇÃO,6
+conhecimentos-i,campos,06.03.00,FILOSOFIA,6
+conhecimentos-i,campos,06.04.00,GEOGRAFIA,6
+conhecimentos-i,campos,06.05.00,HISTÓRIA,6
+conhecimentos-i,campos,06.06.00,PSICOLOGIA,6
+conhecimentos-i,campos,07.01.00,LÍNGUAS,7
+conhecimentos-i,campos,07.02.00,ARTES,7
+conhecimentos-i,campos,09.01.00,MÉTODOS E PROCEDIMENTOS CIENTÍFICOS,9
+conhecimentos-i,campos,09.02.00,METODOLOGIA DE PROJETOS,9
+conhecimentos-i,campos,09.03.00,TECNOLOGIAS ESTRATÉGICAS,9
+conhecimentos-i,campos,11.01.00,ADMINISTRAÇÃO E GESTÃO,11
+conhecimentos-i,campos,11.02.00,COOPERATIVISMO E ASSOCIATIVISMO,11
+conhecimentos-i,campos,11.03.00,EMPREENDEDORISMO E EMPRESAS EMERGENTES (STARTUP),11
+conhecimentos-i,campos,11.04.00,FISCALIZAÇÃO METROLÓGICA,11
+conhecimentos-i,campos,11.05.00,INOVAÇÃO E OTIMIZAÇÃO DE SERVIÇOS ADMINISTRATIVOS E FINANCEIROS,11
+conhecimentos-i,campos,11.06.00,LEVANTAMENTO DE INFORMAÇÕES,11
+conhecimentos-i,campos,11.07.00,LOGÍSTICA,11
+conhecimentos-i,campos,11.08.00,ORGANIZAÇÃO DA PRODUÇÃO,11
+conhecimentos-i,campos,11.09.00,PLANEJAMENTO DE EMPRESA,11
+conhecimentos-i,campos,11.10.00,PLANEJAMENTO E CONTROLE DA PRODUÇÃO (PCP),11
+conhecimentos-i,campos,11.11.00,PROCESSOS ADMINISTRATIVOS E ORGANIZACIONAIS,11
+conhecimentos-i,campos,11.12.00,PROCESSOS CONTÁBEIS E FINANCEIROS,11
+conhecimentos-i,campos,11.13.00,PROCESSOS DE RECURSOS HUMANOS,11
+conhecimentos-i,campos,11.14.00,PROCESSO DE INTEGRAÇÃO EM EMPRESA,11
+conhecimentos-i,campos,11.15.00,QUALIDADE E PRODUTIVIDADE,11
+conhecimentos-i,campos,11.16.00,SAÚDE E SEGURANÇA,11
+conhecimentos-i,campos,11.17.00,VALORES E ÉTICA PROFISSIONAL,11
+conhecimentos-i,campos,12.01.00,AUTOMAÇÃO EM AGROPECUÁRIA E FLORESTAL,12
+conhecimentos-i,campos,12.02.00,EXTENSÃO RURAL,12
+conhecimentos-i,campos,12.03.00,"NORMAS REGULAMENTADORAS EM AGRICULTURA, PECUÁRIA, PRODUÇÃO FLORESTAL, PESCA E AQUICULTURA",12
+conhecimentos-i,campos,12.04.00,INSTALAÇÕES E EQUIPAMENTOS,12
+conhecimentos-i,campos,12.05.00,"PLANEJAMENTO E ORGANIZAÇÃO DA AGROPECUÁRIA, FLORESTAL E DE AQUICULTURA",12
+conhecimentos-i,campos,12.06.00,"PROCESSAMENTO DE PRODUTOS AGROPECUÁRIOS, FLORESTAIS, DA PESCA E DA AQUICULTURA",12
+conhecimentos-i,campos,12.07.00,PROCESSO DE PRODUÇÃO AGRÍCOLA,12
+conhecimentos-i,campos,12.08.00,PROCESSO DE PRODUÇÃO EM PECUÁRIA,12
+conhecimentos-i,campos,12.09.00,PRODUÇÃO EM PESCA E AQUICULTURA,12
+conhecimentos-i,campos,12.10.00,PRODUÇÃO FLORESTAL,12
+conhecimentos-i,campos,12.11.00,PROCESSOS PARA EMBALAGEM E ARMAZENAGEM DE PRODUTOS,12
+conhecimentos-i,campos,12.12.00,"ROBOTIZAÇÃO EM AGRICULTURA, PECUÁRIA, PRODUÇÃO FLORESTAL, PESCA E AQUICULTURA",12
+conhecimentos-i,campos,12.13.00,"TECNOLOGIA EM AGRICULTURA, PECUÁRIA, PRODUÇÃO FLORESTAL, PESCA E AQUICULTURA",12
+conhecimentos-i,campos,12.14.00,"TENDÊNCIAS E INOVAÇÃO EM AGRICULTURA, PECUÁRIA, PRODUÇÃO FLORESTAL, PESCA E AQUICULTURA",12
+conhecimentos-i,campos,12.15.00,USO DE SOLO E ÁGUA,12
+conhecimentos-i,campos,13.01.00,AUTOMAÇÃO NOS PROCESSOS DE PRODUÇÃO INDUSTRIAL,13
+conhecimentos-i,campos,13.02.00,CONSTRUÇÃO CIVIL E OBRAS PÚBLICAS,13
+conhecimentos-i,campos,13.03.00,DESENHO DE PROJETO E INDUSTRIAL,13
+conhecimentos-i,campos,13.04.00,INFORMAÇÕES TECNOLÓGICAS DE FABRICAÇÃO DE CALÇADOS E OUTROS ARTEFATOS DE COURO,13
+conhecimentos-i,campos,13.05.00,INFORMAÇÕES TECNOLÓGICAS DE COURO E PELE,13
+conhecimentos-i,campos,13.06.00,INFORMAÇÕES TECNOLÓGICAS DE ELETROELETRÔNICA,13
+conhecimentos-i,campos,13.07.00,"INFORMAÇÕES TECNOLÓGICAS DE JOALHERIA, INSTRUMENTOS MUSICAIS E BRINQUEDOS",13
+conhecimentos-i,campos,13.09.00,INFORMAÇÕES TECNOLÓGICAS DE MADEIRA E MOBILIÁRIO,13
+conhecimentos-i,campos,13.10.00,"INFORMAÇÕES TECNOLÓGICAS DE PRODUÇÃO EM CERÂMICA, VIDRO E OUTROS MINERAIS NÃO-METÁLICOS",13
+conhecimentos-i,campos,13.11.00,INFORMAÇÕES TECNOLÓGICAS DE PRODUÇÃO GRÁFICA,13
+conhecimentos-i,campos,13.12.00,INFORMAÇÕES TECNOLÓGICAS LABORATORIAIS,13
+conhecimentos-i,campos,13.13.00,INFORMAÇÕES TECNOLÓGICAS EM BORRACHA E PLÁSTICO,13
+conhecimentos-i,campos,13.14.00,INFORMAÇÕES TECNOLÓGICAS EM QUÍMICA E PETROQUÍMICA,13
+conhecimentos-i,campos,13.15.00,"INFORMAÇÕES TECNOLÓGICAS DE PRODUÇÃO DE FÁRMACOS, MEDICAMENTOS E COSMÉTICOS",13
+conhecimentos-i,campos,13.16.00,INFORMAÇÕES TECNÓGICAS DE CELULOSE E PAPEL,13
+conhecimentos-i,campos,13.17.00,"INFORMAÇÕES TECNOLÓGICAS DE FABRICAÇÃO DE PRODUTOS ALIMENTÍCIOS, BEBIDAS E FUMO",13
+conhecimentos-i,campos,13.18.00,INFORMAÇÕES TECNOLÓGICAS TÊXTEIS E DE ARTEFATOS DE TECIDOS,13
+conhecimentos-i,campos,13.19.00,INFORMAÇÕES TECNOLÓGICAS DE OPERAÇÃO DE UTILIDADES INDUSTRIAIS,13
+conhecimentos-i,campos,13.20.00,INFORMAÇÕES TECNOLÓGICAS REFERENTES A INSTALAÇÕES E EQUIPAMENTOS,13
+conhecimentos-i,campos,13.21.00,MATERIAIS,13
+conhecimentos-i,campos,13.22.00,MANUTENÇÃO INDUSTRIAL,13
+conhecimentos-i,campos,13.23.00,METALMECÂNICA - MECÂNICA,13
+conhecimentos-i,campos,13.24.00,METALMECÂNICA - METALURGIA,13
+conhecimentos-i,campos,13.25.00,"MINERAÇÃO - RECURSOS MINERAIS SÓLIDOS, LÍQUIDOS E GASOSOS",13
+conhecimentos-i,campos,13.26.00,NORMAS TÉCNICAS E REGULAMENTADORAS PARA A ÁREA INDUSTRIAL,13
+conhecimentos-i,campos,13.27.00,OPERAÇÃO DE LINHAS DE PRODUÇÃO INDUSTRIAL,13
+conhecimentos-i,campos,13.28.00,PLANEJAMENTO E CONTROLE DA PRODUÇÃO INDUSTRIAL,13
+conhecimentos-i,campos,13.29.00,PROCESSOS PARA EMBALAGEM DE PRODUTOS,13
+conhecimentos-i,campos,13.30.00,ROBOTIZAÇÃO NOS PROCESSOS DE PRODUÇÃO INDUSTRIAL,13
+conhecimentos-i,campos,13.31.00,TENDÊNCIAS E INOVAÇÃO NOS PROCESSOS DE PRODUÇÃO INDUSTRIAL,13
+conhecimentos-i,campos,14.01.00,ATENDIMENTO AO CLIENTE,14
+conhecimentos-i,campos,14.02.00,AUTOMAÇÃO NO COMÉRCIO,14
+conhecimentos-i,campos,14.03.00,COMERCIALIZAÇÃO,14
+conhecimentos-i,campos,14.04.00,COMPRAS,14
+conhecimentos-i,campos,14.05.00,CONTROLE E ARMAZENAGEM,14
+conhecimentos-i,campos,14.06.00,IMPORTAÇÃO E EXPORTAÇÃO,14
+conhecimentos-i,campos,14.07.00,MARKETING,14
+conhecimentos-i,campos,14.08.00,NORMAS TÉCNICAS E REGULAMENTADORAS NA ÁREA COMERCIAL,14
+conhecimentos-i,campos,14.09.00,PLANEJAMENTO DE OPERAÇÕES COMERCIAIS,14
+conhecimentos-i,campos,14.11.00,TECNOLOGIA NA ÁREA COMERCIAL,14
+conhecimentos-i,campos,14.12.00,TENDÊNCIAS E INOVAÇÃO NA ÁREA COMERCIAL,14
+conhecimentos-i,campos,15.01.00,AÇÕES DE SAÚDE,15
+conhecimentos-i,campos,15.02.00,AUTOMAÇÃO NA ÁREA DE SAÚDE E BEM-ESTAR,15
+conhecimentos-i,campos,15.03.00,BIOSSEGURANÇA,15
+conhecimentos-i,campos,15.04.00,ENFERMAGEM,15
+conhecimentos-i,campos,15.05.00,SERVIÇOS FARMACÊUTICOS,15
+conhecimentos-i,campos,15.06.00,HEMOTERAPIA,15
+conhecimentos-i,campos,15.07.00,NECRÓPSIA E TAXIDERMIA,15
+conhecimentos-i,campos,15.08.00,NORMAS REGULAMENTADORAS NOS SERVIÇOS DE SAÚDE E BEM-ESTAR,15
+conhecimentos-i,campos,15.09.00,NUTRIÇÃO E DIETÉTICA,15
+conhecimentos-i,campos,15.10.00,OPERAÇÃO DE EQUIPAMENTOS E INSTRUMENTOS DE DIAGNÓSTICO E TERAPÊUTICO,15
+conhecimentos-i,campos,15.11.00,"FABRICAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS, INSTRUMENTOS E APARELHOS BIOMÉDICOS",15
+conhecimentos-i,campos,15.12.00,REABILITAÇÃO DE DEPENDENTES QUÍMICOS,15
+conhecimentos-i,campos,15.13.00,QUALIDADE DE VIDA,15
+conhecimentos-i,campos,15.14.00,ROBOTIZAÇÃO NA ÁREA DE SAÚDE E BEM-ESTAR,15
+conhecimentos-i,campos,15.15.00,SAÚDE COLETIVA,15
+conhecimentos-i,campos,15.16.00,TECNOLOGIA NA ÁREA DE SAÚDE E BEM-ESTAR,15
+conhecimentos-i,campos,15.17.00,TENDÊNCIAS E INOVAÇÃO NA ÁREA DE SAÚDE E BEM-ESTAR,15
+conhecimentos-i,campos,16.01.00,"AUTOMAÇÃO EM TRANSPORTES, ARMAZENAGEM E CORREIOS",16
+conhecimentos-i,campos,16.02.00,CONDUÇÃO E OPERAÇÃO DE VEÍCULOS TERRESTRES,16
+conhecimentos-i,campos,16.03.00,CONDUÇÃO DE VEÍCULOS AQUÁTICOS,16
+conhecimentos-i,campos,16.04.00,LOGÍSTICA NO TRANSPORTE,16
+conhecimentos-i,campos,16.05.00,MANUTENÇÃO VEICULAR,16
+conhecimentos-i,campos,16.06.00,MOVIMENTAÇÃO E ARMAZENAGEM DE CARGAS,16
+conhecimentos-i,campos,16.07.00,NAVEGAÇÃO E CONTROLE DE TRÁFEGO DE TRANSPORTES,16
+conhecimentos-i,campos,16.08.00,"NORMAS TÉCNICAS E REGULAMENTADORAS PARA A ÁREA DE TRANSPORTES, ARMAZENAGEM E CORREIOS",16
+conhecimentos-i,campos,16.09.00,PLANEJAMENTO DE TRANSPORTES,16
+conhecimentos-i,campos,16.10.00,"ROBOTIZAÇÃO NA ÁREA DE TRANSPORTES, ARMAZENAGEM E CORREIOS",16
+conhecimentos-i,campos,16.11.00,SERVIÇOS DE ENTREGA,16
+conhecimentos-i,campos,16.12.00,"TECNOLOGIA EM TRANSPORTES, ARMAZENAGEM E CORREIOS",16
+conhecimentos-i,campos,16.13.00,"TENDÊNCIAS E INOVAÇÃO EM TRANSPORTES, ARMAZENAGEM E CORREIOS",16
+conhecimentos-i,campos,16.14.00,TERMINAIS DE TRANSPORTE (CARGA E PASSAGEIROS),16
+conhecimentos-i,campos,17.01.00,"AUTOMAÇÃO NA ÁREA DE TURISMO, HOSPEDAGEM, ALIMENTAÇÃO, EVENTOS, ESPORTE E LAZER",17
+conhecimentos-i,campos,17.02.00,EVENTOS E LAZER,17
+conhecimentos-i,campos,17.03.00,ESPORTE,17
+conhecimentos-i,campos,17.04.00,GASTRONOMIA E ALIMENTAÇÃO,17
+conhecimentos-i,campos,17.05.00,HOSPEDAGEM,17
+conhecimentos-i,campos,17.06.00,INFORMAÇÕES TECNOLÓGICAS DA MANUTENÇÃO DE EQUIPAMENTOS E APARELHOS DE ESPORTES E DE LAZER,17
+conhecimentos-i,campos,17.07.00,"NORMAS TÉCNICAS E REGULAMENTADORAS PARA TURISMO, HOSPEDAGEM, ALIMENTAÇÃO, EVENTOS, ESPORTE E LAZER",17
+conhecimentos-i,campos,17.08.00,"ROBOTIZAÇÃO NA ÁREA DE TURISMO, HOSPEDAGEM, ALIMENTAÇÃO, EVENTOS, ESPORTE E LAZER",17
+conhecimentos-i,campos,17.09.00,"TECNOLOGIA EM TURISMO, HOSPEDAGEM, ALIMENTAÇÃO, EVENTOS, ESPORTE E LAZER",17
+conhecimentos-i,campos,17.10.00,"TENDÊNCIAS E INOVAÇÃO NA ÁREA DE TURISMO, HOSPEDAGEM, ALIMENTAÇÃO, EVENTOS, ESPORTE E LAZER",17
+conhecimentos-i,campos,17.11.00,TURISMO,17
+conhecimentos-i,campos,18.01.00,"AUTOMAÇÃO NA ÁREA DE MODA, ESTÉTICA, EMBELEZAMENTO E SERVIÇOS ÀS PESSOAS",18
+conhecimentos-i,campos,18.02.00,"ESTÉTICA, EMBELEZAMENTO E CUIDADOS PESSOAIS",18
+conhecimentos-i,campos,18.03.00,MODA,18
+conhecimentos-i,campos,18.04.00,"NORMAS TÉCNICAS E REGULAMENTADORAS PARA A ÁREA DE MODA, ESTÉTICA, EMBELEZAMENTO E SERVIÇOS ÀS PESSOAS",18
+conhecimentos-i,campos,18.05.00,"ROBOTIZAÇÃO NA ÁREA DE MODA, ESTÉTICA, EMBELEZAMENTO E SERVIÇOS ÀS PESSOAS",18
+conhecimentos-i,campos,18.06.00,"SERVIÇOS DE LAVANDERIA, PASSADORIA E REPAROS",18
+conhecimentos-i,campos,18.08.00,"TECNOLOGIA EM MODA, ESTÉTICA, EMBELEZAMENTO E CUIDADOS PESSOAIS",18
+conhecimentos-i,campos,18.09.00,"TENDÊNCIAS E INOVAÇÃO NA ÁREA DE MODA, ESTÉTICA, EMBELEZAMENTO E SERVIÇOS ÀS PESSOAS",18
+conhecimentos-i,campos,19.01.00,"AUTOMAÇÃO NA ÁREA DE SAÚDE, CUIDADOS E ADESTRAMENTO DE ANIMAIS DOMÉSTICOS",19
+conhecimentos-i,campos,19.02.00,SAÚDE DE ANIMAIS DOMÉSTICOS,19
+conhecimentos-i,campos,19.03.00,"MODA, HIGIENE E ESTÉTICA DE ANIMAIS DOMÉSTICOS",19
+conhecimentos-i,campos,19.04.00,ADESTRAMENTO DE ANIMAIS DOMÉSTICOS,19
+conhecimentos-i,campos,19.05.00,"NORMAS TÉCNICAS E REGULAMENTADORAS PARA A ÁREA DE SAÚDE, CUIDADOS E ADESTRAMENTO DE ANIMAIS DOMÉSTICOS",19
+conhecimentos-i,campos,19.07.00,"TECNOLOGIA EM SAÚDE, CUIDADOS E ADESTRAMENTO DE ANIMAIS DOMÉSTICOS",19
+conhecimentos-i,campos,19.08.00,"TENDÊNCIAS E INOVAÇÃO NA ÁREA DE SAÚDE, CUIDADOS E ADESTRAMENTO DE ANIMAIS DOMÉSTICOS",19
+conhecimentos-i,campos,20.01.00,ARTES CÊNICAS,20
+conhecimentos-i,campos,20.02.00,ARTES CIRCENSES,20
+conhecimentos-i,campos,20.03.00,ARTES MUSICAIS,20
+conhecimentos-i,campos,20.04.00,ARTES PLÁSTICAS,20
+conhecimentos-i,campos,20.05.00,"AUTOMAÇÃO NA PRODUÇÃO CULTURAL, DESIGN E DECORAÇÃO",20
+conhecimentos-i,campos,20.06.00,DESIGN,20
+conhecimentos-i,campos,20.07.00,MUSEOLOGIA E PATRIMÔNIO HISTÓRICO,20
+conhecimentos-i,campos,20.08.00,"NORMAS TÉCNICAS E REGULAMENTADORAS PARA PRODUÇÃO CULTURAL, DESIGN E DECORAÇÃO",20
+conhecimentos-i,campos,20.09.00,PAISAGISMO E DECORAÇÃO,20
+conhecimentos-i,campos,20.10.00,PROPRIEDADE INTELECTUAL E AVALIAÇÃO DE PROGRAMAS DOS MEIOS DE COMUNICAÇÃO,20
+conhecimentos-i,campos,20.11.00,"ROBOTIZAÇÃO NA PRODUÇÃO CULTURAL, DESIGN E DECORAÇÃO",20
+conhecimentos-i,campos,20.12.00,TÉCNICAS AUXILIARES DE PRODUÇÃO CULTURAL,20
+conhecimentos-i,campos,20.13.00,"TECNOLOGIA EM PRODUÇÃO CULTURAL, DESIGN E DECORAÇÃO",20
+conhecimentos-i,campos,20.14.00,"TENDÊNCIAS E INOVAÇÃO NA PRODUÇÃO CULTURAL, DESIGN E DECORAÇÃO",20
+conhecimentos-i,campos,21.01.00,"AUTOMAÇÃO NA LIMPEZA, CONSERVAÇÃO, PORTARIA, VIGILÂNCIA, ZELADORIA E MANUTENÇÃO DE EDIFÍCIOS E DE ÁREAS PÚBLICAS",21
+conhecimentos-i,campos,21.02.00,COLETA E RECICLAGEM DE MATERIAL,21
+conhecimentos-i,campos,21.03.00,LIMPEZA E CONSERVAÇÃO,21
+conhecimentos-i,campos,21.04.00,INSTALAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS DE EDIFÍCIOS,21
+conhecimentos-i,campos,21.05.00,"NORMAS TÉCNICAS E REGULAMENTADORAS PARA LIMPEZA, CONSERVAÇÃO, PORTARIA, VIGILÂNCIA, ZELADORIA E MANUTENÇÃO DE EDIFÍCIOS E DE ÁREAS PÚBLICAS",21
+conhecimentos-i,campos,21.06.00,PORTARIA E VIGILÂNCIA,21
+conhecimentos-i,campos,21.08.00,"TECNOLOGIA EM LIMPEZA, CONSERVAÇÃO, PORTARIA, VIGILÂNCIA, ZELADORIA E MANUTENÇÃO DE EDIFÍCIOS E DE ÁREAS PÚBLICAS",21
+conhecimentos-i,campos,21.09.00,"TENDÊNCIAS E INOVAÇÃO NA LIMPEZA, CONSERVAÇÃO, PORTARIA, VIGILÂNCIA, ZELADORIA E MANUTENÇÃO DE EDIFÍCIOS E DE ÁREAS PÚBLICAS",21
+conhecimentos-i,campos,21.10.00,ZELADORIA,21
+conhecimentos-i,campos,22.01.00,AUTOMAÇÃO EM SERVIÇOS DE UTILIDADE PÚBLICA,22
+conhecimentos-i,campos,22.02.00,ENERGIA,22
+conhecimentos-i,campos,22.03.00,NORMAS TÉCNICAS E REGULAMENTADORAS PARA SERVIÇOS DE UTILIDADE PÚBLICA,22
+conhecimentos-i,campos,22.04.00,ROBOTIZAÇÃO EM SERVIÇOS DE UTILIDADE PÚBLICA,22
+conhecimentos-i,campos,22.05.00,SANEAMENTO BÁSICO,22
+conhecimentos-i,campos,22.06.00,TECNOLOGIA EM SERVIÇOS DE UTILIDADE PÚBLICA,22
+conhecimentos-i,campos,22.07.00,TELECOMUNICAÇÕES,22
+conhecimentos-i,campos,22.08.00,TENDÊNCIAS E INOVAÇÃO EM SERVIÇOS DE UTILIDADE PÚBLICA,22
+conhecimentos-i,campos,23.01.00,AUTOMAÇÃO EM SERVIÇOS FINANCEIROS E AFINS,23
+conhecimentos-i,campos,23.02.00,NORMAS TÉCNICAS E REGULAMENTADORAS EM SERVIÇOS FINANCEIROS E AFINS,23
+conhecimentos-i,campos,23.03.00,ROBOTIZAÇÃO EM SERVIÇOS FINANCEIROS E AFINS,23
+conhecimentos-i,campos,23.04.00,SERVIÇOS BANCÁRIOS,23
+conhecimentos-i,campos,23.05.00,SISTEMA FINANCEIRO NACIONAL,23
+conhecimentos-i,campos,23.06.00,TECNOLOGIA DOS SERVIÇOS FINANCEIROS E AFINS,23
+conhecimentos-i,campos,23.07.00,TENDÊNCIAS E INOVAÇÃO EM SERVIÇOS FINANCEIROS E AFINS,23
+conhecimentos-i,campos,24.01.00,APOIO AO ALUNO DE SERVIÇOS EDUCACIONAIS,24
+conhecimentos-i,campos,24.02.00,"AUTOMAÇÃO EM SERVIÇOS EDUCACIONAIS, DE DESENVOLVIMENTO COMUNITÁRIO E DEFESA CIVIL",24
+conhecimentos-i,campos,24.03.00,DESENVOLVIMENTO COMUNITÁRIO E DEFESA CIVIL,24
+conhecimentos-i,campos,24.04.00,ELABORAÇÃO DE RECURSOS DIDÁTICOS EM SERVIÇOS EDUCACIONAIS,24
+conhecimentos-i,campos,24.05.00,GESTÃO E ADMINISTRAÇÃO ESCOLAR,24
+conhecimentos-i,campos,24.06.00,INFRAESTRUTURA ESCOLAR,24
+conhecimentos-i,campos,24.07.00,INSTRUTORIA DE ENSINO PROFISSIONAL,24
+conhecimentos-i,campos,24.08.00,NORMAS TÉCNICAS E REGULAMENTADORAS EM SERVIÇOS EDUCACIONAIS E DE DESENVOLVIMENTO COMUNITÁRIO E DEFESA CIVIL,24
+conhecimentos-i,campos,24.09.00,PROCESSO ESCOLAR DE ENSINO-APRENDIZAGEM,24
+conhecimentos-i,campos,24.11.00,TECNOLOGIA EM SERVIÇOS EDUCACIONAIS E DE DESENVOLVIMENTO COMUNITÁRIO E DEFESA CIVIL,24
+conhecimentos-i,campos,24.12.00,TENDÊNCIAS E INOVAÇÃO EM SERVIÇOS EDUCACIONAIS E DE DESENVOLVIMENTO COMUNITÁRIO E DEFESA CIVIL,24
+conhecimentos-i,conhecimentos,01.01.01,ARQUITETURA DE COMPUTAÇÃO,01.01.00
+conhecimentos-i,conhecimentos,01.01.02,BANCO DE DADOS,01.01.00
+conhecimentos-i,conhecimentos,01.01.03,BIG DATA,01.01.00
+conhecimentos-i,conhecimentos,01.01.04,COMPUTAÇÃO GRÁFICA,01.01.00
+conhecimentos-i,conhecimentos,01.01.05,HARDWARE,01.01.00
+conhecimentos-i,conhecimentos,01.01.06,INTELIGÊNCIA ARTIFICIAL,01.01.00
+conhecimentos-i,conhecimentos,01.01.07,LINGUAGEM DE PROGRAMAÇÃO,01.01.00
+conhecimentos-i,conhecimentos,01.01.08,PROCESSAMENTO DE IMAGENS,01.01.00
+conhecimentos-i,conhecimentos,01.01.09,REDES E TELECOMUNICAÇÕES,01.01.00
+conhecimentos-i,conhecimentos,01.01.10,SISTEMA DE INFORMAÇÃO DISTRIBUÍDO,01.01.00
+conhecimentos-i,conhecimentos,01.01.11,SISTEMAS DE INFORMAÇÃO,01.01.00
+conhecimentos-i,conhecimentos,01.01.12,SISTEMAS OPERACIONAIS,01.01.00
+conhecimentos-i,conhecimentos,01.01.13,TEORIA DA COMPUTAÇÃO E MATEMÁTICA,01.01.00
+conhecimentos-i,conhecimentos,01.01.90,"OUTROS CONHECIMENTOS DE CIÊNCIA DA COMPUTAÇÃO (ESPECIFICAR:...) - PERIFÉRICOS DE COMPUTADOR PARA ENTRADA E SAÍDA DE DESENHOS - MESAS DIGITALIZADORAS, IMPRESSORAS E PLOTTERS",01.01.00
+conhecimentos-i,conhecimentos,01.02.01,ADMINISTRAÇÃO DE REDES DE COMPUTADORES,01.02.00
+conhecimentos-i,conhecimentos,01.02.02,INFORMÁTICA,01.02.00
+conhecimentos-i,conhecimentos,01.02.03,INFORMÁTICA MÉDICA,01.02.00
+conhecimentos-i,conhecimentos,01.02.04,INTERNET,01.02.00
+conhecimentos-i,conhecimentos,01.02.05,INTERNET DAS COISAS,01.02.00
+conhecimentos-i,conhecimentos,01.02.06,SOFTWARE - BUSINESS INTELLIGENCE-BI,01.02.00
+conhecimentos-i,conhecimentos,01.02.07,SOFTWARE - CAD-CAM,01.02.00
+conhecimentos-i,conhecimentos,01.02.08,SOFTWARE - CIM,01.02.00
+conhecimentos-i,conhecimentos,01.02.09,SOFTWARE - SISTEMA DE COMUNICAÇÃO E ARQUIVAMENTO DE IMAGENS (PACS),01.02.00
+conhecimentos-i,conhecimentos,01.02.10,SOFTWARE - SISTEMAS DE INFORMAÇÃO EM RADIOLOGIA (RIS),01.02.00
+conhecimentos-i,conhecimentos,01.02.11,VIDEOJOGO,01.02.00
+conhecimentos-i,conhecimentos,01.02.90,OUTROS CONHECIMENTOS DE TECNOLOGIAS DA INFORMAÇÃO E COMUNICAÇÃO (ESPECIFICAR:...) - SOFTWARE - CAD,01.02.00
+conhecimentos-i,conhecimentos,01.03.01,AGRIMENSURA,01.03.00
+conhecimentos-i,conhecimentos,01.03.02,CIÊNCIAS AMBIENTAIS,01.03.00
+conhecimentos-i,conhecimentos,01.03.03,CLIMATOLOGIA,01.03.00
+conhecimentos-i,conhecimentos,01.03.04,ESCAFANDRIA E MERGULHO,01.03.00
+conhecimentos-i,conhecimentos,01.03.05,GEODÉSIA E CARTOGRAFIA,01.03.00
+conhecimentos-i,conhecimentos,01.03.06,GEOFÍSICA,01.03.00
+conhecimentos-i,conhecimentos,01.03.07,GEOLOGIA,01.03.00
+conhecimentos-i,conhecimentos,01.03.08,GEOMÁTICA,01.03.00
+conhecimentos-i,conhecimentos,01.03.09,GEOQUÍMICA,01.03.00
+conhecimentos-i,conhecimentos,01.03.10,GEOTÉCNICA,01.03.00
+conhecimentos-i,conhecimentos,01.03.11,HIDROGRAFIA,01.03.00
+conhecimentos-i,conhecimentos,01.03.12,METEOROLOGIA E CIÊNCIAS ATMOSFÉRICAS,01.03.00
+conhecimentos-i,conhecimentos,01.03.13,MINERALOGIA,01.03.00
+conhecimentos-i,conhecimentos,01.03.90,OUTROS CONHECIMENTOS DE CIÊNCIAS DA TERRA E DO AMBIENTE (ESPECIFICAR:...) - METEOROLOGIA,01.03.00
+conhecimentos-i,conhecimentos,01.04.01,ACÚSTICA,01.04.00
+conhecimentos-i,conhecimentos,01.04.02,ELETRICIDADE,01.04.00
+conhecimentos-i,conhecimentos,01.04.03,ELETROELETRÔNICA,01.04.00
+conhecimentos-i,conhecimentos,01.04.04,ELETRÔNICA,01.04.00
+conhecimentos-i,conhecimentos,01.04.05,FÍSICA DA MATÉRIA CONDENSADA,01.04.00
+conhecimentos-i,conhecimentos,01.04.06,FÍSICA GERAL,01.04.00
+conhecimentos-i,conhecimentos,01.04.07,FÍSICA NUCLEAR,01.04.00
+conhecimentos-i,conhecimentos,01.04.08,"FLÚIDOS, PLASMAS E DESCARGAS ELÉTRICAS",01.04.00
+conhecimentos-i,conhecimentos,01.04.09,FOTÔNICA,01.04.00
+conhecimentos-i,conhecimentos,01.04.10,MECÂNICA,01.04.00
+conhecimentos-i,conhecimentos,01.04.11,ÓTICA,01.04.00
+conhecimentos-i,conhecimentos,01.04.90,OUTROS CONHECIMENTOS DE FÍSICA (ESPECIFICAR:...) - FÍSICA APLICADA,01.04.00
+conhecimentos-i,conhecimentos,01.05.01,CINÉTICA QUÍMICA,01.05.00
+conhecimentos-i,conhecimentos,01.05.02,COLORIMETRIA,01.05.00
+conhecimentos-i,conhecimentos,01.05.03,POLÍMEROS,01.05.00
+conhecimentos-i,conhecimentos,01.05.04,QUÍMICA ANALÍTICA,01.05.00
+conhecimentos-i,conhecimentos,01.05.05,QUÍMICA FÍSICA,01.05.00
+conhecimentos-i,conhecimentos,01.05.06,QUÍMICA GERAL,01.05.00
+conhecimentos-i,conhecimentos,01.05.07,QUÍMICA INORGÂNICA,01.05.00
+conhecimentos-i,conhecimentos,01.05.08,QUÍMICA ORGÂNICA,01.05.00
+conhecimentos-i,conhecimentos,01.05.90,OUTROS CONHECIMENTOS DE QUÍMICA (ESPECIFICAR:...) - QUÍMICA DOS MATERIAIS,01.05.00
+conhecimentos-i,conhecimentos,01.06.01,DESENHO GEOMÉTRICO,01.06.00
+conhecimentos-i,conhecimentos,01.06.02,DESENHO TÉCNICO GERAL,01.06.00
+conhecimentos-i,conhecimentos,01.06.03,LEITURA E INTERPRETAÇÃO DE DESENHO TÉCNICO,01.06.00
+conhecimentos-i,conhecimentos,01.06.04,PROJETO DE PRODUTO,01.06.00
+conhecimentos-i,conhecimentos,01.06.90,OUTROS CONHECIMENTOS DE DESENHO TÉCNICO E DE PROJETO (ESPECIFICAR:...) - DESENHO TÉCNICO MECÂNICO,01.06.00
+conhecimentos-i,conhecimentos,01.07.01,ÁLGEBRA,01.07.00
+conhecimentos-i,conhecimentos,01.07.02,ÁLGEBRA LINEAR,01.07.00
+conhecimentos-i,conhecimentos,01.07.03,ALGORITMO,01.07.00
+conhecimentos-i,conhecimentos,01.07.04,ARITMÉTICA,01.07.00
+conhecimentos-i,conhecimentos,01.07.05,CÁLCULO DIFERENCIAL E INTEGRAL,01.07.00
+conhecimentos-i,conhecimentos,01.07.06,CÁLCULO NUMÉRICO,01.07.00
+conhecimentos-i,conhecimentos,01.07.07,CÁLCULO TÉCNICO,01.07.00
+conhecimentos-i,conhecimentos,01.07.08,ESTATÍSTICA,01.07.00
+conhecimentos-i,conhecimentos,01.07.09,GEOMETRIA,01.07.00
+conhecimentos-i,conhecimentos,01.07.10,GEOMETRIA ANALÍTICA,01.07.00
+conhecimentos-i,conhecimentos,01.07.11,LÓGICA MATEMÁTICA,01.07.00
+conhecimentos-i,conhecimentos,01.07.12,MATEMÁTICA,01.07.00
+conhecimentos-i,conhecimentos,01.07.13,MATEMÁTICA APLICADA,01.07.00
+conhecimentos-i,conhecimentos,01.07.14,MODELAGEM MATEMÁTICA,01.07.00
+conhecimentos-i,conhecimentos,01.07.15,PESQUISA OPERACIONAL,01.07.00
+conhecimentos-i,conhecimentos,01.07.16,PROBABILIDADE,01.07.00
+conhecimentos-i,conhecimentos,01.07.90,OUTROS CONHECIMENTOS DE MATEMÁTICA E ESTATÍSTICA (ESPECIFICAR:...) - MATEMÁTICA APLICADA AOS PROCESSOS TÊXTEIS,01.07.00
+conhecimentos-i,conhecimentos,02.01.01,ANATOMIA,02.01.00
+conhecimentos-i,conhecimentos,02.01.02,BIOESTATÍSTICA,02.01.00
+conhecimentos-i,conhecimentos,02.01.03,BIOLOGIA APLICADA,02.01.00
+conhecimentos-i,conhecimentos,02.01.05,BIOLOGIA GERAL,02.01.00
+conhecimentos-i,conhecimentos,02.01.06,BIOLOGIA MARINHA E HIDROBIOLOGIA,02.01.00
+conhecimentos-i,conhecimentos,02.01.07,BIOTERISMO,02.01.00
+conhecimentos-i,conhecimentos,02.01.08,BOTÂNICA E BIOLOGIA DAS PLANTAS,02.01.00
+conhecimentos-i,conhecimentos,02.01.10,FISIOLOGIA,02.01.00
+conhecimentos-i,conhecimentos,02.01.11,HISTOLOGIA,02.01.00
+conhecimentos-i,conhecimentos,02.01.13,ZOOLOGIA,02.01.00
+conhecimentos-i,conhecimentos,02.01.90,OUTROS CONHECIMENTOS DE BIOLOGIA (ESPECIFICAR:...) - ANÁLISE MICROBIOLÓGICA DA ÁGUA PARA AGRICULTURA,02.01.00
+conhecimentos-i,conhecimentos,02.02.01,BIOFÍSICA CELULAR,02.02.00
+conhecimentos-i,conhecimentos,02.02.03,BIOFÍSICA MOLECULAR,02.02.00
+conhecimentos-i,conhecimentos,02.02.04,BIOMECÂNICA,02.02.00
+conhecimentos-i,conhecimentos,02.02.05,FOTOBIOLOGIA,02.02.00
+conhecimentos-i,conhecimentos,02.02.06,RADIOLOGIA,02.02.00
+conhecimentos-i,conhecimentos,02.02.90,OUTROS CONHECIMENTOS DE BIOFÍSICA (ESPECIFICAR:...) - NOÇÕES DE RADIOLOGIA CRÂNIO-FACIAL,02.02.00
+conhecimentos-i,conhecimentos,02.03.01,BIOLOGIA MOLECULAR,02.03.00
+conhecimentos-i,conhecimentos,02.03.02,BIOQUÍMICA DOS MICROORGANISMOS,02.03.00
+conhecimentos-i,conhecimentos,02.03.03,BIOQUÍMICA GERAL,02.03.00
+conhecimentos-i,conhecimentos,02.03.04,ENZIMOLOGIA,02.03.00
+conhecimentos-i,conhecimentos,02.03.05,METABOLISMO E BIOENERGÉTICA,02.03.00
+conhecimentos-i,conhecimentos,02.03.06,MICROSCOPIA,02.03.00
+conhecimentos-i,conhecimentos,02.03.07,QUÍMICA DE MACROMOLÉCULAS,02.03.00
+conhecimentos-i,conhecimentos,02.03.90,OUTROS CONHECIMENTOS DE BIOQUÍMICA (ESPECIFICAR:...) - BIOQUÍMICA APLICADA,02.03.00
+conhecimentos-i,conhecimentos,02.04.01,AVALIAÇÃO DE IMPACTOS AMBIENTAIS E GERENCIAMENTO DE RISCOS,02.04.00
+conhecimentos-i,conhecimentos,02.04.02,CONTROLE AMBIENTAL,02.04.00
+conhecimentos-i,conhecimentos,02.04.03,ECOLOGIA APLICADA,02.04.00
+conhecimentos-i,conhecimentos,02.04.04,ECOLOGIA DE ECOSSISTEMAS,02.04.00
+conhecimentos-i,conhecimentos,02.04.05,GESTÃO AMBIENTAL,02.04.00
+conhecimentos-i,conhecimentos,02.04.06,LEGISLAÇÃO AMBIENTAL,02.04.00
+conhecimentos-i,conhecimentos,02.04.07,MEIO AMBIENTE,02.04.00
+conhecimentos-i,conhecimentos,02.04.08,MONITORAMENTO E CONTROLE DA POLUIÇÃO,02.04.00
+conhecimentos-i,conhecimentos,02.04.09,RECUPERAÇÃO DE ÁREAS DEGRADADAS,02.04.00
+conhecimentos-i,conhecimentos,02.04.10,SUSTENTABILIDADE AMBIENTAL,02.04.00
+conhecimentos-i,conhecimentos,02.04.90,OUTROS CONHECIMENTOS DE ECOLOGIA E GESTÃO AMBIENTAL (ESPECIFICAR:...) - DESENVOLVIMENTO SUSTENTÁVEL,02.04.00
+conhecimentos-i,conhecimentos,02.05.01,IMUNOGENÉTICA,02.05.00
+conhecimentos-i,conhecimentos,02.05.02,IMUNOLOGIA APLICADA,02.05.00
+conhecimentos-i,conhecimentos,02.05.03,IMUNOLOGIA CELULAR,02.05.00
+conhecimentos-i,conhecimentos,02.05.04,IMUNOQUÍMICA,02.05.00
+conhecimentos-i,conhecimentos,02.05.90,OUTROS CONHECIMENTOS DE IMUNOLOGIA (ESPECIFICAR:...) - REAÇÕES ADVERSAS EM TRANSFUSÃO SANGUÍNEA,02.05.00
+conhecimentos-i,conhecimentos,02.06.01,BACTEROLOGIA,02.06.00
+conhecimentos-i,conhecimentos,02.06.02,BIOLOGIA E FISIOLOGIA DOS MICROORGANISMOS,02.06.00
+conhecimentos-i,conhecimentos,02.06.03,MICROBIOLOGIA APLICADA,02.06.00
+conhecimentos-i,conhecimentos,02.06.04,VIROLOGIA,02.06.00
+conhecimentos-i,conhecimentos,02.06.90,OUTROS CONHECIMENTOS DE MICROBIOLOGIA (ESPECIFICAR:...) - CONTROLES MICROBIOLÓGICOS APLICADOS À INDÚSTRIA ALIMENTÍCIA,02.06.00
+conhecimentos-i,conhecimentos,02.07.01,ENTOMOLOGIA E MALACOLOGIA DE PARASITOS E VETORES,02.07.00
+conhecimentos-i,conhecimentos,02.07.02,HELMINTOLOGIA DE PARASITOS,02.07.00
+conhecimentos-i,conhecimentos,02.07.03,PARASITOLOGIA GERAL,02.07.00
+conhecimentos-i,conhecimentos,02.07.90,OUTROS CONHECIMENTOS DE PARASITOLOGIA (ESPECIFICAR:...) - NOÇÕES DE PARASITOLOGIA,02.07.00
+conhecimentos-i,conhecimentos,03.01.01,EDUCAÇÃO FÍSICA: CONCEITOS E PRÁTICAS,03.01.00
+conhecimentos-i,conhecimentos,03.01.02,DANÇA,03.01.00
+conhecimentos-i,conhecimentos,03.01.03,ESPORTES E JOGOS,03.01.00
+conhecimentos-i,conhecimentos,03.01.04,EXERCÍCIOS FÍSICOS,03.01.00
+conhecimentos-i,conhecimentos,03.01.90,"OUTROS CONHECIMENTOS DE EDUCAÇÃO FÍSICA (ESPECIFICAR:...) - CONCEITOS, TÉCNICAS E ORIENTAÇÃO DE EXERCÍCIOS PROPRIOCEPTIVOS",03.01.00
+conhecimentos-i,conhecimentos,04.01.01,AGRONOMIA E AGRICULTURA,04.01.00
+conhecimentos-i,conhecimentos,04.01.02,CIÊNCIA DOS ALIMENTOS,04.01.00
+conhecimentos-i,conhecimentos,04.01.03,CIÊNCIA FLORESTAL,04.01.00
+conhecimentos-i,conhecimentos,04.01.04,HORTICULTURA,04.01.00
+conhecimentos-i,conhecimentos,04.01.06,ZOOTECNIA,04.01.00
+conhecimentos-i,conhecimentos,04.01.90,"OUTROS CONHECIMENTOS DE CIÊNCIAS AGRÁRIAS (ESPECIFICAR:...) - AVICULTURA: PRINCIPAIS ESPÉCIES E RAÇAS, NECESSIDADES ALIMENTARES, REPRODUÇÃO, PRINCIPAIS DOENÇAS E PROFILAXIA",04.01.00
+conhecimentos-i,conhecimentos,05.01.01,ARQUIVOLOGIA,05.01.00
+conhecimentos-i,conhecimentos,05.01.02,BIBLIOTECONOMIA,05.01.00
+conhecimentos-i,conhecimentos,05.01.03,MINERAÇÃO DE DADOS,05.01.00
+conhecimentos-i,conhecimentos,05.01.04,TEORIA DA INFORMAÇÃO,05.01.00
+conhecimentos-i,conhecimentos,05.01.90,OUTROS CONHECIMENTOS DE CIÊNCIA DA INFORMAÇÃO (ESPECIFICAR:...) - ORGANIZAÇÃO DE ARQUIVOS,05.01.00
+conhecimentos-i,conhecimentos,05.02.01,AVALIAÇÃO ECONÔMICA DE PROJETO,05.02.00
+conhecimentos-i,conhecimentos,05.02.02,AVALIAÇÃO ECONÔMICA E FINANCEIRA DE EMPRESA,05.02.00
+conhecimentos-i,conhecimentos,05.02.03,DEMOGRAFIA,05.02.00
+conhecimentos-i,conhecimentos,05.02.04,ECONOMIA,05.02.00
+conhecimentos-i,conhecimentos,05.02.05,MERCADO DE TRABALHO,05.02.00
+conhecimentos-i,conhecimentos,05.02.90,OUTROS CONHECIMENTOS DE ESTUDOS ECONÔMICOS E DEMOGRÁFICOS (ESPECIFICAR:...) - FUNDAMENTOS DE ECONOMIA,05.02.00
+conhecimentos-i,conhecimentos,05.03.01,COMUNICAÇÃO VISUAL,05.03.00
+conhecimentos-i,conhecimentos,05.03.02,PROPAGANDA,05.03.00
+conhecimentos-i,conhecimentos,05.03.03,RÁDIO E TELEVISÃO,05.03.00
+conhecimentos-i,conhecimentos,05.03.04,REDES SOCIAIS,05.03.00
+conhecimentos-i,conhecimentos,05.03.05,RELAÇÕES PÚBLICAS,05.03.00
+conhecimentos-i,conhecimentos,05.03.06,TEORIA DA COMUNICAÇÃO,05.03.00
+conhecimentos-i,conhecimentos,05.03.90,OUTROS CONHECIMENTOS DE COMUNICAÇÃO (ESPECIFICAR:...) - ATENDIMENTO TELEFÔNICO,05.03.00
+conhecimentos-i,conhecimentos,05.04.01,CONSTITUIÇÃO BRASILEIRA,05.04.00
+conhecimentos-i,conhecimentos,05.04.02,LEGISLAÇÃO APLICADA À ÁREA OCUPACIONAL,05.04.00
+conhecimentos-i,conhecimentos,05.04.03,LEGISLAÇÃO PREVIDENCIÁRIA,05.04.00
+conhecimentos-i,conhecimentos,05.04.04,LEGISLAÇÃO TRABALHISTA,05.04.00
+conhecimentos-i,conhecimentos,05.04.05,LEI E NORMAS RELACIONADAS AOS PROGRAMAS DE APRENDIZAGEM,05.04.00
+conhecimentos-i,conhecimentos,05.04.06,"NORMAS REGULAMENTADORAS RELATIVAS À SAÚDE, SEGURANÇA E HIGIENE NO TRABALHO",05.04.00
+conhecimentos-i,conhecimentos,05.04.90,OUTROS CONHECIMENTOS DE DIREITO (ESPECIFICAR:...) - LEGISLAÇÃO DA PRODUÇÃO AGRÍCOLA,05.04.00
+conhecimentos-i,conhecimentos,05.05.01,ARQUITETURA,05.05.00
+conhecimentos-i,conhecimentos,05.05.02,ARQUITETURA HOSPITALAR,05.05.00
+conhecimentos-i,conhecimentos,05.05.03,GESTÃO E PRÁTICA DE PROJETO,05.05.00
+conhecimentos-i,conhecimentos,05.05.04,ORGANIZAÇÃO DO ESPAÇO,05.05.00
+conhecimentos-i,conhecimentos,05.05.90,OUTROS CONHECIMENTOS DE ARQUITETURA E ORGANIZAÇÃO DO ESPAÇO (ESPECIFICAR:...) - FUNDAMENTOS DE ARQUITETURA E ORGANIZAÇÃO DO ESPAÇO,05.05.00
+conhecimentos-i,conhecimentos,06.01.01,ESTUDOS SOBRE CULTURA,06.01.00
+conhecimentos-i,conhecimentos,06.01.02,SOCIOLOGIA,06.01.00
+conhecimentos-i,conhecimentos,06.01.03,TRABALHO SOCIAL,06.01.00
+conhecimentos-i,conhecimentos,06.01.90,OUTROS CONHECIMENTOS DE ESTUDOS SOCIAIS (ESPECIFICAR:...) - CARACTERÍSTICAS CULTURAIS DE DIFERENTES PÚBLICOS PARA RECEPÇÃO E ATENDIMENTO,06.01.00
+conhecimentos-i,conhecimentos,06.02.01,DIDÁTICA,06.02.00
+conhecimentos-i,conhecimentos,06.02.02,ENSINO-APRENDIZAGEM,06.02.00
+conhecimentos-i,conhecimentos,06.02.03,FUNDAMENTOS DA EDUCAÇÃO,06.02.00
+conhecimentos-i,conhecimentos,06.02.04,PLANEJAMENTO E AVALIAÇÃO EDUCACIONAL,06.02.00
+conhecimentos-i,conhecimentos,06.02.90,"OUTROS CONHECIMENTOS DE EDUCAÇÃO (ESPECIFICAR:...) - FUNDAMENTOS DA EDUCAÇÃO PROFISSIONAL: QUALIFICAÇÃO, APERFEIÇOAMENTO E ESPECIALIZAÇÃO PROFISSIONAL; APRENDIZAGEM; OUTROS ASPECTOS",06.02.00
+conhecimentos-i,conhecimentos,06.03.01,EPISTEMOLOGIA,06.03.00
+conhecimentos-i,conhecimentos,06.03.02,ÉTICA,06.03.00
+conhecimentos-i,conhecimentos,06.03.04,LÓGICA APLICADA,06.03.00
+conhecimentos-i,conhecimentos,06.03.90,"OUTROS CONHECIMENTOS DE FILOSOFIA (ESPECIFICAR:...) - RACIOCÍNIO LÓGICO, ESTRUTURAS LÓGICAS E LÓGICA DE ARGUMENTAÇÃO",06.03.00
+conhecimentos-i,conhecimentos,06.04.01,GEOGRAFIA ECONÔMICA,06.04.00
+conhecimentos-i,conhecimentos,06.04.02,GEOGRAFIA RELACIONADA À ÁREA OCUPACIONAL,06.04.00
+conhecimentos-i,conhecimentos,06.04.90,OUTROS CONHECIMENTOS DE GEOGRAFIA (ESPECIFICAR:...) - LEITURA DE MAPAS DIGITAIS,06.04.00
+conhecimentos-i,conhecimentos,06.05.03,HISTÓRIA RELACIONADA À ÁREA OCUPACIONAL,06.05.00
+conhecimentos-i,conhecimentos,06.05.90,OUTROS CONHECIMENTOS DE HISTÓRIA (ESPECIFICAR:...) - HISTÓRIA MARÍTIMA,06.05.00
+conhecimentos-i,conhecimentos,06.06.01,DESENVOLVIMENTO COMPORTAMENTAL,06.06.00
+conhecimentos-i,conhecimentos,06.06.02,PSICOLOGIA DO ENSINO E DA APRENDIZAGEM,06.06.00
+conhecimentos-i,conhecimentos,06.06.03,PSICOLOGIA DO TRABALHO E ORGANIZACIONAL,06.06.00
+conhecimentos-i,conhecimentos,06.06.90,OUTROS CONHECIMENTOS DE PSICOLOGIA (ESPECIFICAR:...) - PSICOLOGIA ESPORTIVA,06.06.00
+conhecimentos-i,conhecimentos,07.01.01,PORTUGUÊS: COMUNICAÇÃO E EXPRESSÃO,07.01.00
+conhecimentos-i,conhecimentos,07.01.02,PORTUGUÊS: COMUNICAÇÃO ORAL E ESCRITA,07.01.00
+conhecimentos-i,conhecimentos,07.01.03,PORTUGUÊS: LEITURA E INTERPRETAÇÃO DE TEXTOS,07.01.00
+conhecimentos-i,conhecimentos,07.01.04,PORTUGUÊS INSTRUMENTAL,07.01.00
+conhecimentos-i,conhecimentos,07.01.05,ESPANHOL INSTRUMENTAL,07.01.00
+conhecimentos-i,conhecimentos,07.01.06,FRANCÊS INSTRUMENTAL,07.01.00
+conhecimentos-i,conhecimentos,07.01.07,INGLÊS INSTRUMENTAL,07.01.00
+conhecimentos-i,conhecimentos,07.01.08,LÍNGUA BRASILEIRA DE SINAIS (LIBRAS),07.01.00
+conhecimentos-i,conhecimentos,07.01.90,OUTROS CONHECIMENTOS DE LÍNGUAS (ESPECIFICAR:...) - VOCABULÁRIO TÉCNICO DA ÁREA TÊXTIL,07.01.00
+conhecimentos-i,conhecimentos,07.02.01,ARTE DIGITAL,07.02.00
+conhecimentos-i,conhecimentos,07.02.02,CRIAÇÃO,07.02.00
+conhecimentos-i,conhecimentos,07.02.03,DESENHO ARTÍSTICO,07.02.00
+conhecimentos-i,conhecimentos,07.02.04,ESTÉTICA E NOÇÃO DO BELO,07.02.00
+conhecimentos-i,conhecimentos,07.02.05,FOLCLORE,07.02.00
+conhecimentos-i,conhecimentos,07.02.06,MÚSICA COMO FORMA DE EXPRESSÃO,07.02.00
+conhecimentos-i,conhecimentos,07.02.90,OUTROS CONHECIMENTOS DE ARTES (ESPECIFICAR:...) - ARTE E EDUCAÇÃO,07.02.00
+conhecimentos-i,conhecimentos,09.01.01,ESTRATÉGIAS DE PESQUISA,09.01.00
+conhecimentos-i,conhecimentos,09.01.02,INSTRUMENTOS E APARELHOS DE PESQUISA,09.01.00
+conhecimentos-i,conhecimentos,09.01.03,METODOLOGIA CIENTÍFICA,09.01.00
+conhecimentos-i,conhecimentos,09.01.04,METODOLOGIA DE PESQUISA,09.01.00
+conhecimentos-i,conhecimentos,09.01.05,TÉCNICAS DE PESQUISA,09.01.00
+conhecimentos-i,conhecimentos,09.01.90,"OUTROS CONHECIMENTOS DE MÉTODOS E PROCEDIMENTOS CIENTÍFICOS (ESPECIFICAR:...) - CIÊNCIA, TECNOLOGIA E INOVAÇÃO",09.01.00
+conhecimentos-i,conhecimentos,09.02.01,AVALIAÇÃO DE PROJETO,09.02.00
+conhecimentos-i,conhecimentos,09.02.02,DESENVOLVIMENTO DE PROJETOS,09.02.00
+conhecimentos-i,conhecimentos,09.02.03,ELABORAÇÃO DE PROJETO,09.02.00
+conhecimentos-i,conhecimentos,09.02.90,OUTROS CONHECIMENTOS DE METODOLOGIA DE PROJETOS (ESPECIFICAR:...) - ELABORAÇÃO DE PROJETOS DE FABRICAÇÃO DE PRODUTOS SIDERÚRGICOS,09.02.00
+conhecimentos-i,conhecimentos,09.03.01,ANÁLISE DE RISCOS,09.03.00
+conhecimentos-i,conhecimentos,09.03.02,BIOTECNOLOGIA,09.03.00
+conhecimentos-i,conhecimentos,09.03.03,CONTROLE DE PROCESSOS,09.03.00
+conhecimentos-i,conhecimentos,09.03.04,ENERGIA,09.03.00
+conhecimentos-i,conhecimentos,09.03.05,FOTÔNICA,09.03.00
+conhecimentos-i,conhecimentos,09.03.06,MATERIAIS AVANÇADOS E NANOCOMPÓSITOS,09.03.00
+conhecimentos-i,conhecimentos,09.03.07,MECATRÔNICA (AUTOMAÇÃO),09.03.00
+conhecimentos-i,conhecimentos,09.03.08,MECATRÔNICA (ROBOTIZAÇÃO),09.03.00
+conhecimentos-i,conhecimentos,09.03.09,NANOTECNOLOGIA,09.03.00
+conhecimentos-i,conhecimentos,09.03.10,TECNOLOGIAS ADITIVAS (PROTOTIPAGEM 3D OU IMPRESSÃO 3D),09.03.00
+conhecimentos-i,conhecimentos,09.03.11,TECNOLOGIAS DE DEFESA E SEGURANÇA,09.03.00
+conhecimentos-i,conhecimentos,09.03.90,OUTROS CONHECIMENTOS DE TECNOLOGIAS ESTRATÉGICAS (ESPECIFICAR:...) - NOÇÕES DE BIOTECNOLOGIA,09.03.00
+conhecimentos-i,conhecimentos,11.01.01,ADMINISTRAÇÃO DE EMPRESAS,11.01.00
+conhecimentos-i,conhecimentos,11.01.02,ADMINISTRAÇÃO HOSPITALAR,11.01.00
+conhecimentos-i,conhecimentos,11.01.03,ADMINISTRAÇÃO PÚBLICA,11.01.00
+conhecimentos-i,conhecimentos,11.01.04,ADMINISTRAÇÃO RURAL,11.01.00
+conhecimentos-i,conhecimentos,11.01.05,GESTÃO DA PRODUÇÃO,11.01.00
+conhecimentos-i,conhecimentos,11.01.06,GESTÃO DE PESSOAS,11.01.00
+conhecimentos-i,conhecimentos,11.01.07,GESTÃO DE SUPRIMENTOS,11.01.00
+conhecimentos-i,conhecimentos,11.01.08,PROCESSO DECISÓRIO,11.01.00
+conhecimentos-i,conhecimentos,11.01.90,OUTROS CONHECIMENTOS DE ADMINISTRAÇÃO E GESTÃO (ESPECIFICAR:...) - CRONOGRAMA FÍSICO E FINANCEIRO EM PRODUÇÃO AGRÍCOLA,11.01.00
+conhecimentos-i,conhecimentos,11.02.01,ASSOCIATIVISMO,11.02.00
+conhecimentos-i,conhecimentos,11.02.02,COOPERATIVISMO,11.02.00
+conhecimentos-i,conhecimentos,11.02.03,ECONOMIA SOLIDÁRIA,11.02.00
+conhecimentos-i,conhecimentos,11.02.90,OUTROS CONHECIMENTOS DE COOPERATIVISMO E ASSOCIATIVISMO (ESPECIFICAR:...) - NOÇÕES DE ADMINISTRAÇÃO DE COOPERATIVA OU ASSOCIAÇÃO DE TRABALHADORES DA RECICLAGEM,11.02.00
+conhecimentos-i,conhecimentos,11.03.01,EMPREENDEDORISMO,11.03.00
+conhecimentos-i,conhecimentos,11.03.02,GESTÃO EMPREENDEDORA,11.03.00
+conhecimentos-i,conhecimentos,11.03.03,EMPRESAS EMERGENTES (STARTUP),11.03.00
+conhecimentos-i,conhecimentos,11.03.90,OUTROS CONHECIMENTOS DE EMPREENDEDORISMO E EMPRESAS EMERGENTES - STARTUP (ESPECIFICAR:...) - INOVAÇÃO E COMPETITIVIDADE: EMPREENDEDORISMO; CRIATIVIDADE; COMPORTAMENTO EMPREENDEDOR,11.03.00
+conhecimentos-i,conhecimentos,11.04.01,INSPEÇÃO METROLÓGICA,11.04.00
+conhecimentos-i,conhecimentos,11.04.02,SUPERVISÃO METROLÓGICA,11.04.00
+conhecimentos-i,conhecimentos,11.04.03,PERÍCIA METROLÓGICA,11.04.00
+conhecimentos-i,conhecimentos,11.04.90,OUTROS CONHECIMENTOS DE FISCALIZAÇÃO METROLÓGICA (ESPECIFICAR:...) - CONTROLE GRANULOMÉTRICO,11.04.00
+conhecimentos-i,conhecimentos,11.05.01,OTIMIZAÇÃO DE SERVIÇOS ADMINISTRATIVOS E FINANCEIROS,11.05.00
+conhecimentos-i,conhecimentos,11.05.02,INOVAÇÃO EM SERVIÇOS ADMINISTRATIVOS E FINANCEIROS,11.05.00
+conhecimentos-i,conhecimentos,11.05.90,OUTROS CONHECIMENTOS DE INOVAÇÃO E OTIMIZAÇÃO DE SERVIÇOS ADMINISTRATIVOS E FINANCEIROS (ESPECIFICAR:...) - AUTOMAÇÃO NOS SERVIÇOS ADMINISTRATIVOS E FINANCEIROS,11.05.00
+conhecimentos-i,conhecimentos,11.06.01,APLICAÇÃO DE QUESTIONÁRIOS,11.06.00
+conhecimentos-i,conhecimentos,11.06.02,ELABORAÇÃO DE QUESTIONÁRIO,11.06.00
+conhecimentos-i,conhecimentos,11.06.03,ELABORAÇÃO DE ROTEIRO DE ENTREVISTA,11.06.00
+conhecimentos-i,conhecimentos,11.06.04,ENTREVISTA,11.06.00
+conhecimentos-i,conhecimentos,11.06.05,PESQUISA DE OPINIÃO,11.06.00
+conhecimentos-i,conhecimentos,11.06.06,PESQUISA DE SATISFAÇÃO,11.06.00
+conhecimentos-i,conhecimentos,11.06.90,OUTROS CONHECIMENTOS DE LEVANTAMENTO DE INFORMAÇÕES (ESPECIFICAR:...) - PESQUISA DE MERCADO CONSUMIDOR E DE TENDÊNCIAS,11.06.00
+conhecimentos-i,conhecimentos,11.07.01,CADEIA DE SUPRIMENTOS (WMS),11.07.00
+conhecimentos-i,conhecimentos,11.07.02,LOGÍSTICA,11.07.00
+conhecimentos-i,conhecimentos,11.07.03,OPERAÇÕES LOGÍSTICAS,11.07.00
+conhecimentos-i,conhecimentos,11.07.04,PLANEJAMENTO DAS NECESSIDADES DE MATERIAIS (MRP - PNR),11.07.00
+conhecimentos-i,conhecimentos,11.07.05,SISTEMA DE ADMINISTRAÇÃO DE TRANSPORTE (TMS),11.07.00
+conhecimentos-i,conhecimentos,11.07.06,SISTEMAS INTEGRADOS DE GESTÃO EMPRESARIAL (ERP),11.07.00
+conhecimentos-i,conhecimentos,11.07.90,OUTROS CONHECIMENTOS DE LOGÍSTICA (ESPECIFICAR:...) - LOGÍSTICA DA EXTRAÇÃO E TRANSPORTE DA COLHEITA FLORESTAL,11.07.00
+conhecimentos-i,conhecimentos,11.08.01,CÉLULAS FLEXÍVEIS DE MANUFATURA,11.08.00
+conhecimentos-i,conhecimentos,11.08.02,ORGANIZAÇÃO DA PRODUÇÃO,11.08.00
+conhecimentos-i,conhecimentos,11.08.03,PRODUÇÃO EM BATELADA,11.08.00
+conhecimentos-i,conhecimentos,11.08.04,PRODUÇÃO EM FLUXO CONTÍNUO,11.08.00
+conhecimentos-i,conhecimentos,11.08.05,PRODUÇÃO EM SÉRIE,11.08.00
+conhecimentos-i,conhecimentos,11.08.06,PRODUÇÃO SOB ENCOMENDA,11.08.00
+conhecimentos-i,conhecimentos,11.08.90,OUTROS CONHECIMENTOS DE ORGANIZAÇÃO DA PRODUÇÃO (ESPECIFICAR:...) - LEIAUTES INDUSTRIAIS,11.08.00
+conhecimentos-i,conhecimentos,11.09.01,PLANEJAMENTO ESTRATÉGICO,11.09.00
+conhecimentos-i,conhecimentos,11.09.02,PLANEJAMENTO OPERACIONAL,11.09.00
+conhecimentos-i,conhecimentos,11.09.03,PLANEJAMENTO TÁTICO,11.09.00
+conhecimentos-i,conhecimentos,11.09.04,PLANO DE NEGÓCIOS,11.09.00
+conhecimentos-i,conhecimentos,11.09.90,OUTROS CONHECIMENTOS DE PLANEJAMENTO DE EMPRESA (ESPECIFICAR:...) - PLANEJAMENTO E MODELO DO NEGÓCIO AGRÍCOLA,11.09.00
+conhecimentos-i,conhecimentos,11.10.01,CONTROLE DA PRODUÇÃO,11.10.00
+conhecimentos-i,conhecimentos,11.10.02,PLANEJAMENTO DA PRODUÇÃO,11.10.00
+conhecimentos-i,conhecimentos,11.10.03,PLANEJAMENTO DO TRABALHO,11.10.00
+conhecimentos-i,conhecimentos,11.10.90,OUTROS CONHECIMENTOS DE PLANEJAMENTO E CONTROLE DA PRODUÇÃO - PCP (ESPECIFICAR:...) - ADMINISTRAÇÃO DO TEMPO DE TRABALHO EM SERVIÇOS DOMÉSTICOS,11.10.00
+conhecimentos-i,conhecimentos,11.11.01,PROCESSOS ADMINISTRATIVOS,11.11.00
+conhecimentos-i,conhecimentos,11.11.02,PROCESSOS ORGANIZACIONAIS,11.11.00
+conhecimentos-i,conhecimentos,11.11.03,ROTINAS DE SECRETARIA,11.11.00
+conhecimentos-i,conhecimentos,11.11.04,ROTINAS DE SERVIÇOS NOTARIAIS E DE REGISTRO,11.11.00
+conhecimentos-i,conhecimentos,11.11.05,ROTINAS DE SUPRIMENTO,11.11.00
+conhecimentos-i,conhecimentos,11.11.90,OUTROS CONHECIMENTOS DE PROCESSOS ADMINISTRATIVOS E ORGANIZACIONAIS (ESPECIFICAR:...) - ROTINAS DE ARQUIVO,11.11.00
+conhecimentos-i,conhecimentos,11.12.01,CONTROLADORIA E AUDITORIA CONTÁBIL-FINANCEIRA,11.12.00
+conhecimentos-i,conhecimentos,11.12.02,CUSTO,11.12.00
+conhecimentos-i,conhecimentos,11.12.03,CUSTO-BENEFÍCIO,11.12.00
+conhecimentos-i,conhecimentos,11.12.04,ROTINAS CONTÁBEIS,11.12.00
+conhecimentos-i,conhecimentos,11.12.05,ROTINAS FINANCEIRAS,11.12.00
+conhecimentos-i,conhecimentos,11.12.06,ROTINAS TRIBUTÁRIAS,11.12.00
+conhecimentos-i,conhecimentos,11.12.90,OUTROS CONHECIMENTOS DE PROCESSOS CONTÁBEIS E FINANCEIROS (ESPECIFICAR:...) - CONTROLE DE FLUXO DE CAIXA NA PRODUÇÃO AGRÍCOLA,11.12.00
+conhecimentos-i,conhecimentos,11.13.01,DINÂMICA DAS RELAÇÕES INTERPESSOAIS,11.13.00
+conhecimentos-i,conhecimentos,11.13.02,LIDERANÇA,11.13.00
+conhecimentos-i,conhecimentos,11.13.03,ROTINAS DE ADMINISTRAÇÃO DE PESSOAS,11.13.00
+conhecimentos-i,conhecimentos,11.13.04,ROTINAS DE DESENVOLVIMENTO DE PESSOAS,11.13.00
+conhecimentos-i,conhecimentos,11.13.05,ROTINAS DE RECRUTAMENTO E SELEÇÃO DE PESSOAL,11.13.00
+conhecimentos-i,conhecimentos,11.13.90,OUTROS CONHECIMENTOS DE PROCESSOS DE RECURSOS HUMANOS (ESPECIFICAR:...) - LEVANTAMENTO DE NECESSIDADES DE TREINAMENTO,11.13.00
+conhecimentos-i,conhecimentos,11.14.01,AMBIENTAÇÃO PROFISSIONAL,11.14.00
+conhecimentos-i,conhecimentos,11.14.02,INTEGRAÇÃO EM EMPRESA,11.14.00
+conhecimentos-i,conhecimentos,11.14.90,OUTROS CONHECIMENTOS DE PROCESSO DE INTEGRAÇÃO EM EMPRESA (ESPECIFICAR:...) - PROCESSOS DE INTEGRAÇÃO DO CANTEIRO DE OBRAS COM ESCRITÓRIOS DE ADMINISTRAÇÃO DE PROJETOS DE OBRAS CIVIS,11.14.00
+conhecimentos-i,conhecimentos,11.15.01,AFERIÇÃO DE PRODUTIVIDADE,11.15.00
+conhecimentos-i,conhecimentos,11.15.02,CERTIFICAÇÃO DE QUALIDADE,11.15.00
+conhecimentos-i,conhecimentos,11.15.03,CONTROLE DA QUALIDADE,11.15.00
+conhecimentos-i,conhecimentos,11.15.04,CONTROLE ESTATÍSTICO DE PROCESSO (CEP),11.15.00
+conhecimentos-i,conhecimentos,11.15.05,GARANTIA DE QUALIDADE,11.15.00
+conhecimentos-i,conhecimentos,11.15.06,GESTÃO DA PRODUTIVIDADE,11.15.00
+conhecimentos-i,conhecimentos,11.15.07,GESTÃO DA QUALIDADE,11.15.00
+conhecimentos-i,conhecimentos,11.15.08,QUALIDADE TOTAL,11.15.00
+conhecimentos-i,conhecimentos,11.15.90,OUTROS CONHECIMENTOS DE QUALIDADE E PRODUTIVIDADE (ESPECIFICAR:...) - CONTROLE DE QUALIDADE EM PRODUÇÃO AGRÍCOLA,11.15.00
+conhecimentos-i,conhecimentos,11.16.01,ADMINISTRAÇÃO DE SISTEMAS DE SEGURANÇA DO TRABALHO,11.16.00
+conhecimentos-i,conhecimentos,11.16.02,ANÁLISES TÉCNICAS POLICIAIS E DE SEGURANÇA,11.16.00
+conhecimentos-i,conhecimentos,11.16.03,AUDITORIA E PERÍCIA DA SEGURANÇA NO TRABALHO,11.16.00
+conhecimentos-i,conhecimentos,11.16.04,ERGONOMIA,11.16.00
+conhecimentos-i,conhecimentos,11.16.05,ESPAÇOS CONFINADOS,11.16.00
+conhecimentos-i,conhecimentos,11.16.06,PRIMEIROS SOCORROS,11.16.00
+conhecimentos-i,conhecimentos,11.16.07,SALVATAGEM,11.16.00
+conhecimentos-i,conhecimentos,11.16.08,SAÚDE AMBIENTAL,11.16.00
+conhecimentos-i,conhecimentos,11.16.09,SAÚDE OCUPACIONAL,11.16.00
+conhecimentos-i,conhecimentos,11.16.10,SEGURANÇA E ORDEM PÚBLICA,11.16.00
+conhecimentos-i,conhecimentos,11.16.11,SEGURANÇA NO TRABALHO,11.16.00
+conhecimentos-i,conhecimentos,11.16.12,SEGURANÇA NO TRÂNSITO,11.16.00
+conhecimentos-i,conhecimentos,11.16.13,SEGURANÇA PRIVADA,11.16.00
+conhecimentos-i,conhecimentos,11.16.14,TRABALHO EM ALTURA,11.16.00
+conhecimentos-i,conhecimentos,11.16.90,OUTROS CONHECIMENTOS DE SAÚDE E SEGURANÇA (ESPECIFICAR:...) - PREVENÇÃO E COMBATE A INCÊNDIO,11.16.00
+conhecimentos-i,conhecimentos,11.17.01,BIOÉTICA,11.17.00
+conhecimentos-i,conhecimentos,11.17.02,ÉTICA PROFISSIONAL,11.17.00
+conhecimentos-i,conhecimentos,11.17.03,VALORES,11.17.00
+conhecimentos-i,conhecimentos,11.17.90,OUTROS CONHECIMENTOS DE VALORES E ÉTICA PROFISSIONAL (ESPECIFICAR:...) - SIGILO PROFISSIONAL,11.17.00
+conhecimentos-i,conhecimentos,12.01.01,AUTOMAÇÃO EM AGRICULTURA,12.01.00
+conhecimentos-i,conhecimentos,12.01.02,AUTOMAÇÃO EM ÁREA FLORESTAL,12.01.00
+conhecimentos-i,conhecimentos,12.01.03,AUTOMAÇÃO EM PECUÁRIA,12.01.00
+conhecimentos-i,conhecimentos,12.01.04,AUTOMAÇÃO EM PESCA E AQUICULTURA,12.01.00
+conhecimentos-i,conhecimentos,12.01.90,OUTROS CONHECIMENTOS DE AUTOMAÇÃO EM AGROPECUÁRIA E FLORESTAL (ESPECIFICAR:...) - AGRICULTURA DE PRECISÃO,12.01.00
+conhecimentos-i,conhecimentos,12.02.01,EXTENSÃO RURAL EM PECUÁRIA,12.02.00
+conhecimentos-i,conhecimentos,12.02.02,EXTENSÃO RURAL EM PESCA E AQUICULTURA,12.02.00
+conhecimentos-i,conhecimentos,12.02.03,EXTENSÃO RURAL NA ÁREA AGRÍCOLA,12.02.00
+conhecimentos-i,conhecimentos,12.02.04,EXTENSÃO RURAL NA ÁREA FLORESTAL,12.02.00
+conhecimentos-i,conhecimentos,12.02.90,OUTROS CONHECIMENTOS DE EXTENSÃO RURAL (ESPECIFICAR:...) - EXTENSÃO RURAL,12.02.00
+conhecimentos-i,conhecimentos,12.03.01,NORMAS REGULAMENTADORAS EM AQUICULTURA,12.03.00
+conhecimentos-i,conhecimentos,12.03.02,NORMAS REGULAMENTADORAS EM PECUÁRIA,12.03.00
+conhecimentos-i,conhecimentos,12.03.03,NORMAS REGULAMENTADORAS EM PESCA,12.03.00
+conhecimentos-i,conhecimentos,12.03.04,NORMAS REGULAMENTADORAS NA ÁREA AGRÍCOLA,12.03.00
+conhecimentos-i,conhecimentos,12.03.05,NORMAS REGULAMENTADORAS NA ÁREA FLORESTAL,12.03.00
+conhecimentos-i,conhecimentos,12.03.90,"OUTROS CONHECIMENTOS DE NORMAS REGULAMENTADORAS EM AGRICULTURA, PECUÁRIA, PRODUÇÃO FLORESTAL, PESCA E AQUICULTURA (ESPECIFICAR....) - NORMAS TÉCNICAS E REGULAMENTADORAS NA ÁREA AGRÍCOLA",12.03.00
+conhecimentos-i,conhecimentos,12.04.01,CONSTRUÇÕES RURAIS,12.04.00
+conhecimentos-i,conhecimentos,12.04.02,ENERGIZAÇÃO RURAL,12.04.00
+conhecimentos-i,conhecimentos,12.04.03,MANUTENÇÃO DE EQUIPAMENTOS,12.04.00
+conhecimentos-i,conhecimentos,12.04.04,MANUTENÇÃO DE INSTALAÇÕES,12.04.00
+conhecimentos-i,conhecimentos,12.04.05,MÁQUINAS E IMPLEMENTOS AGRÍCOLAS,12.04.00
+conhecimentos-i,conhecimentos,12.04.06,MECANIZAÇÃO AGRÍCOLA,12.04.00
+conhecimentos-i,conhecimentos,12.04.07,MECANIZAÇÃO FLORESTAL,12.04.00
+conhecimentos-i,conhecimentos,12.04.08,OPERAÇÃO DE MÁQUINAS E EQUIPAMENTOS AGRÍCOLAS,12.04.00
+conhecimentos-i,conhecimentos,12.04.09,OPERAÇÃO DE MÁQUINAS E EQUIPAMENTOS FLORESTAIS,12.04.00
+conhecimentos-i,conhecimentos,12.04.90,OUTROS CONHECIMENTOS DE INSTALAÇÕES E EQUIPAMENTOS (ESPECIFICAR:...) - ADAPTAÇÕES EM ESTRUTURAS PRODUTIVAS EM AGRICULTURA,12.04.00
+conhecimentos-i,conhecimentos,12.05.01,AGRICULTURA FAMILIAR,12.05.00
+conhecimentos-i,conhecimentos,12.05.02,COMERCIALIZAÇÃO DA PRODUÇÃO AGROPECUÁRIA,12.05.00
+conhecimentos-i,conhecimentos,12.05.03,GEORREFERENCIAMENTO RURAL,12.05.00
+conhecimentos-i,conhecimentos,12.05.04,SISTEMAS DE INTEGRAÇÃO DA PRODUÇÃO,12.05.00
+conhecimentos-i,conhecimentos,12.05.05,SISTEMAS DE PARCERIA DA PRODUÇÃO,12.05.00
+conhecimentos-i,conhecimentos,12.05.06,VIVEIRISMO,12.05.00
+conhecimentos-i,conhecimentos,12.05.90,"OUTROS CONHECIMENTOS DE PLANEJAMENTO E ORGANIZAÇÃO DA AGROPECUÁRIA, FLORESTAL E DE AQUICULTURA (ESPECIFICAR:...) - NEGOCIAÇÃO DE PREÇOS E COMERCIALIZAÇÃO DE PRODUTOS SILVESTRES",12.05.00
+conhecimentos-i,conhecimentos,12.06.01,BENEFICIAMENTO DOS PRODUTOS DA PESCA E DA AQUICULTURA,12.06.00
+conhecimentos-i,conhecimentos,12.06.03,PROCESSAMENTO DE PRODUTOS AGRÍCOLAS,12.06.00
+conhecimentos-i,conhecimentos,12.06.04,PROCESSAMENTO DE PRODUTOS DA PECUÁRIA,12.06.00
+conhecimentos-i,conhecimentos,12.06.05,PROCESSAMENTO DE PRODUTOS FLORESTAIS,12.06.00
+conhecimentos-i,conhecimentos,12.06.90,"OUTROS CONHECIMENTOS DE PROCESSAMENTO DE PRODUTOS AGROPECUÁRIOS, FLORESTAIS, DA PESCA E DA AQUICULTURA (ESPECIFICAR:...) - APROVEITAMENTO INTEGRAL DA PRODUÇÃO EM PECUÁRIA",12.06.00
+conhecimentos-i,conhecimentos,12.07.01,AGRICULTURA ORGÂNICA,12.07.00
+conhecimentos-i,conhecimentos,12.07.02,FITOSSANIDADE E PROTEÇÃO DE PLANTAS,12.07.00
+conhecimentos-i,conhecimentos,12.07.03,HIDROPONIA,12.07.00
+conhecimentos-i,conhecimentos,12.07.04,INSPEÇÃO DE PRODUTOS AGRÍCOLAS,12.07.00
+conhecimentos-i,conhecimentos,12.07.05,MANEJO AGRÍCOLA,12.07.00
+conhecimentos-i,conhecimentos,12.07.06,"NUTRIÇÃO VEGETAL, ADUBOS E CORRETIVOS",12.07.00
+conhecimentos-i,conhecimentos,12.07.90,"OUTROS CONHECIMENTOS DE PROCESSO DE PRODUÇÃO AGRÍCOLA (ESPECIFICAR:...) - SISTEMAS DE CULTIVO AGROFLORESTAL: MONOCULTIVO E CONSÓRCIO, DIRETO E SEMIDIRETO, ADENSADOS OU TRADICIONAIS",12.07.00
+conhecimentos-i,conhecimentos,12.08.01,BEM-ESTAR ANIMAL,12.08.00
+conhecimentos-i,conhecimentos,12.08.02,CRIAÇÃO DE INSETOS ÚTEIS,12.08.00
+conhecimentos-i,conhecimentos,12.08.03,GENÉTICA,12.08.00
+conhecimentos-i,conhecimentos,12.08.04,INSEMINAÇÃO ANIMAL,12.08.00
+conhecimentos-i,conhecimentos,12.08.05,INSPEÇÃO DE PRODUTOS DE ORIGEM ANIMAL,12.08.00
+conhecimentos-i,conhecimentos,12.08.06,MANEJO E TRATAMENTO ANIMAL,12.08.00
+conhecimentos-i,conhecimentos,12.08.07,NUTRIÇÃO ANIMAL,12.08.00
+conhecimentos-i,conhecimentos,12.08.08,PASTAGEM E FORRAGICULTURA,12.08.00
+conhecimentos-i,conhecimentos,12.08.09,PRODUÇÃO ANIMAL CONFINADA,12.08.00
+conhecimentos-i,conhecimentos,12.08.10,PRODUÇÃO ANIMAL EXTENSIVA,12.08.00
+conhecimentos-i,conhecimentos,12.08.11,REPRODUÇÃO ANIMAL,12.08.00
+conhecimentos-i,conhecimentos,12.08.12,SELEÇÃO E MELHORAMENTO DOS ANIMAIS,12.08.00
+conhecimentos-i,conhecimentos,12.08.90,"OUTROS CONHECIMENTOS DE PROCESSO DE PRODUÇÃO EM PECUÁRIA (ESPECIFICAR:...) - TÉCNICAS DE CONTENÇÃO, IMOBILIZAÇÃO E CONDUÇÃO RACIONAL DE ANIMAIS",12.08.00
+conhecimentos-i,conhecimentos,12.09.01,PROCESSOS DE PRODUÇÃO EM AQUICULTURA,12.09.00
+conhecimentos-i,conhecimentos,12.09.02,PROCESSOS DE PRODUÇÃO EM PESCA,12.09.00
+conhecimentos-i,conhecimentos,12.09.03,RECURSOS PESQUEIROS DE ÁGUAS INTERIORES,12.09.00
+conhecimentos-i,conhecimentos,12.09.04,RECURSOS PESQUEIROS MARINHOS,12.09.00
+conhecimentos-i,conhecimentos,12.09.90,OUTROS CONHECIMENTOS DE PRODUÇÃO EM PESCA E AQUICULTURA (ESPECIFICAR:...) - MANUSEIO E CONSERVAÇÃO DO PESCADO,12.09.00
+conhecimentos-i,conhecimentos,12.10.01,CONSERVAÇÃO DA NATUREZA,12.10.00
+conhecimentos-i,conhecimentos,12.10.02,ENERGIA DE BIOMASSA FLORESTAL,12.10.00
+conhecimentos-i,conhecimentos,12.10.03,EXTRATIVISMO FLORESTAL,12.10.00
+conhecimentos-i,conhecimentos,12.10.04,MANEJO FLORESTAL,12.10.00
+conhecimentos-i,conhecimentos,12.10.05,OPERAÇÕES FLORESTAIS,12.10.00
+conhecimentos-i,conhecimentos,12.10.06,SILVICULTURA,12.10.00
+conhecimentos-i,conhecimentos,12.10.07,TÉCNICAS FLORESTAIS,12.10.00
+conhecimentos-i,conhecimentos,12.10.08,UTILIZAÇÃO DE PRODUTOS FLORESTAIS,12.10.00
+conhecimentos-i,conhecimentos,12.10.90,OUTROS CONHECIMENTOS DE PRODUÇÃO FLORESTAL (ESPECIFICAR:...) - CONDUÇÃO DE VEÍCULOS UTILIZADOS NA EXPLORAÇÃO E NO TRANSPORTE DA PRODUÇÃO FLORESTAL,12.10.00
+conhecimentos-i,conhecimentos,12.11.01,CASA DE EMBALAGEM (PACKING HOUSE),12.11.00
+conhecimentos-i,conhecimentos,12.11.02,PROCESSOS DE ARMAZENAGEM DE PRODUTOS,12.11.00
+conhecimentos-i,conhecimentos,12.11.03,PROCESSOS DE EMBALAGEM DE PRODUTOS,12.11.00
+conhecimentos-i,conhecimentos,12.11.90,OUTROS CONHECIMENTOS DE PROCESSOS PARA EMBALAGEM E ARMAZENAGEM DE PRODUTOS (ESPECIFICAR:...) - ROTULAGEM DE PRODUTOS AGRÍCOLAS,12.11.00
+conhecimentos-i,conhecimentos,12.12.01,ROBOTIZAÇÃO EM AGRICULTURA,12.12.00
+conhecimentos-i,conhecimentos,12.12.02,ROBOTIZAÇÃO EM AQUICULTURA,12.12.00
+conhecimentos-i,conhecimentos,12.12.03,ROBOTIZAÇÃO EM ÁREA FLORESTAL,12.12.00
+conhecimentos-i,conhecimentos,12.12.05,ROBOTIZAÇÃO EM PESCA,12.12.00
+conhecimentos-i,conhecimentos,12.13.01,TECNOLOGIA AGRÍCOLA,12.13.00
+conhecimentos-i,conhecimentos,12.13.02,TECNOLOGIA EM AQUICULTURA,12.13.00
+conhecimentos-i,conhecimentos,12.13.03,TECNOLOGIA EM PECUÁRIA,12.13.00
+conhecimentos-i,conhecimentos,12.13.04,TECNOLOGIA EM PESCA,12.13.00
+conhecimentos-i,conhecimentos,12.13.05,TECNOLOGIA FLORESTAL,12.13.00
+conhecimentos-i,conhecimentos,12.13.90,"OUTROS CONHECIMENTOS DE TECNOLOGIA EM AGRICULTURA, PECUÁRIA, PRODUÇÃO FLORESTAL, PESCA E AQUICULTURA (ESPECIFICAR:...) - TECNOLOGIA EM AVICULTURA",12.13.00
+conhecimentos-i,conhecimentos,12.14.01,INOVAÇÕES NA AQUICULTURA,12.14.00
+conhecimentos-i,conhecimentos,12.14.02,INOVAÇÕES NA PECUÁRIA,12.14.00
+conhecimentos-i,conhecimentos,12.14.03,INOVAÇÕES NA PESCA,12.14.00
+conhecimentos-i,conhecimentos,12.14.04,INOVAÇÕES NA PRODUÇÃO AGRÍCOLA,12.14.00
+conhecimentos-i,conhecimentos,12.14.05,INOVAÇÕES NA PRODUÇÃO FLORESTAL,12.14.00
+conhecimentos-i,conhecimentos,12.14.06,TENDÊNCIAS DA AQUICULTURA,12.14.00
+conhecimentos-i,conhecimentos,12.14.07,TENDÊNCIAS DA PECUÁRIA,12.14.00
+conhecimentos-i,conhecimentos,12.14.08,TENDÊNCIAS DA PESCA,12.14.00
+conhecimentos-i,conhecimentos,12.14.09,TENDÊNCIAS DA PRODUÇÃO AGRÍCOLA,12.14.00
+conhecimentos-i,conhecimentos,12.14.10,TENDÊNCIAS DA PRODUÇÃO FLORESTAL,12.14.00
+conhecimentos-i,conhecimentos,12.14.90,"OUTROS CONHECIMENTOS DE TENDÊNCIAS E INOVAÇÃO EM AGRICULTURA, PECUÁRIA, PRODUÇÃO FLORESTAL, PESCA E AQUICULTURA (ESPECIFICAR:...) - AGROPECUÁRIA DE PRECISÃO",12.14.00
+conhecimentos-i,conhecimentos,12.15.01,DRENAGEM,12.15.00
+conhecimentos-i,conhecimentos,12.15.02,IRRIGAÇÃO,12.15.00
+conhecimentos-i,conhecimentos,12.15.03,USO SUSTENTÁVEL DA ÁGUA,12.15.00
+conhecimentos-i,conhecimentos,12.15.04,USO SUSTENTÁVEL DO SOLO,12.15.00
+conhecimentos-i,conhecimentos,12.15.05,VIVEIRICULTURA,12.15.00
+conhecimentos-i,conhecimentos,12.15.90,OUTROS CONHECIMENTOS DE USO DE SOLO E ÁGUA (ESPECIFICAR:...) - FERTIRRIGAÇÃO,12.15.00
+conhecimentos-i,conhecimentos,13.01.01,AUTOMAÇÃO,13.01.00
+conhecimentos-i,conhecimentos,13.01.02,AUTOMAÇÃO DE MÁQUINAS INDUSTRIAIS,13.01.00
+conhecimentos-i,conhecimentos,13.01.03,COMANDO NUMÉRICO COMPUTADORIZADO (CNC),13.01.00
+conhecimentos-i,conhecimentos,13.01.04,CONTROLADOR LÓGICO PROGRAMÁVEL (CLP),13.01.00
+conhecimentos-i,conhecimentos,13.01.05,DOMÓTICA,13.01.00
+conhecimentos-i,conhecimentos,13.01.06,PAINÉIS DE CONTROLE,13.01.00
+conhecimentos-i,conhecimentos,13.01.07,SISTEMA DIGITAL DE CONTROLE DISTRIBUÍDO (SDCD),13.01.00
+conhecimentos-i,conhecimentos,13.01.90,OUTROS CONHECIMENTOS DE AUTOMAÇÃO NOS PROCESSOS DE PRODUÇÃO (ESPECIFICAR:...) - AUTOMAÇÃO DE MÁQUINAS TÊXTEIS,13.01.00
+conhecimentos-i,conhecimentos,13.02.01,ALVENARIA,13.02.00
+conhecimentos-i,conhecimentos,13.02.02,CARPINTARIA EM OBRAS CIVIS,13.02.00
+conhecimentos-i,conhecimentos,13.02.03,COBERTURA,13.02.00
+conhecimentos-i,conhecimentos,13.02.04,CONCRETAGEM,13.02.00
+conhecimentos-i,conhecimentos,13.02.05,CONSERVAÇÃO DE VIAS PERMANENTES,13.02.00
+conhecimentos-i,conhecimentos,13.02.06,CONTENÇÕES,13.02.00
+conhecimentos-i,conhecimentos,13.02.07,DEMOLIÇÃO,13.02.00
+conhecimentos-i,conhecimentos,13.02.08,ESQUADRIAS,13.02.00
+conhecimentos-i,conhecimentos,13.02.09,FUNDAÇÕES,13.02.00
+conhecimentos-i,conhecimentos,13.02.10,GERENCIAMENTO DE OBRAS,13.02.00
+conhecimentos-i,conhecimentos,13.02.11,INSTALAÇÕES,13.02.00
+conhecimentos-i,conhecimentos,13.02.12,MATERIAIS DA CONSTRUÇÃO CIVIL,13.02.00
+conhecimentos-i,conhecimentos,13.02.13,MODELAGEM DE INFORMAÇÕES DA CONSTRUÇÃO (TECNOLOGIA BIM),13.02.00
+conhecimentos-i,conhecimentos,13.02.14,OPERAÇÃO DE MÁQUINAS DE CONSTRUÇÃO CIVIL,13.02.00
+conhecimentos-i,conhecimentos,13.02.15,PINTURA,13.02.00
+conhecimentos-i,conhecimentos,13.02.16,PROJETO DE OBRA,13.02.00
+conhecimentos-i,conhecimentos,13.02.17,REVESTIMENTO,13.02.00
+conhecimentos-i,conhecimentos,13.02.18,SISTEMAS ESTRUTURAIS,13.02.00
+conhecimentos-i,conhecimentos,13.02.19,SOLOS,13.02.00
+conhecimentos-i,conhecimentos,13.02.20,TECNOLOGIA DE EDIFICAÇÕES,13.02.00
+conhecimentos-i,conhecimentos,13.02.21,TECNOLOGIA DE OBRAS PÚBLICAS,13.02.00
+conhecimentos-i,conhecimentos,13.02.22,TERRAPLENAGEM,13.02.00
+conhecimentos-i,conhecimentos,13.02.23,TOPOGRAFIA,13.02.00
+conhecimentos-i,conhecimentos,13.02.90,OUTROS CONHECIMENTOS DE CONSTRUÇÃO CIVIL E OBRAS PÚBLICAS (ESPECIFICAR:...) - NOÇÕES DE ALVENARIA RÚSTICA,13.02.00
+conhecimentos-i,conhecimentos,13.03.01,DESENHO DE PRODUTO,13.03.00
+conhecimentos-i,conhecimentos,13.03.02,DESENHO DE PROJETO,13.03.00
+conhecimentos-i,conhecimentos,13.03.90,OUTROS CONHECIMENTOS DE DESENHO DE PROJETO E INDUSTRIAL (ESPECIFICAR:...) - TÉCNICAS DE DESENHO EM CAD - REPRESENTAÇÃO EM DUAS DIMENSÕES (2D),13.03.00
+conhecimentos-i,conhecimentos,13.04.01,CORTE DE CALÇADOS,13.04.00
+conhecimentos-i,conhecimentos,13.04.02,MODELAGEM DE CALÇADOS,13.04.00
+conhecimentos-i,conhecimentos,13.04.03,PROCESSOS DE ACABAMENTO DE CALÇADOS,13.04.00
+conhecimentos-i,conhecimentos,13.04.04,PROCESSOS DE CONFECÇÃO DE ARTEFATOS DE COURO E PELE (EXCETO CALÇADOS),13.04.00
+conhecimentos-i,conhecimentos,13.04.05,PROCESSOS DE COSTURA DE CALÇADOS,13.04.00
+conhecimentos-i,conhecimentos,13.04.06,PROCESSOS DE MONTAGEM DE CALÇADOS,13.04.00
+conhecimentos-i,conhecimentos,13.04.07,PROCESSOS DE PREPARAÇÃO DE CONFECÇÃO DE CALÇADOS,13.04.00
+conhecimentos-i,conhecimentos,13.04.90,OUTROS CONHECIMENTOS DE INFORMAÇÕES TECNOLÓGICAS DE FABRICAÇÃO DE CALÇADOS E OUTROS ARTEFATOS DE COURO (ESPECIFICAR:...) - TIPOS DE ARTEFATOS CONFECCIONADOS EM COURO,13.04.00
+conhecimentos-i,conhecimentos,13.05.01,PROCESSOS DE ACABAMENTO DE COUROS E PELES,13.05.00
+conhecimentos-i,conhecimentos,13.05.02,PROCESSOS DE CURTIMENTO,13.05.00
+conhecimentos-i,conhecimentos,13.05.03,PROCESSOS DE PREPARAÇÃO DE CURTIMENTO,13.05.00
+conhecimentos-i,conhecimentos,13.05.90,OUTROS CONHECIMENTOS DE INFORMAÇÕES TECNOLÓGICAS DE COURO E PELE (ESPECIFICAR:...) - PRODUÇÃO MAIS LIMPA APLICADA À INDÚSTRIA DE CURTIMENTO DE PELES,13.05.00
+conhecimentos-i,conhecimentos,13.06.01,ACIONAMENTO ELÉTRICO,13.06.00
+conhecimentos-i,conhecimentos,13.06.02,ACIONAMENTO ELETRÔNICO,13.06.00
+conhecimentos-i,conhecimentos,13.06.03,ANÁLISE DE QUALIDADE DE ENERGIA,13.06.00
+conhecimentos-i,conhecimentos,13.06.04,BOBINAGEM DE MOTORES,13.06.00
+conhecimentos-i,conhecimentos,13.06.05,CALIBRAÇÃO,13.06.00
+conhecimentos-i,conhecimentos,13.06.06,CIRCUITOS ELÉTRICOS,13.06.00
+conhecimentos-i,conhecimentos,13.06.07,CIRCUITOS ELETRÔNICOS,13.06.00
+conhecimentos-i,conhecimentos,13.06.08,CIRCUITOS LÓGICOS DIGITAIS,13.06.00
+conhecimentos-i,conhecimentos,13.06.09,CIRCUITOS MAGNÉTICOS,13.06.00
+conhecimentos-i,conhecimentos,13.06.10,CONTROLES ELETRÔNICOS,13.06.00
+conhecimentos-i,conhecimentos,13.06.11,CONVERSÃO DE ENERGIA,13.06.00
+conhecimentos-i,conhecimentos,13.06.12,ELETRÔNICA INDUSTRIAL,13.06.00
+conhecimentos-i,conhecimentos,13.06.13,ELETROTÉCNICA,13.06.00
+conhecimentos-i,conhecimentos,13.06.15,INSTALAÇÕES ELÉTRICAS,13.06.00
+conhecimentos-i,conhecimentos,13.06.16,INSTRUMENTAÇÃO,13.06.00
+conhecimentos-i,conhecimentos,13.06.17,LUMINOTÉCNICA,13.06.00
+conhecimentos-i,conhecimentos,13.06.18,MAGNETISMO,13.06.00
+conhecimentos-i,conhecimentos,13.06.19,MEDIDAS ELÉTRICAS,13.06.00
+conhecimentos-i,conhecimentos,13.06.20,MEDIDAS ELETRÔNICAS,13.06.00
+conhecimentos-i,conhecimentos,13.06.21,MEDIDAS MAGNÉTICAS,13.06.00
+conhecimentos-i,conhecimentos,13.06.22,MICROCONTROLADORES,13.06.00
+conhecimentos-i,conhecimentos,13.06.23,MICROPROCESSADORES,13.06.00
+conhecimentos-i,conhecimentos,13.06.24,MONTAGEM ELÉTRICA,13.06.00
+conhecimentos-i,conhecimentos,13.06.25,MONTAGEM ELETROELETRÔNICA,13.06.00
+conhecimentos-i,conhecimentos,13.06.26,MONTAGEM ELETRÔNICA,13.06.00
+conhecimentos-i,conhecimentos,13.06.27,PROCESSAMENTO DE SINAIS,13.06.00
+conhecimentos-i,conhecimentos,13.06.28,PROTEÇÃO DE SISTEMAS ELÉTRICOS,13.06.00
+conhecimentos-i,conhecimentos,13.06.29,SISTEMAS ELÉTRICOS DE POTÊNCIA,13.06.00
+conhecimentos-i,conhecimentos,13.06.30,SISTEMAS ELETRÔNICOS,13.06.00
+conhecimentos-i,conhecimentos,13.06.90,OUTROS CONHECIMENTOS DE INFORMAÇÕES TECNOLÓGICAS DE ELETROELETRÔNICA (ESPECIFICAR:...) - MÁQUINAS ELÉTRICAS,13.06.00
+conhecimentos-i,conhecimentos,13.07.90,"OUTROS CONHECIMENTOS DE INFORMAÇÕES TECNOLÓGICAS DE JOALHERIA, INSTRUMENTOS MUSICAIS E BRINQUEDOS (ESPECIFICAR: ...) - FUNDAMENTOS DE AFINAÇÃO DE INSTRUMENTOS MUSICAIS",13.07.00
+conhecimentos-i,conhecimentos,13.09.01,CARPINTARIA VEICULAR,13.09.00
+conhecimentos-i,conhecimentos,13.09.02,MAQUETARIA,13.09.00
+conhecimentos-i,conhecimentos,13.09.03,MARCENARIA,13.09.00
+conhecimentos-i,conhecimentos,13.09.04,MARCHETARIA,13.09.00
+conhecimentos-i,conhecimentos,13.09.05,MODELAGEM DE MADEIRA,13.09.00
+conhecimentos-i,conhecimentos,13.09.06,PRENSAGEM E AGLOMERAÇÃO DE CHAPA,13.09.00
+conhecimentos-i,conhecimentos,13.09.07,PROCESSOS DE ACABAMENTO DE MÓVEIS,13.09.00
+conhecimentos-i,conhecimentos,13.09.08,PROCESSOS DE FABRICAÇÃO DE ARTEFATOS DE VIME E FIBRAS,13.09.00
+conhecimentos-i,conhecimentos,13.09.09,PROCESSOS DE MADEIRA RECONSTITUÍDA,13.09.00
+conhecimentos-i,conhecimentos,13.09.10,PROCESSOS DE MONTAGEM DE MÓVEIS,13.09.00
+conhecimentos-i,conhecimentos,13.09.11,PROCESSOS DE PRODUÇÃO DE ARTEFATOS DE MADEIRA (EXCETO MÓVEIS),13.09.00
+conhecimentos-i,conhecimentos,13.09.12,PROCESSOS DE PRODUÇÃO DE MÓVEIS,13.09.00
+conhecimentos-i,conhecimentos,13.09.13,PROCESSOS DE SERRAGEM E BENEFICIAMENTO,13.09.00
+conhecimentos-i,conhecimentos,13.09.14,PROCESSOS DE USINAGEM DE MADEIRA,13.09.00
+conhecimentos-i,conhecimentos,13.09.15,PROJETO DE MOBILIÁRIO,13.09.00
+conhecimentos-i,conhecimentos,13.09.16,TANOARIA,13.09.00
+conhecimentos-i,conhecimentos,13.09.17,TRATAMENTO E PREPARAÇÃO DE MADEIRA,13.09.00
+conhecimentos-i,conhecimentos,13.09.90,"OUTROS CONHECIMENTOS DE INFORMAÇÕES TECNOLÓGICAS DE MADEIRA E MOBILIÁRIO (ESPECIFICAR:...) - COMPOSIÇÃO DA MADEIRA, PARA FINS DE INDUSTRIALIZAÇÃO",13.09.00
+conhecimentos-i,conhecimentos,13.10.01,ACABAMENTO DE CERÂMICA,13.10.00
+conhecimentos-i,conhecimentos,13.10.02,ACABAMENTO DE VIDRO,13.10.00
+conhecimentos-i,conhecimentos,13.10.03,ARTE E DECORAÇÃO DE CERÂMICA,13.10.00
+conhecimentos-i,conhecimentos,13.10.04,ARTE E DECORAÇÃO DE VIDRO,13.10.00
+conhecimentos-i,conhecimentos,13.10.05,PREPARAÇÃO DE PRODUÇÃO DE CERÂMICA,13.10.00
+conhecimentos-i,conhecimentos,13.10.06,PREPARAÇÃO DE PRODUÇÃO DE VIDRO,13.10.00
+conhecimentos-i,conhecimentos,13.10.07,PRODUÇÃO DE CERÂMICA,13.10.00
+conhecimentos-i,conhecimentos,13.10.08,PRODUÇÃO DE CIMENTO,13.10.00
+conhecimentos-i,conhecimentos,13.10.09,PRODUÇÃO DE COMPÓSITOS,13.10.00
+conhecimentos-i,conhecimentos,13.10.10,PRODUÇÃO DE VIDRO NÃO-PLANO,13.10.00
+conhecimentos-i,conhecimentos,13.10.11,PRODUÇÃO DE VIDRO PLANO,13.10.00
+conhecimentos-i,conhecimentos,13.10.90,"OUTROS CONHECIMENTOS DE INFORMAÇÕES TECNOLÓGICAS DE PRODUÇÃO EM CERÂMICA, VIDRO E OUTROS MINERAIS NÃO-METÁLICOS (ESPECIFICAR:...) - FUNDAMENTOS DE TECNOLOGIA DE FABRICAÇÃO DE VIDRO",13.10.00
+conhecimentos-i,conhecimentos,13.11.01,PROCESSOS DE ACABAMENTO GRÁFICO,13.11.00
+conhecimentos-i,conhecimentos,13.11.02,PROCESSOS DE IMPRESSÃO,13.11.00
+conhecimentos-i,conhecimentos,13.11.03,PROCESSOS DE PRÉ-IMPRESSÃO,13.11.00
+conhecimentos-i,conhecimentos,13.11.90,OUTROS CONHECIMENTOS DE INFORMAÇÕES TECNOLÓGICAS DE PRODUÇÃO GRÁFICA (ESPECIFICAR:...) - FONTES TIPOGRÁFICAS,13.11.00
+conhecimentos-i,conhecimentos,13.12.01,ANÁLISE DE PRODUTOS,13.12.00
+conhecimentos-i,conhecimentos,13.12.02,ANÁLISE SENSORIAL,13.12.00
+conhecimentos-i,conhecimentos,13.12.03,ENSAIOS DESTRUTIVOS,13.12.00
+conhecimentos-i,conhecimentos,13.12.04,ENSAIOS NÃO-DESTRUTIVOS,13.12.00
+conhecimentos-i,conhecimentos,13.12.05,OPERAÇÕES E PROCESSOS UNITÁRIOS DE LABORATÓRIO,13.12.00
+conhecimentos-i,conhecimentos,13.12.06,TESTES,13.12.00
+conhecimentos-i,conhecimentos,13.12.90,OUTROS CONHECIMENTOS DE INFORMAÇÕES TECNOLÓGICAS LABORATORIAIS (ESPECIFICAR:...) - NOÇÕES DE ENSAIOS FÍSICOS EM FIBRAS TÊXTEIS,13.12.00
+conhecimentos-i,conhecimentos,13.13.01,ESTRUTURA E PROPRIEDADES DOS ELASTÔMEROS,13.13.00
+conhecimentos-i,conhecimentos,13.13.02,EXTRUSÃO PLÁSTICA,13.13.00
+conhecimentos-i,conhecimentos,13.13.03,INJEÇÃO PLÁSTICA,13.13.00
+conhecimentos-i,conhecimentos,13.13.04,MATÉRIAS-PRIMAS E ADITIVOS,13.13.00
+conhecimentos-i,conhecimentos,13.13.05,MOLDAGEM E MATRIZES DE POLÍMEROS,13.13.00
+conhecimentos-i,conhecimentos,13.13.06,POLÍMEROS NATURAIS,13.13.00
+conhecimentos-i,conhecimentos,13.13.07,POLÍMEROS SINTÉTICOS,13.13.00
+conhecimentos-i,conhecimentos,13.13.08,PROCESSO DE MISTURA DE MASSA DE BORRACHA,13.13.00
+conhecimentos-i,conhecimentos,13.13.09,PROCESSOS DE TRANSFORMAÇÃO DE BORRACHA,13.13.00
+conhecimentos-i,conhecimentos,13.13.10,PRODUÇÃO DE COMPÓSITOS,13.13.00
+conhecimentos-i,conhecimentos,13.13.11,VULCANIZAÇÃO,13.13.00
+conhecimentos-i,conhecimentos,13.13.90,OUTROS CONHECIMENTOS DE INFORMAÇÕES TECNOLÓGICAS EM BORRACHA E PLÁSTICO (ESPECIFICAR:...) - TIPOS DE BORRACHA: ELASTÔMERO DE ESTIRENO-BUTADIENO (SBR); ELASTÔMERO DE POLIBUTADIENO (BR); ETILENO-PROPILENO-DIENO (EPDM); BORRACHA NITRÍLICA (NBR); BORRACHA DE SILICONE (SIR); LÁTEX; BORRACHAS ESPECIAIS; OUTROS,13.13.00
+conhecimentos-i,conhecimentos,13.14.01,ANÁLISE DE FLUIDOS EM PETRÓLEO E GÁS,13.14.00
+conhecimentos-i,conhecimentos,13.14.02,CORROSÃO,13.14.00
+conhecimentos-i,conhecimentos,13.14.03,PROCESSOS DE FABRICAÇÃO DE MUNIÇÕES E EXPLOSIVOS,13.14.00
+conhecimentos-i,conhecimentos,13.14.04,PROCESSOS E OPERAÇÕES UNITÁRIAS DE ESCOAMENTO DE FLUIDOS,13.14.00
+conhecimentos-i,conhecimentos,13.14.05,PROCESSOS E OPERAÇÕES UNITÁRIAS DE TRANSFERÊNCIA DE CALOR,13.14.00
+conhecimentos-i,conhecimentos,13.14.06,PROCESSOS E OPERAÇÕES UNITÁRIAS DE TRANSFERÊNCIA DE MASSA,13.14.00
+conhecimentos-i,conhecimentos,13.14.07,PROCESSOS E OPERAÇÕES UNITÁRIAS TERMODINÂMICAS,13.14.00
+conhecimentos-i,conhecimentos,13.14.08,REFINO DE PETRÓLEO,13.14.00
+conhecimentos-i,conhecimentos,13.14.09,TECNOLOGIAS DE PROCESSOS PETROQUÍMICOS,13.14.00
+conhecimentos-i,conhecimentos,13.14.10,TECNOLOGIAS DE PROCESSOS QUÍMICOS,13.14.00
+conhecimentos-i,conhecimentos,13.14.11,TRATAMENTO DE SUPERFÍCIE,13.14.00
+conhecimentos-i,conhecimentos,13.14.90,OUTROS CONHECIMENTOS DE INFORMAÇÕES TECNOLÓGICAS EM QUÍMICA E PETROQUÍMICA  (ESPECIFICAR:...) - INTERPRETAÇÃO DE ANÁLISES LABORATORIAIS,13.14.00
+conhecimentos-i,conhecimentos,13.15.01,COSMECÊUTICA,13.15.00
+conhecimentos-i,conhecimentos,13.15.02,COSMETOLOGIA,13.15.00
+conhecimentos-i,conhecimentos,13.15.03,FARMACOVIGILÂNCIA,13.15.00
+conhecimentos-i,conhecimentos,13.15.04,FORMAS DE APRESENTAÇÃO DOS MEDICAMENTOS,13.15.00
+conhecimentos-i,conhecimentos,13.15.05,FORMULAÇÃO DE MEDICAMENTOS,13.15.00
+conhecimentos-i,conhecimentos,13.15.06,MATÉRIAS PRIMAS,13.15.00
+conhecimentos-i,conhecimentos,13.15.08,OPERAÇÃO DE EQUIPAMENTOS DE BIOPRODUÇÃO,13.15.00
+conhecimentos-i,conhecimentos,13.15.09,OPERAÇÃO DE MÁQUINAS DE PRODUÇÃO DE COSMÉTICOS,13.15.00
+conhecimentos-i,conhecimentos,13.15.10,OPERAÇÃO DE MÁQUINAS DE PRODUÇÃO DE FÁRMACOS E MEDICAMENTOS,13.15.00
+conhecimentos-i,conhecimentos,13.15.11,PRODUÇÃO DE FÁRMACOS E MEDICAMENTOS,13.15.00
+conhecimentos-i,conhecimentos,13.15.90,"OUTROS CONHECIMENTOS DE INFORMAÇÕES TECNOLÓGICAS DE PRODUÇÃO DE FÁRMACOS, MEDICAMENTOS E COSMÉTICOS (ESPECIFICAR:...) - BOAS PRÁTICAS DE MANIPULAÇÃO E DISPENSAÇÃO DE MATERIAIS E PRODUTOS",13.15.00
+conhecimentos-i,conhecimentos,13.16.01,CALANDRAGEM DE PAPEL,13.16.00
+conhecimentos-i,conhecimentos,13.16.02,CORTE DO PAPEL,13.16.00
+conhecimentos-i,conhecimentos,13.16.03,FABRICAÇÃO DE PAPEL - FASE SECA,13.16.00
+conhecimentos-i,conhecimentos,13.16.04,FABRICAÇÃO DE PAPEL - FASE ÚMIDA,13.16.00
+conhecimentos-i,conhecimentos,13.16.05,FABRICAÇÃO DE PAPELÃO,13.16.00
+conhecimentos-i,conhecimentos,13.16.06,PREPARAÇÃO DA PASTA DE PAPEL,13.16.00
+conhecimentos-i,conhecimentos,13.16.07,PROCESSOS DE FABRICAÇÃO DE PRODUTOS DE PAPEL E PAPELÃO,13.16.00
+conhecimentos-i,conhecimentos,13.16.08,REBOBINAGEM,13.16.00
+conhecimentos-i,conhecimentos,13.16.09,TECNOLOGIA DE CELULOSE E PAPEL,13.16.00
+conhecimentos-i,conhecimentos,13.16.90,OUTROS CONHECIMENTOS DE INFORMAÇÕES TECNOLÓGICAS DE CELULOSE E PAPEL (ESPECIFICAR:...) - FUNDAMENTOS DE PROCESSOS DE FABRICAÇÃO DE CELULOSE E PAPEL: PREPARAÇÃO DE MASSA DE CELULOSE; CARACTERÍSTICAS DO PAPEL; CLASSIFICAÇÃO DOS PAPÉIS; ETAPAS DO PROCESSO DE FABRICAÇÃO DE CELULOSE E PAPEL; OPERAÇÕES DE ACABAMENTO DE PAPEL; OUTROS,13.16.00
+conhecimentos-i,conhecimentos,13.17.01,BENEFICIAMENTO DE GRÃOS,13.17.00
+conhecimentos-i,conhecimentos,13.17.02,BENEFICIAMENTO DE SAL,13.17.00
+conhecimentos-i,conhecimentos,13.17.03,FABRICAÇÃO ARTESANAL DE ALIMENTOS,13.17.00
+conhecimentos-i,conhecimentos,13.17.04,OPERAÇÃO DE MÁQUINAS DE PRODUTOS ALIMENTÍCIOS,13.17.00
+conhecimentos-i,conhecimentos,13.17.05,PROCESSO DE PRODUÇÃO DE PRODUTOS DO FUMO,13.17.00
+conhecimentos-i,conhecimentos,13.17.06,PROCESSOS DE ABATE DE PRODUTOS DE ORIGEM ANIMAL,13.17.00
+conhecimentos-i,conhecimentos,13.17.07,PROCESSOS DE CONSERVAÇÃO DE ALIMENTOS,13.17.00
+conhecimentos-i,conhecimentos,13.17.08,PROCESSOS DE FABRICAÇÃO DE ALIMENTOS,13.17.00
+conhecimentos-i,conhecimentos,13.17.09,PROCESSOS DE FABRICAÇÃO DE BEBIDAS,13.17.00
+conhecimentos-i,conhecimentos,13.17.10,PROCESSOS DE FABRICAÇÃO DE LATICÍNIOS,13.17.00
+conhecimentos-i,conhecimentos,13.17.11,PROCESSOS DE FABRICAÇÃO DO AÇÚCAR,13.17.00
+conhecimentos-i,conhecimentos,13.17.12,PROCESSOS DE PREPARO DE PRODUTOS DE ORIGEM ANIMAL,13.17.00
+conhecimentos-i,conhecimentos,13.17.14,PROCESSOS FERMENTATIVOS,13.17.00
+conhecimentos-i,conhecimentos,13.17.90,"OUTROS CONHECIMENTOS DE INFORMAÇÕES TECNOLÓGICAS DE FABRICAÇÃO DE PRODUTOS ALIMENTÍCIOS, BEBIDAS E FUMO (ESPECIFICAR:...) - BOAS PRÁTICAS DE FABRICAÇÃO (BPF) NA INDÚSTRIA ALIMENTÍCIA",13.17.00
+conhecimentos-i,conhecimentos,13.18.01,ACABAMENTO TÊXTIL,13.18.00
+conhecimentos-i,conhecimentos,13.18.02,BENEFICIAMENTO TÊXTIL,13.18.00
+conhecimentos-i,conhecimentos,13.18.03,COLCHOARIA,13.18.00
+conhecimentos-i,conhecimentos,13.18.04,CONFECÇÃO DE ARTEFATOS DE TECIDOS (EXCETO VESTUÁRIO),13.18.00
+conhecimentos-i,conhecimentos,13.18.05,ESTOFAMENTO,13.18.00
+conhecimentos-i,conhecimentos,13.18.06,FIAÇÃO TÊXTIL,13.18.00
+conhecimentos-i,conhecimentos,13.18.07,MALHARIA,13.18.00
+conhecimentos-i,conhecimentos,13.18.08,MODELAGEM DO VESTUÁRIO,13.18.00
+conhecimentos-i,conhecimentos,13.18.09,PADRONAGEM TÊXTIL,13.18.00
+conhecimentos-i,conhecimentos,13.18.10,PROCESSOS QUÍMICOS TÊXTEIS,13.18.00
+conhecimentos-i,conhecimentos,13.18.11,TAPEÇARIA,13.18.00
+conhecimentos-i,conhecimentos,13.18.12,TECELAGEM,13.18.00
+conhecimentos-i,conhecimentos,13.18.13,TRATAMENTOS TÊXTEIS,13.18.00
+conhecimentos-i,conhecimentos,13.18.14,VESTUÁRIO - PROCESSOS DE ACABAMENTO,13.18.00
+conhecimentos-i,conhecimentos,13.18.15,VESTUÁRIO - PROCESSOS DE MONTAGEM (COSTURA),13.18.00
+conhecimentos-i,conhecimentos,13.18.16,VESTUÁRIO - PROCESSOS DE PREPARAÇÃO,13.18.00
+conhecimentos-i,conhecimentos,13.18.90,OUTROS CONHECIMENTOS DE INFORMAÇÕES TECNOLÓGICAS TÊXTEIS E DE VESTUÁRIO (ESPECIFICAR:...) - FUNDAMENTOS DE TECELAGEM: TECELAGEM PLANA E TECIMENTO; PADRONAGEM DE TECIDOS PLANOS,13.18.00
+conhecimentos-i,conhecimentos,13.19.01,OPERAÇÃO DE CAPTAÇÃO DE ÁGUA,13.19.00
+conhecimentos-i,conhecimentos,13.19.02,OPERAÇÃO DE DISTRIBUIÇÃO DE ÁGUA,13.19.00
+conhecimentos-i,conhecimentos,13.19.03,OPERAÇÃO DE DISTRIBUIÇÃO DE GASES,13.19.00
+conhecimentos-i,conhecimentos,13.19.04,OPERAÇÃO DE ENVASAMENTO DE GASES,13.19.00
+conhecimentos-i,conhecimentos,13.19.05,OPERAÇÃO DE FORNO DE INCINERAÇÃO,13.19.00
+conhecimentos-i,conhecimentos,13.19.06,OPERAÇÃO DE INSTALAÇÃO E TRATAMENTO DE ESGOTO,13.19.00
+conhecimentos-i,conhecimentos,13.19.07,OPERAÇÃO DE INSTALAÇÕES DE REFRIGERAÇÃO E AR CONDICIONADO,13.19.00
+conhecimentos-i,conhecimentos,13.19.08,OPERAÇÃO DE MÁQUINAS A VAPOR,13.19.00
+conhecimentos-i,conhecimentos,13.19.09,OPERAÇÃO DE TRATAMENTO DE ÁGUA,13.19.00
+conhecimentos-i,conhecimentos,13.19.10,OPERAÇÃO DE UTILIDADES,13.19.00
+conhecimentos-i,conhecimentos,13.19.90,OUTROS CONHECIMENTOS DE INFORMAÇÕES TECNOLÓGICAS DE OPERAÇÃO DE UTILIDADES INDUSTRIAIS (ESPECIFICAR:..) - TRATAMENTO DE ÁGUA E EFLUENTES EM REFINARIAS DE PETRÓLEO E GÁS,13.19.00
+conhecimentos-i,conhecimentos,13.20.01,FERRAMENTAS,13.20.00
+conhecimentos-i,conhecimentos,13.20.02,INSTALAÇÕES,13.20.00
+conhecimentos-i,conhecimentos,13.20.03,INSTRUMENTOS,13.20.00
+conhecimentos-i,conhecimentos,13.20.04,MÁQUINAS,13.20.00
+conhecimentos-i,conhecimentos,13.20.90,OUTROS CONHECIMENTOS DE INFORMAÇÕES TECNOLÓGICAS REFERENTES A INSTALAÇÕES E EQUIPAMENTOS (ESPECIFICAR:...) - EQUIPAMENTOS PARA MOVIMENTAÇÃO DE MATERIAIS E PRODUTOS,13.20.00
+conhecimentos-i,conhecimentos,13.21.01,"MATERIAIS NÃO-METÁLICOS NATURAIS (MADEIRA, FIBRAS, COURO, BORRACHA ETC.)",13.21.00
+conhecimentos-i,conhecimentos,13.21.02,"MATERIAIS NÃO-METÁLICOS SINTÉTICOS (PLÁSTICO, VIDRO, CERÂMICA E COMPÓSITOS)",13.21.00
+conhecimentos-i,conhecimentos,13.21.03,MATERIAIS METÁLICOS FERROSOS,13.21.00
+conhecimentos-i,conhecimentos,13.21.04,MATERIAIS METÁLICOS NÃO FERROSOS,13.21.00
+conhecimentos-i,conhecimentos,13.21.05,RESISTÊNCIA DOS MATERIAIS,13.21.00
+conhecimentos-i,conhecimentos,13.21.90,OUTROS CONHECIMENTOS DE MATERIAIS (ESPECIFICAR:...) - MATERIAIS METÁLICOS E LIGAS CONSUMÍVEIS DE SOLDAGEM,13.21.00
+conhecimentos-i,conhecimentos,13.22.01,ADMINISTRAÇÃO DA MANUTENÇÃO,13.22.00
+conhecimentos-i,conhecimentos,13.22.02,INSPEÇÃO DE MANUTENÇÃO,13.22.00
+conhecimentos-i,conhecimentos,13.22.03,LUBRIFICAÇÃO,13.22.00
+conhecimentos-i,conhecimentos,13.22.04,MANUTENÇÃO DE INSTRUMENTOS DE MEDIÇÃO E PRECISÃO,13.22.00
+conhecimentos-i,conhecimentos,13.22.05,MANUTENÇÃO DE ROBÔS INDUSTRIAIS,13.22.00
+conhecimentos-i,conhecimentos,13.22.06,MANUTENÇÃO DE SISTEMAS ELETRÔNICOS,13.22.00
+conhecimentos-i,conhecimentos,13.22.07,MANUTENÇÃO ELÉTRICA,13.22.00
+conhecimentos-i,conhecimentos,13.22.08,MANUTENÇÃO MECÂNICA,13.22.00
+conhecimentos-i,conhecimentos,13.22.09,PROGRAMAÇÃO DA MANUTENÇÃO,13.22.00
+conhecimentos-i,conhecimentos,13.22.10,TIPOS DE MANUTENÇÃO,13.22.00
+conhecimentos-i,conhecimentos,13.22.90,OUTROS CONHECIMENTOS DE MANUTENÇÃO INDUSTRIAL (ESPECIFICAR:...) - MANUTENÇÃO PRODUTIVA TOTAL,13.22.00
+conhecimentos-i,conhecimentos,13.23.01,AFIAÇÃO,13.23.00
+conhecimentos-i,conhecimentos,13.23.02,AJUSTAGEM,13.23.00
+conhecimentos-i,conhecimentos,13.23.03,CONSTRUÇÃO DE FERRAMENTAS E DISPOSITIVOS,13.23.00
+conhecimentos-i,conhecimentos,13.23.04,CONTROLE DIMENSIONAL,13.23.00
+conhecimentos-i,conhecimentos,13.23.05,ELEMENTOS DE MÁQUINAS,13.23.00
+conhecimentos-i,conhecimentos,13.23.06,ELETROEROSÃO,13.23.00
+conhecimentos-i,conhecimentos,13.23.07,FRESAGEM,13.23.00
+conhecimentos-i,conhecimentos,13.23.08,HIDRÁULICA,13.23.00
+conhecimentos-i,conhecimentos,13.23.09,INSTALAÇÃO E CONVERSÃO DE AQUECEDOR DE ÁGUA,13.23.00
+conhecimentos-i,conhecimentos,13.23.10,MANDRILAGEM,13.23.00
+conhecimentos-i,conhecimentos,13.23.11,MECÂNICA DE FLUIDOS,13.23.00
+conhecimentos-i,conhecimentos,13.23.12,MECÂNICA DE PRECISÃO,13.23.00
+conhecimentos-i,conhecimentos,13.23.13,MECÂNICA DE SÓLIDOS,13.23.00
+conhecimentos-i,conhecimentos,13.23.14,METROLOGIA,13.23.00
+conhecimentos-i,conhecimentos,13.23.15,OPERAÇÃO DE MÁQUINAS MECÂNICAS,13.23.00
+conhecimentos-i,conhecimentos,13.23.16,PNEUMÁTICA,13.23.00
+conhecimentos-i,conhecimentos,13.23.17,PROCESSOS DE CLIMATIZAÇÃO (REFRIGERAÇÃO E AR CONDICIONADO),13.23.00
+conhecimentos-i,conhecimentos,13.23.18,PROCESSOS DE MONTAGEM MECÂNICA,13.23.00
+conhecimentos-i,conhecimentos,13.23.19,PROCESSOS DE UNIÃO MECÂNICA,13.23.00
+conhecimentos-i,conhecimentos,13.23.20,PROCESSOS PROGRAMÁVEIS DE USINAGEM,13.23.00
+conhecimentos-i,conhecimentos,13.23.21,PROGRAMAÇÃO DE MÁQUINAS MECÂNICAS,13.23.00
+conhecimentos-i,conhecimentos,13.23.22,PROJETOS DE MÁQUINAS,13.23.00
+conhecimentos-i,conhecimentos,13.23.23,RETÍFICA,13.23.00
+conhecimentos-i,conhecimentos,13.23.24,USINAGEM CONVENCIONAL,13.23.00
+conhecimentos-i,conhecimentos,13.23.90,OUTROS CONHECIMENTOS DE METALMECÂNICA - MECÂNICA (ESPECIFICAR:...) - METROLOGIA APLICADA,13.23.00
+conhecimentos-i,conhecimentos,13.24.01,CALDEIRARIA,13.24.00
+conhecimentos-i,conhecimentos,13.24.02,CHAPEAMENTO,13.24.00
+conhecimentos-i,conhecimentos,13.24.03,CONFORMAÇÃO À FRIO,13.24.00
+conhecimentos-i,conhecimentos,13.24.04,CONFORMAÇÃO À QUENTE,13.24.00
+conhecimentos-i,conhecimentos,13.24.05,ESTRUTURAS METÁLICAS,13.24.00
+conhecimentos-i,conhecimentos,13.24.06,FUNDIÇÃO,13.24.00
+conhecimentos-i,conhecimentos,13.24.07,LIGAS METÁLICAS,13.24.00
+conhecimentos-i,conhecimentos,13.24.08,METALOGRAFIA,13.24.00
+conhecimentos-i,conhecimentos,13.24.09,METALURGIA DO PÓ,13.24.00
+conhecimentos-i,conhecimentos,13.24.10,METALURGIA FÍSICA,13.24.00
+conhecimentos-i,conhecimentos,13.24.11,METALURGIA GERAL,13.24.00
+conhecimentos-i,conhecimentos,13.24.12,MOLDAGEM,13.24.00
+conhecimentos-i,conhecimentos,13.24.13,OPERAÇÃO DE PROCESSOS METALÚRGICOS - ESTIRAMENTO DE METAIS,13.24.00
+conhecimentos-i,conhecimentos,13.24.14,OPERAÇÃO DE PROCESSOS METALÚRGICOS - FORJAMENTO DE METAIS,13.24.00
+conhecimentos-i,conhecimentos,13.24.15,OPERAÇÃO DE PROCESSOS METALÚRGICOS - TREFILAÇÃO DE METAIS,13.24.00
+conhecimentos-i,conhecimentos,13.24.16,OPERAÇÃO DE PROCESSOS SIDERÚRGICOS - ACABAMENTO,13.24.00
+conhecimentos-i,conhecimentos,13.24.17,OPERAÇÃO DE PROCESSOS SIDERÚRGICOS - LAMINAÇÃO,13.24.00
+conhecimentos-i,conhecimentos,13.24.18,OPERAÇÃO DE PROCESSOS SIDERÚRGICOS - SINTERIZAÇÃO,13.24.00
+conhecimentos-i,conhecimentos,13.24.19,SERRALHERIA,13.24.00
+conhecimentos-i,conhecimentos,13.24.20,SOLDAGEM,13.24.00
+conhecimentos-i,conhecimentos,13.24.21,TRAÇAGEM E CORTE,13.24.00
+conhecimentos-i,conhecimentos,13.24.22,TRATAMENTO TÉRMICO,13.24.00
+conhecimentos-i,conhecimentos,13.24.23,TUBULAÇÕES INDUSTRIAIS,13.24.00
+conhecimentos-i,conhecimentos,13.24.90,OUTROS CONHECIMENTOS DE METALMECÂNICA - METALURGIA (ESPECIFICAR:...) - INSTRUÇÕES DE EXECUÇÃO E INSPEÇÃO DE SOLDAGEM (IEIS),13.24.00
+conhecimentos-i,conhecimentos,13.25.01,AMOSTRAGEM DE MINERAIS,13.25.00
+conhecimentos-i,conhecimentos,13.25.02,CARACTERIZAÇÃO DE MINÉRIOS,13.25.00
+conhecimentos-i,conhecimentos,13.25.03,COMPLETAÇÃO DE POÇOS,13.25.00
+conhecimentos-i,conhecimentos,13.25.04,DESMONTE DE ROCHAS,13.25.00
+conhecimentos-i,conhecimentos,13.25.05,EXTRAÇÃO DE MINERAIS LÍQUIDOS E GASOSOS,13.25.00
+conhecimentos-i,conhecimentos,13.25.06,MONITORAMENTO DE ESTABILIDADE DE ROCHAS,13.25.00
+conhecimentos-i,conhecimentos,13.25.07,OPERAÇÃO DE BENEFICIAMENTO DE MINÉRIOS,13.25.00
+conhecimentos-i,conhecimentos,13.25.08,OPERAÇÃO DE BENEFICIAMENTO DE PEDRAS ORNAMENTAIS,13.25.00
+conhecimentos-i,conhecimentos,13.25.09,OPERAÇÃO DE GARIMPAGEM,13.25.00
+conhecimentos-i,conhecimentos,13.25.10,OPERAÇÃO DE SALINAS,13.25.00
+conhecimentos-i,conhecimentos,13.25.11,OPERAÇÃO EM CAMPOS PETROLÍFEROS,13.25.00
+conhecimentos-i,conhecimentos,13.25.12,PERFURAÇÃO DE POÇOS,13.25.00
+conhecimentos-i,conhecimentos,13.25.13,PESQUISA DE MINERAIS,13.25.00
+conhecimentos-i,conhecimentos,13.25.14,PROSPECÇÃO DE PETRÓLEO E GÁS,13.25.00
+conhecimentos-i,conhecimentos,13.25.90,"OUTROS CONHECIMENTOS DE MINERAÇÃO - RECURSOS MINERAIS SÓLIDOS, LÍQUIDOS E GASOSOS (ESPECIFICAR:...) - CLASSIFICAÇÃO DE MINÉRIOS",13.25.00
+conhecimentos-i,conhecimentos,13.26.01,NORMAS REGULAMENTADORAS PARA ÁREA INDUSTRIAL,13.26.00
+conhecimentos-i,conhecimentos,13.26.02,NORMAS TÉCNICAS PARA ÁREA INDUSTRIAL,13.26.00
+conhecimentos-i,conhecimentos,13.26.90,OUTROS CONHECIMENTOS DE NORMAS TÉCNICAS E REGULAMENTADORAS PARA A ÁREA INDUSTRIAL (ESPECIFICAR:...) - NORMAS TÉCNICAS E REGULAMENTADORAS PARA A ÁREA INDUSTRIAL DE CONSTRUÇÃO CIVIL,13.26.00
+conhecimentos-i,conhecimentos,13.27.01,ALIMENTAÇÃO DE MÁQUINAS E EQUIPAMENTOS,13.27.00
+conhecimentos-i,conhecimentos,13.27.02,SEPARAÇÃO DE MATERIAL PARA REAPROVEITAMENTO,13.27.00
+conhecimentos-i,conhecimentos,13.27.90,OUTROS CONHECIMENTOS DE OPERAÇÃO DE LINHAS DE PRODUÇÃO INDUSTRIAL (ESPECIFICAR:...) - RECEBIMENTO E CONFERÊNCIA DE MATERIAIS,13.27.00
+conhecimentos-i,conhecimentos,13.28.01,CONTROLE DA PRODUÇÃO,13.28.00
+conhecimentos-i,conhecimentos,13.28.02,LOGÍSTICA REVERSA,13.28.00
+conhecimentos-i,conhecimentos,13.28.03,PLANEJAMENTO DA PRODUÇÃO,13.28.00
+conhecimentos-i,conhecimentos,13.28.90,OUTROS CONHECIMENTOS DE PLANEJAMENTO E CONTROLE DA PRODUÇÃO INDUSTRIAL (ESPECIFICAR:...) - ORDEM DE SERVIÇO,13.28.00
+conhecimentos-i,conhecimentos,13.29.01,PACKING HOUSE,13.29.00
+conhecimentos-i,conhecimentos,13.29.02,PROCESSOS DE EMBALAGEM E ETIQUETAGEM,13.29.00
+conhecimentos-i,conhecimentos,13.29.90,OUTROS CONHECIMENTOS DE PROCESSOS PARA EMBALAGEM DE PRODUTOS (ESPECIFICAR:...) - ROTULAGEM DE ALIMENTOS,13.29.00
+conhecimentos-i,conhecimentos,13.30.01,OPERAÇÃO DE ROBÔ INDUSTRIAL,13.30.00
+conhecimentos-i,conhecimentos,13.30.02,OPERAÇÃO DE VEÍCULOS SUBAQUÁTICOS,13.30.00
+conhecimentos-i,conhecimentos,13.30.03,PROGRAMAÇÃO DE ROBÔS,13.30.00
+conhecimentos-i,conhecimentos,13.30.90,OUTROS CONHECIMENTOS DE ROBOTIZAÇÃO NOS PROCESSOS DE PRODUÇÃO INDUSTRIAL (ESPECIFICAR:...) - ROBÔS COLABORATIVOS,13.30.00
+conhecimentos-i,conhecimentos,13.31.01,INOVAÇÃO NA ÁREA INDUSTRIAL,13.31.00
+conhecimentos-i,conhecimentos,13.31.02,NOVOS MATERIAIS,13.31.00
+conhecimentos-i,conhecimentos,13.31.03,NOVOS PRODUTOS,13.31.00
+conhecimentos-i,conhecimentos,13.31.04,TENDÊNCIAS DA ÁREA INDUSTRIAL,13.31.00
+conhecimentos-i,conhecimentos,13.31.90,OUTROS CONHECIMENTOS DE TENDÊNCIAS E INOVAÇÃO NOS PROCESSOS DE PRODUÇÃO INDUSTRIAL (ESPECIFICAR:...) - REALIDADE VIRTUAL,13.31.00
+conhecimentos-i,conhecimentos,14.01.01,CÓDIGO DO CONSUMIDOR,14.01.00
+conhecimentos-i,conhecimentos,14.01.02,SERVIÇOS DE ATENDIMENTO AO CLIENTE,14.01.00
+conhecimentos-i,conhecimentos,14.01.90,OUTROS CONHECIMENTOS DE ATENDIMENTO AO CLIENTE (ESPECIFICAR:...) - CADASTRO DE CLIENTES DE ESTABELECIMENTOS VETERINÁRIOS E PETS,14.01.00
+conhecimentos-i,conhecimentos,14.02.01,AUTOMAÇÃO NO COMÉRCIO,14.02.00
+conhecimentos-i,conhecimentos,14.02.02,COMÉRCIO ELETRÔNICO (E-COMMERCE),14.02.00
+conhecimentos-i,conhecimentos,14.02.03,GESTÃO DE RELACIONAMENTO COM O CLIENTE (CRM),14.02.00
+conhecimentos-i,conhecimentos,14.02.90,OUTROS CONHECIMENTOS DE AUTOMAÇÃO NO COMÉRCIO (ESPECIFICAR:...) - VENDAS COM APLICATIVOS DE TELEFONIA CELULAR E OUTROS MEIOS DIGITAIS,14.02.00
+conhecimentos-i,conhecimentos,14.03.01,ASSISTÊNCIA TÉCNICA,14.03.00
+conhecimentos-i,conhecimentos,14.03.02,CÁLCULO DE MARGEM DE LUCRO,14.03.00
+conhecimentos-i,conhecimentos,14.03.03,DIVULGAÇÃO DE PRODUTOS E SERVIÇOS,14.03.00
+conhecimentos-i,conhecimentos,14.03.04,ORÇAMENTO,14.03.00
+conhecimentos-i,conhecimentos,14.03.05,PÓS-VENDA,14.03.00
+conhecimentos-i,conhecimentos,14.03.06,PROCESSO DE VENDA,14.03.00
+conhecimentos-i,conhecimentos,14.03.90,OUTROS CONHECIMENTOS DE COMERCIALIZAÇÃO (ESPECIFICAR:...) - COMERCIALIZAÇÃO DE PRODUTOS AGRÍCOLAS: CANAIS E ESTRATÉGIAS DE COMERCIALIZAÇÃO AGRÍCOLA,14.03.00
+conhecimentos-i,conhecimentos,14.04.01,COTAÇÃO,14.04.00
+conhecimentos-i,conhecimentos,14.04.02,ELABORAÇÃO DE EDITAL,14.04.00
+conhecimentos-i,conhecimentos,14.04.03,HABILITAÇÃO DE FORNECEDORES,14.04.00
+conhecimentos-i,conhecimentos,14.04.04,ROTINAS DE PROCESSO DE COMPRA (EXCETO POR LICITAÇÃO),14.04.00
+conhecimentos-i,conhecimentos,14.04.05,ROTINAS DE PROCESSOS LICITATÓRIOS,14.04.00
+conhecimentos-i,conhecimentos,14.04.06,TIPOS DE PROCESSOS LICITATÓRIOS,14.04.00
+conhecimentos-i,conhecimentos,14.04.90,OUTROS CONHECIMENTOS DE COMPRAS (ESPECIFICAR:...) - TÉCNICAS E METODOLOGIAS PARA DEFINIÇÃO DE PARCEIROS ESTRATÉGICOS,14.04.00
+conhecimentos-i,conhecimentos,14.05.01,APROVISIONAMENTO,14.05.00
+conhecimentos-i,conhecimentos,14.05.02,CONTROLE DE ESTOQUES,14.05.00
+conhecimentos-i,conhecimentos,14.05.03,TIPOS DE ALMOXARIFADO,14.05.00
+conhecimentos-i,conhecimentos,14.05.04,TIPOS DE ARMAZENAGEM,14.05.00
+conhecimentos-i,conhecimentos,14.05.90,OUTROS CONHECIMENTOS DE CONTROLE E ARMAZENAGEM (ESPECIFICAR:...) - INVENTÁRIO DE BENS E MATERIAIS,14.05.00
+conhecimentos-i,conhecimentos,14.06.01,CÂMBIO,14.06.00
+conhecimentos-i,conhecimentos,14.06.02,CONTRATOS INTERNACIONAIS DE COMPRA E VENDA DE MERCADORIAS,14.06.00
+conhecimentos-i,conhecimentos,14.06.03,EXPORTAÇÃO DIRETA E INDIRETA,14.06.00
+conhecimentos-i,conhecimentos,14.06.04,LEGISLAÇÃO BÁSICA SOBRE COMÉRCIO EXTERIOR,14.06.00
+conhecimentos-i,conhecimentos,14.06.05,PROCEDIMENTOS ADMINISTRATIVOS NA EXPORTAÇÃO,14.06.00
+conhecimentos-i,conhecimentos,14.06.06,PROCEDIMENTOS ADMINISTRATIVOS NA IMPORTAÇÃO,14.06.00
+conhecimentos-i,conhecimentos,14.06.07,TRANSPORTE INTERNACIONAL E SEGURO,14.06.00
+conhecimentos-i,conhecimentos,14.06.08,TRATAMENTO TRIBUTÁRIO,14.06.00
+conhecimentos-i,conhecimentos,14.06.90,OUTROS CONHECIMENTOS DE IMPORTAÇÃO E EXPORTAÇÃO (ESPECIFICAR:...) - NOÇÕES SOBRE NORMAS TÉCNICAS INTERNACIONAIS,14.06.00
+conhecimentos-i,conhecimentos,14.07.01,FORTALECIMENTO DE MARCA,14.07.00
+conhecimentos-i,conhecimentos,14.07.02,FUNDAMENTOS DE MARKETING,14.07.00
+conhecimentos-i,conhecimentos,14.07.03,MARKETING INTERNACIONAL,14.07.00
+conhecimentos-i,conhecimentos,14.07.04,PERFIL DE CLIENTES,14.07.00
+conhecimentos-i,conhecimentos,14.07.05,PESQUISA MERCADOLÓGICA,14.07.00
+conhecimentos-i,conhecimentos,14.07.06,TELEMARKETING,14.07.00
+conhecimentos-i,conhecimentos,14.07.90,"OUTROS CONHECIMENTOS DE MARKETING (ESPECIFICAR:...) - AMBIENTE DE CALL CENTER MODERNO: AMBIÊNCIA, QUALIDADE E CONFORTO",14.07.00
+conhecimentos-i,conhecimentos,14.08.01,NORMAS TÉCNICAS NA ÁREA COMERCIAL,14.08.00
+conhecimentos-i,conhecimentos,14.08.90,OUTROS CONHECIMENTOS DE NORMAS TÉCNICAS E REGULAMENTADORAS NA ÁREA COMERCIAL (ESPECIFICAR:...) - NORMAS REGULAMENTADORAS NA ÁREA COMERCIAL,14.08.00
+conhecimentos-i,conhecimentos,14.09.01,LOGÍSTICA,14.09.00
+conhecimentos-i,conhecimentos,14.09.02,TRANSPORTES E SEGURO,14.09.00
+conhecimentos-i,conhecimentos,14.09.90,OUTROS CONHECIMENTOS DE PLANEJAMENTO DE OPERAÇÕES COMERCIAIS (ESPECIFICAR:...) - ROTINAS DE PLANEJAMENTO DE VIAGENS,14.09.00
+conhecimentos-i,conhecimentos,14.11.01,TECNOLOGIA NA ÁREA COMERCIAL,14.11.00
+conhecimentos-i,conhecimentos,14.11.90,OUTROS CONHECIMENTOS DE TECNOLOGIA NA ÁREA COMERCIAL (ESPECIFICAR:...) - LEITURAS DIGITAIS DE CÓDIGOS DE BARRA UNIDIMENSIONAL E BIDIMENSIONAL (QR CODE),14.11.00
+conhecimentos-i,conhecimentos,14.12.01,INOVAÇÃO NA ÁREA COMERCIAL,14.12.00
+conhecimentos-i,conhecimentos,14.12.02,TENDÊNCIAS DA ÁREA COMERCIAL,14.12.00
+conhecimentos-i,conhecimentos,14.12.90,OUTROS CONHECIMENTOS DE TENDÊNCIAS E INOVAÇÃO NA ÁREA COMERCIAL (ESPECIFICAR:...) - AUTOMAÇÃO DE PONTOS DE VENDA (PDV),14.12.00
+conhecimentos-i,conhecimentos,15.01.01,AÇÕES CURATIVAS,15.01.00
+conhecimentos-i,conhecimentos,15.01.02,AÇÕES EMERGENCIAIS E DE URGÊNCIA,15.01.00
+conhecimentos-i,conhecimentos,15.01.03,AÇÕES PREVENTIVAS,15.01.00
+conhecimentos-i,conhecimentos,15.01.04,CUIDADOS PALIATIVOS,15.01.00
+conhecimentos-i,conhecimentos,15.01.05,ÓPTICA E OPTOMETRIA,15.01.00
+conhecimentos-i,conhecimentos,15.01.06,SAÚDE BUCAL,15.01.00
+conhecimentos-i,conhecimentos,15.01.07,TÉCNICAS OFTÁLMICAS,15.01.00
+conhecimentos-i,conhecimentos,15.01.08,"TERAPIAS COMPLEMENTARES (ACUPUNTURA, PODOLOGIA ETC.)",15.01.00
+conhecimentos-i,conhecimentos,15.01.90,"OUTROS CONHECIMENTOS DE AÇÕES DE SAÚDE (ESPECIFICAR:...) - AÇÕES PREVENTIVAS DE SAÚDE VOCAL, AUDITIVA E MENTAL PARA PROFESSORES",15.01.00
+conhecimentos-i,conhecimentos,15.02.01,SERVIÇO DE ARQUIVO MÉDICO E ESTATÍSTICA (SAME),15.02.00
+conhecimentos-i,conhecimentos,15.02.02,SISTEMAS AUTOMATIZADOS NA ÁREA DE SAÚDE,15.02.00
+conhecimentos-i,conhecimentos,15.02.90,OUTROS CONHECIMENTOS DE AUTOMAÇÃO NA ÁREA DE SAÚDE E BEM-ESTAR (ESPECIFICAR:...) - SISTEMAS E EQUIPAMENTOS AUTOMATIZADOS EM SAÚDE BUCAL,15.02.00
+conhecimentos-i,conhecimentos,15.03.01,BOAS PRÁTICAS NA ÁREA DE SAÚDE,15.03.00
+conhecimentos-i,conhecimentos,15.03.02,TOXICOLOGIA,15.03.00
+conhecimentos-i,conhecimentos,15.03.90,OUTROS CONHECIMENTOS DE BIOSSEGURANÇA (ESPECIFICAR:...) - BIOSSEGURANÇA,15.03.00
+conhecimentos-i,conhecimentos,15.04.01,ASSISTÊNCIA DE ENFERMAGEM EM AMBIENTES ESPECIALIZADOS,15.04.00
+conhecimentos-i,conhecimentos,15.04.02,ASSISTÊNCIA DE ENFERMAGEM EM PACIENTE CRÍTICO,15.04.00
+conhecimentos-i,conhecimentos,15.04.03,CONTROLE DE INFECÇÃO HOSPITALAR,15.04.00
+conhecimentos-i,conhecimentos,15.04.04,ENFERMAGEM NEONATOLÓGICA,15.04.00
+conhecimentos-i,conhecimentos,15.04.06,ENFERMAGEM OBSTÉTRICA,15.04.00
+conhecimentos-i,conhecimentos,15.04.07,FUNDAMENTOS DA FARMACOLOGIA APLICADOS À ENFERMAGEM,15.04.00
+conhecimentos-i,conhecimentos,15.04.08,INSTRUMENTAÇÃO CIRÚRGICA,15.04.00
+conhecimentos-i,conhecimentos,15.04.09,MEDIDAS DE HIGIENE E ASSEPSIA,15.04.00
+conhecimentos-i,conhecimentos,15.04.10,SUPORTE BÁSICO À VIDA,15.04.00
+conhecimentos-i,conhecimentos,15.04.90,OUTROS CONHECIMENTOS DE ENFERMAGEM (ESPECIFICAR:...) - ACESSO VENOSO PERIFÉRICOS E CENTRAIS,15.04.00
+conhecimentos-i,conhecimentos,15.05.01,ADMINISTRAÇÃO DE MEDICAMENTOS,15.05.00
+conhecimentos-i,conhecimentos,15.05.02,FARMACOLOGIA,15.05.00
+conhecimentos-i,conhecimentos,15.05.03,FARMACOTÉCNICA,15.05.00
+conhecimentos-i,conhecimentos,15.05.04,MANIPULAÇÃO DE FÓRMULAS DE COSMÉTICOS,15.05.00
+conhecimentos-i,conhecimentos,15.05.05,MANIPULAÇÃO DE FÓRMULAS FARMACÊUTICAS,15.05.00
+conhecimentos-i,conhecimentos,15.05.06,USO CORRETO E CONSERVAÇÃO DOS MEDICAMENTOS,15.05.00
+conhecimentos-i,conhecimentos,15.05.90,"OUTROS CONHECIMENTOS DE SERVIÇOS FARMACÊUTICOS (ESPECIFICAR:...) - ADMINISTRAÇÃO, GUARDA E DESCARTE DE MEDICAMENTOS",15.05.00
+conhecimentos-i,conhecimentos,15.06.01,BANCO DE SANGUE,15.06.00
+conhecimentos-i,conhecimentos,15.06.02,FLEBOTOMIA,15.06.00
+conhecimentos-i,conhecimentos,15.06.03,PROCESSOS DE TRABALHO EM HEMOTERAPIA,15.06.00
+conhecimentos-i,conhecimentos,15.06.04,TÉCNICAS DE TERAPIA TRANSFUSIONAL E DO CICLO DO SANGUE,15.06.00
+conhecimentos-i,conhecimentos,15.06.05,TÉCNICAS LABORATORIAIS,15.06.00
+conhecimentos-i,conhecimentos,15.06.90,"OUTROS CONHECIMENTOS DE HEMOTERAPIA (ESPECIFICAR:...) - PROTOCOLOS DE ARMAZENAMENTO, ACONDICIONAMENTO, VALIDADE E TRANSPORTE DE HEMOCOMPONENTES",15.06.00
+conhecimentos-i,conhecimentos,15.07.01,CREMAÇÃO,15.07.00
+conhecimentos-i,conhecimentos,15.07.02,EMBALSAMAMENTO,15.07.00
+conhecimentos-i,conhecimentos,15.07.03,NECRÓPSIA,15.07.00
+conhecimentos-i,conhecimentos,15.07.04,TANATOPRAXIA,15.07.00
+conhecimentos-i,conhecimentos,15.07.05,TAXIDERMIA,15.07.00
+conhecimentos-i,conhecimentos,15.07.90,OUTROS CONHECIMENTOS DE NECRÓPSIA E TAXIDERMIA (ESPECIFICAR:...) - FORMOLIZAÇÃO,15.07.00
+conhecimentos-i,conhecimentos,15.08.01,NORMAS REGULAMENTADORAS,15.08.00
+conhecimentos-i,conhecimentos,15.08.02,PROTOCOLOS DE TRABALHO EM SAÚDE,15.08.00
+conhecimentos-i,conhecimentos,15.08.90,OUTROS CONHECIMENTOS DE NORMAS REGULAMENTADORAS NOS SERVIÇOS DE SAÚDE E BEM-ESTAR (ESPECIFICAR:...) - NORMAS SANITÁRIAS PARA SERVIÇOS DE LAVANDERIA,15.08.00
+conhecimentos-i,conhecimentos,15.09.01,AVALIAÇÃO NUTRICIONAL,15.09.00
+conhecimentos-i,conhecimentos,15.09.02,BOAS PRÁTICAS NA MANIPULAÇÃO DE ALIMENTOS,15.09.00
+conhecimentos-i,conhecimentos,15.09.03,DESNUTRIÇÃO E DESENVOLVIMENTO FISIOLÓGICO,15.09.00
+conhecimentos-i,conhecimentos,15.09.04,DIAGNÓSTICO DA ALIMENTAÇÃO HUMANA,15.09.00
+conhecimentos-i,conhecimentos,15.09.06,GESTÃO OPERACIONAL EM SERVIÇOS DE ALIMENTAÇÃO,15.09.00
+conhecimentos-i,conhecimentos,15.09.07,HIGIENE DOS ALIMENTOS,15.09.00
+conhecimentos-i,conhecimentos,15.09.08,PLANEJAMENTO ALIMENTAR,15.09.00
+conhecimentos-i,conhecimentos,15.09.09,PROGRAMA DE ALIMENTOS SEGUROS (PAS),15.09.00
+conhecimentos-i,conhecimentos,15.09.10,TÉCNICA DIETÉTICA,15.09.00
+conhecimentos-i,conhecimentos,15.09.11,TERAPIA NUTRICIONAL E GASTRONOMIA HOSPITALAR,15.09.00
+conhecimentos-i,conhecimentos,15.09.90,OUTROS CONHECIMENTOS DE NUTRIÇÃO E DIETÉTICA (ESPECIFICAR:...) - FUNDAMENTOS DE NUTRIÇÃO,15.09.00
+conhecimentos-i,conhecimentos,15.10.01,ANÁLISE DE ANATOMIA PATOLÓGICA,15.10.00
+conhecimentos-i,conhecimentos,15.10.02,MEDICINA NUCLEAR,15.10.00
+conhecimentos-i,conhecimentos,15.10.03,OPERAÇÃO DE EQUIPAMENTOS E INSTRUMENTOS DE DIAGNÓSTICO,15.10.00
+conhecimentos-i,conhecimentos,15.10.04,OPERAÇÃO DE EQUIPAMENTOS E INSTRUMENTOS TERAPÊUTICOS,15.10.00
+conhecimentos-i,conhecimentos,15.10.05,OPERAÇÃO DE EQUIPAMENTOS RADIOLÓGICOS,15.10.00
+conhecimentos-i,conhecimentos,15.10.06,RADIOPROTEÇÃO,15.10.00
+conhecimentos-i,conhecimentos,15.10.07,RADIOTERAPIA,15.10.00
+conhecimentos-i,conhecimentos,15.10.08,RESSONÂNCIA MAGNÉTICA,15.10.00
+conhecimentos-i,conhecimentos,15.10.10,TOMOGRAFIA COMPUTADORIZADA,15.10.00
+conhecimentos-i,conhecimentos,15.10.11,ULTRASSONOGRAFIA,15.10.00
+conhecimentos-i,conhecimentos,15.10.90,OUTROS CONHECIMENTOS DE OPERAÇÃO DE EQUIPAMENTOS E INSTRUMENTOS DE DIAGNÓSTICO E TERAPÊUTICO (ESPECIFICAR:...) - EQUIPAMENTOS DE DIAGNÓSTICO CRÂNIO-FACIAL POR IMAGENS,15.10.00
+conhecimentos-i,conhecimentos,15.11.01,FABRICAÇÃO E MANUTENÇÃO DE APARELHOS DE REABILITAÇÃO,15.11.00
+conhecimentos-i,conhecimentos,15.11.02,FABRICAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS E INSTRUMENTOS MÉDICOS-HOSPITALARES,15.11.00
+conhecimentos-i,conhecimentos,15.11.04,FABRICAÇÃO E MANUTENÇÃO DE ÓRTESES E PRÓTESES,15.11.00
+conhecimentos-i,conhecimentos,15.11.90,"OUTROS CONHECIMENTOS DE FABRICAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS, INSTRUMENTOS E APARELHOS BIOMÉDICOS (ESPECIFICAR:...) - NOÇÕES DE MANUTENÇÃO E CONSERVAÇÃO DE EQUIPAMENTOS, INSTRUMENTOS E APARELHOS ODONTOLÓGICOS",15.11.00
+conhecimentos-i,conhecimentos,15.12.01,BASES BIOQUÍMICAS E NEUROQUÍMICAS DA DEPENDÊNCIA QUÍMICA,15.12.00
+conhecimentos-i,conhecimentos,15.12.02,"INTOXICAÇÕES, ABSTINÊNCIA E SEUS DESDOBRAMENTOS",15.12.00
+conhecimentos-i,conhecimentos,15.12.03,PSICOPATOLOGIAS,15.12.00
+conhecimentos-i,conhecimentos,15.12.04,REDUÇÃO DE DANOS E REINSERÇÃO SOCIAL,15.12.00
+conhecimentos-i,conhecimentos,15.12.90,OUTROS CONHECIMENTOS DE REABILITAÇÃO DE DEPENDENTES QUÍMICOS (ESPECIFICAR:...) - ACOLHIMENTO EM SERVIÇOS DE REABILITAÇÃO DO DEPENDENTE QUÍMICO,15.12.00
+conhecimentos-i,conhecimentos,15.13.01,APOIO ÀS ATIVIDADES DA VIDA DIÁRIA,15.13.00
+conhecimentos-i,conhecimentos,15.13.02,CUIDADO ÀS PESSOAS (CARE),15.13.00
+conhecimentos-i,conhecimentos,15.13.03,PROMOÇÃO DE ATIVIDADES PARA O BEM-ESTAR,15.13.00
+conhecimentos-i,conhecimentos,15.13.90,OUTROS CONHECIMENTOS DE QUALIDADE DE VIDA (ESPECIFICAR:...) - POLÍTICAS DE HUMANIZAÇÃO E ATENDIMENTO HOSPITALAR,15.13.00
+conhecimentos-i,conhecimentos,15.14.01,BRAÇOS ROBÓTICOS,15.14.00
+conhecimentos-i,conhecimentos,15.14.02,ROBOTIZAÇÃO EM CIRURGIA,15.14.00
+conhecimentos-i,conhecimentos,15.14.03,TELECIRURGIA,15.14.00
+conhecimentos-i,conhecimentos,15.14.90,OUTROS CONHECIMENTOS DE ROBOTIZAÇÃO NA ÁREA DE SAÚDE E BEM-ESTAR (ESPECIFICAR:...) - PRÓTESES ROBÓTICAS,15.14.00
+conhecimentos-i,conhecimentos,15.15.01,EPIDEMIOLOGIA,15.15.00
+conhecimentos-i,conhecimentos,15.15.02,REGISTROS E INFORMAÇÕES EM SAÚDE,15.15.00
+conhecimentos-i,conhecimentos,15.15.03,SAÚDE PÚBLICA,15.15.00
+conhecimentos-i,conhecimentos,15.15.04,SERVIÇOS DE VACINAÇÃO,15.15.00
+conhecimentos-i,conhecimentos,15.15.05,"SISTEMA ÚNICO DE SAÚDE - ESTRUTURA, PRINCÍPIOS E COMO FUNCIONA",15.15.00
+conhecimentos-i,conhecimentos,15.15.06,VIGILÂNCIA SANITÁRIA,15.15.00
+conhecimentos-i,conhecimentos,15.15.90,OUTROS CONHECIMENTOS DE SAÚDE COLETIVA (ESPECIFICAR:...) - EDUCAÇÃO PARA O AUTOCUIDADO BUCAL,15.15.00
+conhecimentos-i,conhecimentos,15.16.01,TECNOLOGIA NA ÁREA DE BEM-ESTAR,15.16.00
+conhecimentos-i,conhecimentos,15.16.02,TECNOLOGIA NA ÁREA DE SAÚDE,15.16.00
+conhecimentos-i,conhecimentos,15.16.90,OUTROS CONHECIMENTOS DE TECNOLOGIA NA ÁREA DE SAÚDE E BEM-ESTAR (ESPECIFICAR:...) - TECNOLOGIA NA ÁREA DE SAÚDE BUCAL,15.16.00
+conhecimentos-i,conhecimentos,15.17.02,INOVAÇÃO NA ÁREA DE SAÚDE,15.17.00
+conhecimentos-i,conhecimentos,15.17.03,TELEMEDICINA,15.17.00
+conhecimentos-i,conhecimentos,15.17.05,TENDÊNCIAS DA ÁREA DE SAÚDE,15.17.00
+conhecimentos-i,conhecimentos,15.17.90,OUTROS CONHECIMENTOS DE TENDÊNCIAS E INOVAÇÃO NA ÁREA DE SAÚDE E BEM-ESTAR (ESPECIFICAR:...) - OSMOLOGIA,15.17.00
+conhecimentos-i,conhecimentos,16.01.01,AUTOMAÇÃO NA ÁREA DE ARMAZENAGEM,16.01.00
+conhecimentos-i,conhecimentos,16.01.02,AUTOMAÇÃO NA ÁREA DE CORREIOS,16.01.00
+conhecimentos-i,conhecimentos,16.01.03,AUTOMAÇÃO NA ÁREA DE TRANSPORTES,16.01.00
+conhecimentos-i,conhecimentos,16.01.04,VEÍCULOS AÉREOS NÃO-TRIPULADOS (DRONES),16.01.00
+conhecimentos-i,conhecimentos,16.01.90,"OUTROS CONHECIMENTOS DE AUTOMAÇÃO EM TRANSPORTES, ARMAZENAGEM E CORREIOS (ESPECIFICAR:...) - AUTOMAÇÃO NA ÁREA DE CARGA E DESCARGA DE MERCADORIAS, OUTROS MATERIAIS E CARGAS",16.01.00
+conhecimentos-i,conhecimentos,16.02.01,CONDUÇÃO DE VEÍCULO FERROVIÁRIO,16.02.00
+conhecimentos-i,conhecimentos,16.02.02,CONDUÇÃO DE VEÍCULO METROVIÁRIO,16.02.00
+conhecimentos-i,conhecimentos,16.02.03,CONDUÇÃO DE VEÍCULOS DE TRAÇÃO ANIMAL,16.02.00
+conhecimentos-i,conhecimentos,16.02.04,CONDUÇÃO DE VEÍCULOS LEVES - BICICLETA,16.02.00
+conhecimentos-i,conhecimentos,16.02.05,CONDUÇÃO DE VEÍCULOS LEVES - MOTOTAXI,16.02.00
+conhecimentos-i,conhecimentos,16.02.06,CONDUÇÃO DE VEÍCULOS LEVES - TAXI,16.02.00
+conhecimentos-i,conhecimentos,16.02.07,CONDUÇÃO DE VEÍCULOS LEVES - TRANSPORTE ESCOLAR,16.02.00
+conhecimentos-i,conhecimentos,16.02.08,DIREÇÃO DEFENSIVA,16.02.00
+conhecimentos-i,conhecimentos,16.02.90,OUTROS CONHECIMENTOS DE CONDUÇÃO E OPERAÇÃO DE VEÍCULOS TERRESTRES (ESPECIFICAR:...) - TRAÇAGEM DE ROTEIRO,16.02.00
+conhecimentos-i,conhecimentos,16.03.01,OPERAÇÃO DE CONVÉS,16.03.00
+conhecimentos-i,conhecimentos,16.03.02,OPERAÇÃO DE MÁQUINAS DE EMBARCAÇÕES,16.03.00
+conhecimentos-i,conhecimentos,16.03.90,OUTROS CONHECIMENTOS DE CONDUÇÃO DE VEÍCULOS AQUÁTICOS (ESPECIFICAR:...) - ESFORÇOS A QUE UMA EMBARCAÇÃO ESTÁ SUJEITA DEVIDO AOS MOVIMENTOS DA EMBARCAÇÃO E A DISTRIBUIÇÃO DE PESOS A BORDO,16.03.00
+conhecimentos-i,conhecimentos,16.04.01,ADMINISTRAÇÃO DE TRANSPORTES,16.04.00
+conhecimentos-i,conhecimentos,16.04.02,DOCUMENTAÇÃO ADUANEIRA,16.04.00
+conhecimentos-i,conhecimentos,16.04.03,INTERMODALIDADE,16.04.00
+conhecimentos-i,conhecimentos,16.04.04,"MODAIS DE TRANSPORTES (AÉREO, AQUÁTICO, DUTOVIÁRIO E TERRESTRE)",16.04.00
+conhecimentos-i,conhecimentos,16.04.05,MULTIMODALIDADE,16.04.00
+conhecimentos-i,conhecimentos,16.04.06,PRECIFICAÇÃO,16.04.00
+conhecimentos-i,conhecimentos,16.04.90,"OUTROS CONHECIMENTOS DE LOGÍSTICA NO TRANSPORTE (ESPECIFICAR:...) - DESPACHO ADUANEIRO: PREPARAÇÃO, ENTRADA E ACOMPANHAMENTO DA TRAMITAÇÃO E APRESENTAÇÃO DE DOCUMENTOS",16.04.00
+conhecimentos-i,conhecimentos,16.05.01,ELETRÔNICA EMBARCADA,16.05.00
+conhecimentos-i,conhecimentos,16.05.02,MANUTENÇÃO DE BICICLETAS,16.05.00
+conhecimentos-i,conhecimentos,16.05.03,MANUTENÇÃO DE EMBARCAÇÕES,16.05.00
+conhecimentos-i,conhecimentos,16.05.04,MANUTENÇÃO DE VEÍCULOS AÉREOS,16.05.00
+conhecimentos-i,conhecimentos,16.05.05,MANUTENÇÃO DE VEÍCULOS AUTOMOTORES,16.05.00
+conhecimentos-i,conhecimentos,16.05.06,MANUTENÇÃO DE VEÍCULOS SOBRE TRILHOS,16.05.00
+conhecimentos-i,conhecimentos,16.05.90,OUTROS CONHECIMENTOS DE MANUTENÇÃO VEICULAR (ESPECIFICAR:...) - PINTURA E CONSERVAÇÃO DE EMBARCAÇÕES,16.05.00
+conhecimentos-i,conhecimentos,16.06.01,ARMAZENAGEM,16.06.00
+conhecimentos-i,conhecimentos,16.06.02,ARRUMAÇÃO E AMARRAÇÃO DE CARGAS,16.06.00
+conhecimentos-i,conhecimentos,16.06.03,ELEVAÇÃO E MOVIMENTAÇÃO DE CARGAS,16.06.00
+conhecimentos-i,conhecimentos,16.06.04,EMBALAGEM DE CARGAS,16.06.00
+conhecimentos-i,conhecimentos,16.06.05,OPERAÇÃO DE EQUIPAMENTOS DE ELEVAÇÃO DE CARGA,16.06.00
+conhecimentos-i,conhecimentos,16.06.06,OPERAÇÃO DE EQUIPAMENTOS DE MOVIMENTAÇÃO DE CARGA,16.06.00
+conhecimentos-i,conhecimentos,16.06.07,SISTEMA DE LOCALIZAÇÃO,16.06.00
+conhecimentos-i,conhecimentos,16.06.90,OUTROS CONHECIMENTOS DE MOVIMENTAÇÃO E ARMAZENAGEM DE CARGAS (ESPECIFICAR:...) - MANUSEIO E ESTIVAGEM DE CARGAS,16.06.00
+conhecimentos-i,conhecimentos,16.07.01,ATENDIMENTO À TRIPULAÇÃO,16.07.00
+conhecimentos-i,conhecimentos,16.07.02,ATENDIMENTO AO PASSAGEIRO,16.07.00
+conhecimentos-i,conhecimentos,16.07.03,CONTROLE DE TRÁFEGO,16.07.00
+conhecimentos-i,conhecimentos,16.07.04,NAVEGAÇÃO AÉREA,16.07.00
+conhecimentos-i,conhecimentos,16.07.05,NAVEGAÇÃO FLUVIAL,16.07.00
+conhecimentos-i,conhecimentos,16.07.06,NAVEGAÇÃO MARÍTIMA,16.07.00
+conhecimentos-i,conhecimentos,16.07.07,NAVEGAÇÃO TERRESTRE,16.07.00
+conhecimentos-i,conhecimentos,16.07.90,OUTROS CONHECIMENTOS DE NAVEGAÇÃO E CONTROLE DE TRÁFEGO DE TRANSPORTES (ESPECIFICAR:...) - FUNDAMENTOS DE NAVEGAÇÃO,16.07.00
+conhecimentos-i,conhecimentos,16.08.01,NORMAS TÉCNICAS DE TRANSPORTE DE PASSAGEIRO,16.08.00
+conhecimentos-i,conhecimentos,16.08.02,NORMAS TÉCNICAS DE TRANSPORTE DE CARGA,16.08.00
+conhecimentos-i,conhecimentos,16.08.03,NORMAS TÉCNICAS DE TRANSPORTE ESCOLAR,16.08.00
+conhecimentos-i,conhecimentos,16.08.04,NORMAS REGULAMENTADORAS EM TRANSPORTE DE CARGAS,16.08.00
+conhecimentos-i,conhecimentos,16.08.05,NORMAS REGULAMENTADORAS EM MOVIMENTAÇÃO E MANUSEIO DE CARGAS,16.08.00
+conhecimentos-i,conhecimentos,16.08.06,NORMAS REGULAMENTADORAS EM TRANSPORTE DE PASSAGEIRO,16.08.00
+conhecimentos-i,conhecimentos,16.08.90,"OUTROS CONHECIMENTOS DE NORMAS TÉCNICAS E REGULAMENTADORAS PARA A ÁREA DE TRANSPORTES, ARMAZENAGEM E CORREIOS (ESPECIFICAR:...) - NORMAS E PROCEDIMENTOS DAS CAPITANIAS DOS PORTOS (NPCP)",16.08.00
+conhecimentos-i,conhecimentos,16.09.01,OPERAÇÕES DE TRANSPORTES,16.09.00
+conhecimentos-i,conhecimentos,16.09.02,PLANEJAMENTO DE TRANSPORTES,16.09.00
+conhecimentos-i,conhecimentos,16.09.03,VEÍCULOS E EQUIPAMENTOS DE CONTROLE,16.09.00
+conhecimentos-i,conhecimentos,16.09.90,OUTROS CONHECIMENTOS DE PLANEJAMENTO DE TRANSPORTES (ESPECIFICAR:...) - OPERAÇÕES DE TRANSPORTE RODOVIÁRIO DE PASSAGEIROS E CARGAS,16.09.00
+conhecimentos-i,conhecimentos,16.10.01,ROTEIRIZAÇÃO LOGÍSTICA,16.10.00
+conhecimentos-i,conhecimentos,16.10.02,ROBOTIZAÇÃO NA ÁREA DE ARMAZENAGEM,16.10.00
+conhecimentos-i,conhecimentos,16.10.03,ROBOTIZAÇÃO NOS SERVIÇOS DE ENTREGA,16.10.00
+conhecimentos-i,conhecimentos,16.10.90,"OUTROS CONHECIMENTOS DE ROBOTIZAÇÃO NA ÁREA DE TRANSPORTES, ARMAZENAGEM E CORREIOS (ESPECIFICAR:...) - ROBOTIZAÇÃO NA ÁREA PORTUÁRIA",16.10.00
+conhecimentos-i,conhecimentos,16.11.01,"COLETAS DE ENCOMENDAS, DOCUMENTOS E MERCADORIAS",16.11.00
+conhecimentos-i,conhecimentos,16.11.02,PADRONIZAÇÃO DE EMBALAGEM DE OBJETOS E CARGAS,16.11.00
+conhecimentos-i,conhecimentos,16.11.03,PROCEDIMENTOS DE ENTREGA,16.11.00
+conhecimentos-i,conhecimentos,16.11.90,OUTROS CONHECIMENTOS DE SERVIÇOS DE ENTREGA (ESPECIFICAR:...) - INSPEÇÃO DE PRODUTOS E SERVIÇOS DO FLUXO POSTAL,16.11.00
+conhecimentos-i,conhecimentos,16.12.01,GESTÃO REMOTA DE FROTAS,16.12.00
+conhecimentos-i,conhecimentos,16.12.02,IDENTIFICAÇÃO POR RADIOFREQUÊNCIA - SISTEMAS RFID,16.12.00
+conhecimentos-i,conhecimentos,16.12.03,RASTREAMENTO VIA SATÉLITE,16.12.00
+conhecimentos-i,conhecimentos,16.12.04,TECNOLOGIA EM ARMAZENAGEM,16.12.00
+conhecimentos-i,conhecimentos,16.12.05,TECNOLOGIA EM SERVIÇOS DE ENTREGA,16.12.00
+conhecimentos-i,conhecimentos,16.12.90,"OUTROS CONHECIMENTOS DE TECNOLOGIA EM TRANSPORTES, ARMAZENAGEM E CORREIOS (ESPECIFICAR:...) - COMUNICAÇÃO POR VHF (VERY HIGH FREQUENCY)",16.12.00
+conhecimentos-i,conhecimentos,16.13.90,"OUTROS CONHECIMENTOS DE TENDÊNCIAS E INOVAÇÃO EM TRANSPORTES, ARMAZENAGEM E CORREIOS (ESPECIFICAR:...) - ALGORITMOS PARA OTIMIZAÇÃO DE ITINERÁRIOS NO TRANSPORTE AQUAVIÁRIO",16.13.00
+conhecimentos-i,conhecimentos,16.14.01,TERMINAIS AEROVIÁRIOS,16.14.00
+conhecimentos-i,conhecimentos,16.14.02,TERMINAIS DUTOVIÁRIOS,16.14.00
+conhecimentos-i,conhecimentos,16.14.03,TERMINAIS FERROVIÁRIOS,16.14.00
+conhecimentos-i,conhecimentos,16.14.04,TERMINAIS METROVIÁRIOS,16.14.00
+conhecimentos-i,conhecimentos,16.14.05,TERMINAIS PORTUÁRIOS,16.14.00
+conhecimentos-i,conhecimentos,16.14.06,TERMINAIS RODOVIÁRIOS,16.14.00
+conhecimentos-i,conhecimentos,16.14.90,OUTROS CONHECIMENTOS DE TERMINAIS DE TRANSPORTE (ESPECIFICAR:...) - AERÓDROMOS,16.14.00
+conhecimentos-i,conhecimentos,17.01.01,AUTOMAÇÃO EM ALIMENTAÇÃO,17.01.00
+conhecimentos-i,conhecimentos,17.01.03,AUTOMAÇÃO EM EVENTOS,17.01.00
+conhecimentos-i,conhecimentos,17.01.04,AUTOMAÇÃO EM HOSPEDAGEM,17.01.00
+conhecimentos-i,conhecimentos,17.01.05,AUTOMAÇÃO EM TURISMO,17.01.00
+conhecimentos-i,conhecimentos,17.01.90,"OUTROS CONHECIMENTOS DE AUTOMAÇÃO NA ÁREA DE TURISMO, HOSPEDAGEM, ALIMENTAÇÃO, EVENTOS, ESPORTE E LAZER (ESPECIFICAR:...) - AUTOMAÇÃO DE EQUIPAMENTOS PARA PROCESSAMENTO DE ALIMENTOS EM COZINHAS E RESTAURANTES",17.01.00
+conhecimentos-i,conhecimentos,17.02.01,CERIMONIAL E PROTOCOLO,17.02.00
+conhecimentos-i,conhecimentos,17.02.02,COMERCIALIZAÇÃO DE EVENTOS,17.02.00
+conhecimentos-i,conhecimentos,17.02.03,COORDENAÇÃO DA EXECUÇÃO DE EVENTOS,17.02.00
+conhecimentos-i,conhecimentos,17.02.04,DIVULGAÇÃO DE EVENTOS,17.02.00
+conhecimentos-i,conhecimentos,17.02.05,INFRAESTRUTURA PARA REALIZAÇÃO DE EVENTOS,17.02.00
+conhecimentos-i,conhecimentos,17.02.06,ORGANIZAÇÃO DE ESPORTES E RECREAÇÃO,17.02.00
+conhecimentos-i,conhecimentos,17.02.07,PLANEJAMENTO DE EVENTOS,17.02.00
+conhecimentos-i,conhecimentos,17.02.08,RECEPÇÃO DE EVENTOS,17.02.00
+conhecimentos-i,conhecimentos,17.02.90,OUTROS CONHECIMENTOS DE EVENTOS E LAZER (ESPECIFICAR:..) - TÉCNICAS DE ANIMAÇÃO SOCIOCULTURAIS,17.02.00
+conhecimentos-i,conhecimentos,17.03.01,ARBITRAGEM,17.03.00
+conhecimentos-i,conhecimentos,17.03.02,CONDICIONAMENTO FÍSICO,17.03.00
+conhecimentos-i,conhecimentos,17.03.03,MODALIDADES ESPORTIVAS,17.03.00
+conhecimentos-i,conhecimentos,17.03.04,ORGANIZAÇÃO ESPORTIVA,17.03.00
+conhecimentos-i,conhecimentos,17.03.05,REGRAS ESPORTIVAS,17.03.00
+conhecimentos-i,conhecimentos,17.03.06,RENDIMENTO ESPORTIVO,17.03.00
+conhecimentos-i,conhecimentos,17.03.90,OUTROS CONHECIMENTOS DE ESPORTE (ESPECIFICAR:..) - SUBSTÂNCIAS PROIBIDAS (DOPPING),17.03.00
+conhecimentos-i,conhecimentos,17.04.01,CHOCOLATARIA,17.04.00
+conhecimentos-i,conhecimentos,17.04.02,CLASSIFICAÇÃO DAS BEBIDAS,17.04.00
+conhecimentos-i,conhecimentos,17.04.03,CONFEITARIA,17.04.00
+conhecimentos-i,conhecimentos,17.04.04,CULINÁRIA,17.04.00
+conhecimentos-i,conhecimentos,17.04.05,ELABORAÇÃO DE CARDÁPIOS,17.04.00
+conhecimentos-i,conhecimentos,17.04.06,HARMONIZAÇÃO DE BEBIDAS E COMIDAS,17.04.00
+conhecimentos-i,conhecimentos,17.04.07,PANIFICAÇÃO,17.04.00
+conhecimentos-i,conhecimentos,17.04.08,"PEDIDOS: ANOTAÇÃO, ABERTURA, FECHAMENTO DE CONTAS",17.04.00
+conhecimentos-i,conhecimentos,17.04.09,"PLANEJAMENTO E ADMINISTRAÇÃO DE BARES, RESTAURANTES, CONFEITARIAS E PADARIAS",17.04.00
+conhecimentos-i,conhecimentos,17.04.10,PREPARAÇÃO DE BEBIDAS E COQUETÉIS,17.04.00
+conhecimentos-i,conhecimentos,17.04.11,PROCEDIMENTOS DE MISE EM PLACE,17.04.00
+conhecimentos-i,conhecimentos,17.04.12,SEGURANÇA ALIMENTAR,17.04.00
+conhecimentos-i,conhecimentos,17.04.13,SELEÇÃO DE INGREDIENTES DE ALIMENTAÇÃO,17.04.00
+conhecimentos-i,conhecimentos,17.04.14,SELEÇÃO DE MATERIAIS (UTENSÍLIOS E EQUIPAMENTOS) DE ALIMENTAÇÃO,17.04.00
+conhecimentos-i,conhecimentos,17.04.15,TÉCNICAS DE APRESENTAÇÃO DE ALIMENTOS,17.04.00
+conhecimentos-i,conhecimentos,17.04.16,TÉCNICAS DE ARMAZENAMENTO DE ALIMENTOS E BEBIDAS,17.04.00
+conhecimentos-i,conhecimentos,17.04.17,TÉCNICAS DE MANIPULAÇÃO DE ALIMENTOS E BEBIDAS,17.04.00
+conhecimentos-i,conhecimentos,17.04.18,"TIPOS E PERFIS DE CLIENTES (CARACTERÍSTICAS, DESEJOS, NECESSIDADES)",17.04.00
+conhecimentos-i,conhecimentos,17.04.90,"OUTROS CONHECIMENTOS DE GASTRONOMIA E ALIMENTAÇÃO (ESPECIFICAR:..) - TIPOS DE LOUÇAS, TALHERES, COPOS, TAÇAS E OUTROS UTENSÍLIOS DE SERVIÇOS DE MESA",17.04.00
+conhecimentos-i,conhecimentos,17.05.01,APOIO AO HÓSPEDE DURANTE A ESTADA,17.05.00
+conhecimentos-i,conhecimentos,17.05.02,CANAIS DE DISTRIBUIÇÃO PARA HOTÉIS,17.05.00
+conhecimentos-i,conhecimentos,17.05.03,FLUXOS OPERACIONAIS DE GOVERNANÇA,17.05.00
+conhecimentos-i,conhecimentos,17.05.04,FLUXOS OPERACIONAIS DE RESERVA E RECEPÇÃO,17.05.00
+conhecimentos-i,conhecimentos,17.05.05,MEIOS DE HOSPEDAGEM,17.05.00
+conhecimentos-i,conhecimentos,17.05.06,PLANEJAMENTO DOS SERVIÇOS DE HOSPEDAGEM,17.05.00
+conhecimentos-i,conhecimentos,17.05.07,"SERVIÇOS AUXILIARES DE HOSPEDAGEM (ARRUMAÇÃO, ROUPARIA ETC.)",17.05.00
+conhecimentos-i,conhecimentos,17.05.90,OUTROS CONHECIMENTOS DE HOSPEDAGEM (ESPECIFICAR:..) - PROCESSOS E SISTEMAS DE RESERVA E CANCELAMENTO DE HOSPEDAGENS,17.05.00
+conhecimentos-i,conhecimentos,17.06.01,PROCESSO DE MANUTENÇÃO DE APARELHOS DE ESPORTE (EXCETO GINÁSTICA),17.06.00
+conhecimentos-i,conhecimentos,17.06.02,PROCESSO DE MANUTENÇÃO DE APARELHOS DE GINÁSTICA,17.06.00
+conhecimentos-i,conhecimentos,17.06.90,"OUTROS CONHECIMENTOS DE INFORMAÇÕES TECNOLÓGICAS DA MANUTENÇÃO DE EQUIPAMENTOS E APARELHOS DE ESPORTES E DE LAZER (ESPECIFICAR: ...) - MANUTENÇÃO, MONTAGEM E DESMONTAGEM DE EQUIPAMENTOS E APARELHOS NO CAMPO DAS ARTES ACROBÁTICAS",17.06.00
+conhecimentos-i,conhecimentos,17.07.01,NORMAS TÉCNICAS PARA  EVENTOS,17.07.00
+conhecimentos-i,conhecimentos,17.07.03,NORMAS TÉCNICAS PARA GASTRONOMIA E ALIMENTAÇÃO,17.07.00
+conhecimentos-i,conhecimentos,17.07.04,NORMAS TÉCNICAS PARA HOSPEDAGEM,17.07.00
+conhecimentos-i,conhecimentos,17.07.05,NORMAS TÉCNICAS PARA LAZER,17.07.00
+conhecimentos-i,conhecimentos,17.07.06,NORMAS TÉCNICAS PARA TURISMO,17.07.00
+conhecimentos-i,conhecimentos,17.07.90,"OUTROS CONHECIMENTOS DE NORMAS TÉCNICAS E REGULAMENTADORAS PARA TURISMO, HOSPEDAGEM, ALIMENTAÇÃO, EVENTOS, ESPORTE E LAZER (ESPECIFICAR: ...) - NORMAS TÉCNICAS E REGULAMENTADORAS PARA GASTRONOMIA E ALIMENTAÇÃO",17.07.00
+conhecimentos-i,conhecimentos,17.08.01,ROBOTIZAÇÃO NA ÁREA DE TURISMO,17.08.00
+conhecimentos-i,conhecimentos,17.08.03,ROBOTIZAÇÃO NA ÁREA DE GASTRONOMIA E ALIMENTAÇÃO,17.08.00
+conhecimentos-i,conhecimentos,17.08.04,ROBOTIZAÇÃO NA ÁREA DE EVENTOS,17.08.00
+conhecimentos-i,conhecimentos,17.09.02,TECNOLOGIA NA ÁREA DE EVENTOS,17.09.00
+conhecimentos-i,conhecimentos,17.09.03,TECNOLOGIA NA ÁREA DE GASTRONOMIA E ALIMENTAÇÃO,17.09.00
+conhecimentos-i,conhecimentos,17.09.04,TECNOLOGIA NA ÁREA DE HOSPEDAGEM,17.09.00
+conhecimentos-i,conhecimentos,17.09.05,TECNOLOGIA NA ÁREA DE LAZER,17.09.00
+conhecimentos-i,conhecimentos,17.09.06,TECNOLOGIA NA ÁREA DE TURISMO,17.09.00
+conhecimentos-i,conhecimentos,17.09.90,"OUTROS CONHECIMENTOS DE TECNOLOGIA NA ÁREA DE TURISMO, HOSPEDAGEM, ALIMENTAÇÃO, EVENTOS, ESPORTE E LAZER (ESPECIFICAR: ...) - NOVOS EQUIPAMENTOS PARA COZINHA: FORNO COMBINADO; FORNO DE ESTEIRA; ULTRA CONGELADORES; BANHO-MARIA PARA COZIMENTO SOB VÁCUO (SOUS VIDE); FRITADEIRAS; COIFAS COM CONTROLE DE TIRAGEM E FILTRAGEM DO AR; OUTROS",17.09.00
+conhecimentos-i,conhecimentos,17.10.01,INOVAÇÃO NA ÁREA DE ESPORTE,17.10.00
+conhecimentos-i,conhecimentos,17.10.02,INOVAÇÃO NA ÁREA DE EVENTOS,17.10.00
+conhecimentos-i,conhecimentos,17.10.03,INOVAÇÃO NA ÁREA DE GASTRONOMIA E ALIMENTAÇÃO,17.10.00
+conhecimentos-i,conhecimentos,17.10.04,INOVAÇÃO NA ÁREA DE HOSPEDAGEM,17.10.00
+conhecimentos-i,conhecimentos,17.10.05,INOVAÇÃO NA ÁREA DE LAZER,17.10.00
+conhecimentos-i,conhecimentos,17.10.06,INOVAÇÃO NA ÁREA DE TURISMO,17.10.00
+conhecimentos-i,conhecimentos,17.10.07,TENDÊNCIAS DA ÁREA DE ESPORTE,17.10.00
+conhecimentos-i,conhecimentos,17.10.09,TENDÊNCIAS DA ÁREA DE GASTRONOMIA E ALIMENTAÇÃO,17.10.00
+conhecimentos-i,conhecimentos,17.10.10,TENDÊNCIAS DA ÁREA DE HOSPEDAGEM,17.10.00
+conhecimentos-i,conhecimentos,17.10.11,TENDÊNCIAS DA ÁREA DE LAZER,17.10.00
+conhecimentos-i,conhecimentos,17.10.12,TENDÊNCIAS DA ÁREA DE TURISMO,17.10.00
+conhecimentos-i,conhecimentos,17.10.90,"OUTROS CONHECIMENTOS DE TENDÊNCIAS E INOVAÇÃO NA ÁREA DE TURISMO, HOSPEDAGEM, ALIMENTAÇÃO, EVENTOS, ESPORTE E LAZER (ESPECIFICAR: ...) - SMARTMACHINES DE SANITIZAÇÃO",17.10.00
+conhecimentos-i,conhecimentos,17.11.01,ACESSIBILIDADE EM ESPAÇOS TURÍSTICOS,17.11.00
+conhecimentos-i,conhecimentos,17.11.02,ADAPTAÇÃO DE ESPAÇO PARA USO TURÍSTICO,17.11.00
+conhecimentos-i,conhecimentos,17.11.03,ECOTURISMO,17.11.00
+conhecimentos-i,conhecimentos,17.11.04,ELABORAÇÃO DE PROJETOS TURÍSTICOS,17.11.00
+conhecimentos-i,conhecimentos,17.11.05,ELABORAÇÃO DE ROTEIROS E ITINERÁRIOS EM TURISMO,17.11.00
+conhecimentos-i,conhecimentos,17.11.06,ORIENTAÇÃO E CONDUÇÃO DE PESSOAS,17.11.00
+conhecimentos-i,conhecimentos,17.11.07,TURISMO CULTURAL,17.11.00
+conhecimentos-i,conhecimentos,17.11.08,TURISMO DE AVENTURA,17.11.00
+conhecimentos-i,conhecimentos,17.11.09,TURISMO PEDAGÓGICO,17.11.00
+conhecimentos-i,conhecimentos,17.11.10,TURISMO RECEPTIVO,17.11.00
+conhecimentos-i,conhecimentos,17.11.11,TURISMO RURAL,17.11.00
+conhecimentos-i,conhecimentos,17.11.90,OUTROS CONHECIMENTOS DE TURISMO (ESPECIFICAR:..) - TURISMO RELIGIOSO,17.11.00
+conhecimentos-i,conhecimentos,18.01.02,AUTOMAÇÃO NA ÁREA DE ESTÉTICA,18.01.00
+conhecimentos-i,conhecimentos,18.01.03,AUTOMAÇÃO NA ÁREA DE MODA,18.01.00
+conhecimentos-i,conhecimentos,18.01.90,"OUTROS CONHECIMENTOS DE AUTOMAÇÃO NA ÁREA DE MODA, ESTÉTICA, EMBELEZAMENTO E SERVIÇOS ÀS PESSOAS (ESPECIFICAR:..) - TECNOLOGIAS E OPERAÇÃO DE MÁQUINAS E EQUIPAMENTOS DE LAVAR, SECAR, PASSAR, DOBRAR E EMBALAR ROUPAS E ARTEFATOS DE LAVANDERIAS DOMICILIARES E INDUSTRIAIS",18.01.00
+conhecimentos-i,conhecimentos,18.02.01,BARBEARIA,18.02.00
+conhecimentos-i,conhecimentos,18.02.02,CLAREAMENTO DE MANCHAS,18.02.00
+conhecimentos-i,conhecimentos,18.02.03,CORTE E PENTEADO DE CABELO,18.02.00
+conhecimentos-i,conhecimentos,18.02.04,COSMETOLOGIA,18.02.00
+conhecimentos-i,conhecimentos,18.02.05,DEPILAÇÃO,18.02.00
+conhecimentos-i,conhecimentos,18.02.07,DRENAGEM LINFÁTICA,18.02.00
+conhecimentos-i,conhecimentos,18.02.08,ESTÉTICA,18.02.00
+conhecimentos-i,conhecimentos,18.02.09,MAQUIAGEM,18.02.00
+conhecimentos-i,conhecimentos,18.02.10,MASSAGEM ESTÉTICA,18.02.00
+conhecimentos-i,conhecimentos,18.02.11,TÉCNICAS DE REJUVENESCIMENTO FACIAL,18.02.00
+conhecimentos-i,conhecimentos,18.02.12,"TRATAMENTO DE CABELO (COLORAÇÃO, DESCOLORAÇÃO E HIDRATAÇÃO)",18.02.00
+conhecimentos-i,conhecimentos,18.02.13,TRATAMENTO E PINTURA DE UNHAS,18.02.00
+conhecimentos-i,conhecimentos,18.02.90,"OUTROS CONHECIMENTOS DE ESTÉTICA, EMBELEZAMENTO E CUIDADOS PESSOAIS (ESPECIFICAR:..) - TÉCNICAS DE HIGIENIZAÇÃO, MASSAGEM CAPILAR E SECAGEM",18.02.00
+conhecimentos-i,conhecimentos,18.03.02,COSTURA DE VESTUÁRIO (NÃO-INDUSTRIAL),18.03.00
+conhecimentos-i,conhecimentos,18.03.04,CULTURA E COMPORTAMENTO DA MODA,18.03.00
+conhecimentos-i,conhecimentos,18.03.05,DESENVOLVIMENTO DE COLEÇÕES DE CALÇADOS,18.03.00
+conhecimentos-i,conhecimentos,18.03.06,DESIGN DE ACESSÓRIOS DE MODA,18.03.00
+conhecimentos-i,conhecimentos,18.03.07,DESIGN DE MODA,18.03.00
+conhecimentos-i,conhecimentos,18.03.08,FOTOGRAFIA DE MODA,18.03.00
+conhecimentos-i,conhecimentos,18.03.09,MARKETING E COMUNICAÇÃO DE MODA,18.03.00
+conhecimentos-i,conhecimentos,18.03.10,PRODUÇÃO DE EVENTOS DE MODA,18.03.00
+conhecimentos-i,conhecimentos,18.03.11,PRODUÇÃO DE MODA,18.03.00
+conhecimentos-i,conhecimentos,18.03.12,PRODUÇÃO VISUAL,18.03.00
+conhecimentos-i,conhecimentos,18.03.90,OUTROS CONHECIMENTOS DE MODA  (ESPECIFICAR:..) - TEORIA DAS CORES,18.03.00
+conhecimentos-i,conhecimentos,18.04.01,NORMAS TÉCNICAS NA ÁREA DA ESTÉTICA,18.04.00
+conhecimentos-i,conhecimentos,18.04.02,NORMAS TÉCNICAS NA ÁREA DA MODA,18.04.00
+conhecimentos-i,conhecimentos,18.04.03,NORMAS TÉCNICAS NA ÁREA DO EMBELEZAMENTO,18.04.00
+conhecimentos-i,conhecimentos,18.04.04,NORMAS TÉCNICAS NA ÁREA DOS SERVIÇOS ÀS PESSOAS,18.04.00
+conhecimentos-i,conhecimentos,18.04.90,"OUTROS CONHECIMENTOS DE NORMAS TÉCNICAS E REGULAMENTADORAS PARA A ÁREA DE MODA, ESTÉTICA, EMBELEZAMENTO E SERVIÇOS ÀS PESSOAS  (ESPECIFICAR:..) - NORMAS REGULAMENTADORAS PARA SERVIÇOS DE LAVANDERIA",18.04.00
+conhecimentos-i,conhecimentos,18.05.02,ROBOTIZAÇÃO NA ÁREA DA MODA,18.05.00
+conhecimentos-i,conhecimentos,18.06.01,LAVANDERIA,18.06.00
+conhecimentos-i,conhecimentos,18.06.02,PASSADORIA,18.06.00
+conhecimentos-i,conhecimentos,18.06.04,REPAROS DE ROUPAS,18.06.00
+conhecimentos-i,conhecimentos,18.06.90,"OUTROS CONHECIMENTOS DE SERVIÇOS DE LAVANDERIA, PASSADORIA E REPAROS (ESPECIFICAR:..) - CUIDADO COM ROUPAS – LEITURA DE ETIQUETAS; LAVAGEM, ALVEJAMENTO, LIMPEZA DE MANCHAS, SECAGEM E ENGOMAGEM",18.06.00
+conhecimentos-i,conhecimentos,18.08.01,TECNOLOGIA NA ÁREA DA ESTÉTICA,18.08.00
+conhecimentos-i,conhecimentos,18.08.02,TECNOLOGIA NA ÁREA DA MODA,18.08.00
+conhecimentos-i,conhecimentos,18.08.90,"OUTROS CONHECIMENTOS DE TECNOLOGIA NA ÁREA DE MODA, ESTÉTICA, EMBELEZAMENTO E SERVIÇOS ÀS PESSOAS (ESPECIFICAR:..) - NOÇÕES DE MODA E A COMPOSIÇÃO DE FIGURINOS TEATRAIS",18.08.00
+conhecimentos-i,conhecimentos,18.09.01,INOVAÇÃO NA ÁREA DA ESTÉTICA,18.09.00
+conhecimentos-i,conhecimentos,18.09.02,INOVAÇÃO NA ÁREA DA MODA,18.09.00
+conhecimentos-i,conhecimentos,18.09.04,INOVAÇÃO NA ÁREA DOS SERVIÇOS ÀS PESSOAS,18.09.00
+conhecimentos-i,conhecimentos,18.09.05,TENDÊNCIAS DA ÁREA DA ESTÉTICA,18.09.00
+conhecimentos-i,conhecimentos,18.09.06,TENDÊNCIAS DA ÁREA DA MODA,18.09.00
+conhecimentos-i,conhecimentos,18.09.08,TENDÊNCIAS DA ÁREA DOS SERVIÇOS ÀS PESSOAS,18.09.00
+conhecimentos-i,conhecimentos,18.09.90,"OUTROS CONHECIMENTOS DE TENDÊNCIAS E INOVAÇÃO NA ÁREA DE MODA, ESTÉTICA, EMBELEZAMENTO E SERVIÇOS ÀS PESSOAS (ESPECIFICAR:..) - TENDÊNCIAS E INOVAÇÕES APLICADAS À PRODUÇÃO, REALIZAÇÃO E TRANSMISSÃO DE EVENTOS DE MODA, DESFILES, ENSAIOS FOTOGRÁFICOS E AUDIOVISUAIS",18.09.00
+conhecimentos-i,conhecimentos,19.01.02,AUTOMAÇÃO NA ÁREA DE CUIDADOS DE ANIMAIS DOMÉSTICOS,19.01.00
+conhecimentos-i,conhecimentos,19.02.01,ANATOMIA DE ANIMAIS DOMÉSTICOS,19.02.00
+conhecimentos-i,conhecimentos,19.02.03,ASSISTÊNCIA EM CIRURGIA VETERINÁRIA,19.02.00
+conhecimentos-i,conhecimentos,19.02.04,CASTRAÇÃO DE ANIMAIS DOMÉSTICOS,19.02.00
+conhecimentos-i,conhecimentos,19.02.05,CINOTECNIA,19.02.00
+conhecimentos-i,conhecimentos,19.02.06,COMPORTAMENTO ANIMAL,19.02.00
+conhecimentos-i,conhecimentos,19.02.07,FARMACOLOGIA VETERINÁRIA,19.02.00
+conhecimentos-i,conhecimentos,19.02.08,FISIOLOGIA ANIMAL,19.02.00
+conhecimentos-i,conhecimentos,19.02.09,GINECOLOGIA E OBSTETRÍCIA DE ANIMAIS DOMÉSTICOS,19.02.00
+conhecimentos-i,conhecimentos,19.02.10,NUTRIÇÃO,19.02.00
+conhecimentos-i,conhecimentos,19.02.11,PARASITOLOGIA EM ANIMAIS DOMÉSTICOS,19.02.00
+conhecimentos-i,conhecimentos,19.02.12,TOXICOLOGIA,19.02.00
+conhecimentos-i,conhecimentos,19.02.13,ZOONOSES,19.02.00
+conhecimentos-i,conhecimentos,19.02.90,OUTROS CONHECIMENTOS DE SAÚDE DE ANIMAIS DOMÉSTICOS (ESPECIFICAR:...) - PRIMEIROS SOCORROS DE ANIMAIS,19.02.00
+conhecimentos-i,conhecimentos,19.03.01,ACESSÓRIOS E ROUPAS PARA ANIMAIS DOMÉSTICOS,19.03.00
+conhecimentos-i,conhecimentos,19.03.02,BANHO DE ANIMAIS DOMÉSTICOS,19.03.00
+conhecimentos-i,conhecimentos,19.03.03,ESTÉTICA DE ANIMAIS,19.03.00
+conhecimentos-i,conhecimentos,19.03.04,TOSA DE ANIMAIS DOMÉSTICOS,19.03.00
+conhecimentos-i,conhecimentos,19.03.90,"OUTROS CONHECIMENTOS DE MODA, HIGIENE E ESTÉTICA DE ANIMAIS DOMÉSTICOS (ESPECIFICAR:..) - INSTRUMENTAL PARA TOSA E BANHOS E PROCEDIMENTOS COSMÉTICOS E ESTÉTICOS EM ANIMAIS",19.03.00
+conhecimentos-i,conhecimentos,19.04.01,ADESTRAMENTO DE ANIMAIS DOMÉSTICOS (EXCETO CÃES E GATOS),19.04.00
+conhecimentos-i,conhecimentos,19.04.02,ADESTRAMENTO DE CÃES,19.04.00
+conhecimentos-i,conhecimentos,19.04.03,ADESTRAMENTO DE CÃO-GUIA,19.04.00
+conhecimentos-i,conhecimentos,19.04.04,ADESTRAMENTO DE GATOS,19.04.00
+conhecimentos-i,conhecimentos,19.04.90,"OUTROS CONHECIMENTOS DE ADESTRAMENTO DE ANIMAIS DOMÉSTICOS (ESPECIFICAR:..) - TÉCNICAS DE ADESTRAMENTO DE ANIMAIS DOMÉSTICOS APLICADAS AOS ESPETÁCULOS DE MÁGICA, ILUSIONISMO E PRESTIDIGITAÇÃO",19.04.00
+conhecimentos-i,conhecimentos,19.05.90,"OUTROS CONHECIMENTOS DE NORMAS TÉCNICAS E REGULAMENTADORAS PARA A ÁREA DE SAÚDE, CUIDADOS E ADESTRAMENTO DE ANIMAIS DOMÉSTICOS (ESPECIFICAR:..) - NORMAS REGULAMENTADORAS PARA A ÁREA DE SAÚDE E CUIDADOS DE ANIMAIS DOMÉSTICOS",19.05.00
+conhecimentos-i,conhecimentos,19.07.01,MICROCHIP PARA IDENTIFICAR ANIMAL DE ESTIMAÇÃO,19.07.00
+conhecimentos-i,conhecimentos,19.07.02,"BRINQUEDO CONTROLADO REMOTAMENTE, COM CÂMERA INTEGRADA, PARA ACOMPANHAR ANIMAL",19.07.00
+conhecimentos-i,conhecimentos,19.08.04,TENDÊNCIAS DA ÁREA DE SAÚDE DE ANIMAIS DOMÉSTICOS,19.08.00
+conhecimentos-i,conhecimentos,19.08.05,TENDÊNCIAS DA ÁREA DE CUIDADOS DE ANIMAIS DOMÉSTICOS,19.08.00
+conhecimentos-i,conhecimentos,19.08.06,TENDÊNCIAS DA ÁREA DE ADESTRAMENTO DE ANIMAIS DOMÉSTICOS,19.08.00
+conhecimentos-i,conhecimentos,20.01.01,CINESIOLOGIA (CIÊNCIA DOS MOVIMENTOS),20.01.00
+conhecimentos-i,conhecimentos,20.01.02,DRAMATURGIA,20.01.00
+conhecimentos-i,conhecimentos,20.01.03,ENSAIO E INTERPRETAÇÃO,20.01.00
+conhecimentos-i,conhecimentos,20.01.04,"ESPAÇO CÊNICO, RITMO E MOVIMENTO",20.01.00
+conhecimentos-i,conhecimentos,20.01.05,EXPRESSÃO CORPORAL (CORPO E VOZ),20.01.00
+conhecimentos-i,conhecimentos,20.01.06,HISTÓRIA DAS ARTES CÊNICAS,20.01.00
+conhecimentos-i,conhecimentos,20.01.07,PESQUISA CÊNICA,20.01.00
+conhecimentos-i,conhecimentos,20.01.08,PROCESSOS DE CONSTRUÇÃO DE PERSONAGEM,20.01.00
+conhecimentos-i,conhecimentos,20.01.09,TÉCNICAS DE CONFECÇÃO DE ACESSÓRIOS CÊNICOS,20.01.00
+conhecimentos-i,conhecimentos,20.01.90,OUTROS CONHECIMENTOS DE ARTES CÊNICAS (ESPECIFICAR:..) - ANÁLISE E PERCEPÇÃO MUSICAL,20.01.00
+conhecimentos-i,conhecimentos,20.02.01,HISTÓRIA DO CIRCO,20.02.00
+conhecimentos-i,conhecimentos,20.02.02,TÉCNICAS CIRCENSES,20.02.00
+conhecimentos-i,conhecimentos,20.02.90,OUTROS CONHECIMENTOS DE ARTES CIRCENSE (ESPECIFICAR:..) - CONCEITOS DE ARTES PLÁSTICAS APLICADOS À PRODUÇÃO FOTOGRÁFICA E À PROFISSÃO DE FOTÓGRAFO,20.02.00
+conhecimentos-i,conhecimentos,20.03.01,ARRANJO MUSICAL,20.03.00
+conhecimentos-i,conhecimentos,20.03.02,CANTO,20.03.00
+conhecimentos-i,conhecimentos,20.03.03,CLASSIFICAÇÃO DE INSTRUMENTOS MUSICAIS,20.03.00
+conhecimentos-i,conhecimentos,20.03.04,COMPOSIÇÃO MUSICAL,20.03.00
+conhecimentos-i,conhecimentos,20.03.05,"ELEMENTOS MUSICAIS (MELODIA, HARMONIA, RITMO E TIMBRE)",20.03.00
+conhecimentos-i,conhecimentos,20.03.06,HISTÓRIA DAS ARTES MUSICAIS,20.03.00
+conhecimentos-i,conhecimentos,20.03.07,INTERPRETAÇÃO MUSICAL,20.03.00
+conhecimentos-i,conhecimentos,20.03.08,LEITURA E ESCRITA MUSICAL,20.03.00
+conhecimentos-i,conhecimentos,20.03.09,MIXAGEM E EDIÇÃO MUSICAL,20.03.00
+conhecimentos-i,conhecimentos,20.03.11,TÉCNICAS DE MASTERIZAÇÃO,20.03.00
+conhecimentos-i,conhecimentos,20.03.12,TEORIA MUSICAL,20.03.00
+conhecimentos-i,conhecimentos,20.03.90,OUTROS CONHECIMENTOS DE ARTES MUSICAIS (ESPECIFICAR:..) - NOÇÕES DE ARTES MUSICAIS APLICADAS A PROJETOS E EXPOSIÇÕES FOTOGRÁFICAS,20.03.00
+conhecimentos-i,conhecimentos,20.04.01,ANÁLISE DE MATERIAIS,20.04.00
+conhecimentos-i,conhecimentos,20.04.02,COMPOSIÇÃO VISUAL,20.04.00
+conhecimentos-i,conhecimentos,20.04.03,COR E FORMA,20.04.00
+conhecimentos-i,conhecimentos,20.04.04,EXPRESSÃO PLÁSTICA,20.04.00
+conhecimentos-i,conhecimentos,20.04.05,HISTÓRIA DAS ARTES VISUAIS,20.04.00
+conhecimentos-i,conhecimentos,20.04.06,MULTIMÍDIA,20.04.00
+conhecimentos-i,conhecimentos,20.04.07,PROCESSOS FOTOGRÁFICOS,20.04.00
+conhecimentos-i,conhecimentos,20.04.90,OUTROS CONHECIMENTOS DE ARTES PLÁSTICAS (ESPECIFICAR:..) - MÍDIA E INTERMÍDIA,20.04.00
+conhecimentos-i,conhecimentos,20.05.01,AUTOMAÇÃO NA ÁREA CULTURAL,20.05.00
+conhecimentos-i,conhecimentos,20.05.90,"OUTROS CONHECIMENTOS DE AUTOMAÇÃO NA PRODUÇÃO CULTURAL, DESIGN E DECORAÇÃO  (ESPECIFICAR:..) - AUTOMAÇÃO APLICADA À PRODUÇÃO FOTOGRÁFICA E À PROFISSÃO DE FOTÓGRAFO.",20.05.00
+conhecimentos-i,conhecimentos,20.06.01,"COMPOSIÇÃO VISUAL (COR, FORMA, ESTRUTURA E PROPORÇÃO)",20.06.00
+conhecimentos-i,conhecimentos,20.06.02,HISTÓRIA DO DESIGN,20.06.00
+conhecimentos-i,conhecimentos,20.06.03,TÉCNICAS DE REPRESENTAÇÃO BI E TRIDIMENSIONAL,20.06.00
+conhecimentos-i,conhecimentos,20.06.90,OUTROS CONHECIMENTOS DE DESIGN (ESPECIFICAR:..) - DESIGN DIGITAL,20.06.00
+conhecimentos-i,conhecimentos,20.07.01,CONSERVAÇÃO E RESTAURO,20.07.00
+conhecimentos-i,conhecimentos,20.07.02,ORGANIZAÇÃO DE ACERVOS,20.07.00
+conhecimentos-i,conhecimentos,20.07.03,PATRIMÔNIO HISTÓRICO,20.07.00
+conhecimentos-i,conhecimentos,20.07.90,OUTROS CONHECIMENTOS DE MUSEOLOGIA E PATRIMÔNIO HISTÓRICO (ESPECIFICAR:..) - FUNDAMENTOS DE MUSEOLOGIA,20.07.00
+conhecimentos-i,conhecimentos,20.08.01,NORMAS REGULAMENTADORAS DE DESIGN E DECORAÇÃO,20.08.00
+conhecimentos-i,conhecimentos,20.08.02,NORMAS REGULAMENTADORAS DE PRODUÇÃO CULTURAL,20.08.00
+conhecimentos-i,conhecimentos,20.08.03,NORMAS TÉCNICAS DE DESIGN E DECORAÇÃO,20.08.00
+conhecimentos-i,conhecimentos,20.08.04,NORMAS TÉCNICAS DE PRODUÇÃO CULTURAL,20.08.00
+conhecimentos-i,conhecimentos,20.08.90,"OUTROS CONHECIMENTOS DE NORMAS TÉCNICAS E REGULAMENTADORAS PARA PRODUÇÃO CULTURAL, DESIGN E DECORAÇÃO  (ESPECIFICAR:..) - NORMAS TÉCNICAS E REGULAMENTADORAS PARA PRODUÇÃO CULTURAL, DESIGN E DECORAÇÃO - CENOGRAFIA E FIGURINO",20.08.00
+conhecimentos-i,conhecimentos,20.09.01,DECORAÇÃO DE AMBIENTES,20.09.00
+conhecimentos-i,conhecimentos,20.09.02,PAISAGISMO,20.09.00
+conhecimentos-i,conhecimentos,20.09.03,VITRINISMO,20.09.00
+conhecimentos-i,conhecimentos,20.09.90,OUTROS CONHECIMENTOS DE PAISAGISMO E DECORAÇÃO (ESPECIFICAR:...) - NOÇÕES DE DISPLAYS,20.09.00
+conhecimentos-i,conhecimentos,20.10.01,CLASSIFICAÇÃO INDICATIVA DE PROGRAMAS AUDIOVISUAIS,20.10.00
+conhecimentos-i,conhecimentos,20.10.02,DIREITOS AUTORAIS,20.10.00
+conhecimentos-i,conhecimentos,20.10.03,MARCAS E PATENTES,20.10.00
+conhecimentos-i,conhecimentos,20.10.90,OUTROS CONHECIMENTOS DE PROPRIEDADE INTELECTUAL (ESPECIFICAR:...) - DIREITOS AUTORAIS: FUNDAMENTOS HISTÓRICOS; BASES CONCEITUAIS; LEGISLAÇÃO APLICADA,20.10.00
+conhecimentos-i,conhecimentos,20.11.03,ROBOTIZAÇÃO NO DESIGN,20.11.00
+conhecimentos-i,conhecimentos,20.11.90,"OUTROS CONHECIMENTOS DE ROBOTIZAÇÃO NA PRODUÇÃO CULTURAL, DESIGN E DECORAÇÃO (ESPECIFICAR:...) - ROBOTIZAÇÃO APLICADA À PRODUÇÃO FOTOGRÁFICA E À PROFISSÃO DE FOTÓGRAFO.",20.11.00
+conhecimentos-i,conhecimentos,20.12.01,ACÚSTICA,20.12.00
+conhecimentos-i,conhecimentos,20.12.02,CAPTAÇÃO DE ÁUDIO,20.12.00
+conhecimentos-i,conhecimentos,20.12.03,CAPTAÇÃO DE IMAGENS,20.12.00
+conhecimentos-i,conhecimentos,20.12.04,CENOGRAFIA,20.12.00
+conhecimentos-i,conhecimentos,20.12.05,EDIÇÃO DE MÍDIA AUDIOVISUAL,20.12.00
+conhecimentos-i,conhecimentos,20.12.06,ELABORAÇÃO DE ROTEIRO,20.12.00
+conhecimentos-i,conhecimentos,20.12.07,FIGURINOS,20.12.00
+conhecimentos-i,conhecimentos,20.12.08,FINALIZAÇÃO DE MÍDIA AUDIOVISUAL,20.12.00
+conhecimentos-i,conhecimentos,20.12.09,ILUMINAÇÃO,20.12.00
+conhecimentos-i,conhecimentos,20.12.10,MONTAGEM DE MÍDIA AUDIOVISUAL,20.12.00
+conhecimentos-i,conhecimentos,20.12.11,OPERAÇÃO DE MÁQUINAS EM PRODUÇÃO CULTURAL,20.12.00
+conhecimentos-i,conhecimentos,20.12.12,PROJEÇÃO EM ESPETÁCULOS,20.12.00
+conhecimentos-i,conhecimentos,20.12.13,SONOPLASTIA,20.12.00
+conhecimentos-i,conhecimentos,20.12.90,OUTROS CONHECIMENTOS DE TÉCNICAS AUXILIARES DE PRODUÇÃO CULTURAL (ESPECIFICAR:..) - CONFIGURAÇÕES E TÉCNICAS DE EQUALIZAÇÃO,20.12.00
+conhecimentos-i,conhecimentos,20.13.01,REALIDADE AUMENTADA,20.13.00
+conhecimentos-i,conhecimentos,20.13.02,REALIDADE VIRTUAL,20.13.00
+conhecimentos-i,conhecimentos,20.13.90,"OUTROS CONHECIMENTOS DE TECNOLOGIA EM PRODUÇÃO CULTURAL, DESIGN E DECORAÇÃO  (ESPECIFICAR:..) - EQUIPAMENTOS E SOFTWARES DE CAPTAÇÃO, GRAVAÇÃO, TRATAMENTO, EDIÇÃO, FINALIZAÇÃO E ARQUIVAMENTO DE CONTEÚDOS AUDIOVISUAIS",20.13.00
+conhecimentos-i,conhecimentos,20.14.01,DESENVOLVIMENTO DE PRODUTO,20.14.00
+conhecimentos-i,conhecimentos,20.14.02,INOVAÇÃO EM DESIGN E DECORAÇÃO,20.14.00
+conhecimentos-i,conhecimentos,20.14.03,INOVAÇÃO NA PRODUÇÃO CULTURAL,20.14.00
+conhecimentos-i,conhecimentos,20.14.04,TENDÊNCIAS EM DESIGN E DECORAÇÃO,20.14.00
+conhecimentos-i,conhecimentos,20.14.05,TENDÊNCIAS NA PRODUÇÃO CULTURAL,20.14.00
+conhecimentos-i,conhecimentos,20.14.90,"OUTROS CONHECIMENTOS DE TENDÊNCIA E INOVAÇÃO NA PRODUÇÃO CULTURAL, DESIGN E DECORAÇÃO   (ESPECIFICAR:..) - TECIDOS SUSTENTÁVEIS",20.14.00
+conhecimentos-i,conhecimentos,21.01.02,AUTOMAÇÃO EM SERVIÇOS DE PORTARIA E VIGILÂNCIA,21.01.00
+conhecimentos-i,conhecimentos,21.01.90,"OUTROS CONHECIMENTOS DE AUTOMAÇÃO NA LIMPEZA, CONSERVAÇÃO, PORTARIA, VIGILÂNCIA, ZELADORIA E MANUTENÇÃO DE EDIFÍCIOS E DE ÁREAS PÚBLICAS (ESPECIFICAR: ...) - SISTEMAS ELETRÔNICOS DE SEGURANÇA",21.01.00
+conhecimentos-i,conhecimentos,21.02.01,COLETA DE MATERIAL RECICLÁVEL,21.02.00
+conhecimentos-i,conhecimentos,21.02.02,OPERAÇÃO DE PRENSA DE MATERIAL RECICLÁVEL,21.02.00
+conhecimentos-i,conhecimentos,21.02.03,SELEÇÃO DE MATERIAL RECICLÁVEL,21.02.00
+conhecimentos-i,conhecimentos,21.02.90,OUTROS CONHECIMENTOS DE COLETA E RECICLAGEM DE MATERIAL (ESPECIFICAR:..) - CUIDADOS COM LIXO RECICLÁVEL,21.02.00
+conhecimentos-i,conhecimentos,21.03.01,DEDETIZAÇÃO,21.03.00
+conhecimentos-i,conhecimentos,21.03.02,LIMPEZA E CONSERVAÇÃO DE ÁREAS PÚBLICAS,21.03.00
+conhecimentos-i,conhecimentos,21.03.03,LIMPEZA E CONSERVAÇÃO DOMÉSTICA,21.03.00
+conhecimentos-i,conhecimentos,21.03.04,ORGANIZAÇÃO DE MATERIAL DE LIMPEZA,21.03.00
+conhecimentos-i,conhecimentos,21.03.90,OUTROS CONHECIMENTOS DE LIMPEZA E CONSERVAÇÃO (ESPECIFICAR:..) - MATERIAIS BÁSICOS DE LIMPEZA,21.03.00
+conhecimentos-i,conhecimentos,21.04.01,CONSERVAÇÃO E MANUTENÇÃO DA INFRAESTRUTURA DE EDIFICAÇÕES,21.04.00
+conhecimentos-i,conhecimentos,21.04.02,INSTALAÇÃO E MANUTENÇÃO DE ELEVADORES,21.04.00
+conhecimentos-i,conhecimentos,21.04.04,INSTALAÇÃO E MANUTENÇÃO DE PORTAS AUTOMÁTICAS,21.04.00
+conhecimentos-i,conhecimentos,21.04.05,INSTALAÇÃO E MANUTENÇÃO DE SISTEMAS DE SEGURANÇA,21.04.00
+conhecimentos-i,conhecimentos,21.04.06,INSTALAÇÃO E MANUTENÇÃO DE SISTEMAS DE PORTARIA ELETRÔNICA,21.04.00
+conhecimentos-i,conhecimentos,21.04.90,OUTROS CONHECIMENTOS DE INSTALAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS DE EDIFÍCIOS (ESPECIFICAR:..) - FUNCIONAMENTO DA PORTARIA VIRTUAL,21.04.00
+conhecimentos-i,conhecimentos,21.05.01,NORMAS REGULAMENTADORAS EM LIMPEZA E CONSERVAÇÃO,21.05.00
+conhecimentos-i,conhecimentos,21.05.03,NORMAS REGULAMENTADORAS EM MANUTENÇÃO DE EDIFÍCIOS,21.05.00
+conhecimentos-i,conhecimentos,21.05.05,NORMAS REGULAMENTADORAS EM PORTARIA DE EDIFÍCIO,21.05.00
+conhecimentos-i,conhecimentos,21.05.06,NORMAS REGULAMENTADORAS EM SEGURANÇA DE ÁREAS PÚBLICAS,21.05.00
+conhecimentos-i,conhecimentos,21.05.07,NORMAS REGULAMENTADORAS EM SEGURANÇA DE EDIFÍCIOS,21.05.00
+conhecimentos-i,conhecimentos,21.05.08,NORMAS TÉCNICAS EM LIMPEZA E CONSERVAÇÃO,21.05.00
+conhecimentos-i,conhecimentos,21.05.09,NORMAS TÉCNICAS EM MANUTENÇÃO DE ÁREAS PÚBLICAS,21.05.00
+conhecimentos-i,conhecimentos,21.05.10,NORMAS TÉCNICAS EM MANUTENÇÃO DE EDIFÍCIOS,21.05.00
+conhecimentos-i,conhecimentos,21.05.12,NORMAS TÉCNICAS EM PORTARIA DE EDIFÍCIOS,21.05.00
+conhecimentos-i,conhecimentos,21.05.13,NORMAS TÉCNICAS EM SEGURANÇA DE ÁREAS PÚBLICAS,21.05.00
+conhecimentos-i,conhecimentos,21.05.14,NORMAS TÉCNICAS EM SEGURANÇA DE EDIFÍCIOS,21.05.00
+conhecimentos-i,conhecimentos,21.05.90,"OUTROS CONHECIMENTOS DE NORMAS TÉCNICAS E REGULAMENTADORAS PARA LIMPEZA, CONSERVAÇÃO, PORTARIA, VIGILÂNCIA, ZELADORIA E MANUTENÇÃO DE EDIFÍCIOS E DE ÁREAS PÚBLICAS (ESPECIFICAR:..) - NORMA REGULAMENTADORA DE TRABALHO EM ALTURA",21.05.00
+conhecimentos-i,conhecimentos,21.06.01,CONTROLE DE MOVIMENTAÇÃO DE PESSOAS E MERCADORIAS,21.06.00
+conhecimentos-i,conhecimentos,21.06.02,RECEPÇÃO DE OBJETOS E MERCADORIAS,21.06.00
+conhecimentos-i,conhecimentos,21.06.03,SEGURANÇA PESSOAL E PATRIMONIAL,21.06.00
+conhecimentos-i,conhecimentos,21.06.90,OUTROS CONHECIMENTOS DE PORTARIA E VIGILÂNCIA (ESPECIFICAR:..) - SISTEMAS BIOMÉTRICOS DE SEGURANÇA,21.06.00
+conhecimentos-i,conhecimentos,21.08.01,TECNOLOGIA EM LIMPEZA E CONSERVAÇÃO,21.08.00
+conhecimentos-i,conhecimentos,21.08.02,TECNOLOGIA EM MANUTENÇÃO DE EDIFÍCIOS E DE ÁREAS PÚBLICAS,21.08.00
+conhecimentos-i,conhecimentos,21.08.03,TECNOLOGIA EM PORTARIA E VIGILÂNCIA,21.08.00
+conhecimentos-i,conhecimentos,21.08.90,"OUTROS CONHECIMENTOS DE TECNOLOGIA EM LIMPEZA, CONSERVAÇÃO, PORTARIA, VIGILÂNCIA, ZELADORIA E MANUTENÇÃO DE EDIFÍCIOS E DE ÁREAS PÚBLICAS (ESPECIFICAR: ...) - TECNOLOGIAS DE SERVIÇOS DE SEGURANÇA EM EDIFÍCIOS E ÁREAS PÚBLICAS",21.08.00
+conhecimentos-i,conhecimentos,21.09.05,TENDÊNCIAS EM PORTARIA E VIGILÂNCIA,21.09.00
+conhecimentos-i,conhecimentos,21.09.06,TENDÊNCIAS EM MANUTENÇÃO DE EDIFÍCIOS E DE ÁREAS PÚBLICAS,21.09.00
+conhecimentos-i,conhecimentos,21.09.90,"OUTROS CONHECIMENTOS DE TENDÊNCIAS E INOVAÇÃO NA LIMPEZA, CONSERVAÇÃO, PORTARIA, VIGILÂNCIA, ZELADORIA E MANUTENÇÃO DE EDIFÍCIOS E DE ÁREAS PÚBLICAS (ESPECIFICAR: ...) - NOVOS PRODUTOS E DESENVOLVIMENTOS NA ÁREA DE SEGURANÇA ELETRÔNICA",21.09.00
+conhecimentos-i,conhecimentos,21.10.01,ADMINISTRAÇÃO DE SERVIÇOS DE ZELADORIA,21.10.00
+conhecimentos-i,conhecimentos,21.10.02,ELABORAÇÃO DE PLANO DE MANUTENÇÃO E OPERAÇÃO DE MÁQUINAS E EQUIPAMENTOS,21.10.00
+conhecimentos-i,conhecimentos,21.10.03,MANUTENÇÃO E REPAROS DE PRIMEIRO NÍVEL,21.10.00
+conhecimentos-i,conhecimentos,21.10.90,OUTROS CONHECIMENTOS DE ZELADORIA (ESPECIFICAR:..) - PREVENÇÃO E COMBATE A INCÊNDIOS,21.10.00
+conhecimentos-i,conhecimentos,22.01.01,AUTOMAÇÃO EM SERVIÇOS DE ENERGIA,22.01.00
+conhecimentos-i,conhecimentos,22.01.03,AUTOMAÇÃO EM SERVIÇOS DE TELECOMUNICAÇÕES,22.01.00
+conhecimentos-i,conhecimentos,22.02.01,CANAIS DE DISTRIBUIÇÃO DE ENERGIA,22.02.00
+conhecimentos-i,conhecimentos,22.02.02,COGERAÇÃO DE ENERGIA,22.02.00
+conhecimentos-i,conhecimentos,22.02.03,CONSUMO DE ENERGIA,22.02.00
+conhecimentos-i,conhecimentos,22.02.04,EFICIÊNCIA ENERGÉTICA,22.02.00
+conhecimentos-i,conhecimentos,22.02.05,FONTES ALTERNATIVAS DE ENERGIA,22.02.00
+conhecimentos-i,conhecimentos,22.02.06,GÁS NATURAL,22.02.00
+conhecimentos-i,conhecimentos,22.02.07,GERAÇÃO DE ENERGIA,22.02.00
+conhecimentos-i,conhecimentos,22.02.08,MANUTENÇÃO DE ESTAÇÕES E TORRES DE TRANSMISSÃO DE ENERGIA,22.02.00
+conhecimentos-i,conhecimentos,22.02.09,OPERAÇÃO DE CENTRAIS DE TERMONUCLEARES,22.02.00
+conhecimentos-i,conhecimentos,22.02.10,OPERAÇÃO DE INSTALAÇÕES DE GERAÇÃO E DISTRIBUIÇÃO DE ENERGIA,22.02.00
+conhecimentos-i,conhecimentos,22.02.11,OPERAÇÃO NACIONAL DO SISTEMA ELÉTRICO,22.02.00
+conhecimentos-i,conhecimentos,22.02.12,"RECURSOS ENERGÉTICOS FÓSSEIS (PETRÓLEO, GÁS NATURAL, TURFA E CARVÃO)",22.02.00
+conhecimentos-i,conhecimentos,22.02.13,"RECURSOS ENERGÉTICOS RENOVÁVEIS (ÁLCOOL, BIODIESEL ETC.)",22.02.00
+conhecimentos-i,conhecimentos,22.02.14,TRANSMISSÃO DE ENERGIA,22.02.00
+conhecimentos-i,conhecimentos,22.02.90,OUTROS CONHECIMENTOS DE ENERGIA (ESPECIFICAR:..) - USO EFICIENTE DA ENERGIA ELÉTRICA EM PROCESSOS DE FABRICAÇÃO METAL-SIDERÚRGICOS,22.02.00
+conhecimentos-i,conhecimentos,22.03.01,NORMAS REGULAMENTADORAS EM ENERGIA,22.03.00
+conhecimentos-i,conhecimentos,22.03.02,NORMAS REGULAMENTADORAS EM SANEAMENTO BÁSICO,22.03.00
+conhecimentos-i,conhecimentos,22.03.03,NORMAS REGULAMENTADORAS EM TELECOMUNICAÇÕES,22.03.00
+conhecimentos-i,conhecimentos,22.03.04,NORMAS TÉCNICAS EM ENERGIA,22.03.00
+conhecimentos-i,conhecimentos,22.03.05,NORMAS TÉCNICAS EM SANEAMENTO BÁSICO,22.03.00
+conhecimentos-i,conhecimentos,22.03.06,NORMAS TÉCNICAS EM TELECOMUNICAÇÕES,22.03.00
+conhecimentos-i,conhecimentos,22.03.90,OUTROS CONHECIMENTOS DE NORMAS TÉCNICAS E REGULAMENTADORAS PARA SERVIÇOS DE UTILIDADE PÚBLICA (ESPECIFICAR:..) - DIRETRIZES DO SISTEMA INTERLIGADO NACIONAL (SIN),22.03.00
+conhecimentos-i,conhecimentos,22.04.03,ROBOTIZAÇÃO EM TELECOMUNICAÇÕES,22.04.00
+conhecimentos-i,conhecimentos,22.05.01,ANÁLISE DO CONSUMO DE ÁGUA,22.05.00
+conhecimentos-i,conhecimentos,22.05.02,ATERROS SANITÁRIOS,22.05.00
+conhecimentos-i,conhecimentos,22.05.03,"CAPTAÇÃO, TRANSPORTE E TRATAMENTO DE ÁGUAS",22.05.00
+conhecimentos-i,conhecimentos,22.05.04,"COLETA, TRANSPORTE E INCINERAÇÃO DE RESÍDUOS CONTAMINADOS",22.05.00
+conhecimentos-i,conhecimentos,22.05.05,"COLETA, TRANSPORTE E RECICLAGEM DE RESÍDUOS",22.05.00
+conhecimentos-i,conhecimentos,22.05.07,EDUCAÇÃO SANITÁRIA E AMBIENTAL.,22.05.00
+conhecimentos-i,conhecimentos,22.05.08,"ESTRATÉGIAS DE CAPTAÇÃO, TRATAMENTO E DISTRIBUIÇÃO DE ÁGUA",22.05.00
+conhecimentos-i,conhecimentos,22.05.90,OUTROS CONHECIMENTOS DE SANEAMENTO BÁSICO (ESPECIFICAR:..) - SISTEMA DE ABASTECIMENTO DE ÁGUA,22.05.00
+conhecimentos-i,conhecimentos,22.06.01,TECNOLOGIA EM SERVIÇOS DE TELECOMUNICAÇÕES,22.06.00
+conhecimentos-i,conhecimentos,22.06.02,TECNOLOGIA EM SERVIÇOS DE SANEAMENTO BÁSICO,22.06.00
+conhecimentos-i,conhecimentos,22.06.03,TECNOLOGIA EM SERVIÇOS DE ENERGIA,22.06.00
+conhecimentos-i,conhecimentos,22.06.90,OUTROS CONHECIMENTOS DE TECNOLOGIA EM SERVIÇOS DE UTILIDADE PÚBLICA (ESPECIFICAR:..) - NOÇÕES DE TELECOMUNICAÇÕES APLICADAS À CAPTAÇÃO E GRAVAÇÃO DE SINAIS SONOROS,22.06.00
+conhecimentos-i,conhecimentos,22.07.01,ANTENAS,22.07.00
+conhecimentos-i,conhecimentos,22.07.02,APLICAÇÕES PARA DISPOSITIVOS MÓVEIS,22.07.00
+conhecimentos-i,conhecimentos,22.07.03,CABEAMENTO ESTRUTURADO,22.07.00
+conhecimentos-i,conhecimentos,22.07.04,COMUNICAÇÕES DIGITAIS,22.07.00
+conhecimentos-i,conhecimentos,22.07.05,COMUNICAÇÕES ÓPTICAS,22.07.00
+conhecimentos-i,conhecimentos,22.07.06,COMUNICAÇÕES SEM FIO,22.07.00
+conhecimentos-i,conhecimentos,22.07.07,INSTALAÇÃO DE REDES DE COMUNICAÇÃO,22.07.00
+conhecimentos-i,conhecimentos,22.07.08,PROTOCOLO DE ROTEAMENTO,22.07.00
+conhecimentos-i,conhecimentos,22.07.09,PROTOCOLOS DE COMUNICAÇÃO,22.07.00
+conhecimentos-i,conhecimentos,22.07.10,RADIOPROPAGAÇÃO,22.07.00
+conhecimentos-i,conhecimentos,22.07.11,REDES CONVERGENTES,22.07.00
+conhecimentos-i,conhecimentos,22.07.13,REDES DE LONGA DISTÂNCIA,22.07.00
+conhecimentos-i,conhecimentos,22.07.14,REDES LOCAIS,22.07.00
+conhecimentos-i,conhecimentos,22.07.15,REPARAÇÃO DE EQUIPAMENTOS DE TELEFONIA E COMUNICAÇÃO,22.07.00
+conhecimentos-i,conhecimentos,22.07.16,SEGURANÇA DE REDES,22.07.00
+conhecimentos-i,conhecimentos,22.07.17,SISTEMAS ANALÓGICOS E DIGITAIS,22.07.00
+conhecimentos-i,conhecimentos,22.07.18,SISTEMAS DE TELEFONIA,22.07.00
+conhecimentos-i,conhecimentos,22.07.90,OUTROS CONHECIMENTOS DE TELECOMUNICAÇÕES (ESPECIFICAR:..) - COMUNICAÇÃO POR VHF (VERY HIGH FREQUENCY),22.07.00
+conhecimentos-i,conhecimentos,22.08.01,INOVAÇÕES EM SERVIÇOS DE ENERGIA,22.08.00
+conhecimentos-i,conhecimentos,22.08.03,INOVAÇÕES EM SERVIÇOS DE TELECOMUNICAÇÕES,22.08.00
+conhecimentos-i,conhecimentos,22.08.04,TENDÊNCIAS DOS SERVIÇOS DE ENERGIA,22.08.00
+conhecimentos-i,conhecimentos,22.08.06,TENDÊNCIAS DOS SERVIÇOS DE TELECOMUNICAÇÕES,22.08.00
+conhecimentos-i,conhecimentos,22.08.90,OUTROS CONHECIMENTOS DE TENDÊNCIAS E INOVAÇÃO EM SERVIÇOS DE UTILIDADE PÚBLICA (ESPECIFICAR:..) - AUTOMAÇÃO EM EQUIPAMENTOS DE ENERGIA,22.08.00
+conhecimentos-i,conhecimentos,23.01.00,AUTOMAÇÃO EM SERVIÇOS BANCÁRIOS,23.01.00
+conhecimentos-i,conhecimentos,23.01.90,OUTROS CONHECIMENTOS DE AUTOMAÇÃO EM SERVIÇOS FINANCEIROS E AFINS (ESPECIFICAR:..) - IMPACTOS DA INTELIGÊNCIA ARTIFICIAL E INTERNET DAS COISAS NA ÁREA DE SEGUROS,23.01.00
+conhecimentos-i,conhecimentos,23.02.01,NORMAS REGULAMENTADORAS EM SERVIÇOS FINANCEIROS,23.02.00
+conhecimentos-i,conhecimentos,23.02.02,NORMAS TÉCNICAS EM SERVIÇOS FINANCEIROS,23.02.00
+conhecimentos-i,conhecimentos,23.02.90,OUTROS CONHECIMENTOS DE NORMAS TÉCNICAS E REGULAMENTADORAS EM SERVIÇOS FINANCEIROS E AFINS (ESPECIFICAR:..) - NORMAS TÉCNICAS E REGULAMENTADORAS RELACIONADAS A SEGUROS,23.02.00
+conhecimentos-i,conhecimentos,23.03.90,OUTROS CONHECIMENTOS DE ROBOTIZAÇÃO EM SERVIÇOS FINANCEIROS E AFINS (ESPECIFICAR:..) - ROBOTIZAÇÃO E SEU IMPACTO NA ÁREA DE SEGUROS,23.03.00
+conhecimentos-i,conhecimentos,23.04.01,ATENDIMENTO EM AGÊNCIA,23.04.00
+conhecimentos-i,conhecimentos,23.04.02,ATENDIMENTO ONLINE,23.04.00
+conhecimentos-i,conhecimentos,23.04.03,CÂMBIO,23.04.00
+conhecimentos-i,conhecimentos,23.04.04,CRÉDITO E COBRANÇA,23.04.00
+conhecimentos-i,conhecimentos,23.04.05,MODALIDADES DE APLICAÇÕES FINANCEIRAS,23.04.00
+conhecimentos-i,conhecimentos,23.04.06,ROTINAS DE OPERAÇÕES E SERVIÇOS BANCÁRIOS,23.04.00
+conhecimentos-i,conhecimentos,23.04.07,SEGUROS,23.04.00
+conhecimentos-i,conhecimentos,23.04.08,TIPOS DE CRÉDITO,23.04.00
+conhecimentos-i,conhecimentos,23.04.90,OUTROS CONHECIMENTOS DE SERVIÇOS BANCÁRIOS (ESPECIFICAR:..) - ÓRGÃOS DE PROTEÇÃO AO CRÉDITO,23.04.00
+conhecimentos-i,conhecimentos,23.05.01,BANCOS COMERCIAIS,23.05.00
+conhecimentos-i,conhecimentos,23.05.02,BANCOS DE DESENVOLVIMENTO,23.05.00
+conhecimentos-i,conhecimentos,23.05.03,BANCOS PÚBLICOS,23.05.00
+conhecimentos-i,conhecimentos,23.05.04,BOLSA DE MERCADORIAS,23.05.00
+conhecimentos-i,conhecimentos,23.05.05,BOLSA DE VALORES,23.05.00
+conhecimentos-i,conhecimentos,23.05.06,COOPERATIVAS E FINTECHS,23.05.00
+conhecimentos-i,conhecimentos,23.05.07,MERCADO DE CAPITAIS,23.05.00
+conhecimentos-i,conhecimentos,23.05.08,REGULAMENTAÇÃO DAS INSTITUIÇÕES FINANCEIRAS,23.05.00
+conhecimentos-i,conhecimentos,23.05.09,SEGUROS E RESSEGUROS,23.05.00
+conhecimentos-i,conhecimentos,23.05.90,OUTROS CONHECIMENTOS DE SISTEMA FINANCEIRO NACIONAL (ESPECIFICAR:..) - ORGANIZAÇÃO DO SISTEMA FINANCEIRO NACIONAL,23.05.00
+conhecimentos-i,conhecimentos,23.06.01,CONTABILIDADE DE INSTITUIÇÕES FINANCEIRAS,23.06.00
+conhecimentos-i,conhecimentos,23.06.02,CONTRATOS DE INSTITUIÇÕES FINANCEIRAS,23.06.00
+conhecimentos-i,conhecimentos,23.06.03,INFORMÁTICA DE INSTITUIÇÕES FINANCEIRAS,23.06.00
+conhecimentos-i,conhecimentos,23.06.04,MATEMÁTICA FINANCEIRA,23.06.00
+conhecimentos-i,conhecimentos,23.06.05,MOEDAS E BANCOS,23.06.00
+conhecimentos-i,conhecimentos,23.06.06,SINISTROS,23.06.00
+conhecimentos-i,conhecimentos,23.06.90,OUTROS CONHECIMENTOS DE TECNOLOGIA DOS SERVIÇOS FINANCEIROS E AFINS (ESPECIFICAR:..) - TAXAS DE JUROS E DE DESCONTOS,23.06.00
+conhecimentos-i,conhecimentos,23.07.01,INOVAÇÃO EM SERVIÇOS FINANCEIROS,23.07.00
+conhecimentos-i,conhecimentos,23.07.90,OUTROS CONHECIMENTOS DE TENDÊNCIAS E INOVAÇÃO EM SERVIÇOS FINANCEIROS E AFINS (ESPECIFICAR:..) - TENDÊNCIAS E INOVAÇÕES NA ÁREA DE SEGURO,23.07.00
+conhecimentos-i,conhecimentos,24.01.01,ALIMENTAÇÃO ESCOLAR,24.01.00
+conhecimentos-i,conhecimentos,24.01.02,ATENDIMENTO AOS USUÁRIOS REAIS E VIRTUAIS DE BIBLIOTECAS OU CENTRO DE DOCUMENTAÇÃO,24.01.00
+conhecimentos-i,conhecimentos,24.01.03,CUIDADOS COM A CRIANÇA,24.01.00
+conhecimentos-i,conhecimentos,24.01.04,MONITORIA DE TRANSPORTE ESCOLAR,24.01.00
+conhecimentos-i,conhecimentos,24.01.05,ORIENTAÇÃO AO ALUNO SOBRE ITINERÁRIO PROFISSIONAL,24.01.00
+conhecimentos-i,conhecimentos,24.01.06,ORIENTAÇÃO AO ALUNO SOBRE REGRAS E PROCEDIMENTOS DA ESCOLA,24.01.00
+conhecimentos-i,conhecimentos,24.01.07,ORIENTAÇÃO ESCOLAR AO ALUNO,24.01.00
+conhecimentos-i,conhecimentos,24.01.08,SEGURANÇA DO ALUNO,24.01.00
+conhecimentos-i,conhecimentos,24.01.09,TÉCNICAS DE ACOLHIMENTO DO ALUNO,24.01.00
+conhecimentos-i,conhecimentos,24.01.90,OUTROS CONHECIMENTOS DE APOIO AO ALUNO DE SERVIÇOS EDUCACIONAIS (ESPECIFICAR:..) - TÉCNICAS E PROCEDIMENTOS DE SOLUÇÃO DE CONFLITOS ENTRE ALUNOS E PROMOÇÃO DE CONVIVÊNCIA HARMONIOSA,24.01.00
+conhecimentos-i,conhecimentos,24.02.01,LOUSA DIGITAL,24.02.00
+conhecimentos-i,conhecimentos,24.02.02,AUTOMAÇÃO DE BIBLIOTECA ESCOLAR,24.02.00
+conhecimentos-i,conhecimentos,24.03.01,ATIVIDADES DE CULTURA E LAZER,24.03.00
+conhecimentos-i,conhecimentos,24.03.02,COMUNICAÇÃO SOCIAL COMUNITÁRIA,24.03.00
+conhecimentos-i,conhecimentos,24.03.03,FORMAÇÃO DE LIDERANÇAS,24.03.00
+conhecimentos-i,conhecimentos,24.03.04,IDENTFICAÇÃO DE NECESSIDADES E DEMANDAS COMUNITÁRIAS,24.03.00
+conhecimentos-i,conhecimentos,24.03.05,MOBILIZAÇÃO E ORGANIZAÇÃO DE NÚCLEOS COMUNITÁRIOS DE DEFESA CIVIL,24.03.00
+conhecimentos-i,conhecimentos,24.03.06,NOÇÕES DE COMBATE A INCÊNDIO,24.03.00
+conhecimentos-i,conhecimentos,24.03.07,POLÍTICA NACIONAL DE DEFESA CIVIL,24.03.00
+conhecimentos-i,conhecimentos,24.03.08,POLÍTICAS PÚBLICAS SOCIAIS,24.03.00
+conhecimentos-i,conhecimentos,24.03.09,SITUAÇÃO DE EMERGÊNCIA E CALAMIDADE PÚBLICA,24.03.00
+conhecimentos-i,conhecimentos,24.03.90,"OUTROS CONHECIMENTOS DE DESENVOLVIMENTO COMUNITÁRIO E DEFESA CIVIL (ESPECIFICAR:..) - CONSELHOS DE DIREITOS, DEFENSORIA E MINISTÉRIO PÚBLICO, CONSELHO TUTELAR, DELEGACIA DA MULHER E DO IDOSO",24.03.00
+conhecimentos-i,conhecimentos,24.04.01,CONSTRUÇÃO DE MATERIAIS PEDAGÓGICOS PARA ALUNOS COM DEFICIÊNCIA,24.04.00
+conhecimentos-i,conhecimentos,24.04.02,CONSTRUÇÃO DE SIMULADORES,24.04.00
+conhecimentos-i,conhecimentos,24.04.03,ELABORAÇÃO DE RECURSOS AUDIOVISUAIS,24.04.00
+conhecimentos-i,conhecimentos,24.04.04,JOGOS EDUCACIONAIS (INCLUSIVE DIGITAIS),24.04.00
+conhecimentos-i,conhecimentos,24.04.90,"OUTROS CONHECIMENTOS DE ELABORAÇÃO DE RECURSOS DIDÁTICOS EM SERVIÇOS EDUCACIONAIS (ESPECIFICAR:..) - VISITAS TÉCNICAS, PALESTRAS, VIVÊNCIAS E PRÁTICAS PROFISSIONAIS EM AMBIENTES DIVERSOS",24.04.00
+conhecimentos-i,conhecimentos,24.05.01,CONTROLE DE MATERIAIS,24.05.00
+conhecimentos-i,conhecimentos,24.05.02,LEGISLAÇÃO EDUCACIONAL,24.05.00
+conhecimentos-i,conhecimentos,24.05.03,ORGANIZAÇÃO DE AMBIENTES ESCOLARES,24.05.00
+conhecimentos-i,conhecimentos,24.05.04,PLANEJAMENTO ESCOLAR,24.05.00
+conhecimentos-i,conhecimentos,24.05.05,RELAÇÃO ESCOLA–SOCIEDADE,24.05.00
+conhecimentos-i,conhecimentos,24.05.06,SECRETARIA ESCOLAR,24.05.00
+conhecimentos-i,conhecimentos,24.05.90,"OUTROS CONHECIMENTOS DE GESTÃO E ADMINISTRAÇÃO ESCOLAR (ESPECIFICAR:..) - REGISTROS E DOCUMENTOS ESCOLARES: NOTAS E CONCEITOS AVALIATIVOS, FREQUÊNCIA E CONTROLES DE CONTEÚDOS MINISTRADOS E EXERCÍCIOS REALIZADOS",24.05.00
+conhecimentos-i,conhecimentos,24.06.01,BIBLIOTECA ESCOLAR,24.06.00
+conhecimentos-i,conhecimentos,24.06.02,BRINQUEDOTECA E LUDOTECA,24.06.00
+conhecimentos-i,conhecimentos,24.06.03,CANTINA ESCOLAR,24.06.00
+conhecimentos-i,conhecimentos,24.06.04,LABORATÓRIO DIDÁTICO PARA ENSINO DE CIÊNCIAS,24.06.00
+conhecimentos-i,conhecimentos,24.06.05,LABORATÓRIO DIDÁTICO PARA ENSINO DE LÍNGUAS,24.06.00
+conhecimentos-i,conhecimentos,24.06.06,MANUTENÇÃO PREVENTIVA E CORRETIVA DE EQUIPAMENTOS E INSTALAÇÕES ESCOLARES,24.06.00
+conhecimentos-i,conhecimentos,24.06.90,OUTROS CONHECIMENTOS DE INFRAESTRUTURA (ESPECIFICAR:..) - INSPEÇÃO DE MANUTENÇÃO DE EQUIPAMENTOS E INSTALAÇÕES ESCOLARES,24.06.00
+conhecimentos-i,conhecimentos,24.07.01,AÇÃO DOCENTE EM LABORATÓRIO DE ENSINO PROFISSIONAL,24.07.00
+conhecimentos-i,conhecimentos,24.07.02,AÇÃO DOCENTE EM OFICINA DE ENSINO PROFISSIONAL,24.07.00
+conhecimentos-i,conhecimentos,24.07.03,AVALIAÇÃO DO DESEMPENHO DO ALUNO EM ENSINO PROFISSIONAL,24.07.00
+conhecimentos-i,conhecimentos,24.07.04,METODOLOGIA DO ENSINO PROFISSIONAL,24.07.00
+conhecimentos-i,conhecimentos,24.07.05,"RECURSOS DIDÁTICOS EM ENSINO PROFISSIONAL (EQUIPAMENTOS, INSTRUMENTOS ETC.)",24.07.00
+conhecimentos-i,conhecimentos,24.07.90,OUTROS CONHECIMENTOS DE INSTRUTORIA DE ENSINO PROFISSIONAL (ESPECIFICAR:..) - FUNDAMENTOS PARA O TREINAMENTO NO LOCAL DE TRABALHO,24.07.00
+conhecimentos-i,conhecimentos,24.08.01,NORMAS REGULAMENTADORAS EM DEFESA CIVIL,24.08.00
+conhecimentos-i,conhecimentos,24.08.02,NORMAS REGULAMENTADORAS NA ÁREA EDUCACIONAL,24.08.00
+conhecimentos-i,conhecimentos,24.08.03,NORMAS TÉCNICAS NA ÁREA EDUCACIONAL,24.08.00
+conhecimentos-i,conhecimentos,24.08.90,"OUTROS CONHECIMENTOS DE NORMAS TÉCNICAS E REGULAMENTADORAS EM SERVIÇOS EDUCACIONAIS E DE DESENVOLVIMENTO COMUNITÁRIO E DEFESA CIVIL (ESPECIFICAR:..) - NORMAS TÉCNICAS DA EDUCAÇÃO APLICADAS AO ENSINO DA DANÇA TRADICIONAL, NA EDUCAÇÃO FORMAL E NÃO FORMAL",24.08.00
+conhecimentos-i,conhecimentos,24.09.01,ALFABETIZAÇÃO,24.09.00
+conhecimentos-i,conhecimentos,24.09.02,AVALIAÇÃO DO DESEMPENHO DO ALUNO,24.09.00
+conhecimentos-i,conhecimentos,24.09.03,CURRÍCULO,24.09.00
+conhecimentos-i,conhecimentos,24.09.04,DESENVOLVIMENTO COGNITIVO,24.09.00
+conhecimentos-i,conhecimentos,24.09.05,DESENVOLVIMENTO MOTOR,24.09.00
+conhecimentos-i,conhecimentos,24.09.06,ELABORAÇÃO DE PLANOS DE AULA,24.09.00
+conhecimentos-i,conhecimentos,24.09.07,ELABORAÇÃO DE PLANOS DE ENSINO,24.09.00
+conhecimentos-i,conhecimentos,24.09.08,ELABORAÇÃO DE PROJETOS PEDAGÓGICOS,24.09.00
+conhecimentos-i,conhecimentos,24.09.09,LITERATURA INFANTIL E ARTE DE CONTAR ESTÓRIAS,24.09.00
+conhecimentos-i,conhecimentos,24.09.10,"LUDOTERAPIA: MÚSICA, BRINCADEIRAS, JOGOS, RECREAÇÃO",24.09.00
+conhecimentos-i,conhecimentos,24.09.11,MONTAGEM DE EXPERIMENTOS EM CIÊNCIAS,24.09.00
+conhecimentos-i,conhecimentos,24.09.12,NOÇÕES NUMÉRICAS E QUANTITATIVAS,24.09.00
+conhecimentos-i,conhecimentos,24.09.13,NUMERAMENTO,24.09.00
+conhecimentos-i,conhecimentos,24.09.14,ORGANIZAÇÃO DO TRABALHO PEDAGÓGICO,24.09.00
+conhecimentos-i,conhecimentos,24.09.15,UTILIZAÇÃO DE RECURSOS TECNOLÓGICOS EM ATIVIDADES DE ENSINO,24.09.00
+conhecimentos-i,conhecimentos,24.09.90,"OUTROS CONHECIMENTOS DE PROCESSO ESCOLAR DE ENSINO-APRENDIZAGEM (ESPECIFICAR:..) - ELABORAÇÃO DE PROGRAMAS DE CURSOS LIVRES, SOB DEMANDA",24.09.00
+conhecimentos-i,conhecimentos,24.11.01,REALIDADE AUMENTADA EM ATIVIDADES DE ENSINO,24.11.00
+conhecimentos-i,conhecimentos,24.11.02,REALIDADE VIRTUAL EM ATIVIDADES DE ENSINO,24.11.00
+conhecimentos-i,conhecimentos,24.11.90,"OUTROS CONHECIMENTOS DE TECNOLOGIA EM SERVIÇOS EDUCACIONAIS E DE DESENVOLVIMENTO COMUNITÁRIO E DEFESA CIVIL (ESPECIFICAR:..) - EDUCAÇÃO POPULAR: HISTÓRICO, PRECEITOS E METODOLOGIA.",24.11.00
+conhecimentos-i,conhecimentos,24.12.01,ARMAZENAMENTO EM NUVEM PARA MATERIAIS DIDÁTICOS,24.12.00
+conhecimentos-i,conhecimentos,24.12.03,PLATAFORMAS GAMIFICADAS,24.12.00
+conhecimentos-i,conhecimentos,24.12.90,OUTROS CONHECIMENTOS DE TENDÊNCIAS E INOVAÇÃO EM SERVIÇOS EDUCACIONAIS E DE DESENVOLVIMENTO COMUNITÁRIO E DEFESA CIVIL (ESPECIFICAR:..) - ARQUIVAMENTO DE DOCUMENTAÇÃO EM NUVEM,24.12.00

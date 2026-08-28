@@ -1,0 +1,1961 @@
+vocabulario,nivel,codigo,descricao,pai
+conhecimentos-ii,areas,1,CIÊNCIAS EXATAS E DA TERRA,
+conhecimentos-ii,areas,2,CIÊNCIAS BIOLÓGICAS,
+conhecimentos-ii,areas,3,ENGENHARIAS,
+conhecimentos-ii,areas,4,CIÊNCIAS DA SAÚDE,
+conhecimentos-ii,areas,5,CIÊNCIAS AGRÁRIAS,
+conhecimentos-ii,areas,6,CIÊNCIAS SOCIAIS APLICADAS,
+conhecimentos-ii,areas,7,CIÊNCIAS HUMANAS,
+conhecimentos-ii,areas,8,"LINGUÍSTICA, LETRAS E ARTES",
+conhecimentos-ii,areas,9,TECNOLOGIAS ESTRATÉGICAS,
+conhecimentos-ii,campos,01.01.00.00,MATEMÁTICA,1
+conhecimentos-ii,campos,01.02.00.00,PROBABILIDADE E ESTATÍSTICA,1
+conhecimentos-ii,campos,01.03.00.00,CIÊNCIA DA COMPUTAÇÃO,1
+conhecimentos-ii,campos,01.04.00.00,ASTRONOMIA,1
+conhecimentos-ii,campos,01.05.00.00,FÍSICA,1
+conhecimentos-ii,campos,01.06.00.00,QUÍMICA,1
+conhecimentos-ii,campos,01.07.00.00,GEOCIÊNCIAS,1
+conhecimentos-ii,campos,01.08.00.00,OCEANOGRAFIA,1
+conhecimentos-ii,campos,01.09.00.00,TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO,1
+conhecimentos-ii,campos,02.01.00.00,BIOLOGIA GERAL,2
+conhecimentos-ii,campos,02.02.00.00,GENÉTICA,2
+conhecimentos-ii,campos,02.03.00.00,BOTÂNICA,2
+conhecimentos-ii,campos,02.04.00.00,ZOOLOGIA,2
+conhecimentos-ii,campos,02.05.00.00,ECOLOGIA,2
+conhecimentos-ii,campos,02.06.00.00,MORFOLOGIA,2
+conhecimentos-ii,campos,02.07.00.00,FISIOLOGIA,2
+conhecimentos-ii,campos,02.08.00.00,BIOQUÍMICA,2
+conhecimentos-ii,campos,02.09.00.00,BIOFÍSICA,2
+conhecimentos-ii,campos,02.10.00.00,FARMACOLOGIA,2
+conhecimentos-ii,campos,02.11.00.00,IMUNOLOGIA,2
+conhecimentos-ii,campos,02.12.00.00,MICROBIOLOGIA,2
+conhecimentos-ii,campos,02.13.00.00,PARASITOLOGIA,2
+conhecimentos-ii,campos,02.14.00.00,BIOMEDICINA,2
+conhecimentos-ii,campos,03.01.00.00,ENGENHARIA CIVIL,3
+conhecimentos-ii,campos,03.02.00.00,ENGENHARIA DE MINAS,3
+conhecimentos-ii,campos,03.03.00.00,ENGENHARIA DE MATERIAIS E METALÚRGICA,3
+conhecimentos-ii,campos,03.04.00.00,ENGENHARIA ELÉTRICA E ELETRÔNICA,3
+conhecimentos-ii,campos,03.05.00.00,ENGENHARIA MECÂNICA,3
+conhecimentos-ii,campos,03.06.00.00,ENGENHARIA QUÍMICA,3
+conhecimentos-ii,campos,03.07.00.00,ENGENHARIA TÊXTIL,3
+conhecimentos-ii,campos,03.08.00.00,ENGENHARIA SANITÁRIA,3
+conhecimentos-ii,campos,03.09.00.00,ENGENHARIA DE PRODUÇÃO,3
+conhecimentos-ii,campos,03.10.00.00,ENGENHARIA NUCLEAR,3
+conhecimentos-ii,campos,03.11.00.00,ENGENHARIA DE TRANSPORTES,3
+conhecimentos-ii,campos,03.12.00.00,ENGENHARIA NAVAL E OCEÂNICA,3
+conhecimentos-ii,campos,03.13.00.00,ENGENHARIA AEROESPACIAL,3
+conhecimentos-ii,campos,03.14.00.00,ENGENHARIA BIOMÉDICA,3
+conhecimentos-ii,campos,03.15.00.00,ENGENHARIA DE AGRIMENSURA,3
+conhecimentos-ii,campos,03.16.00.00,ENGENHARIA CARTOGRÁFICA,3
+conhecimentos-ii,campos,03.17.00.00,ENGENHARIA MECATRÔNICA,3
+conhecimentos-ii,campos,04.01.00.00,MEDICINA,4
+conhecimentos-ii,campos,04.02.00.00,ODONTOLOGIA,4
+conhecimentos-ii,campos,04.03.00.00,FARMÁCIA,4
+conhecimentos-ii,campos,04.04.00.00,ENFERMAGEM,4
+conhecimentos-ii,campos,04.05.00.00,NUTRIÇÃO,4
+conhecimentos-ii,campos,04.06.00.00,SAÚDE COLETIVA,4
+conhecimentos-ii,campos,04.07.00.00,FONOAUDIOLOGIA,4
+conhecimentos-ii,campos,04.08.00.00,"Fisioterapia, terapia ocupacional e afins",4
+conhecimentos-ii,campos,04.09.00.00,EDUCAÇÃO FÍSICA,4
+conhecimentos-ii,campos,05.01.00.00,AGRONOMIA,5
+conhecimentos-ii,campos,05.02.00.00,RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL,5
+conhecimentos-ii,campos,05.03.00.00,ENGENHARIA AGRÍCOLA,5
+conhecimentos-ii,campos,05.04.00.00,ZOOTECNIA,5
+conhecimentos-ii,campos,05.05.00.00,MEDICINA VETERINÁRIA,5
+conhecimentos-ii,campos,05.06.00.00,RECURSOS PESQUEIROS E ENGENHARIA DE PESCA,5
+conhecimentos-ii,campos,05.07.00.00,CIÊNCIA E TECNOLOGIA DE ALIMENTOS,5
+conhecimentos-ii,campos,06.01.00.00,DIREITO,6
+conhecimentos-ii,campos,06.02.00.00,ADMINISTRAÇÃO,6
+conhecimentos-ii,campos,06.03.00.00,ECONOMIA,6
+conhecimentos-ii,campos,06.04.00.00,ARQUITETURA E URBANISMO,6
+conhecimentos-ii,campos,06.05.00.00,PLANEJAMENTO URBANO E REGIONAL,6
+conhecimentos-ii,campos,06.06.00.00,DEMOGRAFIA,6
+conhecimentos-ii,campos,06.07.00.00,CIÊNCIA DA INFORMAÇÃO,6
+conhecimentos-ii,campos,06.08.00.00,MUSEOLOGIA,6
+conhecimentos-ii,campos,06.09.00.00,COMUNICAÇÃO,6
+conhecimentos-ii,campos,06.10.00.00,SERVIÇO SOCIAL,6
+conhecimentos-ii,campos,06.11.00.00,ECONOMIA DOMÉSTICA,6
+conhecimentos-ii,campos,06.12.00.00,DESENHO INDUSTRIAL,6
+conhecimentos-ii,campos,06.13.00.00,TURISMO,6
+conhecimentos-ii,campos,06.14.00.00,RELAÇÕES INTERNACIONAIS,6
+conhecimentos-ii,campos,07.01.00.00,FILOSOFIA,7
+conhecimentos-ii,campos,07.02.00.00,SOCIOLOGIA,7
+conhecimentos-ii,campos,07.03.00.00,ANTROPOLOGIA,7
+conhecimentos-ii,campos,07.04.00.00,ARQUEOLOGIA,7
+conhecimentos-ii,campos,07.05.00.00,HISTÓRIA,7
+conhecimentos-ii,campos,07.06.00.00,GEOGRAFIA,7
+conhecimentos-ii,campos,07.07.00.00,PSICOLOGIA,7
+conhecimentos-ii,campos,07.08.00.00,EDUCAÇÃO,7
+conhecimentos-ii,campos,07.09.00.00,CIÊNCIA POLÍTICA,7
+conhecimentos-ii,campos,07.10.00.00,TEOLOGIA,7
+conhecimentos-ii,campos,08.01.00.00,LINGUÍSTICA,8
+conhecimentos-ii,campos,08.02.00.00,LETRAS,8
+conhecimentos-ii,campos,08.03.00.00,ARTES,8
+conhecimentos-ii,campos,09.01.00.00,TECNOLOGIAS ESTRATÉGICAS,9
+conhecimentos-ii,campos,09.02.00.00,MÉTODOS E PROCEDIMENTOS CIENTÍFICOS,9
+conhecimentos-ii,campos,09.90.00.00,OUTRAS ÁREAS (ESPECIFICAR INTRODUÇÃO DE ÁREA/ CAMPO/ CONHECIMENTO: ...),9
+conhecimentos-ii,conhecimentos,.99.00,OUTROS ELEMENTOS DO CAMPO OUTRAS ÁREAS (ESPECIFICAR INTRODUÇÃO DE ÁREA/ CAMPO/ CONHECIMENTO: ...),09.90.00.00
+conhecimentos-ii,conhecimentos,01.01.01.00,ÁLGEBRA,01.01.00.00
+conhecimentos-ii,conhecimentos,01.01.02.00,ANÁLISE,01.01.00.00
+conhecimentos-ii,conhecimentos,01.01.03.00,GEOMETRIA E TOPOLOGIA,01.01.00.00
+conhecimentos-ii,conhecimentos,01.01.04.00,MATEMÁTICA APLICADA,01.01.00.00
+conhecimentos-ii,conhecimentos,01.01.99.00,OUTROS ELEMENTOS DO CAMPO DA MATEMÁTICA,01.01.00.00
+conhecimentos-ii,conhecimentos,01.02.01.00,PROBABILIDADE,01.02.00.00
+conhecimentos-ii,conhecimentos,01.02.02.00,ESTATÍSTICA,01.02.00.00
+conhecimentos-ii,conhecimentos,01.02.03.00,PROBABILIDADE E ESTATÍSTICA APLICADAS,01.02.00.00
+conhecimentos-ii,conhecimentos,01.02.99.00,OUTROS ELEMENTOS DO CAMPO PROBABILIDADE E ESTATÍSTICA,01.02.00.00
+conhecimentos-ii,conhecimentos,01.03.01.00,TEORIA DA COMPUTAÇÃO,01.03.00.00
+conhecimentos-ii,conhecimentos,01.03.02.00,MATEMÁTICA DA COMPUTAÇÃO,01.03.00.00
+conhecimentos-ii,conhecimentos,01.03.03.00,METODOLOGIA E TÉCNICAS DA COMPUTAÇÃO,01.03.00.00
+conhecimentos-ii,conhecimentos,01.03.04.00,SISTEMA DE COMPUTAÇÃO,01.03.00.00
+conhecimentos-ii,conhecimentos,01.03.99.00,OUTROS ELEMENTOS DO CAMPO CIÊNCIA DA COMPUTAÇÃO,01.03.00.00
+conhecimentos-ii,conhecimentos,01.04.01.00,ASTRONOMIA DE POSIÇÃO E MECÂNICA CELESTE,01.04.00.00
+conhecimentos-ii,conhecimentos,01.04.02.00,ASTROFÍSICA ESTELAR,01.04.00.00
+conhecimentos-ii,conhecimentos,01.04.03.00,ASTROFÍSICA DO MEIO INTERESTELAR,01.04.00.00
+conhecimentos-ii,conhecimentos,01.04.04.00,ASTROFÍSICA EXTRAGALÁTICA,01.04.00.00
+conhecimentos-ii,conhecimentos,01.04.05.00,ASTROFÍSICA DO SISTEMA SOLAR,01.04.00.00
+conhecimentos-ii,conhecimentos,01.04.06.00,INSTRUMENTAÇÃO ASTRONÔMICA,01.04.00.00
+conhecimentos-ii,conhecimentos,01.04.99.00,OUTROS ELEMENTOS DO CAMPO ASTRONOMIA,01.04.00.00
+conhecimentos-ii,conhecimentos,01.05.01.00,FÍSICA GERAL,01.05.00.00
+conhecimentos-ii,conhecimentos,01.05.02.00,ÁREAS CLÁSSICAS DE FENOMENOLOGIA E SUAS APLICAÇÕES,01.05.00.00
+conhecimentos-ii,conhecimentos,01.05.03.00,FÍSICA DAS PARTÍCULAS ELEMENTARES E CAMPOS,01.05.00.00
+conhecimentos-ii,conhecimentos,01.05.04.00,FÍSICA NUCLEAR,01.05.00.00
+conhecimentos-ii,conhecimentos,01.05.05.00,FÍSICA ATÔMICA E MOLECULAR,01.05.00.00
+conhecimentos-ii,conhecimentos,01.05.06.00,"FÍSICA DOS FLÚIDOS, FÍSICA DE PLASMAS E DESCARGAS ELÉTRICAS",01.05.00.00
+conhecimentos-ii,conhecimentos,01.05.07.00,FÍSICA DA MATÉRIA CONDENSADA,01.05.00.00
+conhecimentos-ii,conhecimentos,01.05.99.00,OUTROS ELEMENTOS DO CAMPO FÍSICA,01.05.00.00
+conhecimentos-ii,conhecimentos,01.06.01.00,QUÍMICA ORGÂNICA,01.06.00.00
+conhecimentos-ii,conhecimentos,01.06.02.00,QUÍMICA INORGÂNICA,01.06.00.00
+conhecimentos-ii,conhecimentos,01.06.03.00,FÍSICO-QUÍMICA,01.06.00.00
+conhecimentos-ii,conhecimentos,01.06.04.00,QUÍMICA ANALÍTICA,01.06.00.00
+conhecimentos-ii,conhecimentos,01.06.99.00,OUTROS ELEMENTOS DO CAMPO QUÍMICA,01.06.00.00
+conhecimentos-ii,conhecimentos,01.07.01.00,GEOLOGIA,01.07.00.00
+conhecimentos-ii,conhecimentos,01.07.02.00,GEOFÍSICA,01.07.00.00
+conhecimentos-ii,conhecimentos,01.07.03.00,METEOROLOGIA,01.07.00.00
+conhecimentos-ii,conhecimentos,01.07.04.00,GEODÉSIA,01.07.00.00
+conhecimentos-ii,conhecimentos,01.07.05.00,GEOGRAFIA FÍSICA,01.07.00.00
+conhecimentos-ii,conhecimentos,01.07.99.00,OUTROS ELEMENTOS DO CAMPO GEOCIÊNCIAS,01.07.00.00
+conhecimentos-ii,conhecimentos,01.08.01.00,OCEANOGRAFIA BIOLÓGICA  E MEIO AMBIENTE,01.08.00.00
+conhecimentos-ii,conhecimentos,01.08.02.00,OCEANOGRAFIA FÍSICA,01.08.00.00
+conhecimentos-ii,conhecimentos,01.08.03.00,OCEANOGRAFIA QUÍMICA,01.08.00.00
+conhecimentos-ii,conhecimentos,01.08.04.00,OCEANOGRAFIA GEOLÓGICA,01.08.00.00
+conhecimentos-ii,conhecimentos,01.08.99.00,OUTROS ELEMENTOS DO CAMPO OCEANOGRAFIA,01.08.00.00
+conhecimentos-ii,conhecimentos,01.09.01.00,ADMINISTRAÇÃO DE REDES DE COMPUTADORES,01.09.00.00
+conhecimentos-ii,conhecimentos,01.09.02.00,INFORMÁTICA,01.09.00.00
+conhecimentos-ii,conhecimentos,01.09.03.00,INTERNET,01.09.00.00
+conhecimentos-ii,conhecimentos,01.09.04.00,SOFTWARE ESPECÍFICO,01.09.00.00
+conhecimentos-ii,conhecimentos,01.09.05.00,VIDEOJOGO,01.09.00.00
+conhecimentos-ii,conhecimentos,01.09.99.00,OUTROS ELEMENTOS DO CAMPO TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO,01.09.00.00
+conhecimentos-ii,conhecimentos,02.01.01.00,BIOLOGIA GERAL,02.01.00.00
+conhecimentos-ii,conhecimentos,02.01.99.00,OUTROS ELEMENTOS DO CAMPO BIOLOGIA GERAL,02.01.00.00
+conhecimentos-ii,conhecimentos,02.02.01.00,GENÉTICA QUANTITATIVA,02.02.00.00
+conhecimentos-ii,conhecimentos,02.02.02.00,GENÉTICA MOLECULAR E DE MICROORGANISMOS,02.02.00.00
+conhecimentos-ii,conhecimentos,02.02.03.00,GENÉTICA VEGETAL,02.02.00.00
+conhecimentos-ii,conhecimentos,02.02.04.00,GENÉTICA ANIMAL,02.02.00.00
+conhecimentos-ii,conhecimentos,02.02.05.00,GENÉTICA HUMANA E MÉDICA,02.02.00.00
+conhecimentos-ii,conhecimentos,02.02.06.00,MUTAGÊNESE,02.02.00.00
+conhecimentos-ii,conhecimentos,02.02.99.00,OUTROS ELEMENTOS DO CAMPO GENÉTICA,02.02.00.00
+conhecimentos-ii,conhecimentos,02.03.01.00,PALEOBOTÂNICA,02.03.00.00
+conhecimentos-ii,conhecimentos,02.03.02.00,MORFOLOGIA VEGETAL,02.03.00.00
+conhecimentos-ii,conhecimentos,02.03.03.00,FISIOLOGIA VEGETAL,02.03.00.00
+conhecimentos-ii,conhecimentos,02.03.04.00,TAXONOMIA VEGETAL,02.03.00.00
+conhecimentos-ii,conhecimentos,02.03.05.00,FITOGEOGRAFIA,02.03.00.00
+conhecimentos-ii,conhecimentos,02.03.06.00,BOTÂNICA APLICADA,02.03.00.00
+conhecimentos-ii,conhecimentos,02.03.99.00,OUTROS ELEMENTOS DO CAMPO BOTÂNICA,02.03.00.00
+conhecimentos-ii,conhecimentos,02.04.01.00,PALEOZOOLOGIA,02.04.00.00
+conhecimentos-ii,conhecimentos,02.04.02.00,MORFOLOGIA DOS GRUPOS RECENTES,02.04.00.00
+conhecimentos-ii,conhecimentos,02.04.03.00,FISIOLOGIA DOS GRUPOS RECENTES,02.04.00.00
+conhecimentos-ii,conhecimentos,02.04.04.00,COMPORTAMENTO ANIMAL,02.04.00.00
+conhecimentos-ii,conhecimentos,02.04.05.00,TAXONOMIA DOS GRUPOS RECENTES,02.04.00.00
+conhecimentos-ii,conhecimentos,02.04.06.00,ZOOLOGIA APLICADA,02.04.00.00
+conhecimentos-ii,conhecimentos,02.04.99.00,OUTROS ELEMENTOS DO CAMPO ZOOLOGIA,02.04.00.00
+conhecimentos-ii,conhecimentos,02.05.01.00,ECOLOGIA TEÓRICA,02.05.00.00
+conhecimentos-ii,conhecimentos,02.05.02.00,ECOLOGIA DE ECOSSISTEMAS,02.05.00.00
+conhecimentos-ii,conhecimentos,02.05.03.00,ECOLOGIA APLICADA,02.05.00.00
+conhecimentos-ii,conhecimentos,02.05.99.00,OUTROS ELEMENTOS DO CAMPO ECOLOGIA,02.05.00.00
+conhecimentos-ii,conhecimentos,02.06.01.00,CITOLOGIA E BIOLOGIA CELULAR,02.06.00.00
+conhecimentos-ii,conhecimentos,02.06.02.00,EMBRIOLOGIA,02.06.00.00
+conhecimentos-ii,conhecimentos,02.06.03.00,HISTOLOGIA,02.06.00.00
+conhecimentos-ii,conhecimentos,02.06.04.00,ANATOMIA,02.06.00.00
+conhecimentos-ii,conhecimentos,02.06.99.00,OUTROS ELEMENTOS DO CAMPO MORFOLOGIA,02.06.00.00
+conhecimentos-ii,conhecimentos,02.07.01.00,FISIOLOGIA GERAL,02.07.00.00
+conhecimentos-ii,conhecimentos,02.07.02.00,FISIOLOGIA DOS ÓRGÃOS E SISTEMAS,02.07.00.00
+conhecimentos-ii,conhecimentos,02.07.03.00,FISIOLOGIA DO ESFORÇO,02.07.00.00
+conhecimentos-ii,conhecimentos,02.07.04.00,FISIOLOGIA COMPARADA,02.07.00.00
+conhecimentos-ii,conhecimentos,02.07.99.00,OUTROS ELEMENTOS DO CAMPO FISIOLOGIA,02.07.00.00
+conhecimentos-ii,conhecimentos,02.08.01.00,QUÍMICA DE MACROMOLÉCULAS,02.08.00.00
+conhecimentos-ii,conhecimentos,02.08.02.00,BIOQUÍMICA DOS MICRO-ORGANISMOS,02.08.00.00
+conhecimentos-ii,conhecimentos,02.08.03.00,METABOLISMO E BIOENERGÉTICA,02.08.00.00
+conhecimentos-ii,conhecimentos,02.08.04.00,BIOLOGIA MOLECULAR,02.08.00.00
+conhecimentos-ii,conhecimentos,02.08.05.00,ENZIMOLOGIA,02.08.00.00
+conhecimentos-ii,conhecimentos,02.08.99.00,OUTROS ELEMENTOS DO CAMPO BIOQUÍMICA,02.08.00.00
+conhecimentos-ii,conhecimentos,02.09.01.00,BIOFÍSICA MOLECULAR,02.09.00.00
+conhecimentos-ii,conhecimentos,02.09.02.00,BIOFÍSICA CELULAR,02.09.00.00
+conhecimentos-ii,conhecimentos,02.09.03.00,BIOFÍSICA DE PROCESSOS E SISTEMAS,02.09.00.00
+conhecimentos-ii,conhecimentos,02.09.04.00,RADIOLOGIA E FOTOBIOLOGIA,02.09.00.00
+conhecimentos-ii,conhecimentos,02.09.99.00,OUTROS ELEMENTOS DO CAMPO BIOFÍSICA,02.09.00.00
+conhecimentos-ii,conhecimentos,02.10.01.00,FARMACOLOGIA GERAL,02.10.00.00
+conhecimentos-ii,conhecimentos,02.10.02.00,FARMACOLOGIA AUTONÔMICA,02.10.00.00
+conhecimentos-ii,conhecimentos,02.10.03.00,NEUROPSICOFARMACOLOGIA,02.10.00.00
+conhecimentos-ii,conhecimentos,02.10.04.00,FARMACOLOGIA CARDIORENAL,02.10.00.00
+conhecimentos-ii,conhecimentos,02.10.05.00,FARMACOLOGIA BIOQUÍMICA E MOLECULAR,02.10.00.00
+conhecimentos-ii,conhecimentos,02.10.06.00,ETNOFARMACOLOGIA,02.10.00.00
+conhecimentos-ii,conhecimentos,02.10.07.00,TOXICOLOGIA,02.10.00.00
+conhecimentos-ii,conhecimentos,02.10.08.00,FARMACOLOGIA CLÍNICA,02.10.00.00
+conhecimentos-ii,conhecimentos,02.10.99.00,OUTROS ELEMENTOS DO CAMPO FARMACOLOGIA,02.10.00.00
+conhecimentos-ii,conhecimentos,02.11.01.00,IMUNOQUÍMICA,02.11.00.00
+conhecimentos-ii,conhecimentos,02.11.02.00,IMUNOLOGIA CELULAR,02.11.00.00
+conhecimentos-ii,conhecimentos,02.11.03.00,IMUNOGENÉTICA,02.11.00.00
+conhecimentos-ii,conhecimentos,02.11.04.00,IMUNOLOGIA APLICADA,02.11.00.00
+conhecimentos-ii,conhecimentos,02.11.99.00,OUTROS ELEMENTOS DO CAMPO IMUNOLOGIA,02.11.00.00
+conhecimentos-ii,conhecimentos,02.12.01.00,BIOLOGIA E FISIOLOGIA DOS MICRO-ORGANISMOS,02.12.00.00
+conhecimentos-ii,conhecimentos,02.12.02.00,MICROBIOLOGIA APLICADA,02.12.00.00
+conhecimentos-ii,conhecimentos,02.12.99.00,OUTROS ELEMENTOS DO CAMPO MICROBIOLOGIA,02.12.00.00
+conhecimentos-ii,conhecimentos,02.13.01.00,PROTOZOOLOGIA DE PARASITOS,02.13.00.00
+conhecimentos-ii,conhecimentos,02.13.02.00,HELMINTOLOGIA DE PARASITOS,02.13.00.00
+conhecimentos-ii,conhecimentos,02.13.03.00,ENTOMOLOGIA E MALACOLOGIA DE PARASITOS E VETORES,02.13.00.00
+conhecimentos-ii,conhecimentos,02.13.99.00,OUTROS ELEMENTOS DO CAMPO PARASITOLOGIA,02.13.00.00
+conhecimentos-ii,conhecimentos,02.14.01.00,BIOMEDICINA,02.14.00.00
+conhecimentos-ii,conhecimentos,02.14.99.00,OUTROS ELEMENTOS DO CAMPO BIOMEDICINA,02.14.00.00
+conhecimentos-ii,conhecimentos,03.01.01.00,CONSTRUÇÃO CIVIL,03.01.00.00
+conhecimentos-ii,conhecimentos,03.01.02.00,ESTRUTURAS,03.01.00.00
+conhecimentos-ii,conhecimentos,03.01.03.00,GEOTÉCNICA,03.01.00.00
+conhecimentos-ii,conhecimentos,03.01.04.00,ENGENHARIA HIDRÁULICA,03.01.00.00
+conhecimentos-ii,conhecimentos,03.01.05.00,INFRAESTRUTURA DE TRANSPORTES,03.01.00.00
+conhecimentos-ii,conhecimentos,03.01.99.00,OUTROS ELEMENTOS DO CAMPO ENGENHARIA CIVIL,03.01.00.00
+conhecimentos-ii,conhecimentos,03.02.01.00,PESQUISA MINERAL,03.02.00.00
+conhecimentos-ii,conhecimentos,03.02.02.00,LAVRA,03.02.00.00
+conhecimentos-ii,conhecimentos,03.02.03.00,TRATAMENTO DE MINÉRIOS (BENEFICIAMENTO),03.02.00.00
+conhecimentos-ii,conhecimentos,03.02.99.00,OUTROS ELEMENTOS DO CAMPO ENGENHARIA DE MINAS,03.02.00.00
+conhecimentos-ii,conhecimentos,03.03.01.00,INSTALAÇÕES E EQUIPAMENTOS METALÚRGICOS,03.03.00.00
+conhecimentos-ii,conhecimentos,03.03.02.00,METALURGIA EXTRATIVA,03.03.00.00
+conhecimentos-ii,conhecimentos,03.03.03.00,METALURGIA DE TRANSFORMAÇÃO,03.03.00.00
+conhecimentos-ii,conhecimentos,03.03.04.00,METALURGIA FÍSICA,03.03.00.00
+conhecimentos-ii,conhecimentos,03.03.05.00,MATERIAIS NÃO-METÁLICOS,03.03.00.00
+conhecimentos-ii,conhecimentos,03.03.99.00,OUTROS ELEMENTOS DO CAMPO ENGENHARIA DE MATERIAIS E METALÚRGICA,03.03.00.00
+conhecimentos-ii,conhecimentos,03.04.01.00,MATERIAIS ELÉTRICOS,03.04.00.00
+conhecimentos-ii,conhecimentos,03.04.02.00,"MEDIDAS ELÉTRICAS, MAGNÉTICAS E ELETRÔNICAS; INSTRUMENTAÇÃO",03.04.00.00
+conhecimentos-ii,conhecimentos,03.04.03.00,"CIRCUITOS ELÉTRICOS, MAGNÉTICOS E ELETRÔNICOS",03.04.00.00
+conhecimentos-ii,conhecimentos,03.04.04.00,SISTEMAS ELÉTRICOS DE POTÊNCIA,03.04.00.00
+conhecimentos-ii,conhecimentos,03.04.05.00,"ELETRÔNICA INDUSTRIAL, SISTEMAS E CONTROLES ELETRÔNICOS",03.04.00.00
+conhecimentos-ii,conhecimentos,03.04.06.00,TELECOMUNICAÇÕES,03.04.00.00
+conhecimentos-ii,conhecimentos,03.04.99.00,OUTROS ELEMENTOS DO CAMPO ENGENHARIA ELÉTRICA E ELETRÔNICA,03.04.00.00
+conhecimentos-ii,conhecimentos,03.05.01.00,FENÔMENOS DE TRANSPORTE,03.05.00.00
+conhecimentos-ii,conhecimentos,03.05.02.00,ENGENHARIA TÉRMICA,03.05.00.00
+conhecimentos-ii,conhecimentos,03.05.03.00,MECÂNICA DE SÓLIDOS,03.05.00.00
+conhecimentos-ii,conhecimentos,03.05.04.00,PROJETOS DE MÁQUINAS,03.05.00.00
+conhecimentos-ii,conhecimentos,03.05.05.00,PROCESSOS DE FABRICAÇÃO,03.05.00.00
+conhecimentos-ii,conhecimentos,03.05.99.00,OUTROS ELEMENTOS DO CAMPO ENGENHARIA MECÂNICA,03.05.00.00
+conhecimentos-ii,conhecimentos,03.06.01.00,PROCESSOS INDUSTRIAIS DE ENGENHARIA QUÍMICA,03.06.00.00
+conhecimentos-ii,conhecimentos,03.06.02.00,OPERAÇÕES INDUSTRIAIS E EQUIPAMENTOS PARA A ENGENHARIA QUÍMICA,03.06.00.00
+conhecimentos-ii,conhecimentos,03.06.03.00,TECNOLOGIA QUÍMICA,03.06.00.00
+conhecimentos-ii,conhecimentos,03.06.99.00,OUTROS ELEMENTOS DO CAMPO ENGENHARIA QUÍMICA,03.06.00.00
+conhecimentos-ii,conhecimentos,03.07.01.00,ENGENHARIA TÊXTIL,03.07.00.00
+conhecimentos-ii,conhecimentos,03.07.99.00,OUTROS ELEMENTOS DO CAMPO ENGENHARIA TÊXTIL,03.07.00.00
+conhecimentos-ii,conhecimentos,03.08.01.00,RECURSOS HÍDRICOS,03.08.00.00
+conhecimentos-ii,conhecimentos,03.08.02.00,TRATAMENTO DE ÁGUAS DE ABASTECIMENTO E RESIDUÁRIAS,03.08.00.00
+conhecimentos-ii,conhecimentos,03.08.03.00,SANEAMENTO BÁSICO,03.08.00.00
+conhecimentos-ii,conhecimentos,03.08.04.00,SANEAMENTO AMBIENTAL,03.08.00.00
+conhecimentos-ii,conhecimentos,03.08.99.00,OUTROS ELEMENTOS DO CAMPO ENGENHARIA SANITÁRIA,03.08.00.00
+conhecimentos-ii,conhecimentos,03.09.01.00,GERÊNCIA DE PRODUÇÃO,03.09.00.00
+conhecimentos-ii,conhecimentos,03.09.02.00,PESQUISA OPERACIONAL,03.09.00.00
+conhecimentos-ii,conhecimentos,03.09.03.00,ENGENHARIA DO PRODUTO,03.09.00.00
+conhecimentos-ii,conhecimentos,03.09.04.00,ENGENHARIA ECONÔMICA,03.09.00.00
+conhecimentos-ii,conhecimentos,03.09.99.00,OUTROS ELEMENTOS DO CAMPO ENGENHARIA DE PRODUÇÃO,03.09.00.00
+conhecimentos-ii,conhecimentos,03.10.01.00,APLICAÇÕES DE RADIOISÓTOPOS,03.10.00.00
+conhecimentos-ii,conhecimentos,03.10.02.00,FUSÃO CONTROLADA,03.10.00.00
+conhecimentos-ii,conhecimentos,03.10.03.00,COMBUSTÍVEL NUCLEAR,03.10.00.00
+conhecimentos-ii,conhecimentos,03.10.04.00,TECNOLOGIA DOS REATORES,03.10.00.00
+conhecimentos-ii,conhecimentos,03.10.99.00,OUTROS ELEMENTOS DO CAMPO ENGENHARIA NUCLEAR,03.10.00.00
+conhecimentos-ii,conhecimentos,03.11.01.00,PLANEJAMENTO DE TRANSPORTES,03.11.00.00
+conhecimentos-ii,conhecimentos,03.11.02.00,VEÍCULOS E EQUIPAMENTOS DE CONTROLE,03.11.00.00
+conhecimentos-ii,conhecimentos,03.11.03.00,OPERAÇÕES DE TRANSPORTES,03.11.00.00
+conhecimentos-ii,conhecimentos,03.11.99.00,OUTROS ELEMENTOS DO CAMPO ENGENHARIA DE TRANSPORTES,03.11.00.00
+conhecimentos-ii,conhecimentos,03.12.01.00,HIDRODINÂMICA DE NAVIOS E SISTEMAS OCEÂNICOS,03.12.00.00
+conhecimentos-ii,conhecimentos,03.12.02.00,ESTRUTURAS NAVAIS E OCEÂNICAS,03.12.00.00
+conhecimentos-ii,conhecimentos,03.12.03.00,MÁQUINAS MARÍTIMAS,03.12.00.00
+conhecimentos-ii,conhecimentos,03.12.04.00,PROJETOS DE NAVIOS E DE SISTEMAS OCEÂNICOS,03.12.00.00
+conhecimentos-ii,conhecimentos,03.12.05.00,TECNOLOGIA DE CONSTRUÇÃO NAVAL E DE SISTEMAS OCEÂNICOS,03.12.00.00
+conhecimentos-ii,conhecimentos,03.12.99.00,OUTROS ELEMENTOS DO CAMPO ENGENHARIA NAVAL E OCEÂNICA,03.12.00.00
+conhecimentos-ii,conhecimentos,03.13.01.00,AERODINÂMICA,03.13.00.00
+conhecimentos-ii,conhecimentos,03.13.02.00,DINÂMICA DE VÔO,03.13.00.00
+conhecimentos-ii,conhecimentos,03.13.03.00,ESTRUTURAS AEROESPACIAIS,03.13.00.00
+conhecimentos-ii,conhecimentos,03.13.04.00,MATERIAIS E PROCESSOS PARA ENGENHARIA AERONÁUTICA E AEROESPACIAL,03.13.00.00
+conhecimentos-ii,conhecimentos,03.13.05.00,PROPULSÃO AEROESPACIAL,03.13.00.00
+conhecimentos-ii,conhecimentos,03.13.06.00,SISTEMAS AEROESPACIAIS,03.13.00.00
+conhecimentos-ii,conhecimentos,03.13.99.00,OUTROS ELEMENTOS DO CAMPO ENGENHARIA AEROESPACIAL,03.13.00.00
+conhecimentos-ii,conhecimentos,03.14.01.00,BIOENGENHARIA,03.14.00.00
+conhecimentos-ii,conhecimentos,03.14.02.00,ENGENHARIA MÉDICA,03.14.00.00
+conhecimentos-ii,conhecimentos,03.14.99.00,OUTROS ELEMENTOS DO CAMPO ENGENHARIA BIOMÉDICA,03.14.00.00
+conhecimentos-ii,conhecimentos,03.15.01.00,ENGENHARIA DE AGRIMENSURA,03.15.00.00
+conhecimentos-ii,conhecimentos,03.15.99.00,OUTROS ELEMENTOS DO CAMPO ENGENHARIA DE AGRIMENSURA,03.15.00.00
+conhecimentos-ii,conhecimentos,03.16.01.00,ENGENHARIA GARTOGRÁFICA,03.16.00.00
+conhecimentos-ii,conhecimentos,03.16.99.00,OUTROS ELEMENTOS DO CAMPO ENGENHARIA CARTOGRÁFICA,03.16.00.00
+conhecimentos-ii,conhecimentos,03.17.01.00,ENGENHARIA MECATRÔNICA,03.17.00.00
+conhecimentos-ii,conhecimentos,03.17.99.00,OUTROS ELEMENTOS DO CAMPO ENGENHARIA MECATRÔNICA,03.17.00.00
+conhecimentos-ii,conhecimentos,04.01.01.00,CLÍNICA MÉDICA,04.01.00.00
+conhecimentos-ii,conhecimentos,04.01.02.00,CIRURGIA,04.01.00.00
+conhecimentos-ii,conhecimentos,04.01.03.00,SAÚDE MATERNO-INFANTIL,04.01.00.00
+conhecimentos-ii,conhecimentos,04.01.04.00,PSIQUIATRIA,04.01.00.00
+conhecimentos-ii,conhecimentos,04.01.05.00,ANATOMIA PATOLÓGICA E PATOLOGIA CLÍNICA,04.01.00.00
+conhecimentos-ii,conhecimentos,04.01.06.00,RADIOLOGIA MÉDICA,04.01.00.00
+conhecimentos-ii,conhecimentos,04.01.07.00,MEDICINA LEGAL E DEONTOLOGIA,04.01.00.00
+conhecimentos-ii,conhecimentos,04.01.99.00,OUTROS ELEMENTOS DO CAMPO MEDICINA,04.01.00.00
+conhecimentos-ii,conhecimentos,04.02.01.00,CLÍNICA ODONTOLÓGICA,04.02.00.00
+conhecimentos-ii,conhecimentos,04.02.02.00,CIRURGIA BUCO-MAXILO-FACIAL,04.02.00.00
+conhecimentos-ii,conhecimentos,04.02.03.00,ORTODONTIA,04.02.00.00
+conhecimentos-ii,conhecimentos,04.02.04.00,ODONTOPEDIATRIA,04.02.00.00
+conhecimentos-ii,conhecimentos,04.02.05.00,PERIODONTIA,04.02.00.00
+conhecimentos-ii,conhecimentos,04.02.06.00,ENDODONTIA,04.02.00.00
+conhecimentos-ii,conhecimentos,04.02.07.00,RADIOLOGIA ODONTOLÓGICA,04.02.00.00
+conhecimentos-ii,conhecimentos,04.02.08.00,ODONTOLOGIA SOCIAL E PREVENTIVA,04.02.00.00
+conhecimentos-ii,conhecimentos,04.02.09.00,MATERIAIS ODONTOLÓGICOS,04.02.00.00
+conhecimentos-ii,conhecimentos,04.02.99.00,OUTROS ELEMENTOS DO CAMPO ODONTOLOGIA,04.02.00.00
+conhecimentos-ii,conhecimentos,04.03.01.00,FARMACOTECNIA,04.03.00.00
+conhecimentos-ii,conhecimentos,04.03.02.00,FARMACOGNOSIA,04.03.00.00
+conhecimentos-ii,conhecimentos,04.03.03.00,ANÁLISE TOXICOLÓGICA,04.03.00.00
+conhecimentos-ii,conhecimentos,04.03.04.00,ANÁLISE E CONTROLE DE MEDICAMENTOS,04.03.00.00
+conhecimentos-ii,conhecimentos,04.03.05.00,BROMATOLOGIA,04.03.00.00
+conhecimentos-ii,conhecimentos,04.03.99.00,OUTROS ELEMENTOS DO CAMPO FARMÁCIA,04.03.00.00
+conhecimentos-ii,conhecimentos,04.04.01.00,ENFERMAGEM MÉDICO-CIRÚRGICA,04.04.00.00
+conhecimentos-ii,conhecimentos,04.04.02.00,ENFERMAGEM OBSTÉTRICA,04.04.00.00
+conhecimentos-ii,conhecimentos,04.04.03.00,ENFERMAGEM PEDIÁTRICA,04.04.00.00
+conhecimentos-ii,conhecimentos,04.04.04.00,ENFERMAGEM PSIQUIÁTRICA,04.04.00.00
+conhecimentos-ii,conhecimentos,04.04.05.00,ENFERMAGEM DE DOENÇAS CONTAGIOSAS,04.04.00.00
+conhecimentos-ii,conhecimentos,04.04.06.00,ENFERMAGEM DE SAÚDE PÚBLICA,04.04.00.00
+conhecimentos-ii,conhecimentos,04.04.99.00,OUTROS ELEMENTOS DO CAMPO ENFERMAGEM,04.04.00.00
+conhecimentos-ii,conhecimentos,04.05.01.00,BIOQUÍMICA DA NUTRIÇÃO,04.05.00.00
+conhecimentos-ii,conhecimentos,04.05.02.00,DIETÉTICA,04.05.00.00
+conhecimentos-ii,conhecimentos,04.05.03.00,ANÁLISE NUTRICIONAL DE POPULAÇÃO,04.05.00.00
+conhecimentos-ii,conhecimentos,04.05.04.00,DESNUTRIÇÃO E DESENVOLVIMENTO FISIOLÓGICO,04.05.00.00
+conhecimentos-ii,conhecimentos,04.05.99.00,OUTROS ELEMENTOS DO CAMPO NUTRIÇÃO,04.05.00.00
+conhecimentos-ii,conhecimentos,04.06.01.00,EPIDEMIOLOGIA,04.06.00.00
+conhecimentos-ii,conhecimentos,04.06.02.00,SAÚDE PÚBLICA,04.06.00.00
+conhecimentos-ii,conhecimentos,04.06.03.00,MEDICINA PREVENTIVA,04.06.00.00
+conhecimentos-ii,conhecimentos,04.06.99.00,OUTROS ELEMENTOS DO CAMPO SAÚDE COLETIVA,04.06.00.00
+conhecimentos-ii,conhecimentos,04.07.01.00,FONOAUDIOLOGIA,04.07.00.00
+conhecimentos-ii,conhecimentos,04.07.99.00,OUTROS ELEMENTOS DO CAMPO FONOAUDIOLOGIA,04.07.00.00
+conhecimentos-ii,conhecimentos,04.08.01.00,FISIOTERAPIA E TERAPIA OCUPACIONAL,04.08.00.00
+conhecimentos-ii,conhecimentos,04.08.99.00,"Outras subáreas de fisioterapia, terapia ocupacional e afins (especificar...)",04.08.00.00
+conhecimentos-ii,conhecimentos,04.09.01.00,EDUCAÇÃO FÍSICA,04.09.00.00
+conhecimentos-ii,conhecimentos,04.09.99.00,OUTROS ELEMENTOS DO CAMPO EDUCAÇÃO FÍSICA,04.09.00.00
+conhecimentos-ii,conhecimentos,05.01.01.00,CIÊNCIA DO SOLO,05.01.00.00
+conhecimentos-ii,conhecimentos,05.01.02.00,FITOSSANIDADE,05.01.00.00
+conhecimentos-ii,conhecimentos,05.01.03.00,FITOTECNIA,05.01.00.00
+conhecimentos-ii,conhecimentos,05.01.04.00,"FLORICULTURA, PARQUES E JARDINS",05.01.00.00
+conhecimentos-ii,conhecimentos,05.01.05.00,AGROMETEROLOGIA,05.01.00.00
+conhecimentos-ii,conhecimentos,05.01.06.00,EXTENSÃO RURAL,05.01.00.00
+conhecimentos-ii,conhecimentos,05.01.99.00,OUTROS ELEMENTOS DO CAMPO AGRONOMIA,05.01.00.00
+conhecimentos-ii,conhecimentos,05.02.01.00,SILVICULTURA,05.02.00.00
+conhecimentos-ii,conhecimentos,05.02.02.00,MANEJO FLORESTAL,05.02.00.00
+conhecimentos-ii,conhecimentos,05.02.03.00,TÉCNICAS E OPERAÇÕES FLORESTAIS,05.02.00.00
+conhecimentos-ii,conhecimentos,05.02.04.00,TECNOLOGIA E UTILIZAÇÃO DE PRODUTOS FLORESTAIS,05.02.00.00
+conhecimentos-ii,conhecimentos,05.02.05.00,CONSERVAÇÃO DA NATUREZA,05.02.00.00
+conhecimentos-ii,conhecimentos,05.02.06.00,ENERGIA DE BIOMASSA FLORESTAL,05.02.00.00
+conhecimentos-ii,conhecimentos,05.02.99.00,OUTROS ELEMENTOS DO CAMPO RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL,05.02.00.00
+conhecimentos-ii,conhecimentos,05.03.01.00,MÁQUINAS E IMPLEMENTOS AGRÍCOLAS,05.03.00.00
+conhecimentos-ii,conhecimentos,05.03.02.00,ENGENHARIA DE ÁGUA E SOLO,05.03.00.00
+conhecimentos-ii,conhecimentos,05.03.03.00,ENGENHARIA DE PROCESSAMENTO DE PRODUTOS AGRÍCOLAS,05.03.00.00
+conhecimentos-ii,conhecimentos,05.03.04.00,CONSTRUÇÕES RURAIS E AMBIÊNCIA,05.03.00.00
+conhecimentos-ii,conhecimentos,05.03.05.00,ENERGIZAÇÃO RURAL,05.03.00.00
+conhecimentos-ii,conhecimentos,05.03.99.00,OUTROS ELEMENTOS DO CAMPO ENGENHARIA AGRÍCOLA,05.03.00.00
+conhecimentos-ii,conhecimentos,05.04.01.00,ECOLOGIA DOS ANIMAIS DOMÉSTICOS E ETOLOGIA,05.04.00.00
+conhecimentos-ii,conhecimentos,05.04.02.00,GENÉTICA E MELHORAMENTO DOS ANIMAIS DOMÉSTICOS,05.04.00.00
+conhecimentos-ii,conhecimentos,05.04.03.00,NUTRIÇÃO E ALIMENTAÇÃO ANIMAL,05.04.00.00
+conhecimentos-ii,conhecimentos,05.04.04.00,PASTAGEM E FORRAGICULTURA,05.04.00.00
+conhecimentos-ii,conhecimentos,05.04.05.00,PRODUÇÃO ANIMAL,05.04.00.00
+conhecimentos-ii,conhecimentos,05.04.99.00,OUTROS ELEMENTOS DO CAMPO ZOOTECNIA,05.04.00.00
+conhecimentos-ii,conhecimentos,05.05.01.00,CLÍNICA E CIRURGIA ANIMAL,05.05.00.00
+conhecimentos-ii,conhecimentos,05.05.02.00,MEDICINA VETERINÁRIA PREVENTIVA,05.05.00.00
+conhecimentos-ii,conhecimentos,05.05.03.00,PATOLOGIA ANIMAL,05.05.00.00
+conhecimentos-ii,conhecimentos,05.05.04.00,REPRODUÇÃO ANIMAL,05.05.00.00
+conhecimentos-ii,conhecimentos,05.05.05.00,INSPEÇÃO DE PRODUTOS DE ORIGEM ANIMAL,05.05.00.00
+conhecimentos-ii,conhecimentos,05.05.99.00,OUTROS ELEMENTOS DO CAMPO MEDICINA VETERINÁRIA,05.05.00.00
+conhecimentos-ii,conhecimentos,05.06.01.00,RECURSOS PESQUEIROS MARINHOS,05.06.00.00
+conhecimentos-ii,conhecimentos,05.06.02.00,RECURSOS PESQUEIROS DE ÁGUAS INTERIORES,05.06.00.00
+conhecimentos-ii,conhecimentos,05.06.03.00,AQUICULTURA,05.06.00.00
+conhecimentos-ii,conhecimentos,05.06.04.00,ENGENHARIA DE PESCA,05.06.00.00
+conhecimentos-ii,conhecimentos,05.06.99.00,OUTROS ELEMENTOS DO CAMPO RECURSOS PESQUEIROS E ENGENHARIA DE PESCA,05.06.00.00
+conhecimentos-ii,conhecimentos,05.07.01.00,CIÊNCIA DE ALIMENTOS,05.07.00.00
+conhecimentos-ii,conhecimentos,05.07.02.00,TECNOLOGIA DE ALIMENTOS,05.07.00.00
+conhecimentos-ii,conhecimentos,05.07.03.00,ENGENHARIA DE ALIMENTOS,05.07.00.00
+conhecimentos-ii,conhecimentos,05.07.99.00,OUTROS ELEMENTOS DO CAMPO CIÊNCIA E TECNOLOGIA DE ALIMENTOS,05.07.00.00
+conhecimentos-ii,conhecimentos,06.01.01.00,TEORIA DO DIREITO,06.01.00.00
+conhecimentos-ii,conhecimentos,06.01.02.00,DIREITO PÚBLICO,06.01.00.00
+conhecimentos-ii,conhecimentos,06.01.03.00,DIREITO PRIVADO,06.01.00.00
+conhecimentos-ii,conhecimentos,06.01.04.00,DIREITOS ESPECIAIS,06.01.00.00
+conhecimentos-ii,conhecimentos,06.01.99.00,OUTROS ELEMENTOS DO CAMPO DIREITO,06.01.00.00
+conhecimentos-ii,conhecimentos,06.02.01.00,ADMINISTRAÇÃO DE EMPRESAS,06.02.00.00
+conhecimentos-ii,conhecimentos,06.02.02.00,ADMINISTRAÇÃO PÚBLICA,06.02.00.00
+conhecimentos-ii,conhecimentos,06.02.03.00,ADMINISTRAÇÃO DE SETORES ESPECÍFICOS,06.02.00.00
+conhecimentos-ii,conhecimentos,06.02.04.00,CIÊNCIAS CONTÁBEIS,06.02.00.00
+conhecimentos-ii,conhecimentos,06.02.05.00,SECRETARIADO EXECUTIVO,06.02.00.00
+conhecimentos-ii,conhecimentos,06.02.99.00,OUTROS ELEMENTOS DO CAMPO ADMINISTRAÇÃO,06.02.00.00
+conhecimentos-ii,conhecimentos,06.03.01.00,TEORIA ECONÔMICA,06.03.00.00
+conhecimentos-ii,conhecimentos,06.03.02.00,MÉTODOS QUANTITATIVOS EM ECONOMIA,06.03.00.00
+conhecimentos-ii,conhecimentos,06.03.03.00,ECONOMIA MONETÁRIA E FISCAL,06.03.00.00
+conhecimentos-ii,conhecimentos,06.03.04.00,"CRESCIMENTO, FLUTUAÇÕES E PLANEJAMENTO ECONÔMICO",06.03.00.00
+conhecimentos-ii,conhecimentos,06.03.05.00,ECONOMIA INTERNACIONAL,06.03.00.00
+conhecimentos-ii,conhecimentos,06.03.06.00,ECONOMIA DOS RECURSOS HUMANOS,06.03.00.00
+conhecimentos-ii,conhecimentos,06.03.07.00,ECONOMIA INDUSTRIAL,06.03.00.00
+conhecimentos-ii,conhecimentos,06.03.08.00,ECONOMIA DO BEM-ESTAR SOCIAL,06.03.00.00
+conhecimentos-ii,conhecimentos,06.03.09.00,ECONOMIA REGIONAL E URBANA,06.03.00.00
+conhecimentos-ii,conhecimentos,06.03.10.00,ECONOMIAS AGRÁRIA E DOS RECURSOS NATURAIS,06.03.00.00
+conhecimentos-ii,conhecimentos,06.03.99.00,OUTROS ELEMENTOS DO CAMPO ECONOMIA,06.03.00.00
+conhecimentos-ii,conhecimentos,06.04.01.00,FUNDAMENTOS DE ARQUITETURA E URBANISMO,06.04.00.00
+conhecimentos-ii,conhecimentos,06.04.02.00,PROJETO DE ARQUITETURA E URBANISMO,06.04.00.00
+conhecimentos-ii,conhecimentos,06.04.03.00,TECNOLOGIA DE ARQUITETURA E URBANISMO E ADEQUAÇÃO AMBIENTAL,06.04.00.00
+conhecimentos-ii,conhecimentos,06.04.04.00,PAISAGISMO,06.04.00.00
+conhecimentos-ii,conhecimentos,06.04.05.00,DESIGN  DE INTERIORES E DECORAÇÃO,06.04.00.00
+conhecimentos-ii,conhecimentos,06.04.99.00,OUTROS ELEMENTOS DO CAMPO ARQUITETURA E URBANISMO,06.04.00.00
+conhecimentos-ii,conhecimentos,06.05.01.00,FUNDAMENTOS DO PLANEJAMENTO URBANO E REGIONAL,06.05.00.00
+conhecimentos-ii,conhecimentos,06.05.02.00,MÉTODOS E TÉCNICAS DO PLANEJAMENTO URBANO E REGIONAL,06.05.00.00
+conhecimentos-ii,conhecimentos,06.05.03.00,SERVIÇOS URBANOS E REGIONAIS,06.05.00.00
+conhecimentos-ii,conhecimentos,06.05.99.00,OUTROS ELEMENTOS DO CAMPO PLANEJAMENTO URBANO E REGIONAL,06.05.00.00
+conhecimentos-ii,conhecimentos,06.06.01.00,DISTRIBUIÇÃO ESPACIAL,06.06.00.00
+conhecimentos-ii,conhecimentos,06.06.02.00,TENDÊNCIA POPULACIONAL,06.06.00.00
+conhecimentos-ii,conhecimentos,06.06.04.00,NUPCIALIDADE E DEMOGRAFIA DA FAMÍLIA,06.06.00.00
+conhecimentos-ii,conhecimentos,06.06.05.00,DEMOGRAFIA HISTÓRICA,06.06.00.00
+conhecimentos-ii,conhecimentos,06.06.06.00,POLÍTICA PÚBLICA E POPULAÇÃO,06.06.00.00
+conhecimentos-ii,conhecimentos,06.06.07.00,FONTES DE DADOS DEMOGRÁFICOS,06.06.00.00
+conhecimentos-ii,conhecimentos,06.06.99.00,OUTROS ELEMENTOS DO CAMPO DEMOGRAFIA,06.06.00.00
+conhecimentos-ii,conhecimentos,06.07.01.00,TEORIA DA INFORMAÇÃO,06.07.00.00
+conhecimentos-ii,conhecimentos,06.07.02.00,BIBLIOTECONOMIA,06.07.00.00
+conhecimentos-ii,conhecimentos,06.07.03.00,ARQUIVOLOGIA,06.07.00.00
+conhecimentos-ii,conhecimentos,06.07.99.00,OUTROS ELEMENTOS DO CAMPO CIÊNCIA DA INFORMAÇÃO,06.07.00.00
+conhecimentos-ii,conhecimentos,06.08.01.00,MUSEOLOGIA,06.08.00.00
+conhecimentos-ii,conhecimentos,06.08.99.00,OUTROS ELEMENTOS DO CAMPO MUSEOLOGIA,06.08.00.00
+conhecimentos-ii,conhecimentos,06.09.01.00,TEORIA DA COMUNICAÇÃO,06.09.00.00
+conhecimentos-ii,conhecimentos,06.09.02.00,JORNALISMO E EDITORAÇÃO,06.09.00.00
+conhecimentos-ii,conhecimentos,06.09.03.00,RÁDIO E TELEVISÃO,06.09.00.00
+conhecimentos-ii,conhecimentos,06.09.04.00,RELAÇÕES PÚBLICAS E PROPAGANDA,06.09.00.00
+conhecimentos-ii,conhecimentos,06.09.05.00,COMUNICAÇÃO VISUAL,06.09.00.00
+conhecimentos-ii,conhecimentos,06.09.99.00,OUTROS ELEMENTOS DO CAMPO COMUNICAÇÃO,06.09.00.00
+conhecimentos-ii,conhecimentos,06.10.01.00,FUNDAMENTOS DO SERVIÇO SOCIAL,06.10.00.00
+conhecimentos-ii,conhecimentos,06.10.02.00,SERVIÇO SOCIAL APLICADO,06.10.00.00
+conhecimentos-ii,conhecimentos,06.10.99.00,OUTROS ELEMENTOS DO CAMPO SERVIÇO SOCIAL,06.10.00.00
+conhecimentos-ii,conhecimentos,06.11.99.00,OUTROS ELEMENTOS DO CAMPO ECONOMIA DOMÉSTICA,06.11.00.00
+conhecimentos-ii,conhecimentos,06.12.01.00,PROGRAMAÇÃO VISUAL,06.12.00.00
+conhecimentos-ii,conhecimentos,06.12.02.00,DESENHO DE PRODUTO,06.12.00.00
+conhecimentos-ii,conhecimentos,06.12.99.00,OUTROS ELEMENTOS DO CAMPO DESENHO INDUSTRIAL,06.12.00.00
+conhecimentos-ii,conhecimentos,06.13.01.00,TURISMO,06.13.00.00
+conhecimentos-ii,conhecimentos,06.13.99.00,OUTROS ELEMENTOS DO CAMPO TURISMO,06.13.00.00
+conhecimentos-ii,conhecimentos,06.14.01.00,DIPLOMACIA,06.14.00.00
+conhecimentos-ii,conhecimentos,06.14.02.00,RELAÇÕES INTERNACIONAIS (EXCETO DIPLOMACIA),06.14.00.00
+conhecimentos-ii,conhecimentos,06.14.99.00,OUTROS ELEMENTOS DO CAMPO RELAÇÕES INTERNACIONAIS,06.14.00.00
+conhecimentos-ii,conhecimentos,07.01.01.00,HISTÓRIA DA FILOSOFIA,07.01.00.00
+conhecimentos-ii,conhecimentos,07.01.02.00,METAFÍSICA,07.01.00.00
+conhecimentos-ii,conhecimentos,07.01.03.00,LÓGICA,07.01.00.00
+conhecimentos-ii,conhecimentos,07.01.04.00,ÉTICA,07.01.00.00
+conhecimentos-ii,conhecimentos,07.01.05.00,EPISTEMOLOGIA,07.01.00.00
+conhecimentos-ii,conhecimentos,07.01.06.00,FILOSOFIA BRASILEIRA,07.01.00.00
+conhecimentos-ii,conhecimentos,07.01.99.00,OUTROS ELEMENTOS DO CAMPO FILOSOFIA,07.01.00.00
+conhecimentos-ii,conhecimentos,07.02.01.00,FUNDAMENTOS DA SOCIOLOGIA,07.02.00.00
+conhecimentos-ii,conhecimentos,07.02.02.00,SOCIOLOGIA DO CONHECIMENTO,07.02.00.00
+conhecimentos-ii,conhecimentos,07.02.03.00,SOCIOLOGIA DO DESENVOLVIMENTO,07.02.00.00
+conhecimentos-ii,conhecimentos,07.02.04.00,SOCIOLOGIA URBANA,07.02.00.00
+conhecimentos-ii,conhecimentos,07.02.05.00,SOCIOLOGIA RURAL,07.02.00.00
+conhecimentos-ii,conhecimentos,07.02.06.00,SOCIOLOGIA DA SAÚDE,07.02.00.00
+conhecimentos-ii,conhecimentos,07.02.07.00,OUTRAS SOCIOLOGIAS ESPECÍFICAS,07.02.00.00
+conhecimentos-ii,conhecimentos,07.02.99.00,OUTROS ELEMENTOS DO CAMPO SOCIOLOGIA,07.02.00.00
+conhecimentos-ii,conhecimentos,07.03.01.00,TEORIA ANTROPOLÓGICA,07.03.00.00
+conhecimentos-ii,conhecimentos,07.03.02.00,ETNOLOGIA INDÍGENA,07.03.00.00
+conhecimentos-ii,conhecimentos,07.03.03.00,ANTROPOLOGIA URBANA,07.03.00.00
+conhecimentos-ii,conhecimentos,07.03.04.00,ANTROPOLOGIA RURAL,07.03.00.00
+conhecimentos-ii,conhecimentos,07.03.05.00,ANTROPOLOGIA DAS POPULAÇÕES AFRO-BRASILEIRAS,07.03.00.00
+conhecimentos-ii,conhecimentos,07.03.99.00,OUTROS ELEMENTOS DO CAMPO ANTROPOLOGIA,07.03.00.00
+conhecimentos-ii,conhecimentos,07.04.01.00,TEORIA E MÉTODO EM ARQUEOLOGIA,07.04.00.00
+conhecimentos-ii,conhecimentos,07.04.02.00,ARQUEOLOGIA PRÉ-HISTÓRICA,07.04.00.00
+conhecimentos-ii,conhecimentos,07.04.03.00,ARQUEOLOGIA HISTÓRICA,07.04.00.00
+conhecimentos-ii,conhecimentos,07.04.99.00,OUTROS ELEMENTOS DO CAMPO ARQUEOLOGIA,07.04.00.00
+conhecimentos-ii,conhecimentos,07.05.01.00,TEORIA E FILOSOFIA DA HISTÓRIA,07.05.00.00
+conhecimentos-ii,conhecimentos,07.05.02.00,HISTÓRIA ANTIGA E MEDIEVAL,07.05.00.00
+conhecimentos-ii,conhecimentos,07.05.03.00,HISTÓRIA MODERNA E CONTEMPORÂNEA,07.05.00.00
+conhecimentos-ii,conhecimentos,07.05.04.00,HISTÓRIA DA AMÉRICA,07.05.00.00
+conhecimentos-ii,conhecimentos,07.05.05.00,HISTÓRIA DO BRASIL,07.05.00.00
+conhecimentos-ii,conhecimentos,07.05.06.00,HISTÓRIA DAS CIÊNCIAS,07.05.00.00
+conhecimentos-ii,conhecimentos,07.05.99.00,OUTROS ELEMENTOS DO CAMPO HISTÓRIA,07.05.00.00
+conhecimentos-ii,conhecimentos,07.06.01.00,GEOGRAFIA HUMANA,07.06.00.00
+conhecimentos-ii,conhecimentos,07.06.02.00,GEOGRAFIA REGIONAL,07.06.00.00
+conhecimentos-ii,conhecimentos,07.06.99.00,OUTROS ELEMENTOS DO CAMPO GEOGRAFIA,07.06.00.00
+conhecimentos-ii,conhecimentos,07.07.01.00,FUNDAMENTOS E MEDIDAS DA PSICOLOGIA,07.07.00.00
+conhecimentos-ii,conhecimentos,07.07.02.00,PSICOLOGIA EXPERIMENTAL,07.07.00.00
+conhecimentos-ii,conhecimentos,07.07.03.00,PSICOLOGIA FISIOLÓGICA,07.07.00.00
+conhecimentos-ii,conhecimentos,07.07.05.00,PSICOLOGIA SOCIAL,07.07.00.00
+conhecimentos-ii,conhecimentos,07.07.06.00,PSICOLOGIA COGNITIVA,07.07.00.00
+conhecimentos-ii,conhecimentos,07.07.07.00,PSICOLOGIA DO DESENVOLVIMENTO HUMANO,07.07.00.00
+conhecimentos-ii,conhecimentos,07.07.08.00,PSICOLOGIA DO ENSINO E DA APRENDIZAGEM,07.07.00.00
+conhecimentos-ii,conhecimentos,07.07.09.00,PSICOLOGIA DO TRABALHO E ORGANIZACIONAL,07.07.00.00
+conhecimentos-ii,conhecimentos,07.07.10.00,TRATAMENTO E PREVENÇÃO PSICOLÓGICA,07.07.00.00
+conhecimentos-ii,conhecimentos,07.07.99.00,OUTROS ELEMENTOS DO CAMPO PSICOLOGIA,07.07.00.00
+conhecimentos-ii,conhecimentos,07.08.01.00,FUNDAMENTOS DA EDUCAÇÃO,07.08.00.00
+conhecimentos-ii,conhecimentos,07.08.02.00,ADMINISTRAÇÃO EDUCACIONAL,07.08.00.00
+conhecimentos-ii,conhecimentos,07.08.03.00,PLANEJAMENTO E AVALIAÇÃO EDUCACIONAL,07.08.00.00
+conhecimentos-ii,conhecimentos,07.08.04.00,ENSINO-APRENDIZAGEM,07.08.00.00
+conhecimentos-ii,conhecimentos,07.08.05.00,CURRÍCULO,07.08.00.00
+conhecimentos-ii,conhecimentos,07.08.06.00,ORIENTAÇÃO E ACONSELHAMENTO,07.08.00.00
+conhecimentos-ii,conhecimentos,07.08.07.00,TÓPICOS ESPECÍFICOS DE EDUCAÇÃO,07.08.00.00
+conhecimentos-ii,conhecimentos,07.08.99.00,OUTROS ELEMENTOS DO CAMPO EDUCAÇÃO,07.08.00.00
+conhecimentos-ii,conhecimentos,07.09.01.00,TEORIA POLÍTICA,07.09.00.00
+conhecimentos-ii,conhecimentos,07.09.02.00,ESTADO E GOVERNO,07.09.00.00
+conhecimentos-ii,conhecimentos,07.09.03.00,COMPORTAMENTO POLÍTICO,07.09.00.00
+conhecimentos-ii,conhecimentos,07.09.04.00,POLÍTICAS PÚBLICAS,07.09.00.00
+conhecimentos-ii,conhecimentos,07.09.05.00,POLÍTICA INTERNACIONAL,07.09.00.00
+conhecimentos-ii,conhecimentos,07.09.99.00,OUTROS ELEMENTOS DO CAMPO CIÊNCIA POLÍTICA,07.09.00.00
+conhecimentos-ii,conhecimentos,07.10.01.00,HISTÓRIA DA TEOLOGIA,07.10.00.00
+conhecimentos-ii,conhecimentos,07.10.02.00,TEOLOGIA MORAL,07.10.00.00
+conhecimentos-ii,conhecimentos,07.10.03.00,TEOLOGIA SISTEMÁTICA,07.10.00.00
+conhecimentos-ii,conhecimentos,07.10.04.00,TEOLOGIA PASTORAL,07.10.00.00
+conhecimentos-ii,conhecimentos,07.10.99.00,OUTROS ELEMENTOS DO CAMPO TEOLOGIA,07.10.00.00
+conhecimentos-ii,conhecimentos,08.01.01.00,TEORIA E ANÁLISE LINGUÍSTICA,08.01.00.00
+conhecimentos-ii,conhecimentos,08.01.02.00,FISIOLOGIA DA LINGUAGEM,08.01.00.00
+conhecimentos-ii,conhecimentos,08.01.03.00,LINGUÍSTICA HISTÓRICA,08.01.00.00
+conhecimentos-ii,conhecimentos,08.01.04.00,SOCIOLINGUÍSTICA E DIALETOLOGIA,08.01.00.00
+conhecimentos-ii,conhecimentos,08.01.05.00,PSICOLINGUÍSTICA,08.01.00.00
+conhecimentos-ii,conhecimentos,08.01.06.00,LINGUÍSTICA APLICADA,08.01.00.00
+conhecimentos-ii,conhecimentos,08.01.99.00,OUTROS ELEMENTOS DO CAMPO LINGUÍSTICA,08.01.00.00
+conhecimentos-ii,conhecimentos,08.02.01.00,LÍNGUA PORTUGUESA,08.02.00.00
+conhecimentos-ii,conhecimentos,08.02.02.00,LÍNGUAS ESTRANGEIRAS MODERNAS,08.02.00.00
+conhecimentos-ii,conhecimentos,08.02.03.00,LÍNGUAS CLÁSSICAS,08.02.00.00
+conhecimentos-ii,conhecimentos,08.02.04.00,LÍNGUAS INDÍGENAS,08.02.00.00
+conhecimentos-ii,conhecimentos,08.02.05.00,TEORIA LITERÁRIA,08.02.00.00
+conhecimentos-ii,conhecimentos,08.02.06.00,LITERATURA BRASILEIRA,08.02.00.00
+conhecimentos-ii,conhecimentos,08.02.07.00,OUTRAS LITERATURAS VERNÁCULAS,08.02.00.00
+conhecimentos-ii,conhecimentos,08.02.08.00,LITERATURAS ESTRANGEIRAS MODERNAS,08.02.00.00
+conhecimentos-ii,conhecimentos,08.02.09.00,LITERATURAS CLÁSSICAS,08.02.00.00
+conhecimentos-ii,conhecimentos,08.02.10.00,LITERATURA COMPARADA,08.02.00.00
+conhecimentos-ii,conhecimentos,08.02.11.00,LÍNGUA BRASILEIRA DE SINAIS (LIBRAS) E SISTEMA BRAÏLLE,08.02.00.00
+conhecimentos-ii,conhecimentos,08.02.99.00,OUTROS ELEMENTOS DO CAMPO LETRAS,08.02.00.00
+conhecimentos-ii,conhecimentos,08.03.01.00,FUNDAMENTOS E CRÍTICA DAS ARTES,08.03.00.00
+conhecimentos-ii,conhecimentos,08.03.02.00,ARTES PLÁSTICAS,08.03.00.00
+conhecimentos-ii,conhecimentos,08.03.03.00,MÚSICA,08.03.00.00
+conhecimentos-ii,conhecimentos,08.03.04.00,DANÇA,08.03.00.00
+conhecimentos-ii,conhecimentos,08.03.05.00,TEATRO,08.03.00.00
+conhecimentos-ii,conhecimentos,08.03.06.00,ÓPERA,08.03.00.00
+conhecimentos-ii,conhecimentos,08.03.07.00,FOTOGRAFIA,08.03.00.00
+conhecimentos-ii,conhecimentos,08.03.08.00,CINEMA,08.03.00.00
+conhecimentos-ii,conhecimentos,08.03.09.00,ARTES DO VÍDEO,08.03.00.00
+conhecimentos-ii,conhecimentos,08.03.10.00,EDUCAÇÃO ARTÍSTICA,08.03.00.00
+conhecimentos-ii,conhecimentos,08.03.99.00,OUTROS ELEMENTOS DO CAMPO ARTES,08.03.00.00
+conhecimentos-ii,conhecimentos,09.01.01.00,TECNOLOGIAS ESTRATÉGICAS,09.01.00.00
+conhecimentos-ii,conhecimentos,09.01.99.00,OUTROS ELEMENTOS DO CAMPO TECNOLOGIAS ESTRATÉGICAS,09.01.00.00
+conhecimentos-ii,conhecimentos,09.02.01.00,OUTROS ELEMENTOS (MÉTODOS E PROCEDIMENTOS DE PESQUISA),09.02.00.00
+conhecimentos-ii,conhecimentos,09.02.02.00,METODOLOGIA DE PROJETOS,09.02.00.00
+conhecimentos-ii,conhecimentos,09.02.99.00,OUTROS ELEMENTOS DO CAMPO MÉTODOS E PROCEDIMENTOS CIENTÍFICOS,09.02.00.00
+conhecimentos-ii,elementos,.99.0001,OUTROS ELEMENTOS (OUTRAS ÁREAS (ESPECIFICAR INTRODUÇÃO DE ÁREA/ CAMPO/ CONHECIMENTO: ...)) INFORMÁTICA APLICADA À PRODUÇÃO CULTURAL,.99.00
+conhecimentos-ii,elementos,01.01.01.01,CONJUNTOS,01.01.01.00
+conhecimentos-ii,elementos,01.01.01.02,LÓGICA MATEMÁTICA,01.01.01.00
+conhecimentos-ii,elementos,01.01.01.03,TEORIA DOS NÚMEROS,01.01.01.00
+conhecimentos-ii,elementos,01.01.01.04,GRUPO DE ÁLGEBRA NÃO-COMUTATIVA,01.01.01.00
+conhecimentos-ii,elementos,01.01.01.05,ÁLGEBRA COMUTATIVA,01.01.01.00
+conhecimentos-ii,elementos,01.01.01.06,GEOMETRIA ALGÉBRICA,01.01.01.00
+conhecimentos-ii,elementos,01.01.01.90,OUTROS ELEMENTOS (ÁLGEBRA) ÁLGEBRA LINEAR,01.01.01.00
+conhecimentos-ii,elementos,01.01.02.01,ANÁLISE COMPLEXA,01.01.02.00
+conhecimentos-ii,elementos,01.01.02.02,ANÁLISE FUNCIONAL,01.01.02.00
+conhecimentos-ii,elementos,01.01.02.03,ANÁLISE FUNCIONAL NÃO-LINEAR,01.01.02.00
+conhecimentos-ii,elementos,01.01.02.04,EQUAÇÕES DIFERENCIAIS ORDINÁRIAS,01.01.02.00
+conhecimentos-ii,elementos,01.01.02.05,EQUAÇÕES DIFERENCIAIS PARCIAIS,01.01.02.00
+conhecimentos-ii,elementos,01.01.02.06,EQUAÇÕES DIFERENCIAIS FUNCIONAIS,01.01.02.00
+conhecimentos-ii,elementos,01.01.02.90,OUTROS ELEMENTOS (ANÁLISE) CÁLCULO DIFERENCIAL E INTEGRAL,01.01.02.00
+conhecimentos-ii,elementos,01.01.03.01,GEOMETRIA DIFERENCIAL,01.01.03.00
+conhecimentos-ii,elementos,01.01.03.02,TOPOLOGIA ALGÉBRICA,01.01.03.00
+conhecimentos-ii,elementos,01.01.03.03,TOPOLOGIA DAS VARIEDADES,01.01.03.00
+conhecimentos-ii,elementos,01.01.03.04,SISTEMAS DINÂMICOS,01.01.03.00
+conhecimentos-ii,elementos,01.01.03.05,TEORIA DAS SINGULARIDADES E TEORIA DAS CATÁSTROFES,01.01.03.00
+conhecimentos-ii,elementos,01.01.03.06,TEORIA DAS FOLHEAÇÕES,01.01.03.00
+conhecimentos-ii,elementos,01.01.03.90,OUTROS ELEMENTOS (GEOMETRIA E TOPOLOGIA) GEOMETRIA ANALÍTICA,01.01.03.00
+conhecimentos-ii,elementos,01.01.04.01,FÍSICA MATEMÁTICA,01.01.04.00
+conhecimentos-ii,elementos,01.01.04.02,ANÁLISE NUMÉRICA,01.01.04.00
+conhecimentos-ii,elementos,01.01.04.03,MATEMÁTICA DISCRETA E COMBINATÓRIA,01.01.04.00
+conhecimentos-ii,elementos,01.01.04.90,OUTROS ELEMENTOS (MATEMÁTICA APLICADA) MATEMÁTICA APLICADA,01.01.04.00
+conhecimentos-ii,elementos,01.01.99.01,OUTROS ELEMENTOS (MATEMÁTICA) CÁLCULO DIFERENCIAL E INTEGRAL,01.01.99.00
+conhecimentos-ii,elementos,01.02.01.01,TEORIA GERAL E FUNDAMENTOS DA PROBABILIDADE,01.02.01.00
+conhecimentos-ii,elementos,01.02.01.02,TEORIA GERAL E PROCESSOS ESTOCÁSTICOS,01.02.01.00
+conhecimentos-ii,elementos,01.02.01.03,TEOREMAS DE LIMITE,01.02.01.00
+conhecimentos-ii,elementos,01.02.01.04,PROCESSOS MARKOVIANOS,01.02.01.00
+conhecimentos-ii,elementos,01.02.01.05,ANÁLISE ESTOCÁSTICA,01.02.01.00
+conhecimentos-ii,elementos,01.02.01.06,PROCESSOS ESTOCÁSTICOS ESPECIAIS,01.02.01.00
+conhecimentos-ii,elementos,01.02.01.90,OUTROS ELEMENTOS (PROBABILIDADE) CÁLCULO ESTOCÁSTICO,01.02.01.00
+conhecimentos-ii,elementos,01.02.02.01,FUNDAMENTOS DA ESTATÍSTICA,01.02.02.00
+conhecimentos-ii,elementos,01.02.02.02,INFERÊNCIA PARAMÉTRICA,01.02.02.00
+conhecimentos-ii,elementos,01.02.02.03,INFERÊNCIA NÃO-PARAMÉTRICA,01.02.02.00
+conhecimentos-ii,elementos,01.02.02.04,INFERÊNCIA EM PROCESSOS ESTOCÁSTICOS,01.02.02.00
+conhecimentos-ii,elementos,01.02.02.05,ANÁLISE MULTIVARIADA,01.02.02.00
+conhecimentos-ii,elementos,01.02.02.06,REGRESSÃO E CORRELAÇÃO,01.02.02.00
+conhecimentos-ii,elementos,01.02.02.07,PLANEJAMENTO DE EXPERIMENTOS,01.02.02.00
+conhecimentos-ii,elementos,01.02.02.08,ANÁLISE DE DADOS,01.02.02.00
+conhecimentos-ii,elementos,01.02.02.90,OUTROS ELEMENTOS (ESTATÍSTICA) BIOESTATÍSTICA,01.02.02.00
+conhecimentos-ii,elementos,01.02.03.01,PROBABILIDADE APLICADA,01.02.03.00
+conhecimentos-ii,elementos,01.02.03.02,ESTATÍSTICA APLICADA,01.02.03.00
+conhecimentos-ii,elementos,01.02.03.90,OUTROS ELEMENTOS (PROBABILIDADE E ESTATÍSTICA APLICADAS) ESTATÍSTICA APLICADA À ECONOMIA E FINANÇAS,01.02.03.00
+conhecimentos-ii,elementos,01.02.99.01,OUTROS ELEMENTOS (PROBABILIDADE E ESTATÍSTICA) PROBABILIDADE E ESTATÍSTICA APLICADAS AO COMÉRCIO ATACADISTA E VAREJISTA,01.02.99.00
+conhecimentos-ii,elementos,01.03.01.01,COMPUTABILIDADE E MODELOS DE COMPUTAÇÃO,01.03.01.00
+conhecimentos-ii,elementos,01.03.01.02,LINGUAGENS FORMAIS E AUTÔMATOS,01.03.01.00
+conhecimentos-ii,elementos,01.03.01.03,ANÁLISE DE ALGORÍTMOS E COMPLEXIDADE DE COMPUTAÇÃO,01.03.01.00
+conhecimentos-ii,elementos,01.03.01.04,LÓGICAS E SEMÂNTICA DE PROGRAMAS,01.03.01.00
+conhecimentos-ii,elementos,01.03.01.90,OUTROS ELEMENTOS (TEORIA DA COMPUTAÇÃO) INTERAÇÃO HUMANO-COMPUTADOR,01.03.01.00
+conhecimentos-ii,elementos,01.03.02.01,MATEMÁTICA SIMBÓLICA,01.03.02.00
+conhecimentos-ii,elementos,01.03.02.02,MODELOS ANALÍTICOS E DE SIMULAÇÃO,01.03.02.00
+conhecimentos-ii,elementos,01.03.02.90,OUTROS ELEMENTOS (MATEMÁTICA DA COMPUTAÇÃO) MODELAGEM MATEMÁTICA E SIMULAÇÃO COMPUTACIONAL,01.03.02.00
+conhecimentos-ii,elementos,01.03.03.01,LINGUAGENS DE PROGRAMAÇÃO,01.03.03.00
+conhecimentos-ii,elementos,01.03.03.02,ENGENHARIA DE SOFTWARE,01.03.03.00
+conhecimentos-ii,elementos,01.03.03.03,BANCO DE DADOS,01.03.03.00
+conhecimentos-ii,elementos,01.03.03.04,SISTEMAS DE INFORMAÇÃO,01.03.03.00
+conhecimentos-ii,elementos,01.03.03.05,PROCESSAMENTO GRÁFICO (GRAPHICS),01.03.03.00
+conhecimentos-ii,elementos,01.03.03.90,OUTROS ELEMENTOS (METODOLOGIA E TÉCNICAS DA COMPUTAÇÃO) INTELIGÊNCIA ARTIFICIAL,01.03.03.00
+conhecimentos-ii,elementos,01.03.04.01,HARDWARE,01.03.04.00
+conhecimentos-ii,elementos,01.03.04.02,ARQUITETURA DE SISTEMAS DE COMPUTAÇÃO,01.03.04.00
+conhecimentos-ii,elementos,01.03.04.03,SOFTWARE BÁSICO,01.03.04.00
+conhecimentos-ii,elementos,01.03.04.04,TELEINFORMÁTICA,01.03.04.00
+conhecimentos-ii,elementos,01.03.04.90,OUTROS ELEMENTOS (SISTEMA DE COMPUTAÇÃO) SISTEMAS OPERACIONAIS,01.03.04.00
+conhecimentos-ii,elementos,01.03.99.01,OUTROS ELEMENTOS (CIÊNCIA DA COMPUTAÇÃO) INTELIGÊNCIA ARTIFICIAL,01.03.99.00
+conhecimentos-ii,elementos,01.04.01.01,ASTRONOMIA FUNDAMENTAL,01.04.01.00
+conhecimentos-ii,elementos,01.04.01.02,ASTRONOMIA DINÂMICA,01.04.01.00
+conhecimentos-ii,elementos,01.04.01.90,OUTROS ELEMENTOS (ASTRONOMIA DE POSIÇÃO E MECÂNICA CELESTE) ASTRONOMIA DE POSIÇÃO,01.04.01.00
+conhecimentos-ii,elementos,01.04.02.01,ASTROFÍSICA ESTELAR,01.04.02.00
+conhecimentos-ii,elementos,01.04.03.01,MEIO INTERESTELAR,01.04.03.00
+conhecimentos-ii,elementos,01.04.03.02,NEBULOSA,01.04.03.00
+conhecimentos-ii,elementos,01.04.04.01,GALÁXIAS,01.04.04.00
+conhecimentos-ii,elementos,01.04.04.02,AGLOMERADOS DE GALÁXIAS,01.04.04.00
+conhecimentos-ii,elementos,01.04.04.03,QUASARES,01.04.04.00
+conhecimentos-ii,elementos,01.04.04.04,COSMOLOGIA,01.04.04.00
+conhecimentos-ii,elementos,01.04.04.90,OUTROS ELEMENTOS (ASTROFÍSICA EXTRAGALÁTICA) ASTROFÍSICA DE PARTÍCULAS,01.04.04.00
+conhecimentos-ii,elementos,01.04.05.01,FÍSICA SOLAR,01.04.05.00
+conhecimentos-ii,elementos,01.04.05.02,MOVIMENTO DA TERRA,01.04.05.00
+conhecimentos-ii,elementos,01.04.05.03,SISTEMA PLANETÁRIO,01.04.05.00
+conhecimentos-ii,elementos,01.04.05.90,OUTROS ELEMENTOS (ASTROFÍSICA DO SISTEMA SOLAR) FUNDAMENTOS DE ASTROFÍSICA SOLAR,01.04.05.00
+conhecimentos-ii,elementos,01.04.06.01,ASTRONOMIA ÓTICA,01.04.06.00
+conhecimentos-ii,elementos,01.04.06.02,RADIOASTRONOMIA,01.04.06.00
+conhecimentos-ii,elementos,01.04.06.03,ASTRONOMIA ESPACIAL,01.04.06.00
+conhecimentos-ii,elementos,01.04.06.04,PROCESSAMENTO DE DADOS ASTRONÔMICOS,01.04.06.00
+conhecimentos-ii,elementos,01.04.99.01,OUTROS ELEMENTOS (ASTRONOMIA) ASTROFÍSICA DE ALTAS ENERGIAS: FENÔMENOS DE ALTA ENERGIA; EMISSÃO DE RAIOS GAMA; BURACOS NEGROS; RAIOS CÓSMICOS; OUTROS,01.04.99.00
+conhecimentos-ii,elementos,01.05.01.01,MÉTODOS MATEMÁTICOS DA FÍSICA,01.05.01.00
+conhecimentos-ii,elementos,01.05.01.02,FÍSICA CLÁSSICA E FÍSICA QUÂNTICA; MECÂNICA E CAMPOS,01.05.01.00
+conhecimentos-ii,elementos,01.05.01.03,RELATIVIDADE E GRAVITAÇÃO,01.05.01.00
+conhecimentos-ii,elementos,01.05.01.04,FÍSICA ESTATÍSTICA E TERMODINÂMICA,01.05.01.00
+conhecimentos-ii,elementos,01.05.01.05,"METROLOGIA, TÉCNICAS GERAIS DE LABORATÓRIO E SISTEMA DE INSTRUMENTAÇÃO",01.05.01.00
+conhecimentos-ii,elementos,01.05.01.06,INSTRUMENTAÇÃO ESPECÍFICA DE USO GERAL EM FÍSICA,01.05.01.00
+conhecimentos-ii,elementos,01.05.01.90,OUTROS ELEMENTOS (FÍSICA GERAL) FÍSICA APLICADA,01.05.01.00
+conhecimentos-ii,elementos,01.05.02.01,ELETRICIDADE E MAGNETISMO; CAMPOS E PARTÍCULAS CARREGADAS,01.05.02.00
+conhecimentos-ii,elementos,01.05.02.02,ÓTICA,01.05.02.00
+conhecimentos-ii,elementos,01.05.02.03,ACÚSTICA,01.05.02.00
+conhecimentos-ii,elementos,01.05.02.04,TRANSFERÊNCIA DE CALOR; PROCESSOS TÉRMICOS E TERMODINÂMICOS,01.05.02.00
+conhecimentos-ii,elementos,01.05.02.05,"MECÂNICA, ELASTICIDADE E REOLOGIA",01.05.02.00
+conhecimentos-ii,elementos,01.05.02.06,DINÂMICA DOS FLUIDOS,01.05.02.00
+conhecimentos-ii,elementos,01.05.02.90,"OUTROS ELEMENTOS (ÁREAS CLÁSSICAS DE FENOMENOLOGIA E SUAS APLICAÇÕES) CONDIÇÕES TÉRMICAS, LUMÍNICAS E ACÚSTICA DO CONFORTO AMBIENTAL",01.05.02.00
+conhecimentos-ii,elementos,01.05.03.01,TEORIA GERAL DE PARTÍCULAS E CAMPOS,01.05.03.00
+conhecimentos-ii,elementos,01.05.03.02,TEORIAS ESPECÍFICAS E MODELOS DE INTERAÇÃO; SISTEMÁTICA DE PARTÍCULAS; RAIOS CÓSMICOS,01.05.03.00
+conhecimentos-ii,elementos,01.05.03.03,REAÇÕES ESPECÍFICAS E FENOMIOLOGIA DE PARTÍCULAS,01.05.03.00
+conhecimentos-ii,elementos,01.05.03.04,PROPRIEDADES DE PARTÍCULAS ESPECÍFICAS E RESSONÂNCIAS,01.05.03.00
+conhecimentos-ii,elementos,01.05.03.90,OUTROS ELEMENTOS (FÍSICA DAS PARTÍCULAS ELEMENTARES E CAMPOS) INTERAÇÕES FUNDAMENTAIS ENTRE AS PARTÍCULAS: FORÇA ELETROMAGNÉTICA; FORÇA FORTE; FORÇA FRACA; FORÇA GRAVITACIONAL,01.05.03.00
+conhecimentos-ii,elementos,01.05.04.01,ESTRUTURA NUCLEAR,01.05.04.00
+conhecimentos-ii,elementos,01.05.04.02,DESINTEGRAÇÃO NUCLEAR E RADIOATIVIDADE,01.05.04.00
+conhecimentos-ii,elementos,01.05.04.03,REAÇÕES NUCLEARES E ESPALHAMENTO GERAL,01.05.04.00
+conhecimentos-ii,elementos,01.05.04.04,REAÇÕES NUCLEARES E ESPALHAMENTO (REAÇÕES ESPECÍFICAS),01.05.04.00
+conhecimentos-ii,elementos,01.05.04.05,PROPRIEDADES DE NÚCLEOS ESPECÍFICOS,01.05.04.00
+conhecimentos-ii,elementos,01.05.04.06,MÉTODOS EXPERIMENTAIS E INSTRUMENTAÇÃO PARA PARTÍCULAS ELEMENTARES E FÍSICA NUCLEAR,01.05.04.00
+conhecimentos-ii,elementos,01.05.04.90,OUTROS ELEMENTOS (FÍSICA NUCLEAR) FUNDAMENTOS DE FÍSICA NUCLEAR,01.05.04.00
+conhecimentos-ii,elementos,01.05.05.01,ESTRUTURA ELETRÔNICA DE ÁTOMOS E MOLÉCULAS; TEORIA,01.05.05.00
+conhecimentos-ii,elementos,01.05.05.02,ESPECTROS ATÔMICOS E INTEGRAÇÃO DE FÓTONS,01.05.05.00
+conhecimentos-ii,elementos,01.05.05.03,ESPECTROS MOLECULARES E INTERAÇÕES DE FÓTONS COM MOLÉCULAS,01.05.05.00
+conhecimentos-ii,elementos,01.05.05.04,PROCESSOS DE COLISÃO E INTERAÇÕES DE ÁTOMOS E MOLÉCULAS,01.05.05.00
+conhecimentos-ii,elementos,01.05.05.05,INF.SOBRE ÁTOMOS E MOLÉCULAS OBTIDOS EXPERIMENTALMENTE; INSTRUMENTAÇÃO E TÉCNICAS,01.05.05.00
+conhecimentos-ii,elementos,01.05.05.06,ESTUDOS DE ÁTOMOS E MOLÉCULAS ESPECIAIS,01.05.05.00
+conhecimentos-ii,elementos,01.05.05.90,OUTROS ELEMENTOS (FÍSICA ATÔMICA E MOLECULAR) ACELERADORES DE PARTÍCULAS: FUNDAMENTOS E APLICAÇÕES,01.05.05.00
+conhecimentos-ii,elementos,01.05.06.01,CINÉTICA E TEORIA DE TRANSPORTE DE FLUIDOS; PROPRIEDADES FÍSICAS DE GASES,01.05.06.00
+conhecimentos-ii,elementos,01.05.06.02,FÍSICA DE PLASMAS E DESCARGAS ELÉTRICAS,01.05.06.00
+conhecimentos-ii,elementos,01.05.06.90,"OUTROS ELEMENTOS (FÍSICA DOS FLÚIDOS, FÍSICA DE PLASMAS E DESCARGAS ELÉTRICAS) INSTRUMENTAÇÃO CIENTÍFICA APLICADA À FÍSICA DOS FLUIDOS",01.05.06.00
+conhecimentos-ii,elementos,01.05.07.01,ESTRUTURA DE LÍQUIDOS E SÓLIDOS; CRISTALOGRAFIA,01.05.07.00
+conhecimentos-ii,elementos,01.05.07.02,PROPRIEDADES MECÂNICAS E ACÚSTICAS DA MATÉRIA CONDENSADA,01.05.07.00
+conhecimentos-ii,elementos,01.05.07.03,DINÂMICA DA REDE E ESTATÍSTICA DE CRISTAIS,01.05.07.00
+conhecimentos-ii,elementos,01.05.07.04,"EQUAÇÃO DE ESTADO, EQUILÍBRIO DE FASES E TRANSIÇÕES DE FASES",01.05.07.00
+conhecimentos-ii,elementos,01.05.07.05,PROPRIEDADES TÉRMICAS DA MATÉRIA CONDENSADA,01.05.07.00
+conhecimentos-ii,elementos,01.05.07.06,PROPRIEDADES DE TRANSPORTES DE MATÉRIA CONDENSADA (NÃO ELETRÔNICAS),01.05.07.00
+conhecimentos-ii,elementos,01.05.07.07,"CAMPOS QUÂNTICOS E SÓLIDOS, HÉLIO, LÍQUIDO, SÓLIDO",01.05.07.00
+conhecimentos-ii,elementos,01.05.07.08,SUPERFÍCIES E INTERFACES; PELÍCULAS E FILAMENTOS,01.05.07.00
+conhecimentos-ii,elementos,01.05.07.09,ESTADOS ELETRÔNICOS,01.05.07.00
+conhecimentos-ii,elementos,01.05.07.10,TRANSPORTES ELETRÔNICOS E PROPRIEDADES ELÉTRICAS DE SUPERFÍCIES; INTERFACES E PELÍCULAS,01.05.07.00
+conhecimentos-ii,elementos,01.05.07.11,ESTRUTURAS ELETRÔNICAS E PROPRIEDADES ELÉTRICAS DE SUPERFÍCIES; INTERFACES E PELÍCULAS,01.05.07.00
+conhecimentos-ii,elementos,01.05.07.12,SUPERCONDUTIVIDADE,01.05.07.00
+conhecimentos-ii,elementos,01.05.07.13,MATERIAIS MAGNÉTICOS E PROPRIEDADES MAGNÉTICAS,01.05.07.00
+conhecimentos-ii,elementos,01.05.07.14,RESSONÂNCIA MAGNÉTICA E RELAXAMENTO NA MATÉRIA CONDENSADA; EFEITOS MOSBAUER; E CORRELAÇÃO ANGULAR PERTURBADA,01.05.07.00
+conhecimentos-ii,elementos,01.05.07.15,MATERIAIS DIELÉTRICOS E PROPRIEDADES DIELÉTRICAS,01.05.07.00
+conhecimentos-ii,elementos,01.05.07.16,PROPRIEDADES ÓTICAS E ESPECTROSCÓPICAS DA MATÉRIA CONDENSADA; OUTRAS INTERAÇÕES DA MATÉRIA COM RADIAÇÕES E PARTÍCULAS,01.05.07.00
+conhecimentos-ii,elementos,01.05.07.17,EMISSÃO ELETRÔNICA E IÔNICA POR LÍQUIDOS E SÓLIDOS; FENÕMENOS DE IMPACTO,01.05.07.00
+conhecimentos-ii,elementos,01.05.07.90,OUTROS ELEMENTOS (FÍSICA DA MATÉRIA CONDENSADA) FUNDAMENTOS DE FÍSICA DA MATÉRIA CONDENSADA,01.05.07.00
+conhecimentos-ii,elementos,01.05.99.01,OUTROS ELEMENTOS (FÍSICA) CIÊNCIA E TECNOLOGIA DOS MATERIAIS,01.05.99.00
+conhecimentos-ii,elementos,01.06.01.01,"ESTRUTURA, CONFORMAÇÃO E ESTEREOQUÍMICA",01.06.01.00
+conhecimentos-ii,elementos,01.06.01.02,SÍNTESE ORGÂNICA,01.06.01.00
+conhecimentos-ii,elementos,01.06.01.03,FÍSICO-QUÍMICA ORGÂNICA,01.06.01.00
+conhecimentos-ii,elementos,01.06.01.04,FOTOQUÍMICA ORGÂNICA,01.06.01.00
+conhecimentos-ii,elementos,01.06.01.05,QUÍMICA DOS PRODUTOS NATURAIS,01.06.01.00
+conhecimentos-ii,elementos,01.06.01.06,"EVOLUÇÃO, SISTEMÁTICA E ECOLOGIA QUÍMICA",01.06.01.00
+conhecimentos-ii,elementos,01.06.01.07,POLÍMEROS E COLÓIDES,01.06.01.00
+conhecimentos-ii,elementos,01.06.01.90,OUTROS ELEMENTOS (QUÍMICA ORGÂNICA) FUNDAMENTOS DE QUÍMICA ORGÂNICA,01.06.01.00
+conhecimentos-ii,elementos,01.06.02.01,CAMPOS DE COORDENAÇÃO,01.06.02.00
+conhecimentos-ii,elementos,01.06.02.02,NÃO-METAIS E SEUS COMPOSTOS,01.06.02.00
+conhecimentos-ii,elementos,01.06.02.03,COMPOSTOS ORGANO-METÁLICOS,01.06.02.00
+conhecimentos-ii,elementos,01.06.02.04,DETERMINAÇÃO DE ESTRUTURAS DE COMPOSTOS INORGÂNICOS,01.06.02.00
+conhecimentos-ii,elementos,01.06.02.05,FOTO-QUÍMICA INORGÂNICA,01.06.02.00
+conhecimentos-ii,elementos,01.06.02.06,FÍSICO QUÍMICA INORGÂNICA,01.06.02.00
+conhecimentos-ii,elementos,01.06.02.07,QUÍMICA BIO-INORGÂNICA,01.06.02.00
+conhecimentos-ii,elementos,01.06.02.90,OUTROS ELEMENTOS (QUÍMICA INORGÂNICA) FUNDAMENTOS DE QUÍMICA INORGÂNICA,01.06.02.00
+conhecimentos-ii,elementos,01.06.03.01,CINÉTICA QUÍMICA E CATÁLISE,01.06.03.00
+conhecimentos-ii,elementos,01.06.03.02,ELETROQUÍMICA,01.06.03.00
+conhecimentos-ii,elementos,01.06.03.03,ESPECTROSCOPIA,01.06.03.00
+conhecimentos-ii,elementos,01.06.03.04,QUÍMICA DE INTERFACES,01.06.03.00
+conhecimentos-ii,elementos,01.06.03.05,QUÍMICA DO ESTADO CONDENSADO,01.06.03.00
+conhecimentos-ii,elementos,01.06.03.06,QUÍMICA NÚCLEAR E RADIOQUÍMICA,01.06.03.00
+conhecimentos-ii,elementos,01.06.03.07,QUÍMICA TEÓRICA,01.06.03.00
+conhecimentos-ii,elementos,01.06.03.08,TERMODINÂMICA QUÍMICA,01.06.03.00
+conhecimentos-ii,elementos,01.06.03.90,OUTROS ELEMENTOS (FÍSICO-QUÍMICA) QUÍMICA GERAL,01.06.03.00
+conhecimentos-ii,elementos,01.06.04.01,SEPARAÇÃO,01.06.04.00
+conhecimentos-ii,elementos,01.06.04.02,MÉTODOS ÓTICOS DE ANÁLISE,01.06.04.00
+conhecimentos-ii,elementos,01.06.04.03,ELETROANALÍTICA,01.06.04.00
+conhecimentos-ii,elementos,01.06.04.04,GRAVIMETRIA,01.06.04.00
+conhecimentos-ii,elementos,01.06.04.05,TITIMETRIA,01.06.04.00
+conhecimentos-ii,elementos,01.06.04.06,INSTRUMENTAÇÃO ANALÍTICA,01.06.04.00
+conhecimentos-ii,elementos,01.06.04.07,ANÁLISE DE TRAÇOS E QUÍMICA AMBIENTAL,01.06.04.00
+conhecimentos-ii,elementos,01.06.04.90,OUTROS ELEMENTOS (QUÍMICA ANALÍTICA) QUÍMICA GERAL E ANALÍTICA,01.06.04.00
+conhecimentos-ii,elementos,01.06.99.01,OUTROS ELEMENTOS (QUÍMICA) QUÍMICA GERAL,01.06.99.00
+conhecimentos-ii,elementos,01.07.01.01,MINERALOGIA,01.07.01.00
+conhecimentos-ii,elementos,01.07.01.02,PETROLOGIA,01.07.01.00
+conhecimentos-ii,elementos,01.07.01.03,GEOQUÍMICA,01.07.01.00
+conhecimentos-ii,elementos,01.07.01.04,GEOLOGIA REGIONAL,01.07.01.00
+conhecimentos-ii,elementos,01.07.01.05,GEOTECTÔNICA,01.07.01.00
+conhecimentos-ii,elementos,01.07.01.06,GEOCRONOLOGIA,01.07.01.00
+conhecimentos-ii,elementos,01.07.01.07,CARTOGRAFIA GEOLÓGICA,01.07.01.00
+conhecimentos-ii,elementos,01.07.01.08,METALOGENIA,01.07.01.00
+conhecimentos-ii,elementos,01.07.01.09,HIDROGEOLOGIA,01.07.01.00
+conhecimentos-ii,elementos,01.07.01.10,PROSPECÇÃO MINERAL,01.07.01.00
+conhecimentos-ii,elementos,01.07.01.11,SEDIMENTOLOGIA,01.07.01.00
+conhecimentos-ii,elementos,01.07.01.12,PALEONTOLOGIA ESTRATIGRÁFICA,01.07.01.00
+conhecimentos-ii,elementos,01.07.01.13,ESTRATIGRAFIA,01.07.01.00
+conhecimentos-ii,elementos,01.07.01.14,GEOLOGIA AMBIENTAL,01.07.01.00
+conhecimentos-ii,elementos,01.07.01.90,OUTROS ELEMENTOS (GEOLOGIA) GEOLOGIA APLICADA,01.07.01.00
+conhecimentos-ii,elementos,01.07.02.01,GEOMAGNETISMO,01.07.02.00
+conhecimentos-ii,elementos,01.07.02.02,SISMOLOGIA,01.07.02.00
+conhecimentos-ii,elementos,01.07.02.03,GEOTERMIA E FLUXO TÉRMICO,01.07.02.00
+conhecimentos-ii,elementos,01.07.02.04,PROPRIEDADES FÍSICAS DAS ROCHAS,01.07.02.00
+conhecimentos-ii,elementos,01.07.02.05,GEOFÍSICA NUCLEAR,01.07.02.00
+conhecimentos-ii,elementos,01.07.02.06,SENSORIAMENTO REMOTO,01.07.02.00
+conhecimentos-ii,elementos,01.07.02.07,AERONOMIA,01.07.02.00
+conhecimentos-ii,elementos,01.07.02.08,DESENVOLVIMENTO DE INSTRUMENTAÇÃO GEOFÍSICA,01.07.02.00
+conhecimentos-ii,elementos,01.07.02.09,GEOFÍSICA APLICADA,01.07.02.00
+conhecimentos-ii,elementos,01.07.02.10,GRAVIMETRIA,01.07.02.00
+conhecimentos-ii,elementos,01.07.02.90,OUTROS ELEMENTOS (GEOFÍSICA) GEOFÍSICA APLICADA,01.07.02.00
+conhecimentos-ii,elementos,01.07.03.01,METEOROLOGIA DINÂMICA,01.07.03.00
+conhecimentos-ii,elementos,01.07.03.02,METEOROLOGIA SINÓTICA,01.07.03.00
+conhecimentos-ii,elementos,01.07.03.03,METEOROLOGIA FÍSICA,01.07.03.00
+conhecimentos-ii,elementos,01.07.03.04,QUÍMICA DA ATMOSFERA,01.07.03.00
+conhecimentos-ii,elementos,01.07.03.05,INSTRUMENTAÇÃO METEOROLÓGICA,01.07.03.00
+conhecimentos-ii,elementos,01.07.03.06,CLIMATOLOGIA,01.07.03.00
+conhecimentos-ii,elementos,01.07.03.07,MICROMETEOROLOGIA,01.07.03.00
+conhecimentos-ii,elementos,01.07.03.08,SENSORIAMENTO REMOTO DA ATMOSFERA,01.07.03.00
+conhecimentos-ii,elementos,01.07.03.09,METEOROLOGIA APLICADA,01.07.03.00
+conhecimentos-ii,elementos,01.07.03.90,OUTROS ELEMENTOS (METEOROLOGIA) METEOROLOGIA AERONÁUTICA,01.07.03.00
+conhecimentos-ii,elementos,01.07.04.01,GEODÉSIA FÍSICA,01.07.04.00
+conhecimentos-ii,elementos,01.07.04.02,GEODÉSIA GEOMÉTRICA,01.07.04.00
+conhecimentos-ii,elementos,01.07.04.03,GEODÉSIA CELESTE,01.07.04.00
+conhecimentos-ii,elementos,01.07.04.04,FOTOGRAMETRIA,01.07.04.00
+conhecimentos-ii,elementos,01.07.04.05,CARTOGRAFIA BÁSICA,01.07.04.00
+conhecimentos-ii,elementos,01.07.04.90,OUTROS ELEMENTOS (GEODÉSIA) GEODÉSIA APLICADA,01.07.04.00
+conhecimentos-ii,elementos,01.07.05.01,GEOMORFOLOGIA,01.07.05.00
+conhecimentos-ii,elementos,01.07.05.02,CLIMATOLOGIA GEOGRÁFICA,01.07.05.00
+conhecimentos-ii,elementos,01.07.05.03,PEDOLOGIA,01.07.05.00
+conhecimentos-ii,elementos,01.07.05.04,HIDROGEOGRAFIA,01.07.05.00
+conhecimentos-ii,elementos,01.07.05.05,GEOECOLOGIA,01.07.05.00
+conhecimentos-ii,elementos,01.07.05.06,FOTOGEOGRAFIA (FÍSICO-ECOLÓGICA),01.07.05.00
+conhecimentos-ii,elementos,01.07.05.07,GEOCARTOGRAFIA,01.07.05.00
+conhecimentos-ii,elementos,01.07.05.90,OUTROS ELEMENTOS (GEOGRAFIA FÍSICA) GEOGRAFIA FÍSICA APLICADA,01.07.05.00
+conhecimentos-ii,elementos,01.07.99.01,"OUTROS ELEMENTOS (GEOCIÊNCIAS) ECOLOGIA, MEIO AMBIENTE E SUSTENTABILIDADE",01.07.99.00
+conhecimentos-ii,elementos,01.08.01.01,INTERAÇÃO ENTRE OS ORGANISMOS MARINHOS E OS PARÂMETROS AMBIENTAIS,01.08.01.00
+conhecimentos-ii,elementos,01.08.01.02,OCEANOGRAFIA BIOLÓGICA,01.08.01.00
+conhecimentos-ii,elementos,01.08.01.90,OUTROS ELEMENTOS (OCEANOGRAFIA BIOLÓGICA  E MEIO AMBIENTE) BENTOLOGIA,01.08.01.00
+conhecimentos-ii,elementos,01.08.02.01,VARIÁVEIS FÍSICAS DA ÁGUA DO MAR,01.08.02.00
+conhecimentos-ii,elementos,01.08.02.02,MOVIMENTO DA ÁGUA DO MAR,01.08.02.00
+conhecimentos-ii,elementos,01.08.02.03,ORIGEM DAS MASSAS DE ÁGUA,01.08.02.00
+conhecimentos-ii,elementos,01.08.02.04,INTERAÇÃO DO OCEANO COM O LEITO DO MAR,01.08.02.00
+conhecimentos-ii,elementos,01.08.02.05,INTERAÇÃO DO OCEANO COM A ATMOSFERA,01.08.02.00
+conhecimentos-ii,elementos,01.08.02.90,OUTROS ELEMENTOS (OCEANOGRAFIA FÍSICA) OCEANOGRAFIA FÍSICA,01.08.02.00
+conhecimentos-ii,elementos,01.08.03.01,PROPRIEDADES QUÍMICAS DA ÁGUA DO MAR,01.08.03.00
+conhecimentos-ii,elementos,01.08.03.02,INTERAÇÕES QUÍMICO-BIOLÓGICAS/GEOLÓGICAS DAS SUBSTÂNCIAS QUÍMICAS DA ÁGUA DO MAR,01.08.03.00
+conhecimentos-ii,elementos,01.08.03.90,OUTROS ELEMENTOS (OCEANOGRAFIA QUÍMICA) ACIDIFICAÇÃO DOS OCEANOS,01.08.03.00
+conhecimentos-ii,elementos,01.08.04.01,GEOMORFOLOGIA SUBMARINA,01.08.04.00
+conhecimentos-ii,elementos,01.08.04.02,SEDIMENTOLOGIA MARINHA,01.08.04.00
+conhecimentos-ii,elementos,01.08.04.03,GEOFÍSICA MARINHA,01.08.04.00
+conhecimentos-ii,elementos,01.08.04.04,GEOQUÍMICA MARINHA,01.08.04.00
+conhecimentos-ii,elementos,01.08.04.90,OUTROS ELEMENTOS (OCEANOGRAFIA GEOLÓGICA) PALEOCEANOGRAFIA,01.08.04.00
+conhecimentos-ii,elementos,01.08.99.01,OUTROS ELEMENTOS (OCEANOGRAFIA) OCEANOGRAFIA PESQUEIRA,01.08.99.00
+conhecimentos-ii,elementos,01.09.01.01,ADMINISTRAÇÃO DE REDES DE COMPUTADORES,01.09.01.00
+conhecimentos-ii,elementos,01.09.01.90,OUTROS ELEMENTOS (ADMINISTRAÇÃO DE REDES DE COMPUTADORES) PREVENÇÃO E TRATAMENTO DE INCIDENTES EM SISTEMAS DE REDES,01.09.01.00
+conhecimentos-ii,elementos,01.09.02.01,INFORMÁTICA,01.09.02.00
+conhecimentos-ii,elementos,01.09.02.02,INFORMÁTICA MÉDICA,01.09.02.00
+conhecimentos-ii,elementos,01.09.02.90,"OUTROS ELEMENTOS (INFORMÁTICA) INFORMÁTICA, INTERNET E TECNOLOGIAS DA INFORMAÇÃO E COMUNICAÇÃO",01.09.02.00
+conhecimentos-ii,elementos,01.09.03.01,INTERNET,01.09.03.00
+conhecimentos-ii,elementos,01.09.03.02,INTERNET DAS COISAS,01.09.03.00
+conhecimentos-ii,elementos,01.09.03.90,OUTROS ELEMENTOS (INTERNET) APLICAÇÃO DE RECURSOS DA INTERNET E WEB NO DESENVOLVIMENTO DE SERVIÇOS INFORMACIONAIS,01.09.03.00
+conhecimentos-ii,elementos,01.09.04.01,SOFTWARE - BUSINESS INTELLIGENCE-BI,01.09.04.00
+conhecimentos-ii,elementos,01.09.04.02,SOFTWARE - CAD-CAM,01.09.04.00
+conhecimentos-ii,elementos,01.09.04.03,SOFTWARE - CIM,01.09.04.00
+conhecimentos-ii,elementos,01.09.04.90,OUTROS ELEMENTOS (SOFTWARE ESPECÍFICO) SOFTWARE ESPECÍFICO PARA MEDICINA,01.09.04.00
+conhecimentos-ii,elementos,01.09.05.01,VIDEOJOGO,01.09.05.00
+conhecimentos-ii,elementos,01.09.05.90,OUTROS ELEMENTOS (VIDEOJOGO) VIDEOJOGOS APLICADOS A SERVIÇOS CULTURAIS,01.09.05.00
+conhecimentos-ii,elementos,01.09.99.01,OUTROS ELEMENTOS (TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO) REALIDADE VIRTUAL,01.09.99.00
+conhecimentos-ii,elementos,02.01.01.01,BIOLOGIA GERAL,02.01.01.00
+conhecimentos-ii,elementos,02.01.99.01,OUTROS ELEMENTOS (BIOLOGIA GERAL) BIOSSEGURANÇA,02.01.99.00
+conhecimentos-ii,elementos,02.02.01.01,GENÉTICA QUANTITATIVA,02.02.01.00
+conhecimentos-ii,elementos,02.02.01.90,OUTROS ELEMENTOS (GENÉTICA QUANTITATIVA) GENÔMICA,02.02.01.00
+conhecimentos-ii,elementos,02.02.02.01,GENÉTICA MOLECULAR,02.02.02.00
+conhecimentos-ii,elementos,02.02.02.02,GENÉTICA DE MICRO-ORGANISMOS,02.02.02.00
+conhecimentos-ii,elementos,02.02.02.90,OUTROS ELEMENTOS (GENÉTICA MOLECULAR E DE MICROORGANISMOS) MARCADORES GENÉTICOS,02.02.02.00
+conhecimentos-ii,elementos,02.02.03.01,GENÉTICA VEGETAL,02.02.03.00
+conhecimentos-ii,elementos,02.02.03.90,OUTROS ELEMENTOS (GENÉTICA VEGETAL) MARCADORES MOLECULARES NA ANÁLISE GENÉTICA DE PLANTAS,02.02.03.00
+conhecimentos-ii,elementos,02.02.04.01,GENÉTICA ANIMAL,02.02.04.00
+conhecimentos-ii,elementos,02.02.04.90,OUTROS ELEMENTOS (GENÉTICA ANIMAL) GENÉTICA DO DESENVOLVIMENTO ANIMAL,02.02.04.00
+conhecimentos-ii,elementos,02.02.05.01,GENÉTICA HUMANA,02.02.05.00
+conhecimentos-ii,elementos,02.02.05.02,GENÉTICA MÉDICA,02.02.05.00
+conhecimentos-ii,elementos,02.02.05.90,OUTROS ELEMENTOS (GENÉTICA HUMANA E MÉDICA) GENÉTICA HUMANA E EVOLUÇÃO,02.02.05.00
+conhecimentos-ii,elementos,02.02.06.01,MUTAGÊNESE,02.02.06.00
+conhecimentos-ii,elementos,02.02.06.90,OUTROS ELEMENTOS (MUTAGÊNESE) MUTAGÊNESE AMBIENTAL,02.02.06.00
+conhecimentos-ii,elementos,02.02.99.01,OUTROS ELEMENTOS (GENÉTICA) BIOSSEGURANÇA EM GENÉTICA,02.02.99.00
+conhecimentos-ii,elementos,02.03.01.01,PALEOBOTÂNICA,02.03.01.00
+conhecimentos-ii,elementos,02.03.02.01,MORFOLOGIA EXTERNA,02.03.02.00
+conhecimentos-ii,elementos,02.03.02.02,CITOLOGIA VEGETAL,02.03.02.00
+conhecimentos-ii,elementos,02.03.02.03,ANATOMIA VEGETAL,02.03.02.00
+conhecimentos-ii,elementos,02.03.02.04,PALINOLOGIA,02.03.02.00
+conhecimentos-ii,elementos,02.03.02.90,OUTROS ELEMENTOS (MORFOLOGIA VEGETAL) PALEOPALINOLOGIA,02.03.02.00
+conhecimentos-ii,elementos,02.03.03.01,NUTRIÇÃO E CRESCIMENTO VEGETAL,02.03.03.00
+conhecimentos-ii,elementos,02.03.03.02,REPRODUÇÃO VEGETAL,02.03.03.00
+conhecimentos-ii,elementos,02.03.03.03,ECOFISIOLOGIA VEGETAL,02.03.03.00
+conhecimentos-ii,elementos,02.03.03.90,OUTROS ELEMENTOS (FISIOLOGIA VEGETAL) FISIOLOGIA VEGETAL,02.03.03.00
+conhecimentos-ii,elementos,02.03.04.01,TAXONOMIA DE CRIPTÓGAMOS,02.03.04.00
+conhecimentos-ii,elementos,02.03.04.02,TAXONOMIA DE FANERÓGAMOS,02.03.04.00
+conhecimentos-ii,elementos,02.03.04.90,OUTROS ELEMENTOS (TAXONOMIA VEGETAL) ORGANIZAÇÃO DE XILOTECA DA FLORA BRASILEIRA,02.03.04.00
+conhecimentos-ii,elementos,02.03.05.01,FITOGEOGRAFIA,02.03.05.00
+conhecimentos-ii,elementos,02.03.06.01,BOTÂNICA APLICADA,02.03.06.00
+conhecimentos-ii,elementos,02.03.06.90,OUTROS ELEMENTOS (BOTÂNICA APLICADA) FARMACOBOTÂNICA,02.03.06.00
+conhecimentos-ii,elementos,02.03.99.01,OUTROS ELEMENTOS (BOTÂNICA)  ESPÉCIES VEGETAIS MEDICINAIS,02.03.99.00
+conhecimentos-ii,elementos,02.04.01.01,PALEOZOOLOGIA,02.04.01.00
+conhecimentos-ii,elementos,02.04.02.01,MORFOLOGIA DOS GRUPOS RECENTES,02.04.02.00
+conhecimentos-ii,elementos,02.04.03.01,FISIOLOGIA DOS GRUPOS RECENTES,02.04.03.00
+conhecimentos-ii,elementos,02.04.04.01,COMPORTAMENTO ANIMAL,02.04.04.00
+conhecimentos-ii,elementos,02.04.05.01,TAXONOMIA DOS GRUPOS RECENTES,02.04.05.00
+conhecimentos-ii,elementos,02.04.06.01,CONSERVAÇÃO DAS ESPÉCIES ANIMAIS,02.04.06.00
+conhecimentos-ii,elementos,02.04.06.02,CONTROLE POPULACIONAL DE ANIMAIS,02.04.06.00
+conhecimentos-ii,elementos,02.04.06.03,UTILIZAÇÃO DOS ANIMAIS,02.04.06.00
+conhecimentos-ii,elementos,02.04.06.90,OUTROS ELEMENTOS (ZOOLOGIA APLICADA) ICTIOLOGIA,02.04.06.00
+conhecimentos-ii,elementos,02.04.99.01,OUTROS ELEMENTOS (ZOOLOGIA) FISIOLOGIA ANIMAL,02.04.99.00
+conhecimentos-ii,elementos,02.05.01.01,ECOLOGIA TEÓRICA,02.05.01.00
+conhecimentos-ii,elementos,02.05.02.01,ECOLOGIA DE ECOSSISTEMAS,02.05.02.00
+conhecimentos-ii,elementos,02.05.02.90,OUTROS ELEMENTOS (ECOLOGIA DE ECOSSISTEMAS) PRESERVAÇÃO DE ECOSSISTEMAS E ESPÉCIES ANIMAIS EM RISCO DE EXTINÇÃO,02.05.02.00
+conhecimentos-ii,elementos,02.05.03.01,ECOLOGIA APLICADA,02.05.03.00
+conhecimentos-ii,elementos,02.05.03.90,OUTROS ELEMENTOS (ECOLOGIA APLICADA) INTERAÇÃO DE ECOSSISTEMAS ÀS ATIVIDADES DE OCUPAÇÃO HUMANA,02.05.03.00
+conhecimentos-ii,elementos,02.05.99.01,"OUTROS ELEMENTOS (ECOLOGIA) EDUCAÇÃO, MEIO AMBIENTE E SOCIEDADE",02.05.99.00
+conhecimentos-ii,elementos,02.06.01.01,CITOLOGIA E BIOLOGIA CELULAR,02.06.01.00
+conhecimentos-ii,elementos,02.06.01.90,OUTROS ELEMENTOS (CITOLOGIA E BIOLOGIA CELULAR) BIOLOGIA CELULAR,02.06.01.00
+conhecimentos-ii,elementos,02.06.02.01,EMBRIOLOGIA,02.06.02.00
+conhecimentos-ii,elementos,02.06.02.90,OUTROS ELEMENTOS (EMBRIOLOGIA)  EMBRIOLOGIA VETERINÁRIA,02.06.02.00
+conhecimentos-ii,elementos,02.06.03.01,HISTOLOGIA,02.06.03.00
+conhecimentos-ii,elementos,02.06.03.90,OUTROS ELEMENTOS (HISTOLOGIA) HISTOFISIOLOGIA DA CAVIDADE BUCAL E DO COMPLEXO MAXILO-MANDIBULAR,02.06.03.00
+conhecimentos-ii,elementos,02.06.04.01,ANATOMIA HUMANA,02.06.04.00
+conhecimentos-ii,elementos,02.06.04.02,ANATOMIA ANIMAL,02.06.04.00
+conhecimentos-ii,elementos,02.06.04.90,OUTROS ELEMENTOS (ANATOMIA) ANATOMIA TOPOGRÁFICA,02.06.04.00
+conhecimentos-ii,elementos,02.06.99.01,OUTROS ELEMENTOS (MORFOLOGIA) MORFOLOGIA ANIMAL,02.06.99.00
+conhecimentos-ii,elementos,02.07.01.01,FISIOLOGIA GERAL,02.07.01.00
+conhecimentos-ii,elementos,02.07.01.90,OUTROS ELEMENTOS (FISIOLOGIA GERAL) FISIOLOGIA HUMANA,02.07.01.00
+conhecimentos-ii,elementos,02.07.02.01,CINESIOLOGIA,02.07.02.00
+conhecimentos-ii,elementos,02.07.02.02,FISIOLOGIA CARDIOVASCULAR,02.07.02.00
+conhecimentos-ii,elementos,02.07.02.03,FISIOLOGIA DA DIGESTÃO,02.07.02.00
+conhecimentos-ii,elementos,02.07.02.04,FISIOLOGIA DA RESPIRAÇÃO,02.07.02.00
+conhecimentos-ii,elementos,02.07.02.05,FISIOLOGIA ENDÓCRINA,02.07.02.00
+conhecimentos-ii,elementos,02.07.02.06,FISIOLOGIA RENAL,02.07.02.00
+conhecimentos-ii,elementos,02.07.02.07,NEUROFISIOLOGIA,02.07.02.00
+conhecimentos-ii,elementos,02.07.02.90,OUTROS ELEMENTOS (FISIOLOGIA DOS ÓRGÃOS E SISTEMAS) FISIOLOGIA HUMANA,02.07.02.00
+conhecimentos-ii,elementos,02.07.03.01,FISIOLOGIA DO ESFORÇO,02.07.03.00
+conhecimentos-ii,elementos,02.07.03.90,OUTROS ELEMENTOS (FISIOLOGIA DO ESFORÇO) FISIOLOGIA DO EXERCÍCIO,02.07.03.00
+conhecimentos-ii,elementos,02.07.04.01,FISIOLOGIA COMPARADA,02.07.04.00
+conhecimentos-ii,elementos,02.07.04.90,OUTROS ELEMENTOS (FISIOLOGIA COMPARADA) FISIOLOGIA ANIMAL COMPARADA,02.07.04.00
+conhecimentos-ii,elementos,02.07.99.01,OUTROS ELEMENTOS (FISIOLOGIA) FISIOLOGIA ANIMAL,02.07.99.00
+conhecimentos-ii,elementos,02.08.01.01,GLICÍDEOS,02.08.01.00
+conhecimentos-ii,elementos,02.08.01.02,LIPÍDEOS,02.08.01.00
+conhecimentos-ii,elementos,02.08.01.03,PROTEÍNAS,02.08.01.00
+conhecimentos-ii,elementos,02.08.01.90,OUTROS ELEMENTOS (QUÍMICA DE MACROMOLÉCULAS) BIOQUÍMICA APLICADA,02.08.01.00
+conhecimentos-ii,elementos,02.08.02.01,BIOQUÍMICA DOS MICROORGANISMOS,02.08.02.00
+conhecimentos-ii,elementos,02.08.02.90,OUTROS ELEMENTOS (BIOQUÍMICA DOS MICRO-ORGANISMOS) FUNDAMENTOS DE BIOQUÍMICA DOS MICRO-ORGANISMOS,02.08.02.00
+conhecimentos-ii,elementos,02.08.03.01,BIOENERGÉTICA,02.08.03.00
+conhecimentos-ii,elementos,02.08.03.02,METABOLISMO,02.08.03.00
+conhecimentos-ii,elementos,02.08.03.90,OUTROS ELEMENTOS (METABOLISMO E BIOENERGÉTICA) GENÉTICA DO METABOLISMO,02.08.03.00
+conhecimentos-ii,elementos,02.08.04.01,BIOLOGIA MOLECULAR,02.08.04.00
+conhecimentos-ii,elementos,02.08.04.90,OUTROS ELEMENTOS (BIOLOGIA MOLECULAR) BIOQUÍMICA E BIOLOGIA MOLECULAR PARA ODONTOLOGIA,02.08.04.00
+conhecimentos-ii,elementos,02.08.05.01,ENZIMOLOGIA,02.08.05.00
+conhecimentos-ii,elementos,02.08.05.90,OUTROS ELEMENTOS (ENZIMOLOGIA) BIOQUÍMICA APLICADA À ENFERMAGEM,02.08.05.00
+conhecimentos-ii,elementos,02.08.99.01,OUTROS ELEMENTOS (BIOQUÍMICA) BIOQUÍMICA,02.08.99.00
+conhecimentos-ii,elementos,02.09.01.01,BIOFÍSICA MOLECULAR,02.09.01.00
+conhecimentos-ii,elementos,02.09.02.01,BIOFÍSICA CELULAR,02.09.02.00
+conhecimentos-ii,elementos,02.09.02.90,OUTROS ELEMENTOS (BIOFÍSICA CELULAR) BIOFÍSICA APLICADA,02.09.02.00
+conhecimentos-ii,elementos,02.09.03.01,BIOFÍSICA DE PROCESSOS E SISTEMAS,02.09.03.00
+conhecimentos-ii,elementos,02.09.03.90,OUTROS ELEMENTOS (BIOFÍSICA DE PROCESSOS E SISTEMAS) BIOFÍSICA DE PROCESSOS E SISTEMAS BIOLÓGICOS,02.09.03.00
+conhecimentos-ii,elementos,02.09.04.01,FOTOBIOLOGIA,02.09.04.00
+conhecimentos-ii,elementos,02.09.04.02,RADIOLOGIA,02.09.04.00
+conhecimentos-ii,elementos,02.09.04.90,"OUTROS ELEMENTOS (RADIOLOGIA E FOTOBIOLOGIA) FUNDAMENTOS DE RADIOLOGIA, DOSIMETRIA E PROTEÇÃO RADIOLÓGICA",02.09.04.00
+conhecimentos-ii,elementos,02.09.99.01,OUTROS ELEMENTOS (BIOFÍSICA) BIOFÍSICA APLICADA,02.09.99.00
+conhecimentos-ii,elementos,02.10.01.01,FARMACOCINÉTICA,02.10.01.00
+conhecimentos-ii,elementos,02.10.01.02,BIODISPONIBILIDADE,02.10.01.00
+conhecimentos-ii,elementos,02.10.01.90,OUTROS ELEMENTOS (FARMACOLOGIA GERAL) FARMACOLOGIA GERAL,02.10.01.00
+conhecimentos-ii,elementos,02.10.02.01,FARMACOLOGIA AUTONÔMICA,02.10.02.00
+conhecimentos-ii,elementos,02.10.03.01,NEUROPSICOFARMACOLOGIA,02.10.03.00
+conhecimentos-ii,elementos,02.10.03.90,OUTROS ELEMENTOS (NEUROPSICOFARMACOLOGIA) NEUROFARMACOLOGIA: ENVELHECIMENTO E TRANSTORNOS PSIQUIÁTRICOS,02.10.03.00
+conhecimentos-ii,elementos,02.10.04.01,FARMACOLOGIA CARDIORENAL,02.10.04.00
+conhecimentos-ii,elementos,02.10.05.01,FARMACOLOGIA BIOQUÍMICA,02.10.05.00
+conhecimentos-ii,elementos,02.10.05.02,FARMACOLOGIA MOLECULAR,02.10.05.00
+conhecimentos-ii,elementos,02.10.05.90,OUTROS ELEMENTOS (FARMACOLOGIA BIOQUÍMICA E MOLECULAR) FARMACOGENÉTICA,02.10.05.00
+conhecimentos-ii,elementos,02.10.06.01,ETNOFARMACOLOGIA,02.10.06.00
+conhecimentos-ii,elementos,02.10.07.01,TOXICOLOGIA,02.10.07.00
+conhecimentos-ii,elementos,02.10.07.90,OUTROS ELEMENTOS (TOXICOLOGIA) TOXICOLOGIA PARA ODONTOLOGIA,02.10.07.00
+conhecimentos-ii,elementos,02.10.08.01,FARMACOLOGIA CLÍNICA,02.10.08.00
+conhecimentos-ii,elementos,02.10.08.90,OUTROS ELEMENTOS (FARMACOLOGIA CLÍNICA) FARMACOLOGIA APLICADA À ANESTESIA,02.10.08.00
+conhecimentos-ii,elementos,02.10.99.01,OUTROS ELEMENTOS (FARMACOLOGIA) FUNDAMENTOS DE FARMACOLOGIA,02.10.99.00
+conhecimentos-ii,elementos,02.11.01.01,IMUNOQUÍMICA,02.11.01.00
+conhecimentos-ii,elementos,02.11.02.01,IMUNOLOGIA CELULAR,02.11.02.00
+conhecimentos-ii,elementos,02.11.02.90,OUTROS ELEMENTOS (IMUNOLOGIA CELULAR) IMUNO-HISTOQUÍMICA,02.11.02.00
+conhecimentos-ii,elementos,02.11.03.01,IMUNOGENÉTICA,02.11.03.00
+conhecimentos-ii,elementos,02.11.04.01,IMUNOLOGIA APLICADA,02.11.04.00
+conhecimentos-ii,elementos,02.11.04.90,OUTROS ELEMENTOS (IMUNOLOGIA APLICADA) IMUNOPATOLOGIA,02.11.04.00
+conhecimentos-ii,elementos,02.11.99.01,OUTROS ELEMENTOS (IMUNOLOGIA) IMUNOLOGIA DO PACIENTE OPERADO,02.11.99.00
+conhecimentos-ii,elementos,02.12.01.01,BACTERIOLOGIA,02.12.01.00
+conhecimentos-ii,elementos,02.12.01.02,MICOLOGIA,02.12.01.00
+conhecimentos-ii,elementos,02.12.01.03,VIROLOGIA,02.12.01.00
+conhecimentos-ii,elementos,02.12.01.90,OUTROS ELEMENTOS (BIOLOGIA E FISIOLOGIA DOS MICRO-ORGANISMOS) MICROBIOLOGIA E IMUNOLOGIA PARA ODONTOLOGIA,02.12.01.00
+conhecimentos-ii,elementos,02.12.02.01,MICROBIOLOGIA MÉDICA,02.12.02.00
+conhecimentos-ii,elementos,02.12.02.02,MICROBIOLOGIA DE FERMENTAÇÃO,02.12.02.00
+conhecimentos-ii,elementos,02.12.02.03,MICROBIOLOGIA INDUSTRIAL,02.12.02.00
+conhecimentos-ii,elementos,02.12.02.90,OUTROS ELEMENTOS (MICROBIOLOGIA APLICADA) MICROBIOLOGIA APLICADA,02.12.02.00
+conhecimentos-ii,elementos,02.12.99.01,OUTROS ELEMENTOS (MICROBIOLOGIA) PROCESSOS MICROBIOLÓGICOS,02.12.99.00
+conhecimentos-ii,elementos,02.13.01.01,PROTOZOOLOGIA PARASITÁRIA HUMANA,02.13.01.00
+conhecimentos-ii,elementos,02.13.01.02,PROTOZOOLOGIA PARASITÁRIA ANIMAL,02.13.01.00
+conhecimentos-ii,elementos,02.13.02.01,HELMINTOLOGIA HUMANA,02.13.02.00
+conhecimentos-ii,elementos,02.13.02.02,HELMINTOLOGIA ANIMAL,02.13.02.00
+conhecimentos-ii,elementos,02.13.03.01,ENTOMOLOGIA E MALACOLOGIA DE PARASITOS E VETORES,02.13.03.00
+conhecimentos-ii,elementos,02.13.03.90,OUTROS ELEMENTOS (ENTOMOLOGIA E MALACOLOGIA DE PARASITOS E VETORES) CONTROLE ENTOMOLÓGICO PARA PREVENÇÃO DE DOENÇAS E PROMOÇÃO DA SAÚDE PÚBLICA,02.13.03.00
+conhecimentos-ii,elementos,02.13.99.01,OUTROS ELEMENTOS (PARASITOLOGIA) PARASITOLOGIA,02.13.99.00
+conhecimentos-ii,elementos,02.14.01.01,BIOMEDICINA,02.14.01.00
+conhecimentos-ii,elementos,02.14.01.90,OUTROS ELEMENTOS (BIOMEDICINA) FUNDAMENTOS BÁSICOS GERAIS DE BIOMEDICINA,02.14.01.00
+conhecimentos-ii,elementos,02.14.99.01,"OUTROS ELEMENTOS (BIOMEDICINA) BIOLOGIA DE SISTEMAS: CARDIORRESPIRATÓRIO E RENAL, DIGESTÓRIO, ENDÓCRINO, HEMATOLÓGICO E NEUROLOCOMOTOR",02.14.99.00
+conhecimentos-ii,elementos,03.01.01.01,INSTALAÇÕES PREDIAIS,03.01.01.00
+conhecimentos-ii,elementos,03.01.01.02,MATERIAIS E COMPONENTES DE CONSTRUÇÃO,03.01.01.00
+conhecimentos-ii,elementos,03.01.01.03,PROCESSOS CONSTRUTIVOS,03.01.01.00
+conhecimentos-ii,elementos,03.01.01.90,OUTROS ELEMENTOS (CONSTRUÇÃO CIVIL) TECNOLOGIA DE CONSTRUÇÃO CIVIL,03.01.01.00
+conhecimentos-ii,elementos,03.01.02.01,ESTRUTURAS DE CONCRETO,03.01.02.00
+conhecimentos-ii,elementos,03.01.02.02,ESTRUTURAS DE MADEIRAS,03.01.02.00
+conhecimentos-ii,elementos,03.01.02.03,ESTRUTURAS METÁLICAS,03.01.02.00
+conhecimentos-ii,elementos,03.01.02.04,MECÂNICA DAS ESTRUTURAS,03.01.02.00
+conhecimentos-ii,elementos,03.01.02.90,OUTROS ELEMENTOS (ESTRUTURAS) SISTEMAS ESTRUTURAIS,03.01.02.00
+conhecimentos-ii,elementos,03.01.03.01,FUNDAÇÕES E ESCAVAÇÕES,03.01.03.00
+conhecimentos-ii,elementos,03.01.03.02,MECÂNICA DOS SOLOS,03.01.03.00
+conhecimentos-ii,elementos,03.01.03.03,MECÂNICAS DAS ROCHAS,03.01.03.00
+conhecimentos-ii,elementos,03.01.03.04,OBRAS DE TERRA E ENROCAMENTO,03.01.03.00
+conhecimentos-ii,elementos,03.01.03.05,PAVIMENTOS,03.01.03.00
+conhecimentos-ii,elementos,03.01.03.90,OUTROS ELEMENTOS (GEOTÉCNICA) GEOTECNIA,03.01.03.00
+conhecimentos-ii,elementos,03.01.04.01,HIDRÁULICA,03.01.04.00
+conhecimentos-ii,elementos,03.01.04.02,HIDROLOGIA,03.01.04.00
+conhecimentos-ii,elementos,03.01.04.90,OUTROS ELEMENTOS (ENGENHARIA HIDRÁULICA) HIDROTECNIA,03.01.04.00
+conhecimentos-ii,elementos,03.01.05.01,AEROPORTOS; PROJETO E CONSTRUÇÃO,03.01.05.00
+conhecimentos-ii,elementos,03.01.05.02,FERROVIAS; PROJETOS E CONSTRUÇÃO,03.01.05.00
+conhecimentos-ii,elementos,03.01.05.03,PORTOS E VIAS NAVEGÁVEIS; PROJETO E CONSTRUÇÃO,03.01.05.00
+conhecimentos-ii,elementos,03.01.05.04,RODOVIAS; PROJETO E CONSTRUÇÃO,03.01.05.00
+conhecimentos-ii,elementos,03.01.05.90,OUTROS ELEMENTOS (INFRAESTRUTURA DE TRANSPORTES) INFRAESTRUTURA DE TRANSPORTES,03.01.05.00
+conhecimentos-ii,elementos,03.01.99.01,OUTROS ELEMENTOS (ENGENHARIA CIVIL) DESENHO TÉCNICO DE ENGENHARIA CIVIL,03.01.99.00
+conhecimentos-ii,elementos,03.02.01.01,CARACTERIZAÇÃO DO MINÉRIO,03.02.01.00
+conhecimentos-ii,elementos,03.02.01.02,DIMENSIONAMENTO DE JAZIDAS,03.02.01.00
+conhecimentos-ii,elementos,03.02.01.90,OUTROS ELEMENTOS (PESQUISA MINERAL) PESQUISA MINERAL,03.02.01.00
+conhecimentos-ii,elementos,03.02.02.01,EQUIPAMENTOS DE LAVRA,03.02.02.00
+conhecimentos-ii,elementos,03.02.02.02,LAVRA A CÉU ABERTO,03.02.02.00
+conhecimentos-ii,elementos,03.02.02.03,LAVRA DE MINA SUBTERRÂNEA,03.02.02.00
+conhecimentos-ii,elementos,03.02.02.90,OUTROS ELEMENTOS (LAVRA) PERFURAÇÃO E DESMONTE DE ROCHAS,03.02.02.00
+conhecimentos-ii,elementos,03.02.03.01,EQUIPAMENTOS DE BENEFICIAMENTO DE MINÉRIOS,03.02.03.00
+conhecimentos-ii,elementos,03.02.03.02,MÉTODOS DE CONCENTRAÇÃO E ENRIQUECIMENTO DE MINÉRIOS,03.02.03.00
+conhecimentos-ii,elementos,03.02.03.90,OUTROS ELEMENTOS (TRATAMENTO DE MINÉRIOS (BENEFICIAMENTO)) BENEFICIAMENTO DE MINÉRIOS,03.02.03.00
+conhecimentos-ii,elementos,03.02.99.01,OUTROS ELEMENTOS (ENGENHARIA DE MINAS) NORMAS TÉCNICAS DE ENGENHARIA DE MINAS,03.02.99.00
+conhecimentos-ii,elementos,03.03.01.01,EQUIPAMENTOS METALÚRGICOS,03.03.01.00
+conhecimentos-ii,elementos,03.03.01.02,INSTALAÇÕES METALÚRGICAS,03.03.01.00
+conhecimentos-ii,elementos,03.03.01.90,OUTROS ELEMENTOS (INSTALAÇÕES E EQUIPAMENTOS METALÚRGICOS) RESISTÊNCIA DOS MATERIAIS,03.03.01.00
+conhecimentos-ii,elementos,03.03.02.01,AGLOMERAÇÃO,03.03.02.00
+conhecimentos-ii,elementos,03.03.02.02,ELETROMETALURGIA,03.03.02.00
+conhecimentos-ii,elementos,03.03.02.03,HIDROMETALURGIA,03.03.02.00
+conhecimentos-ii,elementos,03.03.02.04,PIROMETALURGIA,03.03.02.00
+conhecimentos-ii,elementos,03.03.02.05,TRATAMENTO DE MINÉRIOS (EXTRAÇÃO),03.03.02.00
+conhecimentos-ii,elementos,03.03.03.01,CONFORMAÇÃO MECÂNICA,03.03.03.00
+conhecimentos-ii,elementos,03.03.03.02,FUNDIÇÃO,03.03.03.00
+conhecimentos-ii,elementos,03.03.03.03,METALURGIA DE PÓ,03.03.03.00
+conhecimentos-ii,elementos,03.03.03.04,RECOBRIMENTOS,03.03.03.00
+conhecimentos-ii,elementos,03.03.03.05,SOLDAGEM,03.03.03.00
+conhecimentos-ii,elementos,03.03.03.06,"TRATAMENTOS TÉRMICOS, MECÂNICOS E QUÍMICOS",03.03.03.00
+conhecimentos-ii,elementos,03.03.03.07,USINAGEM,03.03.03.00
+conhecimentos-ii,elementos,03.03.03.90,OUTROS ELEMENTOS (METALURGIA DE TRANSFORMAÇÃO) SINTERIZAÇÃO,03.03.03.00
+conhecimentos-ii,elementos,03.03.04.01,CORROSÃO,03.03.04.00
+conhecimentos-ii,elementos,03.03.04.02,ESTRUTURA DOS METAIS E LIGAS,03.03.04.00
+conhecimentos-ii,elementos,03.03.04.03,PROPRIEDADES FÍSICAS DOS METAIS E LIGAS,03.03.04.00
+conhecimentos-ii,elementos,03.03.04.04,PROPRIEDADES MECÂNICAS DOS METAIS E LIGAS,03.03.04.00
+conhecimentos-ii,elementos,03.03.04.05,TRANSFORMAÇÃO DE FASES,03.03.04.00
+conhecimentos-ii,elementos,03.03.04.90,OUTROS ELEMENTOS (METALURGIA FÍSICA) RESISTÊNCIA DE MATERIAIS,03.03.04.00
+conhecimentos-ii,elementos,03.03.05.01,CERÂMICOS,03.03.05.00
+conhecimentos-ii,elementos,03.03.05.02,EXTRAÇÃO E TRANSFORMAÇÃO DE MATERIAIS,03.03.05.00
+conhecimentos-ii,elementos,03.03.05.03,MATERIAIS CONJUGADOS NÃO-METÁLICOS,03.03.05.00
+conhecimentos-ii,elementos,03.03.05.04,"POLÍMEROS,  APLICAÇÕES",03.03.05.00
+conhecimentos-ii,elementos,03.03.05.90,OUTROS ELEMENTOS (MATERIAIS NÃO-METÁLICOS) CIÊNCIA DOS MATERIAIS,03.03.05.00
+conhecimentos-ii,elementos,03.03.99.01,OUTROS ELEMENTOS (ENGENHARIA DE MATERIAIS E METALÚRGICA) TECNOLOGIA DOS MATERIAIS,03.03.99.00
+conhecimentos-ii,elementos,03.04.01.01,MATERIAIS CONDUTORES,03.04.01.00
+conhecimentos-ii,elementos,03.04.01.02,"MATERIAIS DIELÉTRICOS, PIEZOELÉTRICOS E FERROELÉTRICOS",03.04.01.00
+conhecimentos-ii,elementos,03.04.01.03,"MATERIAIS E COMPONENTES ELETRO-ÓPTICOS E MAGNETO-ÓPTICOS, MATERIAIS FOTOELÉTRICOS",03.04.01.00
+conhecimentos-ii,elementos,03.04.01.04,MATERIAIS E COMPONENTES SEMICONDUTORES,03.04.01.00
+conhecimentos-ii,elementos,03.04.01.05,MATERIAIS E DISPOSITIVOS MAGNÉTICOS,03.04.01.00
+conhecimentos-ii,elementos,03.04.01.06,MATERIAIS E DISPOSITIVOS SUPERCONDUTORES,03.04.01.00
+conhecimentos-ii,elementos,03.04.01.90,OUTROS ELEMENTOS (MATERIAIS ELÉTRICOS) MATERIAIS ELÉTRICOS APLICADOS À BIOENGENHARIA,03.04.01.00
+conhecimentos-ii,elementos,03.04.02.01,INSTRUMENTAÇÃO ELETROMECÂNICA,03.04.02.00
+conhecimentos-ii,elementos,03.04.02.02,INSTRUMENTAÇÃO ELETRÔNICA,03.04.02.00
+conhecimentos-ii,elementos,03.04.02.03,MEDIDAS ELÉTRICAS,03.04.02.00
+conhecimentos-ii,elementos,03.04.02.04,MEDIDAS MAGNÉTICAS,03.04.02.00
+conhecimentos-ii,elementos,03.04.02.05,SISTEMAS ELETRÔNICOS DE MEDIDAS E DE CONTROLE,03.04.02.00
+conhecimentos-ii,elementos,03.04.02.90,"OUTROS ELEMENTOS (MEDIDAS ELÉTRICAS, MAGNÉTICAS E ELETRÔNICAS; INSTRUMENTAÇÃO) SISTEMAS DE MEDIÇÃO ELETRÔNICA",03.04.02.00
+conhecimentos-ii,elementos,03.04.03.01,CIRCUITOS ELETRÔNICOS,03.04.03.00
+conhecimentos-ii,elementos,03.04.03.02,CIRCUITOS LINEARES E NÃO LINEARES,03.04.03.00
+conhecimentos-ii,elementos,03.04.03.03,"CIRCUITOS MAGNÉTICOS, MAGNETISMO, ELETROMAGNETISMO",03.04.03.00
+conhecimentos-ii,elementos,03.04.03.04,TEORIA GERAL DOS CIRCUITOS ELÉTRICOS,03.04.03.00
+conhecimentos-ii,elementos,03.04.03.90,"OUTROS ELEMENTOS (CIRCUITOS ELÉTRICOS, MAGNÉTICOS E ELETRÔNICOS) ELETRICIDADE APLICADA",03.04.03.00
+conhecimentos-ii,elementos,03.04.04.01,CONVERSÃO E RETIFICAÇÃO DA ENERGIA ELÉTRICA,03.04.04.00
+conhecimentos-ii,elementos,03.04.04.02,GERAÇÃO DE ENERGIA ELÉTRICA,03.04.04.00
+conhecimentos-ii,elementos,03.04.04.03,INSTALAÇÕES ELÉTRICAS PREDIAIS E INDUSTRIAIS,03.04.04.00
+conhecimentos-ii,elementos,03.04.04.04,MÁQUINAS ELÉTRICAS E DISPOSITIVOS DE POTÊNCIA,03.04.04.00
+conhecimentos-ii,elementos,03.04.04.05,"MEDIÇÃO, CONTROLE, CORREÇÃO E PROTEÇÃO DE SISTEMAS ELÉTRICOS DE POTÊNCIA",03.04.04.00
+conhecimentos-ii,elementos,03.04.04.06,TRANSMISSÃO E  DISTRIBUIÇÃO DA ENERGIA ELÉTRICA,03.04.04.00
+conhecimentos-ii,elementos,03.04.04.90,OUTROS ELEMENTOS (SISTEMAS ELÉTRICOS DE POTÊNCIA) EFICIÊNCIA ENERGÉTICA,03.04.04.00
+conhecimentos-ii,elementos,03.04.05.01,AUTOMAÇÃO ELETRÔNICA DE PROCESSOS ELÉTRICOS E INDUSTRIAIS,03.04.05.00
+conhecimentos-ii,elementos,03.04.05.02,"CONTROLE DE PROCESSOS ELETRÔNICOS, RETROALIMENTAÇÃO",03.04.05.00
+conhecimentos-ii,elementos,03.04.05.03,ELETRÔNICA INDUSTRIAL,03.04.05.00
+conhecimentos-ii,elementos,03.04.05.90,"OUTROS ELEMENTOS (ELETRÔNICA INDUSTRIAL, SISTEMAS E CONTROLES ELETRÔNICOS) MICROPROCESSADORES E MICROCONTROLADORES",03.04.05.00
+conhecimentos-ii,elementos,03.04.06.01,RADIONAVEGAÇÃO E RADIOASTRONOMIA,03.04.06.00
+conhecimentos-ii,elementos,03.04.06.02,SISTEMAS DE TELECOMUNICAÇÕES,03.04.06.00
+conhecimentos-ii,elementos,03.04.06.03,"TEORIA ELETROMAGNÉTICA, MICRO-ONDAS, PROPAGAÇÃO DE ONDAS, ANTENAS",03.04.06.00
+conhecimentos-ii,elementos,03.04.06.90,OUTROS ELEMENTOS (TELECOMUNICAÇÕES) FUNDAMENTOS DE REDES DE COMUNICAÇÃO,03.04.06.00
+conhecimentos-ii,elementos,03.04.99.01,OUTROS ELEMENTOS (ENGENHARIA ELÉTRICA E ELETRÔNICA) LUMINOTÉCNICA: PROJETO DE ILUMINAÇÃO; ASPECTOS FÍSICOS E PERCEPTIVOS DA LUZ; VARIÁVEIS DE CONFORTO E DESEMPENHO NOS AMBIENTES; ESTUDO DOS EFEITOS LUMINOSOS,03.04.99.00
+conhecimentos-ii,elementos,03.05.01.01,DINÂMICA DOS GASES,03.05.01.00
+conhecimentos-ii,elementos,03.05.01.02,MECÂNICA DOS FLUÍDOS,03.05.01.00
+conhecimentos-ii,elementos,03.05.01.03,PRINCÍPIOS VARIACIONAIS E MÉTODOS NUMÉRICOS,03.05.01.00
+conhecimentos-ii,elementos,03.05.01.04,TRANSFERÊNCIA DE CALOR,03.05.01.00
+conhecimentos-ii,elementos,03.05.01.90,OUTROS ELEMENTOS (FENÔMENOS DE TRANSPORTE) FENÔMENOS DE TRANSPORTE,03.05.01.00
+conhecimentos-ii,elementos,03.05.02.01,APROVEITAMENTO DA ENERGIA,03.05.02.00
+conhecimentos-ii,elementos,03.05.02.02,CONTROLE AMBIENTAL,03.05.02.00
+conhecimentos-ii,elementos,03.05.02.03,TERMODINÂMICA,03.05.02.00
+conhecimentos-ii,elementos,03.05.02.90,OUTROS ELEMENTOS (ENGENHARIA TÉRMICA) SISTEMAS TÉRMICOS,03.05.02.00
+conhecimentos-ii,elementos,03.05.03.01,ANÁLISE DE TENSÕES,03.05.03.00
+conhecimentos-ii,elementos,03.05.03.02,"DINÂMICA DOS CORPOS RÍGIDOS, ELÁSTICOS E PLÁSTICOS",03.05.03.00
+conhecimentos-ii,elementos,03.05.03.03,"MECÂNICA DOS CORPOS SÓLIDOS, ELÁSTICOS E PLÁSTICOS",03.05.03.00
+conhecimentos-ii,elementos,03.05.03.04,TERMOELASTICIDADE,03.05.03.00
+conhecimentos-ii,elementos,03.05.03.90,OUTROS ELEMENTOS (MECÂNICA DE SÓLIDOS) MECÂNICA DOS SÓLIDOS,03.05.03.00
+conhecimentos-ii,elementos,03.05.04.01,APROVEITAMENTO DE ENERGIA,03.05.04.00
+conhecimentos-ii,elementos,03.05.04.02,CONTROLE DE SISTEMAS MECÂNICOS,03.05.04.00
+conhecimentos-ii,elementos,03.05.04.03,ELEMENTOS DE MÁQUINAS,03.05.04.00
+conhecimentos-ii,elementos,03.05.04.04,ESTÁTICA E DINÂMICA APLICADA,03.05.04.00
+conhecimentos-ii,elementos,03.05.04.05,FUNDAMENTOS GERAIS DE PROJETOS DAS MÁQUINAS,03.05.04.00
+conhecimentos-ii,elementos,03.05.04.06,"MÁQUINAS, MOTORES E EQUIPAMENTOS",03.05.04.00
+conhecimentos-ii,elementos,03.05.04.07,MÉTODOS DE SÍNTESE E OTIMIZAÇÃO APLICADOS AO PROJETO MECÂNICO,03.05.04.00
+conhecimentos-ii,elementos,03.05.04.08,TEORIA DOS MECANISMOS,03.05.04.00
+conhecimentos-ii,elementos,03.05.04.90,OUTROS ELEMENTOS (PROJETOS DE MÁQUINAS) CONVERSÃO DE ENERGIA,03.05.04.00
+conhecimentos-ii,elementos,03.05.05.01,CONTROLE NUMÉRICO,03.05.05.00
+conhecimentos-ii,elementos,03.05.05.02,MÁQUINAS DE USINAGEM E CONFORMAÇÃO,03.05.05.00
+conhecimentos-ii,elementos,03.05.05.03,MATRIZES E FERRAMENTAS,03.05.05.00
+conhecimentos-ii,elementos,03.05.05.04,"PROCESSOS DE FABRICAÇÃO, SELEÇÃO ECONÔMICA",03.05.05.00
+conhecimentos-ii,elementos,03.05.05.05,ROBOTIZAÇÃO,03.05.05.00
+conhecimentos-ii,elementos,03.05.05.90,OUTROS ELEMENTOS (PROCESSOS DE FABRICAÇÃO) PROCESSOS DE FABRICAÇÃO,03.05.05.00
+conhecimentos-ii,elementos,03.05.99.01,OUTROS ELEMENTOS (ENGENHARIA MECÂNICA) MECÂNICA APLICADA,03.05.99.00
+conhecimentos-ii,elementos,03.06.01.01,PROCESSOS BIOQUÍMICOS,03.06.01.00
+conhecimentos-ii,elementos,03.06.01.02,PROCESSOS INORGÂNICOS,03.06.01.00
+conhecimentos-ii,elementos,03.06.01.03,PROCESSOS ORGÂNICOS,03.06.01.00
+conhecimentos-ii,elementos,03.06.01.90,OUTROS ELEMENTOS (PROCESSOS INDUSTRIAIS DE ENGENHARIA QUÍMICA) CONTROLE DE PROCESSOS NA INDÚSTRIA QUÍMICA,03.06.01.00
+conhecimentos-ii,elementos,03.06.02.01,OPERAÇÕES CARACTERÍSTICAS DE PROCESSOS BIOQUÍMICOS,03.06.02.00
+conhecimentos-ii,elementos,03.06.02.02,OPERAÇÕES DE SEPARAÇÃO E MISTURA,03.06.02.00
+conhecimentos-ii,elementos,03.06.02.03,REATORES QUÍMICOS,03.06.02.00
+conhecimentos-ii,elementos,03.06.02.90,OUTROS ELEMENTOS (OPERAÇÕES INDUSTRIAIS E EQUIPAMENTOS PARA A ENGENHARIA QUÍMICA) CÁLCULO DE REATORES,03.06.02.00
+conhecimentos-ii,elementos,03.06.03.03,ALIMENTOS,03.06.03.00
+conhecimentos-ii,elementos,03.06.03.04,BALANÇOS GLOBAIS DE MATÉRIA E ENERGIA,03.06.03.00
+conhecimentos-ii,elementos,03.06.03.05,BORRACHAS,03.06.03.00
+conhecimentos-ii,elementos,03.06.03.07,CERÂMICA,03.06.03.00
+conhecimentos-ii,elementos,03.06.03.08,CIMENTO,03.06.03.00
+conhecimentos-ii,elementos,03.06.03.10,DETERGENTES,03.06.03.00
+conhecimentos-ii,elementos,03.06.03.11,FERTILIZANTES,03.06.03.00
+conhecimentos-ii,elementos,03.06.03.12,MEDICAMENTOS,03.06.03.00
+conhecimentos-ii,elementos,03.06.03.13,METAIS NÃO-FERROSOS,03.06.03.00
+conhecimentos-ii,elementos,03.06.03.14,ÓLEOS,03.06.03.00
+conhecimentos-ii,elementos,03.06.03.15,PAPEL E CELULOSE,03.06.03.00
+conhecimentos-ii,elementos,03.06.03.16,PETRÓLEO E PETROQUÍMICA,03.06.03.00
+conhecimentos-ii,elementos,03.06.03.17,POLÍMEROS,03.06.03.00
+conhecimentos-ii,elementos,03.06.03.19,TÊXTEIS,03.06.03.00
+conhecimentos-ii,elementos,03.06.03.20,TRATAMENTOS E APROVEITAMENTOS DE REJEITOS,03.06.03.00
+conhecimentos-ii,elementos,03.06.03.90,OUTROS ELEMENTOS (TECNOLOGIA QUÍMICA) TECNOLOGIA AMBIENTAL,03.06.03.00
+conhecimentos-ii,elementos,03.06.99.01,OUTROS ELEMENTOS (ENGENHARIA QUÍMICA) CONSULTORIA TÉCNICA DE ENGENHARIA QUÍMICA,03.06.99.00
+conhecimentos-ii,elementos,03.07.01.01,ENGENHARIA TÊXTIL,03.07.01.00
+conhecimentos-ii,elementos,03.07.99.01,OUTROS ELEMENTOS (ENGENHARIA TÊXTIL) ACABAMENTO DE TÊXTEIS,03.07.99.00
+conhecimentos-ii,elementos,03.08.01.01,PLANEJAMENTO INTEGRADO DOS RECURSOS HÍDRICOS,03.08.01.00
+conhecimentos-ii,elementos,03.08.01.02,TECNOLOGIA E PROBLEMAS SANITÁRIOS DE IRRIGAÇÃO,03.08.01.00
+conhecimentos-ii,elementos,03.08.01.03,ÁGUAS SUBTERRÂNEAS E POÇOS PROFUNDOS,03.08.01.00
+conhecimentos-ii,elementos,03.08.01.04,CONTROLE DE ENCHENTES E DE BARRAGENS,03.08.01.00
+conhecimentos-ii,elementos,03.08.01.05,SEDIMENTOLOGIA,03.08.01.00
+conhecimentos-ii,elementos,03.08.01.90,OUTROS ELEMENTOS (RECURSOS HÍDRICOS) GERENCIAMENTO DE RECURSOS HÍDRICOS,03.08.01.00
+conhecimentos-ii,elementos,03.08.02.01,ESTUDOS E CARACTERIZAÇÃO DE EFLUENTES INDUSTRIAIS,03.08.02.00
+conhecimentos-ii,elementos,03.08.02.02,LEIAUTE  DE PROCESSOS INDUSTRIAIS,03.08.02.00
+conhecimentos-ii,elementos,03.08.02.03,PROCESSOS SIMPLIFICADOS DE TRATAMENTO DE ÁGUAS,03.08.02.00
+conhecimentos-ii,elementos,03.08.02.04,QUÍMICA SANITÁRIA,03.08.02.00
+conhecimentos-ii,elementos,03.08.02.06,TÉCNICAS AVANÇADAS DE TRATAMENTO DE ÁGUAS,03.08.02.00
+conhecimentos-ii,elementos,03.08.02.07,TÉCNICAS CONVENCIONAIS DE TRATAMENTO DE ÁGUAS,03.08.02.00
+conhecimentos-ii,elementos,03.08.02.90,OUTROS ELEMENTOS (TRATAMENTO DE ÁGUAS DE ABASTECIMENTO E RESIDUÁRIAS) TRATAMENTO DE EFLUENTES,03.08.02.00
+conhecimentos-ii,elementos,03.08.03.05,"RESÍDUOS SÓLIDOS, DOMÉSTICOS E INDUSTRIAIS",03.08.03.00
+conhecimentos-ii,elementos,03.08.03.90,OUTROS ELEMENTOS (SANEAMENTO BÁSICO) ENSAIOS LABORATORIAIS DE CONTROLE DE QUALIDADE DE ÁGUAS E DE CAUSAS E EFEITOS DE EFLUENTES RESIDENCIAIS E INDUSTRIAIS,03.08.03.00
+conhecimentos-ii,elementos,03.08.04.01,CONTROLE DA POLUIÇÃO,03.08.04.00
+conhecimentos-ii,elementos,03.08.04.02,ECOLOGIA APLICADA À ENGENHARIA SANITÁRIA,03.08.04.00
+conhecimentos-ii,elementos,03.08.04.03,LEGISLAÇÃO AMBIENTAL,03.08.04.00
+conhecimentos-ii,elementos,03.08.04.04,MICROBIOLOGIA APLICADA E ENGENHARIA SANITÁRIA,03.08.04.00
+conhecimentos-ii,elementos,03.08.04.05,PARASITOLOGIA APLICADA À ENGENHARIA SANITÁRIA,03.08.04.00
+conhecimentos-ii,elementos,03.08.04.06,"QUALIDADE DO AR, DAS ÁGUAS E DO SOLO",03.08.04.00
+conhecimentos-ii,elementos,03.08.04.90,OUTROS ELEMENTOS (SANEAMENTO AMBIENTAL) PREVENÇÃO E CONTROLE DA POLUIÇÃO NO MEIO AMBIENTE AQUAVIÁRIO,03.08.04.00
+conhecimentos-ii,elementos,03.08.99.01,"OUTROS ELEMENTOS (ENGENHARIA SANITÁRIA) MEIO AMBIENTE, SUSTENTABILIDADE E INTERVENÇÃO HUMANA",03.08.99.00
+conhecimentos-ii,elementos,03.09.01.01,GARANTIA DE CONTROLE DE QUALIDADE,03.09.01.00
+conhecimentos-ii,elementos,03.09.01.02,HIGIENE E SEGURANÇA DO TRABALHO,03.09.01.00
+conhecimentos-ii,elementos,03.09.01.03,PLANEJAMENTO DE INSTALAÇOES INDUSTRIAIS,03.09.01.00
+conhecimentos-ii,elementos,03.09.01.04,"PLANEJAMENTO, PROJETO E CONTROLE DE SISTEMAS DE PRODUÇÃO",03.09.01.00
+conhecimentos-ii,elementos,03.09.01.05,SUPRIMENTOS,03.09.01.00
+conhecimentos-ii,elementos,03.09.01.90,"OUTROS ELEMENTOS (GERÊNCIA DE PRODUÇÃO) HIGIENE, SAÚDE E SEGURANÇA NO TRABALHO",03.09.01.00
+conhecimentos-ii,elementos,03.09.02.01,PROCESSOS ESTOCÁSTICOS E TEORIAS DAS FILAS,03.09.02.00
+conhecimentos-ii,elementos,03.09.02.02,"PROGRAMAÇÃO LINEAR, NÃO-LINEAR, MISTA E DINÂMICA",03.09.02.00
+conhecimentos-ii,elementos,03.09.02.03,SÉRIES TEMPORAIS,03.09.02.00
+conhecimentos-ii,elementos,03.09.02.04,TEORIA DOS GRAFOS,03.09.02.00
+conhecimentos-ii,elementos,03.09.02.05,TEORIA DOS JOGOS,03.09.02.00
+conhecimentos-ii,elementos,03.09.02.90,OUTROS ELEMENTOS (PESQUISA OPERACIONAL) PESQUISA OPERACIONAL,03.09.02.00
+conhecimentos-ii,elementos,03.09.03.01,DESENVOLVIMENTO DE PRODUTO,03.09.03.00
+conhecimentos-ii,elementos,03.09.03.02,ERGONOMIA,03.09.03.00
+conhecimentos-ii,elementos,03.09.03.03,GERÊNCIA DO PROJETO E DO PRODUTO,03.09.03.00
+conhecimentos-ii,elementos,03.09.03.04,METODOLOGIA DE PROJETO DO PRODUTO,03.09.03.00
+conhecimentos-ii,elementos,03.09.03.05,PROCESSOS DE TRABALHO,03.09.03.00
+conhecimentos-ii,elementos,03.09.03.90,"OUTROS ELEMENTOS (ENGENHARIA DO PRODUTO) PRODUÇÃO POR BATELADA, POR ENCOMENDA, POR PROCESSO CONTÍNUO",03.09.03.00
+conhecimentos-ii,elementos,03.09.04.01,ANÁLISE DE CUSTOS,03.09.04.00
+conhecimentos-ii,elementos,03.09.04.02,AVALIAÇÃO DE PROJETOS,03.09.04.00
+conhecimentos-ii,elementos,03.09.04.03,ECONOMIA DE TECNOLOGIA,03.09.04.00
+conhecimentos-ii,elementos,03.09.04.04,ESTUDO DE MERCADO,03.09.04.00
+conhecimentos-ii,elementos,03.09.04.06,VIDA ECONÔMICA DOS EQUIPAMENTOS,03.09.04.00
+conhecimentos-ii,elementos,03.09.04.90,OUTROS ELEMENTOS (ENGENHARIA ECONÔMICA) ANÁLISE DE CUSTOS E ECONOMIA DE MERCADO PARA GESTÃO E SECRETARIADO,03.09.04.00
+conhecimentos-ii,elementos,03.09.99.01,OUTROS ELEMENTOS (ENGENHARIA DE PRODUÇÃO) DESENHO TÉCNICO GERAL,03.09.99.00
+conhecimentos-ii,elementos,03.10.01.01,APLICAÇÕES INDUSTRIAIS DE RADIOISÓPOTOS,03.10.01.00
+conhecimentos-ii,elementos,03.10.01.02,INSTRUMENTAÇÃO PARA MEDIDA E CONTROLE DE RADIAÇÃO,03.10.01.00
+conhecimentos-ii,elementos,03.10.01.03,PRODUÇÃO DE RADIOISÓPOTOS,03.10.01.00
+conhecimentos-ii,elementos,03.10.01.90,OUTROS ELEMENTOS (APLICAÇÕES DE RADIOISÓTOPOS) APLICAÇÕES MÉDICAS DE RADIOISÓTOPOS: RADIONUCLÍDEOS; TRAÇADORES RADIOATIVOS; RADIOFÁRMACOS; OUTROS,03.10.01.00
+conhecimentos-ii,elementos,03.10.02.01,PROBLEMAS TECNOLÓGICOS DA FUSÃO CONTROLADA,03.10.02.00
+conhecimentos-ii,elementos,03.10.02.02,PROCESSOS INDUSTRIAIS DA FUSÃO CONTROLADA,03.10.02.00
+conhecimentos-ii,elementos,03.10.03.01,EXTRAÇÃO DE COMBUSTÍVEL NÚCLEAR,03.10.03.00
+conhecimentos-ii,elementos,03.10.03.02,"CONVERSÃO, ENRIQUECIMENTO E FABRICAÇÃO DE COMBUSTÍVEL NUCLEAR",03.10.03.00
+conhecimentos-ii,elementos,03.10.03.03,REPROCESSAMENTO DO COMBUSTÍVEL NÚCLEAR,03.10.03.00
+conhecimentos-ii,elementos,03.10.03.04,REJEITOS DE COMBUSTÍVEL NÚCLEAR,03.10.03.00
+conhecimentos-ii,elementos,03.10.03.90,OUTROS ELEMENTOS (COMBUSTÍVEL NUCLEAR) CICLO DO COMBUSTÍVEL NUCLEAR,03.10.03.00
+conhecimentos-ii,elementos,03.10.04.01,ASPECTOS ECONÔMICOS DE REATORES,03.10.04.00
+conhecimentos-ii,elementos,03.10.04.02,GERAÇÃO E INTEGRAÇÃO COM SISTEMAS ELÉTRICOS EM REATORES,03.10.04.00
+conhecimentos-ii,elementos,03.10.04.03,INSTRUMENTAÇÃO PARA OPERAÇÃO E CONTROLE DE REATORES,03.10.04.00
+conhecimentos-ii,elementos,03.10.04.04,MATERIAIS NUCLEARES E BLINDAGEM DE REATORES,03.10.04.00
+conhecimentos-ii,elementos,03.10.04.05,NÚCLEO DO REATOR,03.10.04.00
+conhecimentos-ii,elementos,03.10.04.06,"SEGURANÇA, LOCALIZAÇÃO E LICENCIAMENTO DE REATORES",03.10.04.00
+conhecimentos-ii,elementos,03.10.04.07,TRANSFERÊNCIA DE CALOR EM REATORES,03.10.04.00
+conhecimentos-ii,elementos,03.10.99.01,OUTROS ELEMENTOS (ENGENHARIA NUCLEAR) FUNDAMENTOS DA ENERGIA NUCLEAR,03.10.99.00
+conhecimentos-ii,elementos,03.11.01.02,PLANEJAMENTO E ORGANIZAÇÃO DO SISTEMA DE TRANSPORTE,03.11.01.00
+conhecimentos-ii,elementos,03.11.01.90,OUTROS ELEMENTOS (PLANEJAMENTO DE TRANSPORTES) TRANSPORTES INTERNACIONAIS,03.11.01.00
+conhecimentos-ii,elementos,03.11.02.01,EQUIPAMENTOS AUXILIARES E CONTROLES,03.11.02.00
+conhecimentos-ii,elementos,03.11.02.04,VIAS DE TRANSPORTE,03.11.02.00
+conhecimentos-ii,elementos,03.11.02.90,"OUTROS ELEMENTOS (VEÍCULOS E EQUIPAMENTOS DE CONTROLE) SERVIÇOS DE ENFERMAGEM EM AMBULÂNCIAS TERRESTRES, AQUÁTICAS E AÉREAS",03.11.02.00
+conhecimentos-ii,elementos,03.11.03.02,ENGENHARIA DE TRÁFEGO,03.11.03.00
+conhecimentos-ii,elementos,03.11.03.90,OUTROS ELEMENTOS (OPERAÇÕES DE TRANSPORTES) CINDACTA - CENTRO INTEGRADO DE DEFESA AÉREA E CONTROLE DE TRÁFEGO AÉREO,03.11.03.00
+conhecimentos-ii,elementos,03.11.99.01,OUTROS ELEMENTOS (ENGENHARIA DE TRANSPORTES) OPERAÇÕES LOGÍSTICAS,03.11.99.00
+conhecimentos-ii,elementos,03.12.01.01,PROPULSÃO DE NAVIOS,03.12.01.00
+conhecimentos-ii,elementos,03.12.01.02,RESISTÊNCIA HIDRODINÂMICA,03.12.01.00
+conhecimentos-ii,elementos,03.12.01.90,OUTROS ELEMENTOS (HIDRODINÂMICA DE NAVIOS E SISTEMAS OCEÂNICOS) HISTÓRIA DA MARINHA MERCANTE,03.12.01.00
+conhecimentos-ii,elementos,03.12.02.90,OUTROS ELEMENTOS (ESTRUTURAS NAVAIS E OCEÂNICAS) ARQUITETURA NAVAL,03.12.02.00
+conhecimentos-ii,elementos,03.12.03.01,ANÁLISE DE SISTEMAS PROPULSORES,03.12.03.00
+conhecimentos-ii,elementos,03.12.03.02,CONTROLE E AUTOMAÇÃO DE SISTEMAS PROPULSORES,03.12.03.00
+conhecimentos-ii,elementos,03.12.03.03,EQUIPAMENTOS AUXILIARES DO SISTEMA PROPULSIVO,03.12.03.00
+conhecimentos-ii,elementos,03.12.03.04,MOTOR DE PROPULSÃO,03.12.03.00
+conhecimentos-ii,elementos,03.12.03.90,OUTROS ELEMENTOS (MÁQUINAS MARÍTIMAS) CALDEIRAS,03.12.03.00
+conhecimentos-ii,elementos,03.12.04.03,PROJETOS DE SISTEMAS OCEÂNICOS FIXOS E SEMI- FIXOS,03.12.04.00
+conhecimentos-ii,elementos,03.12.04.90,OUTROS ELEMENTOS (PROJETOS DE NAVIOS E DE SISTEMAS OCEÂNICOS) PROFICIÊNCIA EM EMBARCAÇÕES DE SOBREVIVÊNCIA E RESGATE NO MAR,03.12.04.00
+conhecimentos-ii,elementos,03.12.05.03,NORMATIZAÇÃO E CERTIFICAÇÃO DE QUALIDADE DE NAVIOS,03.12.05.00
+conhecimentos-ii,elementos,03.12.05.90,OUTROS ELEMENTOS (TECNOLOGIA DE CONSTRUÇÃO NAVAL E DE SISTEMAS OCEÂNICOS) EQUIPAMENTOS DE SEGURANÇA DA EMBARCAÇÃO,03.12.05.00
+conhecimentos-ii,elementos,03.12.99.01,"OUTROS ELEMENTOS (ENGENHARIA NAVAL E OCEÂNICA) ARTEFATOS TECNOLÓGICOS NAVAIS: COMPONENTES, DISPOSITIVOS, ESTRUTURAS, MÁQUINAS, MOTORES, PROPULSORES E OUTROS EQUIPAMENTOS E SISTEMAS DE EMBARCAÇÕES (CASCO E SUPERESTRUTURA), DE INFRAESTRUTURA E DE INDÚSTRIA DE CONSTRUÇÃO NAVAL – TIPOS E CARACTERÍSTICAS, FUNDAMENTOS TECNOLÓGICOS E PROJETOS",03.12.99.00
+conhecimentos-ii,elementos,03.13.01.01,AERODINÂMICA DE AERONAVES ESPACIAIS,03.13.01.00
+conhecimentos-ii,elementos,03.13.01.02,AERODINÂMICA DOS PROCESSOS GEOFÍSICOS E INTERPLANETÁRIOS,03.13.01.00
+conhecimentos-ii,elementos,03.13.01.90,OUTROS ELEMENTOS (AERODINÂMICA) AERODINÂMICA DE AERONAVES,03.13.01.00
+conhecimentos-ii,elementos,03.13.02.90,OUTROS ELEMENTOS (DINÂMICA DE VÔO) ESTABILIDADE E CONTROLE DE AERONAVES,03.13.02.00
+conhecimentos-ii,elementos,03.13.03.01,AEROELASTICIDADE,03.13.03.00
+conhecimentos-ii,elementos,03.13.03.02,FADIGA,03.13.03.00
+conhecimentos-ii,elementos,03.13.03.03,PROJETOS DE ESTRUTURAS AEROESPACIAIS,03.13.03.00
+conhecimentos-ii,elementos,03.13.03.90,OUTROS ELEMENTOS (ESTRUTURAS AEROESPACIAIS) DINÂMICA ESTRUTURAL,03.13.03.00
+conhecimentos-ii,elementos,03.13.04.01,MATERIAIS E PROCESSOS PARA ENGENHARIA AERONÁUTICA E AEROESPACIAL,03.13.04.00
+conhecimentos-ii,elementos,03.13.04.90,OUTROS ELEMENTOS (MATERIAIS E PROCESSOS PARA ENGENHARIA AERONÁUTICA E AEROESPACIAL) MATERIAIS DE CONSTRUÇÃO AERONÁUTICA,03.13.04.00
+conhecimentos-ii,elementos,03.13.05.03,MOTORES ALTERNATIVOS,03.13.05.00
+conhecimentos-ii,elementos,03.13.05.90,OUTROS ELEMENTOS (PROPULSÃO AEROESPACIAL) PROPULSÃO A PLASMA,03.13.05.00
+conhecimentos-ii,elementos,03.13.06.01,AVIÕES,03.13.06.00
+conhecimentos-ii,elementos,03.13.06.03,HELICÓPTEROS,03.13.06.00
+conhecimentos-ii,elementos,03.13.06.05,MANUTENÇÃO DE SISTEMAS AEROESPACIAIS,03.13.06.00
+conhecimentos-ii,elementos,03.13.06.06,NORMATIZAÇÃO E CERTIFICAÇÃO DE QUALIDADE DE AERONAVES E COMPONENTES,03.13.06.00
+conhecimentos-ii,elementos,03.13.06.07,SATÉLITES E OUTROS DISPOSITIVOS AEROESPACIAIS,03.13.06.00
+conhecimentos-ii,elementos,03.13.06.90,OUTROS ELEMENTOS (SISTEMAS AEROESPACIAIS) TIPOS DE AERONAVES,03.13.06.00
+conhecimentos-ii,elementos,03.13.99.01,"OUTROS ELEMENTOS (ENGENHARIA AEROESPACIAL) FUNDAMENTOS DE OPERAÇÕES DE VOO, CONTROLE DE AERONAVES E INVESTIGAÇÃO DE ACIDENTES AÉREOS",03.13.99.00
+conhecimentos-ii,elementos,03.14.01.01,MODELAGEM DE FENÔMENOS BIOLÓGICOS,03.14.01.00
+conhecimentos-ii,elementos,03.14.01.02,MODELAGEM DE SISTEMAS BIOLÓGICOS,03.14.01.00
+conhecimentos-ii,elementos,03.14.01.03,PROCESSAMENTO DE SINAIS BIOLÓGICOS,03.14.01.00
+conhecimentos-ii,elementos,03.14.01.90,"OUTROS ELEMENTOS (BIOENGENHARIA) BIOPROCESSOS APLICADOS A DIAGNÓSTICOS, PRODUÇÃO DE FÁRMACOS, ALIMENTOS, BIOENERGIA E OUTROS",03.14.01.00
+conhecimentos-ii,elementos,03.14.02.01,BIOMATERIAIS E MATERIAIS BIOCOMPATÍVEIS,03.14.02.00
+conhecimentos-ii,elementos,03.14.02.02,INSTRUMENTAÇÃO ODONTOLÓGICA E MÉDICO- HOSPITALAR,03.14.02.00
+conhecimentos-ii,elementos,03.14.02.03,TECNOLOGIA DE PRÓTESES,03.14.02.00
+conhecimentos-ii,elementos,03.14.02.04,TRANSDUTORES PARA APLICAÇÕES BIOMÉDICAS,03.14.02.00
+conhecimentos-ii,elementos,03.14.02.90,OUTROS ELEMENTOS (ENGENHARIA MÉDICA) ERGONOMIA PARA ODONTOLOGIA,03.14.02.00
+conhecimentos-ii,elementos,03.14.99.01,OUTROS ELEMENTOS (ENGENHARIA BIOMÉDICA) BIOMECATRÔNICA E BIORROBÓTICA,03.14.99.00
+conhecimentos-ii,elementos,03.15.01.01,ENGENHARIA DE AGRIMENSURA,03.15.01.00
+conhecimentos-ii,elementos,03.15.99.01,OUTROS ELEMENTOS (ENGENHARIA DE AGRIMENSURA) AVALIAÇÃO TÉCNICA DE INSTRUMENTOS TOPOGRÁFICOS,03.15.99.00
+conhecimentos-ii,elementos,03.16.01.01,ENGENHARIA CARTOGRÁFICA,03.16.01.00
+conhecimentos-ii,elementos,03.16.99.01,OUTROS ELEMENTOS (ENGENHARIA CARTOGRÁFICA) ORGANIZAÇÃO DE MATERIAIS CARTOGRÁFICOS,03.16.99.00
+conhecimentos-ii,elementos,03.17.01.01,ENGENHARIA MECATRÔNICA,03.17.01.00
+conhecimentos-ii,elementos,03.17.99.01,OUTROS ELEMENTOS (ENGENHARIA MECATRÔNICA) HISTÓRIA DA ENGENHARIA,03.17.99.00
+conhecimentos-ii,elementos,04.01.01.01,ALERGOLOGIA E IMUNOLOGIA CLÍNICA,04.01.01.00
+conhecimentos-ii,elementos,04.01.01.02,ANGIOLOGIA,04.01.01.00
+conhecimentos-ii,elementos,04.01.01.03,CANCEROLOGIA,04.01.01.00
+conhecimentos-ii,elementos,04.01.01.04,CARDIOLOGIA,04.01.01.00
+conhecimentos-ii,elementos,04.01.01.05,DERMATOLOGIA,04.01.01.00
+conhecimentos-ii,elementos,04.01.01.06,DOENÇAS INFECCIOSAS E PARASITÁRIAS,04.01.01.00
+conhecimentos-ii,elementos,04.01.01.07,ENDOCRINOLOGIA,04.01.01.00
+conhecimentos-ii,elementos,04.01.01.08,FISIATRIA,04.01.01.00
+conhecimentos-ii,elementos,04.01.01.09,GASTROENTEROLOGIA,04.01.01.00
+conhecimentos-ii,elementos,04.01.01.10,GINECOLOGIA E OBSTETRÍCIA,04.01.01.00
+conhecimentos-ii,elementos,04.01.01.11,HEMATOLOGIA,04.01.01.00
+conhecimentos-ii,elementos,04.01.01.12,NEFROLOGIA,04.01.01.00
+conhecimentos-ii,elementos,04.01.01.13,NEUROLOGIA,04.01.01.00
+conhecimentos-ii,elementos,04.01.01.14,OFTALMOLOGIA,04.01.01.00
+conhecimentos-ii,elementos,04.01.01.15,ORTOPEDIA,04.01.01.00
+conhecimentos-ii,elementos,04.01.01.16,PEDIATRIA,04.01.01.00
+conhecimentos-ii,elementos,04.01.01.17,PNEUMOLOGIA,04.01.01.00
+conhecimentos-ii,elementos,04.01.01.18,REUMATOLOGIA,04.01.01.00
+conhecimentos-ii,elementos,04.01.01.90,OUTROS ELEMENTOS (CLÍNICA MÉDICA) CLÍNICA MÉDICA - PROPEDÊUTICA APLICADA ÀS ESPECIALIDADES,04.01.01.00
+conhecimentos-ii,elementos,04.01.02.01,ANESTESIOLOGIA,04.01.02.00
+conhecimentos-ii,elementos,04.01.02.02,CIRURGIA CARDIOVASCULAR,04.01.02.00
+conhecimentos-ii,elementos,04.01.02.04,CIRURGIA GASTROENTEROLÓGICA,04.01.02.00
+conhecimentos-ii,elementos,04.01.02.05,CIRURGIA OFTALMOLÓGICA,04.01.02.00
+conhecimentos-ii,elementos,04.01.02.06,CIRURGIA ORTOPÉDICA,04.01.02.00
+conhecimentos-ii,elementos,04.01.02.07,CIRURGIA OTORRINOLARINGOLÓGICA,04.01.02.00
+conhecimentos-ii,elementos,04.01.02.08,CIRURGIA PEDIÁTRICA,04.01.02.00
+conhecimentos-ii,elementos,04.01.02.09,CIRURGIA PLÁSTICA E RESTAURADORA,04.01.02.00
+conhecimentos-ii,elementos,04.01.02.10,CIRURGIA PROCTOLÓGICA,04.01.02.00
+conhecimentos-ii,elementos,04.01.02.11,CIRURGIA TORÁXICA,04.01.02.00
+conhecimentos-ii,elementos,04.01.02.12,CIRURGIA TRAUMATOLÓGICA,04.01.02.00
+conhecimentos-ii,elementos,04.01.02.13,CIRURGIA UROLÓGICA,04.01.02.00
+conhecimentos-ii,elementos,04.01.02.14,NEUROCIRURGIA,04.01.02.00
+conhecimentos-ii,elementos,04.01.02.90,OUTROS ELEMENTOS (CIRURGIA) TÉCNICAS E PRÁTICA CIRÚRGICAS,04.01.02.00
+conhecimentos-ii,elementos,04.01.03.01,SAÚDE MATERNO-INFANTIL,04.01.03.00
+conhecimentos-ii,elementos,04.01.03.90,OUTROS ELEMENTOS (SAÚDE MATERNO-INFANTIL) POLÍTICAS NACIONAIS DE SAÚDE MATERNO-INFANTIL E ALEITAMENTO,04.01.03.00
+conhecimentos-ii,elementos,04.01.04.01,PSIQUIATRIA,04.01.04.00
+conhecimentos-ii,elementos,04.01.04.90,OUTROS ELEMENTOS (PSIQUIATRIA) FUNDAMENTOS BÁSICOS DE PSIQUIATRIA,04.01.04.00
+conhecimentos-ii,elementos,04.01.05.01,ANATOMIA PATOLÓGICA E PATOLOGIA CLÍNICA,04.01.05.00
+conhecimentos-ii,elementos,04.01.05.90,"OUTROS ELEMENTOS (ANATOMIA PATOLÓGICA E PATOLOGIA CLÍNICA) ANOMALIAS DENTÁRIAS, CISTOS E TUMORES ODONTOGÊNICOS",04.01.05.00
+conhecimentos-ii,elementos,04.01.06.01,RADIOLOGIA MÉDICA,04.01.06.00
+conhecimentos-ii,elementos,04.01.06.90,OUTROS ELEMENTOS (RADIOLOGIA MÉDICA) DIAGNÓSTICO POR IMAGEM,04.01.06.00
+conhecimentos-ii,elementos,04.01.07.01,MEDICINA LEGAL E DEONTOLOGIA,04.01.07.00
+conhecimentos-ii,elementos,04.01.07.90,OUTROS ELEMENTOS (MEDICINA LEGAL E DEONTOLOGIA) MEDICINA LEGAL,04.01.07.00
+conhecimentos-ii,elementos,04.01.99.01,OUTROS ELEMENTOS (MEDICINA) NORMAS TÉCNICAS APLICADAS À MEDICINA,04.01.99.00
+conhecimentos-ii,elementos,04.02.01.01,CLÍNICA ODONTOLÓGICA,04.02.01.00
+conhecimentos-ii,elementos,04.02.01.90,"OUTROS ELEMENTOS (CLÍNICA ODONTOLÓGICA) ESTERILIZAÇÃO, DESINFECÇÃO E DESCARTE DE RESÍDUOS ODONTOLÓGICOS",04.02.01.00
+conhecimentos-ii,elementos,04.02.02.01,CIRURGIA BUCO-MAXILO-FACIAL,04.02.02.00
+conhecimentos-ii,elementos,04.02.02.90,OUTROS ELEMENTOS (CIRURGIA BUCO-MAXILO-FACIAL) MICROSCOPIA ODONTOLÓGICA,04.02.02.00
+conhecimentos-ii,elementos,04.02.03.01,ORTODONTIA,04.02.03.00
+conhecimentos-ii,elementos,04.02.03.90,OUTROS ELEMENTOS (ORTODONTIA) ORTODONTIA E ORTOPEDIA DOS MAXILARES,04.02.03.00
+conhecimentos-ii,elementos,04.02.04.01,ODONTOPEDIATRIA,04.02.04.00
+conhecimentos-ii,elementos,04.02.05.01,PERIODONTIA,04.02.05.00
+conhecimentos-ii,elementos,04.02.05.90,"OUTROS ELEMENTOS (PERIODONTIA) RELAÇÕES ENTRE  ENDODONTIA, PERIODONTIA E OUTRAS ESPECIALIDADES",04.02.05.00
+conhecimentos-ii,elementos,04.02.06.01,ENDODONTIA,04.02.06.00
+conhecimentos-ii,elementos,04.02.06.90,OUTROS ELEMENTOS (ENDODONTIA) ANESTESIOLOGIA PARA ENDODONTIA: LOCAL E INTRAPULPAR,04.02.06.00
+conhecimentos-ii,elementos,04.02.07.01,RADIOLOGIA ODONTOLÓGICA,04.02.07.00
+conhecimentos-ii,elementos,04.02.07.90,OUTROS ELEMENTOS (RADIOLOGIA ODONTOLÓGICA) RADIOLOGIA ODONTOLÓGICA E BUCOMAXILOFACIAL,04.02.07.00
+conhecimentos-ii,elementos,04.02.08.01,ODONTOLOGIA PREVENTIVA,04.02.08.00
+conhecimentos-ii,elementos,04.02.08.02,ODONTOLOGIA SOCIAL,04.02.08.00
+conhecimentos-ii,elementos,04.02.08.90,"OUTROS ELEMENTOS (ODONTOLOGIA SOCIAL E PREVENTIVA) ODONTOLOGIA PREVENTIVA, SOCIAL E FAMILIAR",04.02.08.00
+conhecimentos-ii,elementos,04.02.09.01,MATERIAIS ODONTOLÓGICOS,04.02.09.00
+conhecimentos-ii,elementos,04.02.09.90,"OUTROS ELEMENTOS (MATERIAIS ODONTOLÓGICOS) MATERIAIS PARA ENDODONTIA: TERMOPLÁSTICOS, CERÂMICOS E OUTROS",04.02.09.00
+conhecimentos-ii,elementos,04.02.99.01,OUTROS ELEMENTOS (ODONTOLOGIA) CÓDIGO DE ÉTICA E BIOÉTICA ODONTOLÓGICA,04.02.99.00
+conhecimentos-ii,elementos,04.03.01.01,FARMACOTECNIA,04.03.01.00
+conhecimentos-ii,elementos,04.03.01.90,OUTROS ELEMENTOS (FARMACOTECNIA) BIOFARMACOTÉCNICA,04.03.01.00
+conhecimentos-ii,elementos,04.03.02.01,FARMACOGNOSIA,04.03.02.00
+conhecimentos-ii,elementos,04.03.03.01,ANÁLISE TOXICOLÓGICA,04.03.03.00
+conhecimentos-ii,elementos,04.03.03.90,OUTROS ELEMENTOS (ANÁLISE TOXICOLÓGICA) ANÁLISES ECOTOXICOLÓGICAS: MÉTODOS ALTERNATIVOS À EXPERIMENTAÇÃO ANIMAL; MÉTODO ZEBRAFISH,04.03.03.00
+conhecimentos-ii,elementos,04.03.04.01,ANÁLISE DE MEDICAMENTOS,04.03.04.00
+conhecimentos-ii,elementos,04.03.04.02,CONTROLE DE MEDICAMENTOS,04.03.04.00
+conhecimentos-ii,elementos,04.03.04.90,OUTROS ELEMENTOS (ANÁLISE E CONTROLE DE MEDICAMENTOS) CONCEITOS DE PRODUTOS FARMACÊUTICOS E FARMOQUÍMICOS,04.03.04.00
+conhecimentos-ii,elementos,04.03.05.01,BROMATOLOGIA,04.03.05.00
+conhecimentos-ii,elementos,04.03.05.90,OUTROS ELEMENTOS (BROMATOLOGIA) ANÁLISES BROMATOLÓGICAS,04.03.05.00
+conhecimentos-ii,elementos,04.03.99.01,OUTROS ELEMENTOS (FARMÁCIA) NORMAS TÉCNICAS APLICADAS À ÁREA DE FARMÁCIA,04.03.99.00
+conhecimentos-ii,elementos,04.04.01.01,ENFERMAGEM MÉDICO-CIRÚRGICA,04.04.01.00
+conhecimentos-ii,elementos,04.04.02.01,ENFERMAGEM OBSTÉTRICA,04.04.02.00
+conhecimentos-ii,elementos,04.04.02.90,OUTROS ELEMENTOS (ENFERMAGEM OBSTÉTRICA) ASSISTÊNCIA DE ENFERMAGEM PARA REALIZAÇÃO DE PARTO SEM DISTOCIA,04.04.02.00
+conhecimentos-ii,elementos,04.04.03.01,ENFERMAGEM PEDIÁTRICA,04.04.03.00
+conhecimentos-ii,elementos,04.04.03.90,OUTROS ELEMENTOS (ENFERMAGEM PEDIÁTRICA) ENFERMAGEM NEONATAL,04.04.03.00
+conhecimentos-ii,elementos,04.04.04.01,ENFERMAGEM PSIQUIÁTRICA,04.04.04.00
+conhecimentos-ii,elementos,04.04.04.90,OUTROS ELEMENTOS (ENFERMAGEM PSIQUIÁTRICA) CENTRO DE ATENÇÃO PSICOSSOCIAL (CAPS): ORGANIZAÇÃO; MODALIDADES DE ATENDIMENTO; FORMAÇÃO DE EQUIPES MULTIDISCIPLINARES; PARTICIPAÇÃO EM PROJETO TERAPÊUTICO SINGULAR (PTS); OUTROS ASPECTOS,04.04.04.00
+conhecimentos-ii,elementos,04.04.05.01,ENFERMAGEM DE DOENÇAS CONTAGIOSAS,04.04.05.00
+conhecimentos-ii,elementos,04.04.06.01,ENFERMAGEM DE SAÚDE PÚBLICA,04.04.06.00
+conhecimentos-ii,elementos,04.04.06.90,OUTROS ELEMENTOS (ENFERMAGEM DE SAÚDE PÚBLICA) EDUCAÇÃO DA COMUNIDADE SOBRE QUESTÕES DE SAÚDE PÚBLICA,04.04.06.00
+conhecimentos-ii,elementos,04.04.99.01,OUTROS ELEMENTOS (ENFERMAGEM) AÇÕES EDUCATIVAS EM ENFERMAGEM,04.04.99.00
+conhecimentos-ii,elementos,04.05.01.01,BIOQUÍMICA DA NUTRIÇÃO,04.05.01.00
+conhecimentos-ii,elementos,04.05.02.01,DIETÉTICA,04.05.02.00
+conhecimentos-ii,elementos,04.05.02.90,OUTROS ELEMENTOS (DIETÉTICA) CONTROLE DOS IRRITANTES VESICAIS E ASPECTO NUTRICIONAL,04.05.02.00
+conhecimentos-ii,elementos,04.05.03.01,ANÁLISE NUTRICIONAL DE POPULAÇÃO,04.05.03.00
+conhecimentos-ii,elementos,04.05.03.90,OUTROS ELEMENTOS (ANÁLISE NUTRICIONAL DE POPULAÇÃO) NUTRIÇÃO MATERNOINFANTIL E EM SAÚDE PÚBLICA,04.05.03.00
+conhecimentos-ii,elementos,04.05.04.01,DESENVOLVIMENTO FISIOLÓGICO,04.05.04.00
+conhecimentos-ii,elementos,04.05.04.02,DESNUTRIÇÃO,04.05.04.00
+conhecimentos-ii,elementos,04.05.99.01,OUTROS ELEMENTOS (NUTRIÇÃO) SEGURANÇA ALIMENTAR E NUTRICIONAL,04.05.99.00
+conhecimentos-ii,elementos,04.06.01.01,EPIDEMIOLOGIA,04.06.01.00
+conhecimentos-ii,elementos,04.06.01.90,OUTROS ELEMENTOS (EPIDEMIOLOGIA) CONCEITOS DE SAÚDE E DOENÇA E PERFIS EPIDEMIOLÓGICOS NO BRASIL,04.06.01.00
+conhecimentos-ii,elementos,04.06.02.01,SAÚDE PÚBLICA,04.06.02.00
+conhecimentos-ii,elementos,04.06.02.90,OUTROS ELEMENTOS (SAÚDE PÚBLICA) POLÍTICAS DE SAÚDE DO SUS,04.06.02.00
+conhecimentos-ii,elementos,04.06.03.01,MEDICINA PREVENTIVA,04.06.03.00
+conhecimentos-ii,elementos,04.06.99.01,OUTROS ELEMENTOS (SAÚDE COLETIVA) PROMOÇÃO DA SAÚDE E PREVENÇÃO DE DOENÇAS,04.06.99.00
+conhecimentos-ii,elementos,04.07.01.01,FONOAUDIOLOGIA,04.07.01.00
+conhecimentos-ii,elementos,04.07.99.01,OUTROS ELEMENTOS (FONOAUDIOLOGIA) AUDIOLOGIA CLÍNICA,04.07.99.00
+conhecimentos-ii,elementos,04.08.01.01,FISIOTERAPIA,04.08.01.00
+conhecimentos-ii,elementos,04.08.01.02,TERAPIA OCUPACIONAL,04.08.01.00
+conhecimentos-ii,elementos,04.08.99.01,OUTROS ELEMENTOS (FISIOTERAPIA E TERAPIA OCUPACIONAL) FISIOTERAPIA EM SAÚDE DA MULHER,04.08.99.00
+conhecimentos-ii,elementos,04.09.01.01,EDUCAÇÃO FÍSICA,04.09.01.00
+conhecimentos-ii,elementos,04.09.99.01,OUTROS ELEMENTOS (EDUCAÇÃO FÍSICA) DIMENSÕES MORFOFUNCIONAIS E CONHECIMENTO DO CORPO,04.09.99.00
+conhecimentos-ii,elementos,05.01.01.01,FERTILIDADE DO SOLO E ADUBAÇÃO,05.01.01.00
+conhecimentos-ii,elementos,05.01.01.02,FÍSICA DO SOLO,05.01.01.00
+conhecimentos-ii,elementos,05.01.01.03,"GÊNESE, MORFOLOGIA E CLASSIFICAÇÃO DOS SOLOS",05.01.01.00
+conhecimentos-ii,elementos,05.01.01.04,MANEJO E CONSERVAÇÃO DO SOLO,05.01.01.00
+conhecimentos-ii,elementos,05.01.01.05,MICROBIOLOGIA E BIOQUÍMICA DO SOLO,05.01.01.00
+conhecimentos-ii,elementos,05.01.01.06,QUÍMICA DO SOLO,05.01.01.00
+conhecimentos-ii,elementos,05.01.01.90,"OUTROS ELEMENTOS (CIÊNCIA DO SOLO) SISTEMAS, MÉTODOS E TÉCNICAS DE ADUBAÇÃO: TRADICIONAIS E TENDÊNCIAS",05.01.01.00
+conhecimentos-ii,elementos,05.01.02.01,DEFESA FITOSSANITÁRIA,05.01.02.00
+conhecimentos-ii,elementos,05.01.02.02,ENTOMOLOGIA AGRÍCOLA,05.01.02.00
+conhecimentos-ii,elementos,05.01.02.03,FITOPATOLOGIA,05.01.02.00
+conhecimentos-ii,elementos,05.01.02.04,MICROBIOLOGIA AGRÍCOLA,05.01.02.00
+conhecimentos-ii,elementos,05.01.02.05,PARASITOLOGIA AGRÍCOLA,05.01.02.00
+conhecimentos-ii,elementos,05.01.02.90,"OUTROS ELEMENTOS (FITOSSANIDADE) CONTROLE INTEGRADO DE PRAGAS, PLANTAS INVASORAS E DOENÇAS AGRÍCOLAS",05.01.02.00
+conhecimentos-ii,elementos,05.01.03.01,FISIOLOGIA DE PLANTAS CULTIVADAS,05.01.03.00
+conhecimentos-ii,elementos,05.01.03.02,MANEJO E TRATOS CULTURAIS,05.01.03.00
+conhecimentos-ii,elementos,05.01.03.03,MATOLOGIA,05.01.03.00
+conhecimentos-ii,elementos,05.01.03.04,MECANIZAÇÃO AGRÍCOLA,05.01.03.00
+conhecimentos-ii,elementos,05.01.03.05,MELHORAMENTO VEGETAL,05.01.03.00
+conhecimentos-ii,elementos,05.01.03.06,PRODUÇÃO DE MUDAS,05.01.03.00
+conhecimentos-ii,elementos,05.01.03.07,PRODUÇÃO E BENEFICIAMENTO DE SEMENTES,05.01.03.00
+conhecimentos-ii,elementos,05.01.03.90,OUTROS ELEMENTOS (FITOTECNIA) CULTURA DE TECIDOS VEGETAIS E SUAS APLICAÇÕES,05.01.03.00
+conhecimentos-ii,elementos,05.01.04.01,FLORICULTURA,05.01.04.00
+conhecimentos-ii,elementos,05.01.04.02,PARQUES E JARDINS,05.01.04.00
+conhecimentos-ii,elementos,05.01.04.03,ARBORIZAÇÃO DE VIAS PÚBLICAS,05.01.04.00
+conhecimentos-ii,elementos,05.01.04.90,"OUTROS ELEMENTOS (FLORICULTURA, PARQUES E JARDINS) PAISAGISMO",05.01.04.00
+conhecimentos-ii,elementos,05.01.05.01,AGROMETEROLOGIA,05.01.05.00
+conhecimentos-ii,elementos,05.01.05.90,OUTROS ELEMENTOS (AGROMETEROLOGIA) AGROMETEOROLOGIA E BIOCLIMATOLOGIA ANIMAL,05.01.05.00
+conhecimentos-ii,elementos,05.01.06.01,EXTENSÃO RURAL,05.01.06.00
+conhecimentos-ii,elementos,05.01.06.90,OUTROS ELEMENTOS (EXTENSÃO RURAL) GEORREFERENCIAMENTO RURAL,05.01.06.00
+conhecimentos-ii,elementos,05.01.99.01,OUTROS ELEMENTOS (AGRONOMIA) AGROPECUÁRIA DE PRECISÃO,05.01.99.00
+conhecimentos-ii,elementos,05.02.01.01,DENDROLOGIA,05.02.01.00
+conhecimentos-ii,elementos,05.02.01.02,FISIOLOGIA FLORESTAL,05.02.01.00
+conhecimentos-ii,elementos,05.02.01.03,FLORESTAMENTO E REFLORESTAMENTO,05.02.01.00
+conhecimentos-ii,elementos,05.02.01.04,GENÉTICA E MELHORAMENTO FLORESTAL,05.02.01.00
+conhecimentos-ii,elementos,05.02.01.05,NUTRIÇÃO FLORESTAL,05.02.01.00
+conhecimentos-ii,elementos,05.02.01.06,PROTEÇÃO FLORESTAL,05.02.01.00
+conhecimentos-ii,elementos,05.02.01.07,SEMENTES FLORESTAIS,05.02.01.00
+conhecimentos-ii,elementos,05.02.01.08,SOLOS FLORESTAIS,05.02.01.00
+conhecimentos-ii,elementos,05.02.01.90,OUTROS ELEMENTOS (SILVICULTURA) CERTIFICAÇÃO FLORESTAL,05.02.01.00
+conhecimentos-ii,elementos,05.02.02.01,ADMINISTRAÇÃO FLORESTAL,05.02.02.00
+conhecimentos-ii,elementos,05.02.02.02,DENDROMETRIA E INVENTÁRIO FLORESTAL,05.02.02.00
+conhecimentos-ii,elementos,05.02.02.03,ECONOMIA FLORESTAL,05.02.02.00
+conhecimentos-ii,elementos,05.02.02.04,FOTOINTERPRETAÇÃO FLORESTAL,05.02.02.00
+conhecimentos-ii,elementos,05.02.02.05,ORDENAMENTO FLORESTAL,05.02.02.00
+conhecimentos-ii,elementos,05.02.02.06,POLÍTICA E LEGISLAÇÃO FLORESTAL,05.02.02.00
+conhecimentos-ii,elementos,05.02.02.90,OUTROS ELEMENTOS (MANEJO FLORESTAL) CONTROLE DE ORIGEM E RASTREABILIDADE DA PRODUÇÃO AGROSSILVIPASTORIL,05.02.02.00
+conhecimentos-ii,elementos,05.02.03.01,EXPLORAÇÃO FLORESTAL,05.02.03.00
+conhecimentos-ii,elementos,05.02.03.02,MECANIZAÇÃO FLORESTAL,05.02.03.00
+conhecimentos-ii,elementos,05.02.03.90,"OUTROS ELEMENTOS (TÉCNICAS E OPERAÇÕES FLORESTAIS) VEÍCULOS FLORESTAIS E MÁQUINAS AUTOMOTRIZES:TRATORES, “HARVESTERS” E “FORWARDERS”",05.02.03.00
+conhecimentos-ii,elementos,05.02.04.01,ANATOMIA E IDENTIFICAÇÃO DE PRODUTOS FLORESTAIS,05.02.04.00
+conhecimentos-ii,elementos,05.02.04.02,PROCESSAMENTO MECÂNICO DA MADEIRA,05.02.04.00
+conhecimentos-ii,elementos,05.02.04.03,PROPRIEDADES FÍSICO-MECÂNICAS DA MADEIRA,05.02.04.00
+conhecimentos-ii,elementos,05.02.04.04,QUÍMICA DA MADEIRA,05.02.04.00
+conhecimentos-ii,elementos,05.02.04.05,RELAÇÕES ÁGUA-MADEIRA E SECAGEM,05.02.04.00
+conhecimentos-ii,elementos,05.02.04.06,RESINAS DE MADEIRAS,05.02.04.00
+conhecimentos-ii,elementos,05.02.04.07,TECNOLOGIA DE CELULOSE E PAPEL,05.02.04.00
+conhecimentos-ii,elementos,05.02.04.08,TECNOLOGIA DE CHAPAS,05.02.04.00
+conhecimentos-ii,elementos,05.02.04.09,TRATAMENTO DA MADEIRA,05.02.04.00
+conhecimentos-ii,elementos,05.02.04.90,OUTROS ELEMENTOS (TECNOLOGIA E UTILIZAÇÃO DE PRODUTOS FLORESTAIS) INDUSTRIALIZAÇÃO E APLICAÇÕES DE PRODUTOS DA SILVICULTURA,05.02.04.00
+conhecimentos-ii,elementos,05.02.05.01,CONSERVAÇÃO DAS BACIAS HIDROGRÁFICAS,05.02.05.00
+conhecimentos-ii,elementos,05.02.05.02,CONSERVAÇÃO DE ÁREAS SILVESTRES,05.02.05.00
+conhecimentos-ii,elementos,05.02.05.03,HIDROLOGIA FLORESTAL,05.02.05.00
+conhecimentos-ii,elementos,05.02.05.04,RECUPERAÇÃO DE ÁREAS DEGRADADAS,05.02.05.00
+conhecimentos-ii,elementos,05.02.05.90,OUTROS ELEMENTOS (CONSERVAÇÃO DA NATUREZA) MANEJO DE BACIAS HIDROGRÁFICAS,05.02.05.00
+conhecimentos-ii,elementos,05.02.06.01,ENERGIA DE BIOMASSA FLORESTAL,05.02.06.00
+conhecimentos-ii,elementos,05.02.06.90,"OUTROS ELEMENTOS (ENERGIA DE BIOMASSA FLORESTAL) BIOMASSA, BIORREFINARIA, BIOENERGIA E BIOCOMBUSTÍVEIS",05.02.06.00
+conhecimentos-ii,elementos,05.02.99.01,OUTROS ELEMENTOS (RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL) CERTIFICAÇÃO DE PRODUTOS E PROCESSOS NA ÁREA FLORESTAL,05.02.99.00
+conhecimentos-ii,elementos,05.03.01.01,MÁQUINAS E IMPLEMENTOS AGRÍCOLAS,05.03.01.00
+conhecimentos-ii,elementos,05.03.01.90,OUTROS ELEMENTOS (MÁQUINAS E IMPLEMENTOS AGRÍCOLAS) AGRICULTURA DE PRECISÃO,05.03.01.00
+conhecimentos-ii,elementos,05.03.02.01,IRRIGAÇÃO E DRENAGEM,05.03.02.00
+conhecimentos-ii,elementos,05.03.02.02,CONSERVAÇÃO DE SOLO E ÁGUA,05.03.02.00
+conhecimentos-ii,elementos,05.03.02.90,OUTROS ELEMENTOS (ENGENHARIA DE ÁGUA E SOLO) OBRAS EM SOLO,05.03.02.00
+conhecimentos-ii,elementos,05.03.03.02,ARMAZENAMENTO DE PRODUTOS AGRÍCOLAS,05.03.03.00
+conhecimentos-ii,elementos,05.03.03.03,TRANSFERÊNCIA DE PRODUTOS AGRÍCOLAS,05.03.03.00
+conhecimentos-ii,elementos,05.03.03.90,"OUTROS ELEMENTOS (ENGENHARIA DE PROCESSAMENTO DE PRODUTOS AGRÍCOLAS) PROCESSOS E INFRAESTRUTURA DE LOGÍSTICA E TRANSPORTE DE MATÉRIA-PRIMA, INSUMOS E PRODUTOS AGRÍCOLAS",05.03.03.00
+conhecimentos-ii,elementos,05.03.04.01,ASSENTAMENTO RURAL,05.03.04.00
+conhecimentos-ii,elementos,05.03.04.02,ENGENHARIA DE CONSTRUÇÕES RURAIS,05.03.04.00
+conhecimentos-ii,elementos,05.03.04.03,SANEAMENTO RURAL,05.03.04.00
+conhecimentos-ii,elementos,05.03.04.90,OUTROS ELEMENTOS (CONSTRUÇÕES RURAIS E AMBIÊNCIA) AMBIÊNCIA EM EDIFICAÇÕES RURAIS,05.03.04.00
+conhecimentos-ii,elementos,05.03.05.01,ENERGIZAÇÃO RURAL,05.03.05.00
+conhecimentos-ii,elementos,05.03.05.90,OUTROS ELEMENTOS (ENERGIZAÇÃO RURAL) FONTES DE ENERGIA PARA A ÁREA AGRÍCOLA: TRADICIONAIS E ALTERNATIVAS,05.03.05.00
+conhecimentos-ii,elementos,05.03.99.01,"OUTROS ELEMENTOS (ENGENHARIA AGRÍCOLA) ASSISTÊNCIA, ASSESSORIA E CONSULTORIA EM PROJETOS AGRÍCOLAS",05.03.99.00
+conhecimentos-ii,elementos,05.04.01.01,ECOLOGIA DOS ANIMAIS DOMÉSTICOS E ETOLOGIA,05.04.01.00
+conhecimentos-ii,elementos,05.04.02.00,GENÉTICA E MELHORAMENTO DOS ANIMAIS DOMÉSTICOS,05.04.02.00
+conhecimentos-ii,elementos,05.04.02.90,"OUTROS ELEMENTOS (GENÉTICA E MELHORAMENTO DOS ANIMAIS DOMÉSTICOS) FISIOLOGIA, GENÉTICA E MELHORAMENTO DOS ANIMAIS DOMÉSTICOS",05.04.02.00
+conhecimentos-ii,elementos,05.04.03.01,AVALIAÇÃO DE ALIMENTOS PARA ANIMAIS,05.04.03.00
+conhecimentos-ii,elementos,05.04.03.02,CONSERVAÇÃO DE ALIMENTOS PARA ANIMAIS,05.04.03.00
+conhecimentos-ii,elementos,05.04.03.03,EXIGÊNCIAS NUTRICIONAIS DOS ANIMAIS,05.04.03.00
+conhecimentos-ii,elementos,05.04.03.90,OUTROS ELEMENTOS (NUTRIÇÃO E ALIMENTAÇÃO ANIMAL) NUTRIGENÔMICA (GENÔMICA NUTRICIONAL),05.04.03.00
+conhecimentos-ii,elementos,05.04.04.01,"AVALIAÇÃO, PRODUÇÃO E CONSERVAÇÃO DE FORRAGENS",05.04.04.00
+conhecimentos-ii,elementos,05.04.04.02,FISIOLOGIA DE PLANTAS FORRAGEIRAS,05.04.04.00
+conhecimentos-ii,elementos,05.04.04.03,MANEJO E CONSERVAÇÃO DE PASTAGENS,05.04.04.00
+conhecimentos-ii,elementos,05.04.04.04,MELHORAMENTO DE PLANTAS FORRAGEIRAS E PRODUÇÃO DE SEMENTES,05.04.04.00
+conhecimentos-ii,elementos,05.04.04.05,TOXICOLOGIA E PLANTAS TÓXICAS,05.04.04.00
+conhecimentos-ii,elementos,05.04.04.90,OUTROS ELEMENTOS (PASTAGEM E FORRAGICULTURA) FISIOLOGIA E PRODUÇÃO DE PLANTAS FORRAGEIRAS E RAÇÕES,05.04.04.00
+conhecimentos-ii,elementos,05.04.05.01,CRIAÇÃO DE ANIMAIS,05.04.05.00
+conhecimentos-ii,elementos,05.04.05.02,INSTALAÇÕES PARA PRODUÇÃO ANIMAL,05.04.05.00
+conhecimentos-ii,elementos,05.04.05.03,MANEJO DE ANIMAIS,05.04.05.00
+conhecimentos-ii,elementos,05.04.05.90,OUTROS ELEMENTOS (PRODUÇÃO ANIMAL) SISTEMAS DE PRODUÇÃO ANIMAL,05.04.05.00
+conhecimentos-ii,elementos,05.04.99.01,OUTROS ELEMENTOS (ZOOTECNIA) BEM-ESTAR ANIMAL,05.04.99.00
+conhecimentos-ii,elementos,05.05.01.01,ANESTESIOLOGIA ANIMAL,05.05.01.00
+conhecimentos-ii,elementos,05.05.01.02,CLÍNICA CIRÚRGICA ANIMAL,05.05.01.00
+conhecimentos-ii,elementos,05.05.01.03,CLÍNICA VETERINÁRIA,05.05.01.00
+conhecimentos-ii,elementos,05.05.01.04,FARMACOLOGIA E TERAPÉUTICA ANIMAL,05.05.01.00
+conhecimentos-ii,elementos,05.05.01.05,OBSTETRÍCIA ANIMAL,05.05.01.00
+conhecimentos-ii,elementos,05.05.01.06,RADIOLOGIA DE ANIMAIS,05.05.01.00
+conhecimentos-ii,elementos,05.05.01.07,TÉCNICA CIRÚRGICA ANIMAL,05.05.01.00
+conhecimentos-ii,elementos,05.05.01.08,TOXICOLOGIA ANIMAL,05.05.01.00
+conhecimentos-ii,elementos,05.05.01.90,OUTROS ELEMENTOS (CLÍNICA E CIRURGIA ANIMAL) CLÍNICA VETERINÁRIA: CIRURGIA; ANESTESIOLOGIA; PATOLOGIA DIAGNÓSTICA; DIAGNÓSTICO POR IMAGEM; FISIOPATOLOGIA DA REPRODUÇÃO,05.05.01.00
+conhecimentos-ii,elementos,05.05.02.01,EPIDEMIOLOGIA ANIMAL,05.05.02.00
+conhecimentos-ii,elementos,05.05.02.02,SANEAMENTO APLICADO À SAÚDE DO HOMEM,05.05.02.00
+conhecimentos-ii,elementos,05.05.02.03,DOENÇAS INFECCIOSAS DE ANIMAIS,05.05.02.00
+conhecimentos-ii,elementos,05.05.02.04,DOENÇAS PARASITÁRIAS DE ANIMAIS,05.05.02.00
+conhecimentos-ii,elementos,05.05.02.05,SAÚDE ANIMAL (PROGRAMAS SANITÁRIOS),05.05.02.00
+conhecimentos-ii,elementos,05.05.02.90,OUTROS ELEMENTOS (MEDICINA VETERINÁRIA PREVENTIVA) BEM-ESTAR ANIMAL,05.05.02.00
+conhecimentos-ii,elementos,05.05.03.01,ANATOMIA PATOLÓGICA ANIMAL,05.05.03.00
+conhecimentos-ii,elementos,05.05.03.03,PATOLOGIA CLÍNICA ANIMAL,05.05.03.00
+conhecimentos-ii,elementos,05.05.03.90,OUTROS ELEMENTOS (PATOLOGIA ANIMAL) PATOLOGIA ANIMAL,05.05.03.00
+conhecimentos-ii,elementos,05.05.04.01,FISIOPATOLOGIA DA REPRODUÇÃO ANIMAL,05.05.04.00
+conhecimentos-ii,elementos,05.05.04.02,GINECOLOGIA E ANDROLOGIA ANIMAL,05.05.04.00
+conhecimentos-ii,elementos,05.05.04.03,INSEMINAÇÃO ARTIFICIAL ANIMAL,05.05.04.00
+conhecimentos-ii,elementos,05.05.04.90,OUTROS ELEMENTOS (REPRODUÇÃO ANIMAL) REPRODUÇÃO ANIMAL,05.05.04.00
+conhecimentos-ii,elementos,05.05.05.90,OUTROS ELEMENTOS (INSPEÇÃO DE PRODUTOS DE ORIGEM ANIMAL) INSPEÇÃO E TECNOLOGIA DOS PRODUTOS DE ORIGEM ANIMAL: CLASSIFICAÇÃO; PROCESSAMENTO; PADRONIZAÇÃO; CONSERVAÇÃO; CONTROLE DE QUALIDADE; CERTIFICAÇÃO; DESENVOLVIMENTO DE PRODUTOS; INSPEÇÃO HIGIÊNICA E SANITÁRIA DE PRODUTOS E DERIVADOS,05.05.05.00
+conhecimentos-ii,elementos,05.05.99.01,OUTROS ELEMENTOS (MEDICINA VETERINÁRIA) HISTÓRIA DA MEDICINA VETERINÁRIA,05.05.99.00
+conhecimentos-ii,elementos,05.06.01.01,AVALIAÇÃO DE ESTOQUE PESQUEIROS MARINHOS,05.06.01.00
+conhecimentos-ii,elementos,05.06.01.02,EXPLORAÇÃO PESQUEIRA MARINHA,05.06.01.00
+conhecimentos-ii,elementos,05.06.01.03,FATORES ABIÓTICOS DO MAR,05.06.01.00
+conhecimentos-ii,elementos,05.06.01.04,MANEJO E CONSERVAÇÃO DE RECURSOS PESQUEIROS MARINHOS,05.06.01.00
+conhecimentos-ii,elementos,05.06.01.90,OUTROS ELEMENTOS (RECURSOS PESQUEIROS MARINHOS) AVALIAÇÃO DE ESTOQUES PESQUEIROS MARINHOS,05.06.01.00
+conhecimentos-ii,elementos,05.06.02.01,AVALIAÇÃO DE ESTOQUES PESQUEIROS DE ÁGUAS INTERIORES,05.06.02.00
+conhecimentos-ii,elementos,05.06.02.02,EXPLORAÇÃO PESQUEIRA DE ÁGUAS INTERIORES,05.06.02.00
+conhecimentos-ii,elementos,05.06.02.03,FATORES ABIÓTICOS DE ÁGUAS INTERIORES,05.06.02.00
+conhecimentos-ii,elementos,05.06.02.04,MANEJO E CONSERVAÇÃO DE RECURSOS PESQUEIROS DE ÁGUAS INFERIORES,05.06.02.00
+conhecimentos-ii,elementos,05.06.02.90,OUTROS ELEMENTOS (RECURSOS PESQUEIROS DE ÁGUAS INTERIORES) MANEJO E CONSERVAÇÃO DE RECURSOS PESQUEIROS DE ÁGUAS INTERIORES,05.06.02.00
+conhecimentos-ii,elementos,05.06.03.01,CARCINOCULTURA,05.06.03.00
+conhecimentos-ii,elementos,05.06.03.02,MARICULTURA,05.06.03.00
+conhecimentos-ii,elementos,05.06.03.03,OSTREICULTURA,05.06.03.00
+conhecimentos-ii,elementos,05.06.03.04,PISCICULTURA,05.06.03.00
+conhecimentos-ii,elementos,05.06.03.90,OUTROS ELEMENTOS (AQUICULTURA) RANICULTURA,05.06.03.00
+conhecimentos-ii,elementos,05.06.04.01,ENGENHARIA DE PESCA,05.06.04.00
+conhecimentos-ii,elementos,05.06.04.90,OUTROS ELEMENTOS (ENGENHARIA DE PESCA) FUNDAMENTOS DE ENGENHARIA DE PESCA,05.06.04.00
+conhecimentos-ii,elementos,05.06.99.01,OUTROS ELEMENTOS (RECURSOS PESQUEIROS E ENGENHARIA DE PESCA) ACORDOS MULTILATERAIS DE ORDENAMENTO PESQUEIRO,05.06.99.00
+conhecimentos-ii,elementos,05.07.01.01,AVALIAÇÃO E CONTROLE DE QUALIDADE DE ALIMENTOS,05.07.01.00
+conhecimentos-ii,elementos,05.07.01.02,FISIOLOGIA PÓS-COLHEITA,05.07.01.00
+conhecimentos-ii,elementos,05.07.01.03,MICROBIOLOGIA DE ALIMENTOS,05.07.01.00
+conhecimentos-ii,elementos,05.07.01.04,"PADRÕES, LEGISLAÇÃO E FISCALIZAÇÃO DE ALIMENTOS",05.07.01.00
+conhecimentos-ii,elementos,05.07.01.05,"QUÍMICA, FÍSICA, FÍSICO- QUÍMICA E BIOQUÍMICA DOS ALIMENTOS E DAS MATÉRIAS-PRIMAS ALIMENTARES",05.07.01.00
+conhecimentos-ii,elementos,05.07.01.06,TOXICIDADE E RESÍDUOS DE PESTICIDAS EM ALIMENTOS,05.07.01.00
+conhecimentos-ii,elementos,05.07.01.07,VALOR NUTRITIVO DE ALIMENTOS,05.07.01.00
+conhecimentos-ii,elementos,05.07.01.90,"OUTROS ELEMENTOS (CIÊNCIA DE ALIMENTOS) QUÍMICA, FÍSICA, FÍSICO-QUÍMICA E BIOQUÍMICA DOS ALIMENTOS E DAS MATÉRIAS-PRIMAS ALIMENTARES",05.07.01.00
+conhecimentos-ii,elementos,05.07.02.01,APROVEITAMENTO DE SUBPRODUTOS,05.07.02.00
+conhecimentos-ii,elementos,05.07.02.02,EMBALAGENS DE PRODUTOS ALIMENTARES,05.07.02.00
+conhecimentos-ii,elementos,05.07.02.03,TECNOLOGIA DAS BEBIDAS,05.07.02.00
+conhecimentos-ii,elementos,05.07.02.04,TECNOLOGIA DE ALIMENTOS DIETÉTICOS E NUTRICIONAIS,05.07.02.00
+conhecimentos-ii,elementos,05.07.02.05,TECNOLOGIA DE PRODUTOS DE ORIGEM ANIMAL,05.07.02.00
+conhecimentos-ii,elementos,05.07.02.06,TECNOLOGIA DE PRODUTOS DE ORIGEM VEGETAL,05.07.02.00
+conhecimentos-ii,elementos,05.07.02.90,OUTROS ELEMENTOS (TECNOLOGIA DE ALIMENTOS) ESPECIFICAÇÃO DE EQUIPAMENTOS DA COZINHA,05.07.02.00
+conhecimentos-ii,elementos,05.07.03.01,ARMAZENAMENTO DE ALIMENTOS,05.07.03.00
+conhecimentos-ii,elementos,05.07.03.02,INSTALAÇÕES INDUSTRIAIS DE PRODUÇÃO DE ALIMENTOS,05.07.03.00
+conhecimentos-ii,elementos,05.07.03.90,"OUTROS ELEMENTOS (ENGENHARIA DE ALIMENTOS) AUDITORIAS DE QUALIDADE, SAÚDE, MEIO AMBIENTE, SEGURANÇA E RESPONSABILIDADE SOCIAL (QSMS-RS) NA INDÚSTRIA DE ALIMENTOS",05.07.03.00
+conhecimentos-ii,elementos,05.07.99.01,OUTROS ELEMENTOS (CIÊNCIA E TECNOLOGIA DE ALIMENTOS) EQUIPAMENTOS DE PRODUÇÃO DE REFEIÇÕES,05.07.99.00
+conhecimentos-ii,elementos,06.01.01.01,ANTROPOLOGIA JURÍDICA,06.01.01.00
+conhecimentos-ii,elementos,06.01.01.02,FILOSOFIA DO DIREITO,06.01.01.00
+conhecimentos-ii,elementos,06.01.01.03,HISTÓRIA DO DIREITO,06.01.01.00
+conhecimentos-ii,elementos,06.01.01.04,LÓGICA JURÍDICA,06.01.01.00
+conhecimentos-ii,elementos,06.01.01.05,SOCIOLOGIA JURÍDICA,06.01.01.00
+conhecimentos-ii,elementos,06.01.01.06,TEORIA DO ESTADO,06.01.01.00
+conhecimentos-ii,elementos,06.01.01.07,TEORIA GERAL DO DIREITO,06.01.01.00
+conhecimentos-ii,elementos,06.01.01.08,TEORIA GERAL DO PROCESSO,06.01.01.00
+conhecimentos-ii,elementos,06.01.01.90,OUTROS ELEMENTOS (TEORIA DO DIREITO) PSICOLOGIA JURÍDICA,06.01.01.00
+conhecimentos-ii,elementos,06.01.02.01,DIREITO ADMINISTRATIVO,06.01.02.00
+conhecimentos-ii,elementos,06.01.02.02,DIREITO CONSTITUCIONAL,06.01.02.00
+conhecimentos-ii,elementos,06.01.02.03,DIREITO INTERNACIONAL PÚBLICO,06.01.02.00
+conhecimentos-ii,elementos,06.01.02.04,DIREITO PENAL,06.01.02.00
+conhecimentos-ii,elementos,06.01.02.05,DIREITO PROCESSUAL CIVIL,06.01.02.00
+conhecimentos-ii,elementos,06.01.02.06,DIREITO PROCESSUAL PENAL,06.01.02.00
+conhecimentos-ii,elementos,06.01.02.07,DIREITO TRIBUTÁRIO,06.01.02.00
+conhecimentos-ii,elementos,06.01.02.90,OUTROS ELEMENTOS (DIREITO PÚBLICO) LEGISLAÇÃO E POLÍTICAS PÚBLICAS EDUCACIONAIS PARA O ENSINO SUPERIOR,06.01.02.00
+conhecimentos-ii,elementos,06.01.03.01,DIREITO CIVIL,06.01.03.00
+conhecimentos-ii,elementos,06.01.03.02,DIREITO COMERCIAL,06.01.03.00
+conhecimentos-ii,elementos,06.01.03.03,DIREITO DO TRABALHO,06.01.03.00
+conhecimentos-ii,elementos,06.01.03.04,DIREITO INTERNACIONAL PRIVADO,06.01.03.00
+conhecimentos-ii,elementos,06.01.03.90,OUTROS ELEMENTOS (DIREITO PRIVADO) LEGISLAÇÃO APLICADA À ÁREA OCUPACIONAL,06.01.03.00
+conhecimentos-ii,elementos,06.01.04.01,DIREITOS ESPECIAIS,06.01.04.00
+conhecimentos-ii,elementos,06.01.04.90,OUTROS ELEMENTOS (DIREITOS ESPECIAIS) DIREITOS HUMANOS,06.01.04.00
+conhecimentos-ii,elementos,06.01.99.01,OUTROS ELEMENTOS (DIREITO) LEGISLAÇÕES DO SISTEMA FINANCEIRO NACIONAL,06.01.99.00
+conhecimentos-ii,elementos,06.02.01.01,ADMINISTRAÇÃO DE PRODUÇÃO,06.02.01.00
+conhecimentos-ii,elementos,06.02.01.02,ADMINISTRAÇÃO DE RECURSOS HUMANOS,06.02.01.00
+conhecimentos-ii,elementos,06.02.01.03,ADMINISTRAÇÃO FINANCEIRA,06.02.01.00
+conhecimentos-ii,elementos,06.02.01.04,MERCADOLOGIA,06.02.01.00
+conhecimentos-ii,elementos,06.02.01.05,NEGÓCIOS INTERNACIONAIS,06.02.01.00
+conhecimentos-ii,elementos,06.02.01.90,OUTROS ELEMENTOS (ADMINISTRAÇÃO DE EMPRESAS) GESTÃO DA QUALIDADE,06.02.01.00
+conhecimentos-ii,elementos,06.02.02.01,ADMINISTRAÇÃO DE PESSOAL,06.02.02.00
+conhecimentos-ii,elementos,06.02.02.02,CONTABILIDADE E FINANÇAS PÚBLICAS,06.02.02.00
+conhecimentos-ii,elementos,06.02.02.03,ORGANIZAÇÕES PÚBLICAS,06.02.02.00
+conhecimentos-ii,elementos,06.02.02.04,POLÍTICA E PLANEJAMENTO GOVERNAMENTAIS,06.02.02.00
+conhecimentos-ii,elementos,06.02.02.90,OUTROS ELEMENTOS (ADMINISTRAÇÃO PÚBLICA) FUNDAMENTOS DE ADMINISTRAÇÃO PÚBLICA,06.02.02.00
+conhecimentos-ii,elementos,06.02.03.01,ADMINISTRAÇÃO HOSPITALAR,06.02.03.00
+conhecimentos-ii,elementos,06.02.03.02,ADMINISTRAÇÃO RURAL,06.02.03.00
+conhecimentos-ii,elementos,06.02.03.90,OUTROS ELEMENTOS (ADMINISTRAÇÃO DE SETORES ESPECÍFICOS) GESTÃO DE PESSOAS,06.02.03.00
+conhecimentos-ii,elementos,06.02.04.01,CIÊNCIAS CONTÁBEIS,06.02.04.00
+conhecimentos-ii,elementos,06.02.04.90,OUTROS ELEMENTOS (CIÊNCIAS CONTÁBEIS) CONTROLADORIA,06.02.04.00
+conhecimentos-ii,elementos,06.02.05.01,SECRETARIADO EXECUTIVO,06.02.05.00
+conhecimentos-ii,elementos,06.02.05.90,"OUTROS ELEMENTOS (SECRETARIADO EXECUTIVO) APRESENTAÇÕES, PORTFÓLIOS, CURRÍCULOS E BRIEFINGS MULTIMÍDIA E MULTIMEIOS",06.02.05.00
+conhecimentos-ii,elementos,06.02.99.01,OUTROS ELEMENTOS (ADMINISTRAÇÃO) GESTÃO AMBIENTAL,06.02.99.00
+conhecimentos-ii,elementos,06.03.01.01,ECONOMIA GERAL,06.03.01.00
+conhecimentos-ii,elementos,06.03.01.02,HISTÓRIA DO PENSAMENTO ECONÔMICO,06.03.01.00
+conhecimentos-ii,elementos,06.03.01.03,HISTÓRIA ECONÔMICA,06.03.01.00
+conhecimentos-ii,elementos,06.03.01.04,SISTEMAS ECONÔMICOS,06.03.01.00
+conhecimentos-ii,elementos,06.03.01.05,TEORIA GERAL DA ECONOMIA,06.03.01.00
+conhecimentos-ii,elementos,06.03.01.90,OUTROS ELEMENTOS (TEORIA ECONÔMICA) ECONOMIA POLÍTICA,06.03.01.00
+conhecimentos-ii,elementos,06.03.02.01,CONTABILIDADE NACIONAL,06.03.02.00
+conhecimentos-ii,elementos,06.03.02.02,ECONOMIA MATEMÁTICA,06.03.02.00
+conhecimentos-ii,elementos,06.03.02.03,ESTATÍSTICA SÓCIO-ECONÔMICA,06.03.02.00
+conhecimentos-ii,elementos,06.03.02.04,"MÉTODOS E MODELOS MATEMÁTICOS, ECONOMÉTRICOS E ESTATÍSTICOS",06.03.02.00
+conhecimentos-ii,elementos,06.03.02.90,OUTROS ELEMENTOS (MÉTODOS QUANTITATIVOS EM ECONOMIA) ESTATÍSTICA SOCIOECONÔMICA,06.03.02.00
+conhecimentos-ii,elementos,06.03.03.01,FINANÇAS PÚBLICAS INTERNAS,06.03.03.00
+conhecimentos-ii,elementos,06.03.03.02,INSTITUIÇÕES MONETÁRIAS E FINANCEIRAS DO BRASIL,06.03.03.00
+conhecimentos-ii,elementos,06.03.03.03,POLÍTICA FISCAL DO BRASIL,06.03.03.00
+conhecimentos-ii,elementos,06.03.03.04,TEORIA MONETÁRIA E FINANCEIRA,06.03.03.00
+conhecimentos-ii,elementos,06.03.03.90,"OUTROS ELEMENTOS (ECONOMIA MONETÁRIA E FISCAL) CÂMBIO COMERCIAL, FLUTUANTE E PARALELO",06.03.03.00
+conhecimentos-ii,elementos,06.03.04.01,CRESCIMENTO E DESENVOLVIMENTO ECONÔMICO,06.03.04.00
+conhecimentos-ii,elementos,06.03.04.02,FLUTAÇÕES CICLÍCAS E PROJEÇÕES ECONÔMICAS,06.03.04.00
+conhecimentos-ii,elementos,06.03.04.03,INFLAÇÃO,06.03.04.00
+conhecimentos-ii,elementos,06.03.04.04,TEORIA E POLÍTICA DE PLANEJAMENTO ECONÔMICO,06.03.04.00
+conhecimentos-ii,elementos,06.03.04.90,"OUTROS ELEMENTOS (CRESCIMENTO, FLUTUAÇÕES E PLANEJAMENTO ECONÔMICO) ECONOMIA POLÍTICA",06.03.04.00
+conhecimentos-ii,elementos,06.03.05.01,BALANÇO DE PAGAMENTO; FINANÇAS INTERNACIONAIS,06.03.05.00
+conhecimentos-ii,elementos,06.03.05.02,INVESTIMENTOS INTERNACIONAIS E AJUDA EXTERNA,06.03.05.00
+conhecimentos-ii,elementos,06.03.05.03,RELAÇÕES DO COMÉRCIO; POLÍTICA COMERCIAL; INTEGRAÇÃO ECONÔMICA,06.03.05.00
+conhecimentos-ii,elementos,06.03.05.04,TEORIA DO COMÉRCIO INTERNACIONAL,06.03.05.00
+conhecimentos-ii,elementos,06.03.05.90,OUTROS ELEMENTOS (ECONOMIA INTERNACIONAL) FUNDAMENTOS DE ECONOMIA INTERNACIONAL,06.03.05.00
+conhecimentos-ii,elementos,06.03.06.01,CAPITAL HUMANO,06.03.06.00
+conhecimentos-ii,elementos,06.03.06.02,DEMOGRAFIA ECONÔMICA,06.03.06.00
+conhecimentos-ii,elementos,06.03.06.03,MERCADO DE TRABALHO; POLÍTICA DO GOVERNO,06.03.06.00
+conhecimentos-ii,elementos,06.03.06.04,"SINDICATOS, DISSÍDIOS COLETIVOS, RELAÇÕES DE EMPREGO (EMPREGADOR/EMPREGADO)",06.03.06.00
+conhecimentos-ii,elementos,06.03.06.05,TREINAMENTO E ALOCAÇÃO DE MÃO DE OBRA; OFERTA DE MÃO DE OBRA E FORÇA DE TRABALHO,06.03.06.00
+conhecimentos-ii,elementos,06.03.06.90,OUTROS ELEMENTOS (ECONOMIA DOS RECURSOS HUMANOS) ELEMENTOS DE ECONOMIA DOS RECURSOS HUMANOS: CONCEITO DE CAPITAL HUMANO; DEMOGRAFIA ECONÔMICA; MERCADO DE TRABALHO; OFERTA DE MÃO DE OBRA E FORÇA DE TRABALHO,06.03.06.00
+conhecimentos-ii,elementos,06.03.07.01,MUDANÇA TECNOLÓGICA,06.03.07.00
+conhecimentos-ii,elementos,06.03.07.02,ORGANIZAÇÃO INDUSTRIAL E ESTUDOS INDUSTRIAIS,06.03.07.00
+conhecimentos-ii,elementos,06.03.07.90,OUTROS ELEMENTOS (ECONOMIA INDUSTRIAL) ECONOMIA APLICADA,06.03.07.00
+conhecimentos-ii,elementos,06.03.08.01,ECONOMIA DO CONSUMIDOR,06.03.08.00
+conhecimentos-ii,elementos,06.03.08.02,ECONOMIA DOS PROGRAMAS DE BEM-ESTAR SOCIAL,06.03.08.00
+conhecimentos-ii,elementos,06.03.08.90,OUTROS ELEMENTOS (ECONOMIA DO BEM-ESTAR SOCIAL) ECONOMIA E CONSUMO,06.03.08.00
+conhecimentos-ii,elementos,06.03.09.01,ECONOMIA REGIONAL,06.03.09.00
+conhecimentos-ii,elementos,06.03.09.02,ECONOMIA URBANA,06.03.09.00
+conhecimentos-ii,elementos,06.03.09.03,RENDA E TRIBUTAÇÃO,06.03.09.00
+conhecimentos-ii,elementos,06.03.09.90,OUTROS ELEMENTOS (ECONOMIA REGIONAL E URBANA) MERCADOS DE MÍDIA E ECONOMIA LOCAL E REGIONAL,06.03.09.00
+conhecimentos-ii,elementos,06.03.10.01,ECONOMIA AGRÁRIA,06.03.10.00
+conhecimentos-ii,elementos,06.03.10.02,ECONOMIA DOS RECURSOS NATURAIS,06.03.10.00
+conhecimentos-ii,elementos,06.03.10.90,OUTROS ELEMENTOS (ECONOMIAS AGRÁRIA E DOS RECURSOS NATURAIS) ECONOMIA E COMERCIALIZAÇÃO AGRÍCOLA,06.03.10.00
+conhecimentos-ii,elementos,06.03.99.01,OUTROS ELEMENTOS (ECONOMIA) AVALIAÇÃO DE CENÁRIOS ECONÔMICOS,06.03.99.00
+conhecimentos-ii,elementos,06.04.01.01,HISTÓRIA DA ARQUITETURA E URBANISMO,06.04.01.00
+conhecimentos-ii,elementos,06.04.01.02,HISTÓRIA DO URBANISMO,06.04.01.00
+conhecimentos-ii,elementos,06.04.01.03,TEORIA DA ARQUITETURA,06.04.01.00
+conhecimentos-ii,elementos,06.04.01.04,TEORIA DO URBANISMO,06.04.01.00
+conhecimentos-ii,elementos,06.04.01.90,OUTROS ELEMENTOS (FUNDAMENTOS DE ARQUITETURA E URBANISMO) ARQUITETURA CENOGRÁFICA,06.04.01.00
+conhecimentos-ii,elementos,06.04.02.01,PLANEJAMENTO E PROJETO DO EQUIPAMENTO,06.04.02.00
+conhecimentos-ii,elementos,06.04.02.02,PLANEJAMENTO E PROJETO DO ESPAÇO URBANO,06.04.02.00
+conhecimentos-ii,elementos,06.04.02.03,PLANEJAMENTO E PROJETOS DA EDIFICAÇÃO,06.04.02.00
+conhecimentos-ii,elementos,06.04.02.90,OUTROS ELEMENTOS (PROJETO DE ARQUITETURA E URBANISMO) PROJETO URBANÍSTICO,06.04.02.00
+conhecimentos-ii,elementos,06.04.03.01,ADEQUAÇÃO AMBIENTAL,06.04.03.00
+conhecimentos-ii,elementos,06.04.03.02,TECNOLOGIA DE ARQUITETURA E URBANISMO,06.04.03.00
+conhecimentos-ii,elementos,06.04.03.90,OUTROS ELEMENTOS (TECNOLOGIA DE ARQUITETURA E URBANISMO E ADEQUAÇÃO AMBIENTAL) SUSTENTABILIDADE URBANA E RURAL,06.04.03.00
+conhecimentos-ii,elementos,06.04.04.01,CONCEITUAÇÃO DE PAISAGISMO E METODOLOGIA DO PAISAGISMO,06.04.04.00
+conhecimentos-ii,elementos,06.04.04.02,DESENVOLVIMENTO HISTÓRICO DO PAISAGISMO,06.04.04.00
+conhecimentos-ii,elementos,06.04.04.03,ESTUDOS DE ORGANIZAÇÃO DO ESPAÇO EXTERIOR,06.04.04.00
+conhecimentos-ii,elementos,06.04.04.04,PROJETOS DE ESPAÇOS LIVRES URBANOS,06.04.04.00
+conhecimentos-ii,elementos,06.04.04.90,OUTROS ELEMENTOS (PAISAGISMO) COMPOSIÇÃO PAISAGÍSTICA,06.04.04.00
+conhecimentos-ii,elementos,06.04.05.01,DESIGN DE INTERIORES,06.04.05.00
+conhecimentos-ii,elementos,06.04.05.02,DECORAÇÃO,06.04.05.00
+conhecimentos-ii,elementos,06.04.05.90,OUTROS ELEMENTOS (DESIGN  DE INTERIORES E DECORAÇÃO) FUNDAMENTOS DE DECORAÇÃO APLICADOS À CENOGRAFIA,06.04.05.00
+conhecimentos-ii,elementos,06.04.99.01,OUTROS ELEMENTOS (ARQUITETURA E URBANISMO) ACESSIBILIDADE E INCLUSÃO SOCIAL,06.04.99.00
+conhecimentos-ii,elementos,06.05.01.01,HISTÓRIA URBANA,06.05.01.00
+conhecimentos-ii,elementos,06.05.01.02,POLÍTICA URBANA,06.05.01.00
+conhecimentos-ii,elementos,06.05.01.03,TEORIA DA URBANIZAÇÃO,06.05.01.00
+conhecimentos-ii,elementos,06.05.01.04,TEORIA DO PLANEJAMENTO URBANO E REGIONAL,06.05.01.00
+conhecimentos-ii,elementos,06.05.01.90,"OUTROS ELEMENTOS (FUNDAMENTOS DO PLANEJAMENTO URBANO E REGIONAL) TEORIA, HISTÓRIA URBANA E PLANEJAMENTO DE URBANIZAÇÃO SUSTENTÁVEL",06.05.01.00
+conhecimentos-ii,elementos,06.05.02.01,"INFORMAÇÃO, CADASTRO E MAPEAMENTO",06.05.02.00
+conhecimentos-ii,elementos,06.05.02.02,TÉCNICA DE PREVISÃO URBANA E REGIONAL,06.05.02.00
+conhecimentos-ii,elementos,06.05.02.03,TÉCNICAS DE ANÁLISE E AVALIAÇÃO URBANA E REGIONAL,06.05.02.00
+conhecimentos-ii,elementos,06.05.02.04,TÉCNICAS DE PLANEJAMENTO E PROJETO URBANOS E REGIONAIS,06.05.02.00
+conhecimentos-ii,elementos,06.05.02.90,OUTROS ELEMENTOS (MÉTODOS E TÉCNICAS DO PLANEJAMENTO URBANO E REGIONAL) TÉCNICAS DE PLANEJAMENTO E PROJETO DE PRESERVAÇÃO DO PATRIMÔNIO HISTÓRICO,06.05.02.00
+conhecimentos-ii,elementos,06.05.03.01,ADMINISTRAÇÃO MUNICIPAL E URBANA,06.05.03.00
+conhecimentos-ii,elementos,06.05.03.02,ASPECTOS ECONÔMICOS DO PLANEJAMENTO URBANO E REGIONAL,06.05.03.00
+conhecimentos-ii,elementos,06.05.03.03,ASPECTOS FÍSICO-AMBIENTAIS DO PLANEJAMENTO URBANO E REGIONAL,06.05.03.00
+conhecimentos-ii,elementos,06.05.03.04,ASPECTOS SOCIAIS DO PLANEJAMENTO URBANO E REGIONAL,06.05.03.00
+conhecimentos-ii,elementos,06.05.03.05,ESTUDOS DA HABITAÇÃO,06.05.03.00
+conhecimentos-ii,elementos,06.05.03.06,INFRAESTRUTURAS URBANAS E REGIONAIS,06.05.03.00
+conhecimentos-ii,elementos,06.05.03.07,LEGISLAÇÃO URBANA E REGIONAL,06.05.03.00
+conhecimentos-ii,elementos,06.05.03.08,SERVIÇOS COMUNITÁRIOS,06.05.03.00
+conhecimentos-ii,elementos,06.05.03.09,TRANSPORTE E TRÁFEGO URBANO E REGIONAL,06.05.03.00
+conhecimentos-ii,elementos,06.05.03.90,OUTROS ELEMENTOS (SERVIÇOS URBANOS E REGIONAIS) SERVIÇOS URBANOS E REGIONAIS DE PRESERVAÇÃO DO PATRIMÔNIO HISTÓRICO,06.05.03.00
+conhecimentos-ii,elementos,06.05.99.01,"OUTROS ELEMENTOS (PLANEJAMENTO URBANO E REGIONAL) CIDADES, HABITAÇÃO E QUALIDADE DE VIDA",06.05.99.00
+conhecimentos-ii,elementos,06.06.01.01,DISTRIBUIÇÃO ESPACIAL GERAL,06.06.01.00
+conhecimentos-ii,elementos,06.06.01.03,DISTRIBUIÇÃO ESPACIAL URBANA,06.06.01.00
+conhecimentos-ii,elementos,06.06.01.90,OUTROS ELEMENTOS (DISTRIBUIÇÃO ESPACIAL) PAISAGISMO E DISTRIBUIÇÃO ESPACIAL URBANA E REGIONAL,06.06.01.00
+conhecimentos-ii,elementos,06.06.02.01,PROJEÇÕES,06.06.02.00
+conhecimentos-ii,elementos,06.06.02.02,TAXAS E ESTIMATIVAS CORRENTES,06.06.02.00
+conhecimentos-ii,elementos,06.06.02.90,"OUTROS ELEMENTOS (TENDÊNCIA POPULACIONAL) PROJEÇÕES, TAXAS E ESTIMATIVAS CORRENTES",06.06.02.00
+conhecimentos-ii,elementos,06.06.04.03,NUPCIALIDADE E FAMÍLIA,06.06.04.00
+conhecimentos-ii,elementos,06.06.04.90,"OUTROS ELEMENTOS (NUPCIALIDADE E DEMOGRAFIA DA FAMÍLIA) O INDIVÍDUO, A FAMÍLIA E O CONFORTO SUSTENTÁVEL",06.06.04.00
+conhecimentos-ii,elementos,06.06.05.01,DISTRIBUIÇÃO ESPACIAL,06.06.05.00
+conhecimentos-ii,elementos,06.06.05.02,"NATALIDADE, MORTALIDADE, MIGRAÇÃO",06.06.05.00
+conhecimentos-ii,elementos,06.06.05.90,OUTROS ELEMENTOS (DEMOGRAFIA HISTÓRICA) DEMOGRAFIA HISTÓRICA E PATRIMÔNIO,06.06.05.00
+conhecimentos-ii,elementos,06.06.06.02,POLÍTICAS DE REDISTRIBUIÇÃO DE POPULAÇÃO,06.06.06.00
+conhecimentos-ii,elementos,06.06.06.03,POLÍTICAS DE PLANEJAMENTO FAMILIAR,06.06.06.00
+conhecimentos-ii,elementos,06.06.06.90,OUTROS ELEMENTOS (POLÍTICA PÚBLICA E POPULAÇÃO) SISTEMA EDUCACIONAL E POLÍTICAS PÚBLICAS,06.06.06.00
+conhecimentos-ii,elementos,06.06.07.01,FONTES DE DADOS DEMOGRÁFICOS,06.06.07.00
+conhecimentos-ii,elementos,06.06.07.90,"OUTROS ELEMENTOS (FONTES DE DADOS DEMOGRÁFICOS) FUNDAMENTOS, APLICAÇÃO, FONTES DE PESQUISA E ANÁLISE DE DADOS DEMOGRÁFICOS",06.06.07.00
+conhecimentos-ii,elementos,06.06.99.01,"OUTROS ELEMENTOS (DEMOGRAFIA) DIMENSÕES, ESTATÍSTICAS, ESTRUTURA E DISTRIBUIÇÃO DAS DIVERSAS POPULAÇÕES HUMANAS",06.06.99.00
+conhecimentos-ii,elementos,06.07.01.01,PROCESSOS DA COMUNICAÇÃO,06.07.01.00
+conhecimentos-ii,elementos,06.07.01.02,REPRESENTAÇÃO DA INFORMAÇÃO,06.07.01.00
+conhecimentos-ii,elementos,06.07.01.03,TEORIA GERAL DA INFORMAÇÃO,06.07.01.00
+conhecimentos-ii,elementos,06.07.01.90,OUTROS ELEMENTOS (TEORIA DA INFORMAÇÃO) GERENCIAMENTO DE INFORMAÇÕES DE CIÊNCIA E TECNOLOGIA,06.07.01.00
+conhecimentos-ii,elementos,06.07.02.01,MÉTODOS QUANTITATIVOS; BIBLIOMETRIA,06.07.02.00
+conhecimentos-ii,elementos,06.07.02.02,PROCESSOS DE DISSEMINAÇÃO DA INFORMAÇÃO,06.07.02.00
+conhecimentos-ii,elementos,06.07.02.03,TÉCNICAS DE RECUPERAÇÃO DE INFORMAÇÃO,06.07.02.00
+conhecimentos-ii,elementos,06.07.02.04,TEORIA DA CLASSIFICAÇÃO,06.07.02.00
+conhecimentos-ii,elementos,06.07.02.90,OUTROS ELEMENTOS (BIBLIOTECONOMIA) ARMAZENAGEM E FLUXO DE INFORMAÇÕES COMPLEXAS DA CONSTRUÇÃO,06.07.02.00
+conhecimentos-ii,elementos,06.07.03.01,ORGANIZAÇÃO DE ARQUIVOS,06.07.03.00
+conhecimentos-ii,elementos,06.07.03.90,OUTROS ELEMENTOS (ARQUIVOLOGIA) MEIOS DE REPRODUÇÃO DE DOCUMENTOS: MICROFILMAGEM; TECNOLOGIA DIGITAL; OUTROS,06.07.03.00
+conhecimentos-ii,elementos,06.07.99.01,OUTROS ELEMENTOS (CIÊNCIA DA INFORMAÇÃO) TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO,06.07.99.00
+conhecimentos-ii,elementos,06.08.01.01,MUSEOLOGIA,06.08.01.00
+conhecimentos-ii,elementos,06.08.99.01,OUTROS ELEMENTOS (MUSEOLOGIA) MUSEOLOGIA HISTÓRICA,06.08.99.00
+conhecimentos-ii,elementos,06.09.01.01,TEORIA DA COMUNICAÇÃO,06.09.01.00
+conhecimentos-ii,elementos,06.09.01.90,OUTROS ELEMENTOS (TEORIA DA COMUNICAÇÃO) ELEMENTOS DA COMUNICAÇÃO,06.09.01.00
+conhecimentos-ii,elementos,06.09.02.01,"JORNALISMO ESPECIALIZADO (COMUNITÁRIO, RURAL, EMPRESARIAL, CIENTÍFICO)",06.09.02.00
+conhecimentos-ii,elementos,06.09.02.02,ORGANIZAÇÃO COMERCIAL DE JORNAIS,06.09.02.00
+conhecimentos-ii,elementos,06.09.02.03,ORGANIZAÇÃO EDITORIAL DE JORNAIS,06.09.02.00
+conhecimentos-ii,elementos,06.09.02.04,TEORIA E ÉTICA DO JORNALISMO,06.09.02.00
+conhecimentos-ii,elementos,06.09.02.90,OUTROS ELEMENTOS (JORNALISMO E EDITORAÇÃO) JORNALISMO E ENTRETENIMENTO,06.09.02.00
+conhecimentos-ii,elementos,06.09.03.01,RADIODIFUSÃO,06.09.03.00
+conhecimentos-ii,elementos,06.09.03.02,VIDEODIFUSÃO,06.09.03.00
+conhecimentos-ii,elementos,06.09.03.90,OUTROS ELEMENTOS (RÁDIO E TELEVISÃO) PUBLICIDADE NOS MEIOS TELEVISIVOS E RADIOFÔNICOS,06.09.03.00
+conhecimentos-ii,elementos,06.09.04.01,RELAÇÕES PÚBLICAS,06.09.04.00
+conhecimentos-ii,elementos,06.09.04.90,"OUTROS ELEMENTOS (RELAÇÕES PÚBLICAS E PROPAGANDA) RELAÇÕES INSTITUCIONAIS, PODER E POLÍTICA",06.09.04.00
+conhecimentos-ii,elementos,06.09.05.01,COMUNICAÇÃO VISUAL,06.09.05.00
+conhecimentos-ii,elementos,06.09.05.90,OUTROS ELEMENTOS (COMUNICAÇÃO VISUAL) TÉCNICAS DE EXPRESSÃO GRÁFICA,06.09.05.00
+conhecimentos-ii,elementos,06.09.99.01,"OUTROS ELEMENTOS (COMUNICAÇÃO) CULTURA, ARTE E COMUNICAÇÃO",06.09.99.00
+conhecimentos-ii,elementos,06.10.01.01,FUNDAMENTOS DO SERVIÇO SOCIAL,06.10.01.00
+conhecimentos-ii,elementos,06.10.01.90,OUTROS ELEMENTOS (FUNDAMENTOS DO SERVIÇO SOCIAL) ANÁLISE SOCIAL DA FAMÍLIA,06.10.01.00
+conhecimentos-ii,elementos,06.10.02.01,SERVIÇO SOCIAL DA EDUCAÇÃO,06.10.02.00
+conhecimentos-ii,elementos,06.10.02.02,SERVIÇO SOCIAL DA HABITAÇÃO,06.10.02.00
+conhecimentos-ii,elementos,06.10.02.03,SERVIÇO SOCIAL DA SAÚDE,06.10.02.00
+conhecimentos-ii,elementos,06.10.02.04,SERVIÇO SOCIAL DO MENOR,06.10.02.00
+conhecimentos-ii,elementos,06.10.02.05,SERVIÇO SOCIAL DO TRABALHO,06.10.02.00
+conhecimentos-ii,elementos,06.10.02.90,OUTROS ELEMENTOS (SERVIÇO SOCIAL APLICADO) AÇÕES SOCIAIS COMUNITÁRIAS,06.10.02.00
+conhecimentos-ii,elementos,06.10.99.01,"OUTROS ELEMENTOS (SERVIÇO SOCIAL) SOCIEDADE, MEIO AMBIENTE E CIDADANIA",06.10.99.00
+conhecimentos-ii,elementos,06.11.99.01,OUTROS ELEMENTOS (ECONOMIA DOMÉSTICA) FUNDAMENTOS DA ECONOMIA DOMÉSTICA APLICADOS A SERVIÇOS SOCIAIS,06.11.99.00
+conhecimentos-ii,elementos,06.12.01.01,PROGRAMAÇÃO VISUAL,06.12.01.00
+conhecimentos-ii,elementos,06.12.01.90,OUTROS ELEMENTOS (PROGRAMAÇÃO VISUAL) LINGUAGEM VISUAL GRÁFICA,06.12.01.00
+conhecimentos-ii,elementos,06.12.02.01,DESENHO DE PRODUTO,06.12.02.00
+conhecimentos-ii,elementos,06.12.02.90,OUTROS ELEMENTOS (DESENHO DE PRODUTO) DESENHO TÉCNICO,06.12.02.00
+conhecimentos-ii,elementos,06.12.99.01,OUTROS ELEMENTOS (DESENHO INDUSTRIAL) DESENHO TÉCNICO,06.12.99.00
+conhecimentos-ii,elementos,06.13.01.01,TURISMO,06.13.01.00
+conhecimentos-ii,elementos,06.13.99.01,OUTROS ELEMENTOS (TURISMO) TURISMO DE EVENTOS E LAZER: REQUISITOS DO HÓSPEDE; SAZONALIDADE; OUTROS,06.13.99.00
+conhecimentos-ii,elementos,06.14.01.01,DIPLOMACIA,06.14.01.00
+conhecimentos-ii,elementos,06.14.02.01,RELAÇÕES INTERNACIONAIS (EXCETO DIPLOMACIA),06.14.02.00
+conhecimentos-ii,elementos,06.14.99.01,OUTROS ELEMENTOS (RELAÇÕES INTERNACIONAIS) ACORDOS INTERNACIONAIS DE LIVRE COMÉRCIO,06.14.99.00
+conhecimentos-ii,elementos,07.01.01.01,HISTÓRIA DA FILOSOFIA,07.01.01.00
+conhecimentos-ii,elementos,07.01.01.90,OUTROS ELEMENTOS (HISTÓRIA DA FILOSOFIA) HISTÓRIA DA FILOSOFIA ANTIGA,07.01.01.00
+conhecimentos-ii,elementos,07.01.02.01,METAFÍSICA,07.01.02.00
+conhecimentos-ii,elementos,07.01.02.90,OUTROS ELEMENTOS (METAFÍSICA) FUNDAMENTOS DE METAFÍSICA,07.01.02.00
+conhecimentos-ii,elementos,07.01.03.01,LÓGICA,07.01.03.00
+conhecimentos-ii,elementos,07.01.03.90,OUTROS ELEMENTOS (LÓGICA) FILOSOFIA DA LÓGICA,07.01.03.00
+conhecimentos-ii,elementos,07.01.04.01,ÉTICA,07.01.04.00
+conhecimentos-ii,elementos,07.01.04.90,OUTROS ELEMENTOS (ÉTICA) PRINCÍPIOS DE ÉTICA PROFISSIONAL,07.01.04.00
+conhecimentos-ii,elementos,07.01.05.01,EPISTEMOLOGIA,07.01.05.00
+conhecimentos-ii,elementos,07.01.05.90,OUTROS ELEMENTOS (EPISTEMOLOGIA) EPISTEMOLOGIA GENÉTICA,07.01.05.00
+conhecimentos-ii,elementos,07.01.06.01,FILOSOFIA BRASILEIRA,07.01.06.00
+conhecimentos-ii,elementos,07.01.06.90,OUTROS ELEMENTOS (FILOSOFIA BRASILEIRA) ESTUDOS DA EDUCAÇÃO: ENFOQUE FILOSÓFICO,07.01.06.00
+conhecimentos-ii,elementos,07.01.99.01,OUTROS ELEMENTOS (FILOSOFIA) ÉTICA E LEGISLAÇÃO EM COMUNICAÇÃO,07.01.99.00
+conhecimentos-ii,elementos,07.02.01.01,HISTÓRIA DA SOCIOLOGIA,07.02.01.00
+conhecimentos-ii,elementos,07.02.01.02,TEORIA SOCIOLÓGICA,07.02.01.00
+conhecimentos-ii,elementos,07.02.01.90,OUTROS ELEMENTOS (FUNDAMENTOS DA SOCIOLOGIA) SOCIOLOGIA PARA ODONTOLOGIA,07.02.01.00
+conhecimentos-ii,elementos,07.02.02.01,SOCIOLOGIA DO CONHECIMENTO,07.02.02.00
+conhecimentos-ii,elementos,07.02.03.01,SOCIOLOGIA DO DESENVOLVIMENTO,07.02.03.00
+conhecimentos-ii,elementos,07.02.03.90,OUTROS ELEMENTOS (SOCIOLOGIA DO DESENVOLVIMENTO) SOCIOLOGIA DO DESENVOLVIMENTO URBANO E RURAL DO PAISAGISMO,07.02.03.00
+conhecimentos-ii,elementos,07.02.04.01,SOCIOLOGIA URBANA,07.02.04.00
+conhecimentos-ii,elementos,07.02.04.90,OUTROS ELEMENTOS (SOCIOLOGIA URBANA) FUNDAMENTOS DE SOCIOLOGIA APLICADOS À MOBILIDADE URBANA E VIDA EM SOCIEDADE,07.02.04.00
+conhecimentos-ii,elementos,07.02.05.01,SOCIOLOGIA RURAL,07.02.05.00
+conhecimentos-ii,elementos,07.02.05.90,OUTROS ELEMENTOS (SOCIOLOGIA RURAL) SOCIOLOGIA DAS COMUNIDADES PESQUEIRAS,07.02.05.00
+conhecimentos-ii,elementos,07.02.06.01,SOCIOLOGIA DA SAÚDE,07.02.06.00
+conhecimentos-ii,elementos,07.02.06.90,OUTROS ELEMENTOS (SOCIOLOGIA DA SAÚDE) PROCESSO SAÚDE-DOENÇA COMO CONSTRUÇÃO SOCIAL,07.02.06.00
+conhecimentos-ii,elementos,07.02.07.01,OUTRAS SOCIOLOGIAS ESPECÍFICAS,07.02.07.00
+conhecimentos-ii,elementos,07.02.99.01,"OUTROS ELEMENTOS (SOCIOLOGIA) RELAÇÕES DE DESIGUALDADE, DE OPRESSÃO E/OU DE EXPLORAÇÃO ÉTNICO-RACIAIS, DE CLASSE, DE GÊNERO E DE ORIENTAÇÃO SEXUAL",07.02.99.00
+conhecimentos-ii,elementos,07.03.01.01,TEORIA ANTROPOLÓGICA,07.03.01.00
+conhecimentos-ii,elementos,07.03.01.90,OUTROS ELEMENTOS (TEORIA ANTROPOLÓGICA) ANTROPOLOGIA E CULTURA BRASILEIRA,07.03.01.00
+conhecimentos-ii,elementos,07.03.02.01,ETNOLOGIA INDÍGENA,07.03.02.00
+conhecimentos-ii,elementos,07.03.03.00,ANTROPOLOGIA URBANA,07.03.03.00
+conhecimentos-ii,elementos,07.03.03.90,OUTROS ELEMENTOS (ANTROPOLOGIA URBANA) SOCIOLOGIA E ANTROPOLOGIA BRASILEIRA PARA SECRETARIADO,07.03.03.00
+conhecimentos-ii,elementos,07.03.04.00,ANTROPOLOGIA RURAL,07.03.04.00
+conhecimentos-ii,elementos,07.03.05.00,ANTROPOLOGIA DAS POPULAÇÕES AFRO-BRASILEIRAS,07.03.05.00
+conhecimentos-ii,elementos,07.03.05.90,OUTROS ELEMENTOS (ANTROPOLOGIA DAS POPULAÇÕES AFRO-BRASILEIRAS) ETNOGRAFIA E CARACTERÍSTICAS ÉTNICAS DO ESQUELETO DAS POPULAÇÕES BRASILEIRAS,07.03.05.00
+conhecimentos-ii,elementos,07.03.99.01,OUTROS ELEMENTOS (ANTROPOLOGIA) ANTROPOLOGIA CULTURAL,07.03.99.00
+conhecimentos-ii,elementos,07.04.01.01,TEORIA E MÉTODO EM ARQUEOLOGIA,07.04.01.00
+conhecimentos-ii,elementos,07.04.01.90,OUTROS ELEMENTOS (TEORIA E MÉTODO EM ARQUEOLOGIA) ARQUEOLOGIA,07.04.01.00
+conhecimentos-ii,elementos,07.04.02.01,ARQUEOLOGIA PRÉ-HISTÓRICA,07.04.02.00
+conhecimentos-ii,elementos,07.04.03.01,ARQUEOLOGIA HISTÓRICA,07.04.03.00
+conhecimentos-ii,elementos,07.04.03.90,OUTROS ELEMENTOS (ARQUEOLOGIA HISTÓRICA) ARQUEOLOGIA HISTÓRICA E PLANEJAMENTO ARQUITETÔNICO URBANÍSTICO,07.04.03.00
+conhecimentos-ii,elementos,07.04.99.01,OUTROS ELEMENTOS (ARQUEOLOGIA) ARQUEOLOGIA E SERVIÇOS CULTURAIS,07.04.99.00
+conhecimentos-ii,elementos,07.05.01.01,TEORIA E FILOSOFIA DA HISTÓRIA,07.05.01.00
+conhecimentos-ii,elementos,07.05.01.90,OUTROS ELEMENTOS (TEORIA E FILOSOFIA DA HISTÓRIA) FILOSOFIA DA HISTÓRIA,07.05.01.00
+conhecimentos-ii,elementos,07.05.02.01,HISTÓRIA ANTIGA E MEDIEVAL,07.05.02.00
+conhecimentos-ii,elementos,07.05.02.90,"OUTROS ELEMENTOS (HISTÓRIA ANTIGA E MEDIEVAL) FUNDAMENTOS, DINÂMICA E SUPERAÇÃO DO MUNDO MEDIEVAL",07.05.02.00
+conhecimentos-ii,elementos,07.05.03.01,HISTÓRIA MODERNA E CONTEMPORÂNEA,07.05.03.00
+conhecimentos-ii,elementos,07.05.03.90,OUTROS ELEMENTOS (HISTÓRIA MODERNA E CONTEMPORÂNEA) HISTÓRIA DO BRASIL CONTEMPORÂNEO,07.05.03.00
+conhecimentos-ii,elementos,07.05.04.01,HISTÓRIA DOS ESTADOS UNIDOS,07.05.04.00
+conhecimentos-ii,elementos,07.05.04.02,HISTÓRIA LATINO-AMERICANA,07.05.04.00
+conhecimentos-ii,elementos,07.05.04.90,OUTROS ELEMENTOS (HISTÓRIA DA AMÉRICA) HISTÓRIA DA AMÉRICA INDEPENDENTE,07.05.04.00
+conhecimentos-ii,elementos,07.05.05.01,HISTÓRIA DO BRASIL COLÔNIA,07.05.05.00
+conhecimentos-ii,elementos,07.05.05.02,HISTÓRIA DO BRASIL IMPÉRIO,07.05.05.00
+conhecimentos-ii,elementos,07.05.05.03,HISTÓRIA DO BRASIL REPÚBLICA,07.05.05.00
+conhecimentos-ii,elementos,07.05.05.04,HISTÓRIA REGIONAL DO BRASIL,07.05.05.00
+conhecimentos-ii,elementos,07.05.05.90,OUTROS ELEMENTOS (HISTÓRIA DO BRASIL) REALIDADE HISTÓRICA E CONTEMPORÂNEA DO BRASIL,07.05.05.00
+conhecimentos-ii,elementos,07.05.06.01,HISTÓRIA DAS CIÊNCIAS,07.05.06.00
+conhecimentos-ii,elementos,07.05.06.90,"OUTROS ELEMENTOS (HISTÓRIA DAS CIÊNCIAS) HISTÓRIA DA CIÊNCIA, DA TÉCNICA E DO TRABALHO",07.05.06.00
+conhecimentos-ii,elementos,07.05.99.01,OUTROS ELEMENTOS (HISTÓRIA) HISTÓRIA DA COMUNICAÇÃO E DA PUBLICIDADE,07.05.99.00
+conhecimentos-ii,elementos,07.06.01.01,GEOGRAFIA AGRÁRIA,07.06.01.00
+conhecimentos-ii,elementos,07.06.01.02,GEOGRAFIA DA POPULAÇÃO,07.06.01.00
+conhecimentos-ii,elementos,07.06.01.03,GEOGRAFIA ECONÔMICA,07.06.01.00
+conhecimentos-ii,elementos,07.06.01.04,GEOGRAFIA POLÍTICA,07.06.01.00
+conhecimentos-ii,elementos,07.06.01.05,GEOGRAFIA URBANA,07.06.01.00
+conhecimentos-ii,elementos,07.06.01.90,"OUTROS ELEMENTOS (GEOGRAFIA HUMANA) GEOGRAFIA HUMANA, GERAL E DO BRASIL",07.06.01.00
+conhecimentos-ii,elementos,07.06.02.01,ANÁLISE REGIONAL,07.06.02.00
+conhecimentos-ii,elementos,07.06.02.02,REGIONALIZAÇÃO,07.06.02.00
+conhecimentos-ii,elementos,07.06.02.03,TEORIA DO DESENVOLVIMENTO REGIONAL,07.06.02.00
+conhecimentos-ii,elementos,07.06.02.90,OUTROS ELEMENTOS (GEOGRAFIA REGIONAL) DESENVOLVIMENTO URBANO E RURAL,07.06.02.00
+conhecimentos-ii,elementos,07.06.99.01,OUTROS ELEMENTOS (GEOGRAFIA) BIOGEOGRAFIA,07.06.99.00
+conhecimentos-ii,elementos,07.07.01.01,"CONSTRUÇÃO E VALIDADE DE TESTES, ESCALAS E OUTRAS MEDIDAS PSICOLÓGICAS",07.07.01.00
+conhecimentos-ii,elementos,07.07.01.02,"HISTÓRIA, TEORIAS E SISTEMAS EM PSICOLOGIA",07.07.01.00
+conhecimentos-ii,elementos,07.07.01.03,"METODOLOGIA, INSTRUMENTAÇÃO E EQUIPAMENTO EM PSICOLOGIA",07.07.01.00
+conhecimentos-ii,elementos,07.07.01.04,"TÉCNICAS DE PROCESSAMENTO ESTATÍSTICO, MATEMÁTICO E COMPUTACIONAL EM PSICOLOGIA",07.07.01.00
+conhecimentos-ii,elementos,07.07.01.90,OUTROS ELEMENTOS (FUNDAMENTOS E MEDIDAS DA PSICOLOGIA) PROCESSOS PSICOLÓGICOS BÁSICOS,07.07.01.00
+conhecimentos-ii,elementos,07.07.02.01,ESTADOS SUBJETIVOS E EMOÇÃO,07.07.02.00
+conhecimentos-ii,elementos,07.07.02.02,PROCESSOS COGNITIVOS E ATENCIONAIS,07.07.02.00
+conhecimentos-ii,elementos,07.07.02.03,"PROCESSOS DE APRENDIZAGEM, MEMÓRIA E MOTIVAÇÃO",07.07.02.00
+conhecimentos-ii,elementos,07.07.02.04,PROCESSOS PERCEPTUAIS E MOTORES,07.07.02.00
+conhecimentos-ii,elementos,07.07.02.90,OUTROS ELEMENTOS (PSICOLOGIA EXPERIMENTAL) MOTIVAÇÃO E EMOÇÃO,07.07.02.00
+conhecimentos-ii,elementos,07.07.03.01,ESTIMULAÇÃO ELÉTRICA E COM DROGAS; COMPORTAMENTO,07.07.03.00
+conhecimentos-ii,elementos,07.07.03.02,"NEUROLOGIA, ELETROFISIOLOGIA E COMPORTAMENTO",07.07.03.00
+conhecimentos-ii,elementos,07.07.03.03,PROCESSOS PSICO-FISIOLÓGICOS,07.07.03.00
+conhecimentos-ii,elementos,07.07.03.04,PSICOBIOLOGIA,07.07.03.00
+conhecimentos-ii,elementos,07.07.03.90,OUTROS ELEMENTOS (PSICOLOGIA FISIOLÓGICA) FUNDAMENTOS DA NEUROLOGIA,07.07.03.00
+conhecimentos-ii,elementos,07.07.05.01,PAPÉIS E ESTRUTURAS SOCIAIS; INDIVÍDUO,07.07.05.00
+conhecimentos-ii,elementos,07.07.05.02,PROCESSOS GRUPAIS E DE COMUNICAÇÃO,07.07.05.00
+conhecimentos-ii,elementos,07.07.05.03,RELAÇÕES INTERPESSOAIS,07.07.05.00
+conhecimentos-ii,elementos,07.07.05.90,OUTROS ELEMENTOS (PSICOLOGIA SOCIAL) PSICOLOGIA SOCIAL E DO TRABALHO,07.07.05.00
+conhecimentos-ii,elementos,07.07.06.01,PSICOLOGIA COGNITIVA,07.07.06.00
+conhecimentos-ii,elementos,07.07.06.90,OUTROS ELEMENTOS (PSICOLOGIA COGNITIVA) NEUROCIÊNCIA E EDUCAÇÃO,07.07.06.00
+conhecimentos-ii,elementos,07.07.07.01,DESENVOLVIMENTO SOCIAL E DA PERSONALIDADE,07.07.07.00
+conhecimentos-ii,elementos,07.07.07.02,PROCESSOS PERCEPTUAIS E COGNITIVOS; DESENVOLVIMENTO,07.07.07.00
+conhecimentos-ii,elementos,07.07.07.90,OUTROS ELEMENTOS (PSICOLOGIA DO DESENVOLVIMENTO HUMANO) PSICOLOGIA MÉDICA,07.07.07.00
+conhecimentos-ii,elementos,07.07.08.01,APRENDIZAGEM E DESEMPENHO ACADÊMICOS,07.07.08.00
+conhecimentos-ii,elementos,07.07.08.02,ENSINO E APRENDIZAGEM NA SALA DE AULA,07.07.08.00
+conhecimentos-ii,elementos,07.07.08.03,PLANEJAMENTO INSTITUCIONAL,07.07.08.00
+conhecimentos-ii,elementos,07.07.08.04,PROGRAMAÇÃO DE CONDIÇÕES DE ENSINO,07.07.08.00
+conhecimentos-ii,elementos,07.07.08.05,TREINAMENTO DE PESSOAL,07.07.08.00
+conhecimentos-ii,elementos,07.07.08.90,OUTROS ELEMENTOS (PSICOLOGIA DO ENSINO E DA APRENDIZAGEM) NEUROCIÊNCIA E EDUCAÇÃO,07.07.08.00
+conhecimentos-ii,elementos,07.07.09.01,ANÁLISE INSTITUCIONAL,07.07.09.00
+conhecimentos-ii,elementos,07.07.09.02,FATORES HUMANOS NO TRABALHO,07.07.09.00
+conhecimentos-ii,elementos,07.07.09.03,PLANEJAMENTO AMBIENTAL E COMPORTAMENTO HUMANO,07.07.09.00
+conhecimentos-ii,elementos,07.07.09.04,RECRUTAMENTO E SELEÇÃO DE PESSOAL,07.07.09.00
+conhecimentos-ii,elementos,07.07.09.05,TREINAMENTO E AVALIAÇÃO,07.07.09.00
+conhecimentos-ii,elementos,07.07.09.90,OUTROS ELEMENTOS (PSICOLOGIA DO TRABALHO E ORGANIZACIONAL) PSICOLOGIA NA ÁREA DE SAÚDE,07.07.09.00
+conhecimentos-ii,elementos,07.07.10.01,DESVIOS DA CONDUTA,07.07.10.00
+conhecimentos-ii,elementos,07.07.10.02,DISTÚRBIOS DA LINGUAGEM,07.07.10.00
+conhecimentos-ii,elementos,07.07.10.03,DISTÚRBIOS PSICOSSOMÁTICOS,07.07.10.00
+conhecimentos-ii,elementos,07.07.10.04,INTERVENÇÃO TERAPÊUTICA,07.07.10.00
+conhecimentos-ii,elementos,07.07.10.05,PROGRAMAS DE ATENDIMENTO COMUNITÁRIO,07.07.10.00
+conhecimentos-ii,elementos,07.07.10.06,TREINAMENTO E REABILITAÇÃO,07.07.10.00
+conhecimentos-ii,elementos,07.07.10.90,OUTROS ELEMENTOS (TRATAMENTO E PREVENÇÃO PSICOLÓGICA) DISTÚRBIOS DA LINGUAGEM E COGNIÇÃO,07.07.10.00
+conhecimentos-ii,elementos,07.07.99.01,OUTROS ELEMENTOS (PSICOLOGIA) MEDIAÇÃO DE CONFLITOS: FUNDAMENTOS E INTERVENÇÕES,07.07.99.00
+conhecimentos-ii,elementos,07.08.01.01,ANTROPOLOGIA EDUCACIONAL,07.08.01.00
+conhecimentos-ii,elementos,07.08.01.02,ECONOMIA DA EDUCAÇÃO,07.08.01.00
+conhecimentos-ii,elementos,07.08.01.03,FILOSOFIA DA EDUCAÇÃO,07.08.01.00
+conhecimentos-ii,elementos,07.08.01.04,HISTÓRIA DA EDUCAÇÃO,07.08.01.00
+conhecimentos-ii,elementos,07.08.01.05,PSICOLOGIA EDUCACIONAL,07.08.01.00
+conhecimentos-ii,elementos,07.08.01.06,SOCIOLOGIA DA EDUCAÇÃO,07.08.01.00
+conhecimentos-ii,elementos,07.08.01.90,OUTROS ELEMENTOS (FUNDAMENTOS DA EDUCAÇÃO) EDUCAÇÃO E DESENVOLVIMENTO HUMANO E SOCIAL,07.08.01.00
+conhecimentos-ii,elementos,07.08.02.01,ADMINISTRAÇÃO DE SISTEMAS EDUCACIONAIS,07.08.02.00
+conhecimentos-ii,elementos,07.08.02.02,ADMINISTRAÇÃO DE UNIDADES EDUCATIVAS,07.08.02.00
+conhecimentos-ii,elementos,07.08.02.90,OUTROS ELEMENTOS (ADMINISTRAÇÃO EDUCACIONAL) GESTÃO E AS PRÁTICAS DE FORMAÇÃO DE PROFESSORES,07.08.02.00
+conhecimentos-ii,elementos,07.08.03.01,"AVALIAÇÃO DE SISTEMAS, INSTITUIÇÕES, PLANOS E PROGRAMAS EDUCACIONAIS",07.08.03.00
+conhecimentos-ii,elementos,07.08.03.02,PLANEJAMENTO EDUCACIONAL,07.08.03.00
+conhecimentos-ii,elementos,07.08.03.03,POLÍTICA EDUCACIONAL,07.08.03.00
+conhecimentos-ii,elementos,07.08.03.90,OUTROS ELEMENTOS (PLANEJAMENTO E AVALIAÇÃO EDUCACIONAL) ELABORAÇÃO DE PLANOS DE ENSINO E PLANOS DE AULA,07.08.03.00
+conhecimentos-ii,elementos,07.08.04.01,AVALIAÇÃO DA APRENDIZAGEM,07.08.04.00
+conhecimentos-ii,elementos,07.08.04.02,MÉTODOS E TÉCNICAS DE ENSINO,07.08.04.00
+conhecimentos-ii,elementos,07.08.04.03,TECNOLOGIA EDUCACIONAL,07.08.04.00
+conhecimentos-ii,elementos,07.08.04.04,TEORIAS DA INSTRUÇÃO,07.08.04.00
+conhecimentos-ii,elementos,07.08.04.90,OUTROS ELEMENTOS (ENSINO-APRENDIZAGEM) DIDÁTICA,07.08.04.00
+conhecimentos-ii,elementos,07.08.05.01,CURRÍCULOS ESPECÍFICOS PARA NÍVEIS E TIPOS DE EDUCAÇÃO,07.08.05.00
+conhecimentos-ii,elementos,07.08.05.02,TEORIA GERAL DE PLANEJAMENTO E DESENVOLVIMENTO CURRICULAR,07.08.05.00
+conhecimentos-ii,elementos,07.08.05.90,OUTROS ELEMENTOS (CURRÍCULO) ALFABETIZAÇÃO E LETRAMENTO,07.08.05.00
+conhecimentos-ii,elementos,07.08.06.01,ORIENTAÇÃO EDUCACIONAL,07.08.06.00
+conhecimentos-ii,elementos,07.08.06.02,ORIENTAÇÃO VOCACIONAL,07.08.06.00
+conhecimentos-ii,elementos,07.08.06.90,OUTROS ELEMENTOS (ORIENTAÇÃO E ACONSELHAMENTO) ORIENTAÇÃO DE ALUNOS EM ATIVIDADES DIDÁTICAS,07.08.06.00
+conhecimentos-ii,elementos,07.08.07.01,EDUCAÇÃO DE ADULTOS,07.08.07.00
+conhecimentos-ii,elementos,07.08.07.02,EDUCAÇÃO EM PERIFERIAS URBANAS,07.08.07.00
+conhecimentos-ii,elementos,07.08.07.03,EDUCAÇÃO ESPECIAL,07.08.07.00
+conhecimentos-ii,elementos,07.08.07.04,EDUCAÇÃO PERMANENTE,07.08.07.00
+conhecimentos-ii,elementos,07.08.07.05,EDUCAÇÃO PRÉ-ESCOLAR,07.08.07.00
+conhecimentos-ii,elementos,07.08.07.06,EDUCAÇÃO RURAL,07.08.07.00
+conhecimentos-ii,elementos,07.08.07.07,ENSINO PROFISSIONALIZANTE,07.08.07.00
+conhecimentos-ii,elementos,07.08.07.90,OUTROS ELEMENTOS (TÓPICOS ESPECÍFICOS DE EDUCAÇÃO) ENSINO SUPERIOR,07.08.07.00
+conhecimentos-ii,elementos,07.08.99.01,OUTROS ELEMENTOS (EDUCAÇÃO) INTERNACIONALIZAÇÃO DO ENSINO SUPERIOR,07.08.99.00
+conhecimentos-ii,elementos,07.09.01.01,TEORIA POLÍTICA CLÁSSICA,07.09.01.00
+conhecimentos-ii,elementos,07.09.01.02,TEORIA POLÍTICA CONTEMPORÂNEA,07.09.01.00
+conhecimentos-ii,elementos,07.09.01.03,TEORIA POLÍTICA MEDIEVAL,07.09.01.00
+conhecimentos-ii,elementos,07.09.01.04,TEORIA POLÍTICA MODERNA,07.09.01.00
+conhecimentos-ii,elementos,07.09.01.90,OUTROS ELEMENTOS (TEORIA POLÍTICA) POLÍTICAS ORGANIZACIONAIS E CULTURA INSTITUCIONAL,07.09.01.00
+conhecimentos-ii,elementos,07.09.02.01,ESTRUTURA E TRANSFORMAÇÃO DO ESTADO,07.09.02.00
+conhecimentos-ii,elementos,07.09.02.02,ESTUDOS DO PODER LOCAL,07.09.02.00
+conhecimentos-ii,elementos,07.09.02.03,INSTITUIÇÕES GOVERNAMENTAIS ESPECÍFICAS,07.09.02.00
+conhecimentos-ii,elementos,07.09.02.04,RELAÇÕES INTERGOVERNAMENTAIS,07.09.02.00
+conhecimentos-ii,elementos,07.09.02.05,SISTEMAS GOVERNAMENTAIS COMPARADOS,07.09.02.00
+conhecimentos-ii,elementos,07.09.02.90,OUTROS ELEMENTOS (ESTADO E GOVERNO) DEMOCRACIA E CIDADANIA,07.09.02.00
+conhecimentos-ii,elementos,07.09.03.02,CLASSES SOCIAIS E GRUPOS DE INTERESSE,07.09.03.00
+conhecimentos-ii,elementos,07.09.03.03,COMPORTAMENTO LEGISLATIVO,07.09.03.00
+conhecimentos-ii,elementos,07.09.03.05,ESTUDOS ELEITORAIS E PARTIDOS POLÍTICOS,07.09.03.00
+conhecimentos-ii,elementos,07.09.03.90,OUTROS ELEMENTOS (COMPORTAMENTO POLÍTICO) SISTEMA POLÍTICO BRASILEIRO,07.09.03.00
+conhecimentos-ii,elementos,07.09.04.01,ANÁLISE DO PROCESSO DECISÓRIO,07.09.04.00
+conhecimentos-ii,elementos,07.09.04.02,ANÁLISE INSTITUCIONAL,07.09.04.00
+conhecimentos-ii,elementos,07.09.04.03,TÉCNICAS DE ANTECIPAÇÃO,07.09.04.00
+conhecimentos-ii,elementos,07.09.04.90,OUTROS ELEMENTOS (POLÍTICAS PÚBLICAS) POLÍTICAS PÚBLICAS DE SAÚDE,07.09.04.00
+conhecimentos-ii,elementos,07.09.05.01,"INTEGRAÇÃO INTERNACIONAL, CONFLITO, GUERRA E PAZ",07.09.05.00
+conhecimentos-ii,elementos,07.09.05.02,ORGANIZAÇÕES INTERNACIONAIS,07.09.05.00
+conhecimentos-ii,elementos,07.09.05.03,POLÍTICA EXTERNA DO BRASIL,07.09.05.00
+conhecimentos-ii,elementos,07.09.05.04,"RELAÇÕES INTERNACIONAIS, BILATERAIS E MULTILATERAIS",07.09.05.00
+conhecimentos-ii,elementos,07.09.05.90,OUTROS ELEMENTOS (POLÍTICA INTERNACIONAL) PROCESSOS DE GLOBALIZAÇÃO E POLÍTICA INTERNACIONAL,07.09.05.00
+conhecimentos-ii,elementos,07.09.99.01,OUTROS ELEMENTOS (CIÊNCIA POLÍTICA) FUNDAMENTOS DE CIÊNCIA POLÍTICA,07.09.99.00
+conhecimentos-ii,elementos,07.10.01.01,HISTÓRIA DA TEOLOGIA,07.10.01.00
+conhecimentos-ii,elementos,07.10.02.01,TEOLOGIA MORAL,07.10.02.00
+conhecimentos-ii,elementos,07.10.02.90,OUTROS ELEMENTOS (TEOLOGIA MORAL) TEOLOGIA FAMILIAR E SEXUAL,07.10.02.00
+conhecimentos-ii,elementos,07.10.03.01,TEOLOGIA SISTEMÁTICA,07.10.03.00
+conhecimentos-ii,elementos,07.10.03.90,OUTROS ELEMENTOS (TEOLOGIA SISTEMÁTICA) ESCATOLOGIA,07.10.03.00
+conhecimentos-ii,elementos,07.10.04.01,TEOLOGIA PASTORAL,07.10.04.00
+conhecimentos-ii,elementos,07.10.04.90,OUTROS ELEMENTOS (TEOLOGIA PASTORAL) ALCORÃO,07.10.04.00
+conhecimentos-ii,elementos,07.10.99.01,"OUTROS ELEMENTOS (TEOLOGIA) TEOLOGIA, FENÔMENO HUMANO E SOCIEDADE",07.10.99.00
+conhecimentos-ii,elementos,08.01.01.01,TEORIA E ANÁLISE LINGUÍSTICA,08.01.01.00
+conhecimentos-ii,elementos,08.01.01.90,OUTROS ELEMENTOS (TEORIA E ANÁLISE LINGUÍSTICA) LINGUAGENS DOCUMENTÁRIAS,08.01.01.00
+conhecimentos-ii,elementos,08.01.02.01,FISIOLOGIA DA LINGUAGEM,08.01.02.00
+conhecimentos-ii,elementos,08.01.03.01,LINGUÍSTICA HISTÓRICA,08.01.03.00
+conhecimentos-ii,elementos,08.01.04.01,SOCIOLINGUÍSTICA E DIALETOLOGIA,08.01.04.00
+conhecimentos-ii,elementos,08.01.04.90,OUTROS ELEMENTOS (SOCIOLINGUÍSTICA E DIALETOLOGIA) SOCIOLINGUÍSTICA,08.01.04.00
+conhecimentos-ii,elementos,08.01.05.01,PSICOLINGUÍSTICA,08.01.05.00
+conhecimentos-ii,elementos,08.01.05.90,OUTROS ELEMENTOS (PSICOLINGUÍSTICA) PSICOLINGUÍSTICA APLICADA,08.01.05.00
+conhecimentos-ii,elementos,08.01.06.01,LINGUÍSTICA APLICADA,08.01.06.00
+conhecimentos-ii,elementos,08.01.06.90,OUTROS ELEMENTOS (LINGUÍSTICA APLICADA) SEMÂNTICA E PRAGMÁTICA,08.01.06.00
+conhecimentos-ii,elementos,08.01.99.01,OUTROS ELEMENTOS (LINGUÍSTICA) FUNDAMENTOS DO DISCURSO PERSUASIVO,08.01.99.00
+conhecimentos-ii,elementos,08.02.01.01,LÍNGUA PORTUGUESA,08.02.01.00
+conhecimentos-ii,elementos,08.02.01.90,OUTROS ELEMENTOS (LÍNGUA PORTUGUESA) PORTUGUÊS INSTRUMENTAL,08.02.01.00
+conhecimentos-ii,elementos,08.02.02.01,LÍNGUAS ESTRANGEIRAS MODERNAS,08.02.02.00
+conhecimentos-ii,elementos,08.02.02.90,OUTROS ELEMENTOS (LÍNGUAS ESTRANGEIRAS MODERNAS) INGLÊS INSTRUMENTAL,08.02.02.00
+conhecimentos-ii,elementos,08.02.03.01,LÍNGUAS CLÁSSICAS,08.02.03.00
+conhecimentos-ii,elementos,08.02.03.90,OUTROS ELEMENTOS (LÍNGUAS CLÁSSICAS) INTRODUÇÃO AO LATIM,08.02.03.00
+conhecimentos-ii,elementos,08.02.04.01,LÍNGUAS INDÍGENAS,08.02.04.00
+conhecimentos-ii,elementos,08.02.05.01,TEORIA LITERÁRIA,08.02.05.00
+conhecimentos-ii,elementos,08.02.05.90,OUTROS ELEMENTOS (TEORIA LITERÁRIA) TEORIA DO CONTO: INTRODUÇÃO E PRAGMÁTICA,08.02.05.00
+conhecimentos-ii,elementos,08.02.06.01,LITERATURA BRASILEIRA,08.02.06.00
+conhecimentos-ii,elementos,08.02.06.90,OUTROS ELEMENTOS (LITERATURA BRASILEIRA) ESTUDOS COMPARADOS DE LITERATURAS DE LÍNGUA PORTUGUESA,08.02.06.00
+conhecimentos-ii,elementos,08.02.07.01,OUTRAS LITERATURAS VERNÁCULAS,08.02.07.00
+conhecimentos-ii,elementos,08.02.08.01,LITERATURAS ESTRANGEIRAS MODERNAS,08.02.08.00
+conhecimentos-ii,elementos,08.02.08.90,OUTROS ELEMENTOS (LITERATURAS ESTRANGEIRAS MODERNAS) INGLÊS INSTRUMENTAL,08.02.08.00
+conhecimentos-ii,elementos,08.02.09.01,LITERATURAS CLÁSSICAS,08.02.09.00
+conhecimentos-ii,elementos,08.02.09.90,OUTROS ELEMENTOS (LITERATURAS CLÁSSICAS) DISCURSO LITERÁRIO E INTERTEXTUALIDADE TEMÁTICA,08.02.09.00
+conhecimentos-ii,elementos,08.02.10.01,LITERATURA COMPARADA,08.02.10.00
+conhecimentos-ii,elementos,08.02.10.90,"OUTROS ELEMENTOS (LITERATURA COMPARADA) ANÁLISE, COMENTÁRIO E INTERPRETAÇÃO DA NARRATIVA",08.02.10.00
+conhecimentos-ii,elementos,08.02.11.01,LÍNGUA BRASILEIRA DE SINAIS (LIBRAS),08.02.11.00
+conhecimentos-ii,elementos,08.02.11.02,SISTEMA DE LEITURA E ESCRITA BRAÏLLE,08.02.11.00
+conhecimentos-ii,elementos,08.02.11.90,OUTROS ELEMENTOS (LÍNGUA BRASILEIRA DE SINAIS (LIBRAS) E SISTEMA BRAÏLLE) SISTEMA DE LEITURA E ESCRITA BRAILLE,08.02.11.00
+conhecimentos-ii,elementos,08.02.99.01,OUTROS ELEMENTOS (LETRAS) LITERATURA DRAMÁTICA,08.02.99.00
+conhecimentos-ii,elementos,08.03.01.01,CRÍTICA DA ARTE,08.03.01.00
+conhecimentos-ii,elementos,08.03.01.02,HISTÓRIA DA ARTE,08.03.01.00
+conhecimentos-ii,elementos,08.03.01.03,TEORIA DA ARTE,08.03.01.00
+conhecimentos-ii,elementos,08.03.01.90,OUTROS ELEMENTOS (FUNDAMENTOS E CRÍTICA DAS ARTES) PROCESSOS DE CRIAÇÃO,08.03.01.00
+conhecimentos-ii,elementos,08.03.02.01,CERÂMICA,08.03.02.00
+conhecimentos-ii,elementos,08.03.02.02,DESENHO,08.03.02.00
+conhecimentos-ii,elementos,08.03.02.03,ESCULTURA,08.03.02.00
+conhecimentos-ii,elementos,08.03.02.04,GRAVURA,08.03.02.00
+conhecimentos-ii,elementos,08.03.02.05,PINTURA,08.03.02.00
+conhecimentos-ii,elementos,08.03.02.06,TECELAGEM,08.03.02.00
+conhecimentos-ii,elementos,08.03.02.90,OUTROS ELEMENTOS (ARTES PLÁSTICAS) DESENHO ARTÍSTICO E ARQUITETÔNICO,08.03.02.00
+conhecimentos-ii,elementos,08.03.03.01,CANTO,08.03.03.00
+conhecimentos-ii,elementos,08.03.03.02,COMPOSIÇÃO MUSICAL,08.03.03.00
+conhecimentos-ii,elementos,08.03.03.03,INSTRUMENTAÇÃO MUSICAL,08.03.03.00
+conhecimentos-ii,elementos,08.03.03.04,REGÊNCIA,08.03.03.00
+conhecimentos-ii,elementos,08.03.03.90,OUTROS ELEMENTOS (MÚSICA) PERCEPÇÃO MUSICAL,08.03.03.00
+conhecimentos-ii,elementos,08.03.04.01,COREOGRAFIA,08.03.04.00
+conhecimentos-ii,elementos,08.03.04.02,EXECUÇÃO DA DANÇA,08.03.04.00
+conhecimentos-ii,elementos,08.03.04.90,OUTROS ELEMENTOS (DANÇA) DANÇA APLICADA À PUBLICIDADE,08.03.04.00
+conhecimentos-ii,elementos,08.03.05.01,CENOGRAFIA,08.03.05.00
+conhecimentos-ii,elementos,08.03.05.02,DIREÇÃO TEATRAL,08.03.05.00
+conhecimentos-ii,elementos,08.03.05.03,DRAMATURGIA,08.03.05.00
+conhecimentos-ii,elementos,08.03.05.04,INTERPRETAÇÃO TEATRAL,08.03.05.00
+conhecimentos-ii,elementos,08.03.05.90,OUTROS ELEMENTOS (TEATRO) ESTUDO DO ESPAÇO CÊNICO,08.03.05.00
+conhecimentos-ii,elementos,08.03.06.01,ÓPERA,08.03.06.00
+conhecimentos-ii,elementos,08.03.06.90,OUTROS ELEMENTOS (ÓPERA) FUNDAMENTOS DE ÓPERA APLICADOS AO DESENVOLVIMENTO DE SERVIÇOS CULTURAIS,08.03.06.00
+conhecimentos-ii,elementos,08.03.07.01,FOTOGRAFIA,08.03.07.00
+conhecimentos-ii,elementos,08.03.07.90,OUTROS ELEMENTOS (FOTOGRAFIA) FUNDAMENTOS DE FOTOGRAFIA,08.03.07.00
+conhecimentos-ii,elementos,08.03.08.01,ADMINISTRAÇÃO E PRODUÇÃO DE FILMES,08.03.08.00
+conhecimentos-ii,elementos,08.03.08.02,INTERPRETAÇÃO CINEMATOGRÁFICA,08.03.08.00
+conhecimentos-ii,elementos,08.03.08.03,ROTEIRO E DIREÇÃO CINEMATOGRÁFICOS,08.03.08.00
+conhecimentos-ii,elementos,08.03.08.04,TÉCNICAS DE REGISTRO E PROCESSAMENTO DE FILMES,08.03.08.00
+conhecimentos-ii,elementos,08.03.08.90,OUTROS ELEMENTOS (CINEMA) PUBLICIDADE E PRODUÇÃO CINEMATOGRÁFICA,08.03.08.00
+conhecimentos-ii,elementos,08.03.09.01,ARTES DO VÍDEO,08.03.09.00
+conhecimentos-ii,elementos,08.03.09.90,OUTROS ELEMENTOS (ARTES DO VÍDEO) FUNDAMENTOS E TÉCNICAS DAS ARTES DO VÍDEO APLICADOS À PRODUÇÃO PUBLICITÁRIA,08.03.09.00
+conhecimentos-ii,elementos,08.03.10.01,EDUCAÇÃO ARTÍSTICA,08.03.10.00
+conhecimentos-ii,elementos,08.03.10.90,"OUTROS ELEMENTOS (EDUCAÇÃO ARTÍSTICA) EDUCAÇÃO ARTÍSTICA EM SERVIÇOS CULTURAIS PÚBLICOS, PRIVADOS E DO TERCEIRO SETOR",08.03.10.00
+conhecimentos-ii,elementos,08.03.99.01,OUTROS ELEMENTOS (ARTES) ESTILOS E MOVIMENTOS ARTÍSTICOS REGIONAIS BRASILEIROS,08.03.99.00
+conhecimentos-ii,elementos,09.01.01.01,ANÁLISE DE RISCOS,09.01.01.00
+conhecimentos-ii,elementos,09.01.01.02,BIOTECNOLOGIA,09.01.01.00
+conhecimentos-ii,elementos,09.01.01.03,CONTROLE DE PROCESSOS,09.01.01.00
+conhecimentos-ii,elementos,09.01.01.04,ENERGIA,09.01.01.00
+conhecimentos-ii,elementos,09.01.01.05,FOTÔNICA,09.01.01.00
+conhecimentos-ii,elementos,09.01.01.06,MATERIAIS AVANÇADOS E NANOCOMPÓSITOS,09.01.01.00
+conhecimentos-ii,elementos,09.01.01.07,MECATRÔNICA (AUTOMAÇÃO),09.01.01.00
+conhecimentos-ii,elementos,09.01.01.08,MECATRÔNICA (ROBOTIZAÇÃO),09.01.01.00
+conhecimentos-ii,elementos,09.01.01.09,NANOTECNOLOGIA,09.01.01.00
+conhecimentos-ii,elementos,09.01.01.10,TECNOLOGIAS ADITIVAS (PROTOTIPAGEM 3D OU IMPRESSÃO 3D),09.01.01.00
+conhecimentos-ii,elementos,09.01.01.11,TECNOLOGIAS DE DEFESA E SEGURANÇA,09.01.01.00
+conhecimentos-ii,elementos,09.01.99.01,OUTROS ELEMENTOS (TECNOLOGIAS ESTRATÉGICAS) GERENCIAMENTO DE RESÍDUOS,09.01.99.00
+conhecimentos-ii,elementos,09.02.01.01,ESTRATÉGIAS DE PESQUISA,09.02.01.00
+conhecimentos-ii,elementos,09.02.01.02,INSTRUMENTOS E APARELHOS DE PESQUISA,09.02.01.00
+conhecimentos-ii,elementos,09.02.01.03,METODOLOGIA CIENTÍFICA,09.02.01.00
+conhecimentos-ii,elementos,09.02.01.04,METODOLOGIA DE PESQUISA,09.02.01.00
+conhecimentos-ii,elementos,09.02.01.05,TÉCNICAS DE PESQUISA,09.02.01.00
+conhecimentos-ii,elementos,09.02.01.90,"OUTROS ELEMENTOS (MÉTODOS E PROCEDIMENTOS DE PESQUISA) CIÊNCIA, TECNOLOGIA E INOVAÇÃO",09.02.01.00
+conhecimentos-ii,elementos,09.02.02.01,AVALIAÇÃO DE PROJETO,09.02.02.00
+conhecimentos-ii,elementos,09.02.02.02,DESENVOLVIMENTO DE PROJETOS,09.02.02.00
+conhecimentos-ii,elementos,09.02.02.03,ELABORAÇÃO DE PROJETO,09.02.02.00
+conhecimentos-ii,elementos,09.02.99.01,"OUTROS ELEMENTOS (MÉTODOS E PROCEDIMENTOS CIENTÍFICOS) ESTUDO DE VIABILIDADE TÉCNICA, ECONÔMICA E AMBIENTAL",09.02.99.00

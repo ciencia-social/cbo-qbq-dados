@@ -1,0 +1,153 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://qbq.dev/schema/qbq-competencias.schema.json",
+  "title": "Competências (CHA) por ocupação, particionadas por grande grupo",
+  "type": "object",
+  "required": [
+    "grande_grupo",
+    "versao_dados",
+    "total",
+    "ocupacoes"
+  ],
+  "properties": {
+    "grande_grupo": {
+      "type": "string",
+      "pattern": "^[0-9]$"
+    },
+    "versao_dados": {
+      "type": "string"
+    },
+    "total": {
+      "type": "integer"
+    },
+    "ocupacoes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "codigo",
+          "taxonomia_conhecimento",
+          "conhecimentos",
+          "habilidades",
+          "atitudes"
+        ],
+        "properties": {
+          "codigo": {
+            "$ref": "definicoes.json#/$defs/codigoCBO"
+          },
+          "taxonomia_conhecimento": {
+            "description": "Qual taxonomia de conhecimento a ocupação usa: conhecimentos-i (níveis 1-5) ou conhecimentos-ii (6-8)",
+            "anyOf": [
+              {
+                "enum": [
+                  "conhecimentos-i",
+                  "conhecimentos-ii",
+                  null
+                ]
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            ]
+          },
+          "conhecimentos": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "codigo",
+                "profundidade",
+                "frequencia",
+                "importancia",
+                "linha"
+              ],
+              "properties": {
+                "codigo": {
+                  "type": "string"
+                },
+                "profundidade": {
+                  "$ref": "definicoes.json#/$defs/grau"
+                },
+                "frequencia": {
+                  "$ref": "definicoes.json#/$defs/grau"
+                },
+                "importancia": {
+                  "$ref": "definicoes.json#/$defs/grau"
+                },
+                "linha": {
+                  "type": "integer"
+                },
+                "descricao": {
+                  "type": "string",
+                  "description": "Presente apenas em itens de balde 'outros' (código com último segmento 90): a descrição da linha carrega o conteúdo real (D009)"
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "habilidades": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "codigo",
+                "frequencia",
+                "importancia",
+                "linha"
+              ],
+              "properties": {
+                "codigo": {
+                  "type": "string"
+                },
+                "frequencia": {
+                  "$ref": "definicoes.json#/$defs/grau"
+                },
+                "importancia": {
+                  "$ref": "definicoes.json#/$defs/grau"
+                },
+                "linha": {
+                  "type": "integer"
+                },
+                "descricao": {
+                  "type": "string"
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "atitudes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "codigo",
+                "importancia",
+                "linha"
+              ],
+              "properties": {
+                "codigo": {
+                  "type": "string"
+                },
+                "importancia": {
+                  "$ref": "definicoes.json#/$defs/grau"
+                },
+                "linha": {
+                  "type": "integer"
+                },
+                "descricao": {
+                  "type": "string"
+                }
+              },
+              "additionalProperties": false
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,526 @@
+{
+  "versao_dados": "dados-2026.08",
+  "total": 52,
+  "ocupacoes": [
+    {
+      "codigo": "010105",
+      "titulo": "Oficial general da aeronáutica",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   A estrutura organizacional das Forças Armadas segue hierarquia própria da corporação; 4.   A preparação para acesso à ocupação segue regras próprias das Forças Armadas; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 2
+      }
+    },
+    {
+      "codigo": "010110",
+      "titulo": "Oficial general do exército",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   A estrutura organizacional das Forças Armadas segue hierarquia própria da corporação; 4.   A preparação para acesso à ocupação segue regras próprias das Forças Armadas; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 3
+      }
+    },
+    {
+      "codigo": "010115",
+      "titulo": "Oficial general da marinha",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   A estrutura organizacional das Forças Armadas segue hierarquia própria da corporação; 4.   A preparação para acesso à ocupação segue regras próprias das Forças Armadas; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 4
+      }
+    },
+    {
+      "codigo": "010205",
+      "titulo": "Oficial da aeronáutica",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   A estrutura organizacional das Forças Armadas segue hierarquia própria da corporação; 4.   A preparação para acesso à ocupação segue regras próprias das Forças Armadas; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 5
+      }
+    },
+    {
+      "codigo": "010210",
+      "titulo": "Oficial do exército",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   A estrutura organizacional das Forças Armadas segue hierarquia própria da corporação; 4.   A preparação para acesso à ocupação segue regras próprias das Forças Armadas; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 6
+      }
+    },
+    {
+      "codigo": "010215",
+      "titulo": "Oficial da marinha",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   A estrutura organizacional das Forças Armadas segue hierarquia própria da corporação; 4.   A preparação para acesso à ocupação segue regras próprias das Forças Armadas; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 7
+      }
+    },
+    {
+      "codigo": "010305",
+      "titulo": "Praça da aeronáutica",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   A estrutura organizacional das Forças Armadas segue hierarquia própria da corporação; 4.   A preparação para acesso à ocupação segue regras próprias das Forças Armadas; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 8
+      }
+    },
+    {
+      "codigo": "010310",
+      "titulo": "Praça do exército",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   A estrutura organizacional das Forças Armadas segue hierarquia própria da corporação; 4.   A preparação para acesso à ocupação segue regras próprias das Forças Armadas; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 9
+      }
+    },
+    {
+      "codigo": "010315",
+      "titulo": "Praça da marinha",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   A estrutura organizacional das Forças Armadas segue hierarquia própria da corporação; 4.   A preparação para acesso à ocupação segue regras próprias das Forças Armadas; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 10
+      }
+    },
+    {
+      "codigo": "020105",
+      "titulo": "Coronel da polícia militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO);  2.   A estrutura organizacional das Policiais Militares segue hierarquia própria da corporação; 3.   A preparação para acesso à ocupação segue regras próprias da Polícia Militar; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 11
+      }
+    },
+    {
+      "codigo": "020110",
+      "titulo": "Tenente-coronel da polícia militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO);  2.   A estrutura organizacional das Policiais Militares segue hierarquia própria da corporação; 3.   A preparação para acesso à ocupação segue regras próprias da Polícia Militar; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 12
+      }
+    },
+    {
+      "codigo": "020115",
+      "titulo": "Major da polícia militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO);  2.   A estrutura organizacional das Policiais Militares segue hierarquia própria da corporação; 3.   A preparação para acesso à ocupação segue regras próprias da Polícia Militar; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 13
+      }
+    },
+    {
+      "codigo": "020205",
+      "titulo": "Capitão da polícia militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO);  2.   A estrutura organizacional das Policiais Militares segue hierarquia própria da corporação; 3.   A preparação para acesso à ocupação segue regras próprias da Polícia Militar; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 14
+      }
+    },
+    {
+      "codigo": "020305",
+      "titulo": "Primeiro tenente de polícia militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO);  2.   A estrutura organizacional das Policiais Militares segue hierarquia própria da corporação; 3.   A preparação para acesso à ocupação segue regras próprias da Polícia Militar; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 15
+      }
+    },
+    {
+      "codigo": "020310",
+      "titulo": "Segundo tenente de polícia militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO);  2.   A estrutura organizacional das Policiais Militares segue hierarquia própria da corporação; 3.   A preparação para acesso à ocupação segue regras próprias da Polícia Militar; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 16
+      }
+    },
+    {
+      "codigo": "021105",
+      "titulo": "Subtenente da policia militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO);  2.   A estrutura organizacional das Policiais Militares segue hierarquia própria da corporação; 3.   A preparação para acesso à ocupação segue regras próprias da Polícia Militar; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 17
+      }
+    },
+    {
+      "codigo": "021110",
+      "titulo": "Sargento da policia militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO);  2.   A estrutura organizacional das Policiais Militares segue hierarquia própria da corporação; 3.   A preparação para acesso à ocupação segue regras próprias da Polícia Militar; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 18
+      }
+    },
+    {
+      "codigo": "021205",
+      "titulo": "Cabo da polícia militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO);  2.   A estrutura organizacional das Policiais Militares segue hierarquia própria da corporação; 3.   A preparação para acesso à ocupação segue regras próprias da Polícia Militar; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 19
+      }
+    },
+    {
+      "codigo": "021210",
+      "titulo": "Soldado da polícia militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO);  2.   A estrutura organizacional das Policiais Militares segue hierarquia própria da corporação; 3.   A preparação para acesso à ocupação segue regras próprias da Polícia Militar; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 20
+      }
+    },
+    {
+      "codigo": "030105",
+      "titulo": "Coronel bombeiro militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   A estrutura organizacional dos Bombeiros Militares segue hierarquia própria da corporação;  3.   A preparação para acesso à ocupação segue regras próprias dos Bombeiros Militares; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 21
+      }
+    },
+    {
+      "codigo": "030110",
+      "titulo": "Major bombeiro militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   A estrutura organizacional dos Bombeiros Militares segue hierarquia própria da corporação;  3.   A preparação para acesso à ocupação segue regras próprias dos Bombeiros Militares; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 22
+      }
+    },
+    {
+      "codigo": "030115",
+      "titulo": "Tenente-coronel bombeiro militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   A estrutura organizacional dos Bombeiros Militares segue hierarquia própria da corporação;  3.   A preparação para acesso à ocupação segue regras próprias dos Bombeiros Militares; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 23
+      }
+    },
+    {
+      "codigo": "030205",
+      "titulo": "Capitão bombeiro militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   A estrutura organizacional dos Bombeiros Militares segue hierarquia própria da corporação;  3.   A preparação para acesso à ocupação segue regras próprias dos Bombeiros Militares; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 24
+      }
+    },
+    {
+      "codigo": "030305",
+      "titulo": "Tenente do corpo de bombeiros militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   A estrutura organizacional dos Bombeiros Militares segue hierarquia própria da corporação;  3.   A preparação para acesso à ocupação segue regras próprias dos Bombeiros Militares; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 25
+      }
+    },
+    {
+      "codigo": "031105",
+      "titulo": "Subtenente bombeiro militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   A estrutura organizacional dos Bombeiros Militares segue hierarquia própria da corporação;  3.   A preparação para acesso à ocupação segue regras próprias dos Bombeiros Militares; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 26
+      }
+    },
+    {
+      "codigo": "031110",
+      "titulo": "Sargento bombeiro militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   A estrutura organizacional dos Bombeiros Militares segue hierarquia própria da corporação;  3.   A preparação para acesso à ocupação segue regras próprias dos Bombeiros Militares; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 27
+      }
+    },
+    {
+      "codigo": "031205",
+      "titulo": "Cabo bombeiro militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   A estrutura organizacional dos Bombeiros Militares segue hierarquia própria da corporação;  3.   A preparação para acesso à ocupação segue regras próprias dos Bombeiros Militares; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 28
+      }
+    },
+    {
+      "codigo": "031210",
+      "titulo": "Soldado bombeiro militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   A estrutura organizacional dos Bombeiros Militares segue hierarquia própria da corporação;  3.   A preparação para acesso à ocupação segue regras próprias dos Bombeiros Militares; Por isso, o título ocupacional não foi classificado em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 29
+      }
+    },
+    {
+      "codigo": "111105",
+      "titulo": "Senador",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   O acesso à ocupação depende de quantidade de voto popular em processo eleitoral; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 30
+      }
+    },
+    {
+      "codigo": "111110",
+      "titulo": "Deputado federal",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   O acesso à ocupação depende de quantidade de voto popular em processo eleitoral; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 31
+      }
+    },
+    {
+      "codigo": "111115",
+      "titulo": "Deputado estadual e distrital",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   O acesso à ocupação depende de quantidade de voto popular em processo eleitoral; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 32
+      }
+    },
+    {
+      "codigo": "111120",
+      "titulo": "Vereador",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   O acesso à ocupação depende de quantidade de voto popular em processo eleitoral; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 33
+      }
+    },
+    {
+      "codigo": "111205",
+      "titulo": "Presidente da república",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   O acesso à ocupação depende de quantidade de voto popular em processo eleitoral; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 34
+      }
+    },
+    {
+      "codigo": "111210",
+      "titulo": "Vice-presidente da república",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   O acesso à ocupação depende de quantidade de voto popular em processo eleitoral; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 35
+      }
+    },
+    {
+      "codigo": "111215",
+      "titulo": "Ministro de estado",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   O acesso à ocupação depende de nomeação pelo Presidente da República; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 36
+      }
+    },
+    {
+      "codigo": "111220",
+      "titulo": "Secretário - executivo",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   O acesso à ocupação depende de nomeação pelo Presidente da República; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 37
+      }
+    },
+    {
+      "codigo": "111225",
+      "titulo": "Membro superior do poder executivo",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   O acesso à ocupação depende de nomeação pelo Presidente da República; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 38
+      }
+    },
+    {
+      "codigo": "111230",
+      "titulo": "Governador de estado",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   O acesso à ocupação depende de quantidade de voto popular em processo eleitoral; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 39
+      }
+    },
+    {
+      "codigo": "111235",
+      "titulo": "Governador do distrito federal",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   O acesso à ocupação depende de quantidade de voto popular em processo eleitoral; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 40
+      }
+    },
+    {
+      "codigo": "111240",
+      "titulo": "Vice-governador de estado",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   O acesso à ocupação depende de quantidade de voto popular em processo eleitoral; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 41
+      }
+    },
+    {
+      "codigo": "111245",
+      "titulo": "Vice-governador do distrito federal",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   O acesso à ocupação depende de quantidade de voto popular em processo eleitoral; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 42
+      }
+    },
+    {
+      "codigo": "111250",
+      "titulo": "Prefeito",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   O acesso à ocupação depende de quantidade de voto popular em processo eleitoral; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 43
+      }
+    },
+    {
+      "codigo": "111255",
+      "titulo": "Vice-prefeito",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2.   Não consta uma tabela das atividades desempenhadas, referentes a esta ocupação, na CBO; 3.   O acesso à ocupação depende de quantidade de voto popular em processo eleitoral; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 44
+      }
+    },
+    {
+      "codigo": "111305",
+      "titulo": "Ministro do supremo tribunal federal",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2. O acesso à ocupação depende de nomeação do Presidente da República, após aprovação pelo Senado Federal; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 45
+      }
+    },
+    {
+      "codigo": "111310",
+      "titulo": "Ministro do superior tribunal de justiça",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2. O acesso à ocupação depende de nomeação do Presidente da República, após aprovação pelo Senado Federal; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 46
+      }
+    },
+    {
+      "codigo": "111315",
+      "titulo": "Ministro do  superior tribunal militar",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2. O acesso à ocupação depende de nomeação do Presidente da República, após aprovação pelo Senado Federal; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 47
+      }
+    },
+    {
+      "codigo": "111320",
+      "titulo": "Ministro do  superior tribunal do trabalho",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2. O acesso à ocupação depende de nomeação do Presidente da República, após aprovação pelo Senado Federal; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 48
+      }
+    },
+    {
+      "codigo": "516705",
+      "titulo": "Astrólogo",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2. O exercício da ocupação requer capacidades sensitivas e analíticas para previsão do futuro, do destino, do comportamento e do caráter das pessoas; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 49
+      }
+    },
+    {
+      "codigo": "516710",
+      "titulo": "Numerólogo",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2. O exercício da ocupação requer capacidades sensitivas e analíticas para previsão do futuro, do destino, do comportamento e do caráter das pessoas; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 50
+      }
+    },
+    {
+      "codigo": "516805",
+      "titulo": "Esotérico",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2. O exercício da ocupação requer capacidades sensitivas e analíticas para previsão do futuro, do destino, do comportamento e do caráter das pessoas; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 51
+      }
+    },
+    {
+      "codigo": "516810",
+      "titulo": "Paranormal",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2. O exercício da ocupação requer capacidades sensitivas e analíticas para previsão do futuro, do destino, do comportamento e do caráter das pessoas; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 52
+      }
+    },
+    {
+      "codigo": "519805",
+      "titulo": "Profissional do sexo",
+      "justificativa": "1.   O foco do Quadro Brasileiro de Qualificações (QBQ) é descrever o preparo necessário ao trabalhador para o desempenho de cada ocupação descrita na Classificação Brasileira de Ocupações (CBO); 2. É vedada a formação de profissionais para o exercício da ocupação; Por isso, a ocupação não foi classificada em um nível de qualificação do QBQ.",
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupações não classificada",
+        "linha": 53
+      }
+    }
+  ]
+}

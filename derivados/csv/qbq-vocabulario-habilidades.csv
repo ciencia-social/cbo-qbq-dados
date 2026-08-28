@@ -1,0 +1,103 @@
+vocabulario,nivel,codigo,descricao,pai
+habilidades,dominios,1,HABILIDADES COGNITIVAS,
+habilidades,dominios,2,HABILIDADES PRÁTICAS,
+habilidades,dominios,3,"HABILIDADES FÍSICAS, PSICOMOTORAS E SENSORIAIS",
+habilidades,categorias,01.01,COMUNICAÇÃO,1
+habilidades,categorias,01.02,TRABALHO COM NÚMEROS,1
+habilidades,categorias,01.03,RACIOCÍNIO,1
+habilidades,categorias,01.90,OUTRAS HABILIDADES DE COGNITIVAS (ESPECIFICAR...),1
+habilidades,categorias,02.01,HABILIDADES OPERACIONAIS,2
+habilidades,categorias,02.02,HABILIDADES ORGANIZACIONAIS,2
+habilidades,categorias,02.03,HABILIDADES INTERPESSOAIS,2
+habilidades,categorias,02.90,OUTRAS HABILIDADES PRÁTICAS (ESPECIFICAR: ....),2
+habilidades,categorias,03.01,HABILIDADES FÍSICAS,3
+habilidades,categorias,03.02,HABILIDADES PSICOMOTORAS,3
+habilidades,categorias,03.03,HABILIDADES SENSORIAIS,3
+habilidades,categorias,03.90,"OUTRAS HABILIDADES FÍSICAS, PSICOMOTORAS E SENSORIAIS (ESPECIFICAR: ....)",3
+habilidades,habilidades,01.01.01,COMPREENSÃO ORAL,01.01
+habilidades,habilidades,01.01.02,ESCUTA ATIVA,01.01
+habilidades,habilidades,01.01.03,EXPRESSÃO ORAL,01.01
+habilidades,habilidades,01.01.04,COMPREENSÃO ESCRITA,01.01
+habilidades,habilidades,01.01.05,EXPRESSÃO ESCRITA,01.01
+habilidades,habilidades,01.01.06,ESTRATÉGIAS DE APRENDIZAGEM,01.01
+habilidades,habilidades,01.01.07,APRENDIZADO ATIVO,01.01
+habilidades,habilidades,01.01.08,PERSUASÃO,01.01
+habilidades,habilidades,01.01.09,NEGOCIAÇÃO,01.01
+habilidades,habilidades,01.01.10,HABILIDADE DE ORIENTAR SERVIÇOS,01.01
+habilidades,habilidades,01.01.11,HABILIDADE DE ENSINAR,01.01
+habilidades,habilidades,01.02.01,TRANSCRIÇÃO DE DADOS,01.02
+habilidades,habilidades,01.02.02,COMPARAÇÃO DE DADOS,01.02
+habilidades,habilidades,01.02.03,CLASSIFICAÇÃO DE DADOS,01.02
+habilidades,habilidades,01.02.04,COMPREENSÃO NUMÉRICA,01.02
+habilidades,habilidades,01.02.05,EXPRESSÃO NUMÉRICA,01.02
+habilidades,habilidades,01.02.06,ANÁLISE DE DADOS,01.02
+habilidades,habilidades,01.02.07,SINTETIZAÇÃO DE DADOS,01.02
+habilidades,habilidades,01.03.01,RACIOCÍNIO CONCRETO PARA SEGUIR INSTRUÇÕES,01.03
+habilidades,habilidades,01.03.02,RACIOCÍNIO ABSTRATO PARA RESOLUÇÃO DE PROBLEMAS,01.03
+habilidades,habilidades,01.03.03,RACIOCÍNIO ANALÍTICO,01.03
+habilidades,habilidades,01.03.04,RACIOCÍNIO SINTÉTICO (CAPACIDADE DE DIAGNÓSTICO DE PROBLEMAS OU TROUBLESHOOTING),01.03
+habilidades,habilidades,01.03.05,RACIOCÍNIO CRÍTICO,01.03
+habilidades,habilidades,01.03.06,RACIOCÍONIO CIENTÍFICO,01.03
+habilidades,habilidades,01.90.01,OUTRAS - VISÃO ESPACIAL,01.90
+habilidades,habilidades,02.01.01,APLICAÇÃO DE INSTRUÇÕES SIMPLES E ROTINEIRAS,02.01
+habilidades,habilidades,02.01.02,APLICAÇÃO DE TÉCNICAS QUE ENVOLVEM ALGUMAS VARIÁVEIS CONCRETAS E ESPECÍFICAS,02.01
+habilidades,habilidades,02.01.03,APLICAÇÃO DE TÉCNICAS QUE ENVOLVEM MUITAS VARIÁVEIS CONCRETAS E ESPECÍFICAS,02.01
+habilidades,habilidades,02.01.04,APLICAÇÃO DE HABILIDADES ARTÍSTICAS,02.01
+habilidades,habilidades,02.01.05,APLICAÇÃO DE PRINCÍPIOS TECNOLÓGICOS DE BAIXA COMPLEXIDADE,02.01
+habilidades,habilidades,02.01.06,APLICAÇÃO DE PRINCÍPIOS CIENTÍFICOS OU TECNOLÓGICOS PARA SOLUÇÃO DE PROBLEMAS,02.01
+habilidades,habilidades,02.01.07,APLICAÇÃO DE CONHECIMENTO DE UM CAMPO DE ESTUDO CIENTÍFICO,02.01
+habilidades,habilidades,02.01.08,APLICAÇÃO DE CONHECIMENTO CIENTÍFICO DE ALTA COMPLEXIDADE,02.01
+habilidades,habilidades,02.02.01,ANÁLISE DE OPERAÇÕES,02.02
+habilidades,habilidades,02.02.02,PROGRAMAÇÃO DE OPERAÇÕES,02.02
+habilidades,habilidades,02.02.03,ANÁLISE DE GARANTIA DE QUALIDADE,02.02
+habilidades,habilidades,02.02.04,ANÁLISE SISTÊMICA,02.02
+habilidades,habilidades,02.02.05,GERENCIAMENTO DE RECURSOS MATERIAIS,02.02
+habilidades,habilidades,02.02.06,GERENCIAMENTO DE RECURSOS FINANCEIROS,02.02
+habilidades,habilidades,02.02.07,GERENCIAMENTO DE RECURSOS HUMANOS,02.02
+habilidades,habilidades,02.02.08,ANÁLISE DE RISCOS,02.02
+habilidades,habilidades,02.02.09,GERENCIAMENTO DE RISCOS,02.02
+habilidades,habilidades,02.03.01,TRABALHO EM EQUIPE,02.03
+habilidades,habilidades,02.03.02,ATENDIMENTO A SOLICITAÇÕES E PEDIDOS DAS PESSOAS...,02.03
+habilidades,habilidades,02.03.03,TROCA DE INFORMAÇÕES,02.03
+habilidades,habilidades,02.03.04,FORNECIMENTO DE INFORMAÇÕES,02.03
+habilidades,habilidades,02.03.05,COOPERAÇÃO,02.03
+habilidades,habilidades,02.03.06,"PERSUASÃO DE PESSOAS EM FAVOR DE IDEIAS, PRODUTOS E/OU SERVIÇOS",02.03
+habilidades,habilidades,02.03.07,ORIENTAÇÃO DE PESSOAS,02.03
+habilidades,habilidades,02.03.08,FACILITAÇÃO E  MEDIAÇÃO DE APRENDIZAGEM,02.03
+habilidades,habilidades,02.03.09,ASSESSORAMENTO,02.03
+habilidades,habilidades,02.03.10,SUPERVISÃO,02.03
+habilidades,habilidades,02.03.11,COORDENAÇÃO,02.03
+habilidades,habilidades,02.03.12,PERCEPÇÃO DA REALIDADE SOCIAL,02.03
+habilidades,habilidades,02.90.01,OUTRAS - TRABALHO SOB PRESSÃO,02.90
+habilidades,habilidades,03.01.01,COORDENAÇÃO CORPORAL BRUTA,03.01
+habilidades,habilidades,03.01.02,EQUILÍBRIO CORPORAL BRUTO,03.01
+habilidades,habilidades,03.01.03,FLEXIBILIDADE DE EXTENSÃO,03.01
+habilidades,habilidades,03.01.04,FLEXIBILIDADE DINÂMICA,03.01
+habilidades,habilidades,03.01.05,FORÇA DE TRONCO,03.01
+habilidades,habilidades,03.01.06,FORÇA DINÂMICA,03.01
+habilidades,habilidades,03.01.07,FORÇA ESTÁTICA,03.01
+habilidades,habilidades,03.01.08,FORÇA EXPLOSIVA,03.01
+habilidades,habilidades,03.01.09,VIGOR (ESTAMINA),03.01
+habilidades,habilidades,03.02.01,ESTABILIDADE (FIRMEZA) BRAÇO-MÃO,03.02
+habilidades,habilidades,03.02.02,PRECISÃO DE CONTROLE,03.02
+habilidades,habilidades,03.02.03,DESTREZA DOS DEDOS (OU DIGITAL),03.02
+habilidades,habilidades,03.02.04,DESTREZA MANUAL,03.02
+habilidades,habilidades,03.02.05,COORDENAÇÃO MULTIMEMBROS,03.02
+habilidades,habilidades,03.02.06,TAXA DE CONTROLE,03.02
+habilidades,habilidades,03.02.07,TEMPO DE REAÇÃO (OU DE RESPOSTA),03.02
+habilidades,habilidades,03.02.08,RESPOSTA DE ORIENTAÇÃO,03.02
+habilidades,habilidades,03.02.09,VELOCIDADE DE MOVIMENTO DOS MEMBROS,03.02
+habilidades,habilidades,03.02.10,VELOCIDADE DE PULSO-DEDOS​​,03.02
+habilidades,habilidades,03.03.01,ATENÇÃO AUDITIVA,03.03
+habilidades,habilidades,03.03.02,LOCALIZAÇÃO DE SOM,03.03
+habilidades,habilidades,03.03.03,RECONHECIMENTO DE FALA,03.03
+habilidades,habilidades,03.03.04,CLAREZA DE FALA,03.03
+habilidades,habilidades,03.03.05,SENSIBILIDADE AUDITIVA,03.03
+habilidades,habilidades,03.03.06,SENSIBILIDADE AO BRILHO,03.03
+habilidades,habilidades,03.03.07,PERCEPÇÃO DE PROFUNDIDADE,03.03
+habilidades,habilidades,03.03.08,VISÃO A DISTÂNCIA,03.03
+habilidades,habilidades,03.03.09,VISÃO DE PERTO (OU A CURTA DISTÂNCIA),03.03
+habilidades,habilidades,03.03.10,VISÃO NOTURNA,03.03
+habilidades,habilidades,03.03.11,VISÃO PERIFÉRICA,03.03
+habilidades,habilidades,03.03.12,DISCRIMINAÇÃO DE COR VISUAL,03.03
+habilidades,habilidades,03.90.01,OUTRAS - ATENÇÃO A DETALHES,03.90

@@ -1,0 +1,13 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Consulta oficial do QBQ
+    url: https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/quadro-brasileiro-de-qualificacoes-qbq
+    about: >-
+      Este repositório não é um canal oficial do Ministério do Trabalho e
+      Emprego. Dúvidas sobre o conteúdo normativo do QBQ (não sobre a
+      estruturação dos dados) devem ir aos canais oficiais.
+  - name: Decisões de interpretação já registradas
+    url: https://github.com/ciencia-social/qbq-dados/blob/main/DECISOES.md
+    about: >-
+      Antes de relatar uma anomalia, confira se ela já é um fato conhecido da
+      fonte oficial documentado em DECISOES.md.

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+
+# Derivados monolíticos: não versionados (anexos de release).
+# Regenere com `python3 pipeline/derivar.py`; os checksums estão em
+# derivados/MANIFEST.sha256, que é versionado.
+derivados/qbq.sql
+derivados/qbq.sqlite
+derivados/*.gz

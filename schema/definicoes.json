@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://qbq.dev/schema/definicoes.json",
+  "title": "Definições compartilhadas do dataset QBQ/CBO",
+  "$defs": {
+    "codigoCBO": {
+      "type": "string",
+      "pattern": "^[0-9]{6}$",
+      "description": "Código CBO da ocupação, 6 dígitos com zero à esquerda"
+    },
+    "grau": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1,
+      "maximum": 5,
+      "description": "Escala oficial de 1 a 5; null quando ausente na fonte"
+    },
+    "nivel": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1,
+      "maximum": 8,
+      "description": "Nível de qualificação QBQ, 1 a 8"
+    },
+    "vigencia": {
+      "type": "object",
+      "required": [
+        "status",
+        "desde",
+        "ate"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "vigente",
+            "alterado",
+            "revogado"
+          ]
+        },
+        "desde": {
+          "type": "string",
+          "pattern": "^dados-[0-9]{4}\\.[0-9]{2}$"
+        },
+        "ate": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^dados-[0-9]{4}\\.[0-9]{2}$"
+        }
+      },
+      "additionalProperties": false
+    },
+    "fonte": {
+      "type": "object",
+      "required": [
+        "arquivo",
+        "aba",
+        "linha"
+      ],
+      "properties": {
+        "arquivo": {
+          "type": "string"
+        },
+        "aba": {
+          "type": "string"
+        },
+        "linha": {
+          "type": "integer",
+          "minimum": 2
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}

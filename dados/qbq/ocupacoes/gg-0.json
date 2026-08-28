@@ -1,0 +1,623 @@
+{
+  "grande_grupo": "0",
+  "versao_dados": "dados-2026.08",
+  "total": 28,
+  "ocupacoes": [
+    {
+      "codigo": "010105",
+      "titulo": "Oficial general da aeronáutica",
+      "sintese": null,
+      "perfil_ocupacional": null,
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2639
+      }
+    },
+    {
+      "codigo": "010110",
+      "titulo": "Oficial general do exército",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2635
+      }
+    },
+    {
+      "codigo": "010115",
+      "titulo": "Oficial general da marinha",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2646
+      }
+    },
+    {
+      "codigo": "010205",
+      "titulo": "Oficial da aeronáutica",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2611
+      }
+    },
+    {
+      "codigo": "010210",
+      "titulo": "Oficial do exército",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2608
+      }
+    },
+    {
+      "codigo": "010215",
+      "titulo": "Oficial da marinha",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2649
+      }
+    },
+    {
+      "codigo": "010305",
+      "titulo": "Praça da aeronáutica",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2632
+      }
+    },
+    {
+      "codigo": "010310",
+      "titulo": "Praça do exército",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2644
+      }
+    },
+    {
+      "codigo": "010315",
+      "titulo": "Praça da marinha",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2609
+      }
+    },
+    {
+      "codigo": "020105",
+      "titulo": "Coronel da polícia militar",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2624
+      }
+    },
+    {
+      "codigo": "020110",
+      "titulo": "Tenente-coronel da polícia militar",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2617
+      }
+    },
+    {
+      "codigo": "020115",
+      "titulo": "Major da polícia militar",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2603
+      }
+    },
+    {
+      "codigo": "020205",
+      "titulo": "Capitão da polícia militar",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2625
+      }
+    },
+    {
+      "codigo": "020305",
+      "titulo": "Primeiro tenente de polícia militar",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2602
+      }
+    },
+    {
+      "codigo": "020310",
+      "titulo": "Segundo tenente de polícia militar",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2615
+      }
+    },
+    {
+      "codigo": "021105",
+      "titulo": "Subtenente da policia militar",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2629
+      }
+    },
+    {
+      "codigo": "021110",
+      "titulo": "Sargento da policia militar",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2640
+      }
+    },
+    {
+      "codigo": "021205",
+      "titulo": "Cabo da polícia militar",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2616
+      }
+    },
+    {
+      "codigo": "021210",
+      "titulo": "Soldado da polícia militar",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2607
+      }
+    },
+    {
+      "codigo": "030105",
+      "titulo": "Coronel bombeiro militar",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2626
+      }
+    },
+    {
+      "codigo": "030110",
+      "titulo": "Major bombeiro militar",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2637
+      }
+    },
+    {
+      "codigo": "030115",
+      "titulo": "Tenente-coronel bombeiro militar",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2631
+      }
+    },
+    {
+      "codigo": "030205",
+      "titulo": "Capitão bombeiro militar",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2623
+      }
+    },
+    {
+      "codigo": "030305",
+      "titulo": "Tenente do corpo de bombeiros militar",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2643
+      }
+    },
+    {
+      "codigo": "031105",
+      "titulo": "Subtenente bombeiro militar",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2641
+      }
+    },
+    {
+      "codigo": "031110",
+      "titulo": "Sargento bombeiro militar",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2613
+      }
+    },
+    {
+      "codigo": "031205",
+      "titulo": "Cabo bombeiro militar",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2638
+      }
+    },
+    {
+      "codigo": "031210",
+      "titulo": "Soldado bombeiro militar",
+      "sintese": "NULL",
+      "perfil_ocupacional": "NULL",
+      "niveis": {
+        "conhecimento": null,
+        "habilidade": null,
+        "atitude": null,
+        "qualificacao": null
+      },
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.08",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "fontes/qbq/qbq-2025-03.xlsx",
+        "aba": "Ocupação",
+        "linha": 2622
+      }
+    }
+  ]
+}

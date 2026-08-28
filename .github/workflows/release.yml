@@ -1,0 +1,54 @@
+name: Release
+
+# Publica os derivados monolíticos como anexos da tag de conteúdo. Eles não
+# são versionados no git (ver .gitignore e derivados/README.md): são
+# reconstruídos aqui a partir da fonte arquivada em fontes/ e anexados ao
+# release, junto do manifesto de checksums.
+on:
+  push:
+    tags: ["dados-*"]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Tag dados-AAAA.MM já existente a (re)popular"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  anexos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install openpyxl jsonschema
+
+      - name: Reconstruir da fonte e validar
+        run: |
+          python3 pipeline/extrair_qbq.py
+          git diff --exit-code dados/
+          python3 pipeline/validar_schema.py
+          python3 pipeline/validar.py
+          python3 pipeline/derivar.py
+          git diff --exit-code derivados/csv
+
+      - name: Compactar anexos
+        run: |
+          gzip -9 -k derivados/qbq.sql
+          gzip -9 -k derivados/qbq.sqlite
+          ls -lh derivados/qbq.sql.gz derivados/qbq.sqlite.gz
+
+      - name: Anexar ao release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.event.inputs.tag || github.ref_name }}
+        run: |
+          gh release view "$TAG" >/dev/null 2>&1 \
+            || gh release create "$TAG" --title "$TAG" --generate-notes
+          gh release upload "$TAG" \
+            derivados/qbq.sql.gz \
+            derivados/qbq.sqlite.gz \
+            derivados/MANIFEST.sha256 \
+            --clobber

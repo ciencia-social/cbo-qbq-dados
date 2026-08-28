@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://qbq.dev/schema/qbq-ocupacoes.schema.json",
+  "title": "Ocupações com dados QBQ, particionadas por grande grupo",
+  "type": "object",
+  "required": [
+    "grande_grupo",
+    "versao_dados",
+    "total",
+    "ocupacoes"
+  ],
+  "properties": {
+    "grande_grupo": {
+      "type": "string",
+      "pattern": "^[0-9]$"
+    },
+    "versao_dados": {
+      "type": "string"
+    },
+    "total": {
+      "type": "integer"
+    },
+    "ocupacoes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "codigo",
+          "titulo",
+          "sintese",
+          "perfil_ocupacional",
+          "niveis",
+          "vigencia",
+          "fonte"
+        ],
+        "properties": {
+          "codigo": {
+            "$ref": "definicoes.json#/$defs/codigoCBO"
+          },
+          "titulo": {
+            "type": "string"
+          },
+          "sintese": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "perfil_ocupacional": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "niveis": {
+            "type": "object",
+            "required": [
+              "conhecimento",
+              "habilidade",
+              "atitude",
+              "qualificacao"
+            ],
+            "properties": {
+              "conhecimento": {
+                "$ref": "definicoes.json#/$defs/nivel"
+              },
+              "habilidade": {
+                "$ref": "definicoes.json#/$defs/nivel"
+              },
+              "atitude": {
+                "$ref": "definicoes.json#/$defs/nivel"
+              },
+              "qualificacao": {
+                "$ref": "definicoes.json#/$defs/nivel"
+              }
+            },
+            "additionalProperties": false
+          },
+          "vigencia": {
+            "$ref": "definicoes.json#/$defs/vigencia"
+          },
+          "fonte": {
+            "$ref": "definicoes.json#/$defs/fonte"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,53 @@
+name: "Derivado ou formato"
+description: "Pedido de novo formato de saída, campo no schema ou ajuste em derivados/"
+title: "[formato] "
+labels: ["derivado-ou-formato"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Os JSONs em `dados/` são a fonte da verdade; tudo em `derivados/`
+        (CSV, SQLite, dump SQL) é **gerado** por `pipeline/derivar.py` e
+        conferido no CI. Novos derivados são bem-vindos desde que gerados pelo
+        pipeline, nunca mantidos à mão.
+
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de pedido
+      options:
+        - "Novo formato de derivado (Parquet, JSONL, DuckDB, ...)"
+        - "Nova coluna ou tabela em um derivado existente"
+        - "Novo campo ou ajuste no JSON canônico / schema"
+        - "Erro no derivado (divergência em relação ao JSON canônico)"
+    validations:
+      required: true
+
+  - type: textarea
+    id: caso_de_uso
+    attributes:
+      label: Caso de uso
+      description: |
+        Qual consulta ou integração fica possível (ou deixa de ser penosa) com
+        isso. Ajuda a decidir entre um derivado novo e uma receita na
+        documentação.
+    validations:
+      required: true
+
+  - type: textarea
+    id: compatibilidade
+    attributes:
+      label: Impacto em quem já consome
+      description: |
+        Renomear ou remover campo é quebra de compatibilidade e exige major do
+        schema; campo novo opcional é minor. Se não souber, deixe em branco.
+
+  - type: checkboxes
+    id: leitura
+    attributes:
+      label: Antes de abrir
+      options:
+        - label: "Verifiquei os derivados existentes: `derivados/csv/` no git, e `qbq.sql`/`qbq.sqlite` nos anexos do release"
+          required: true
+        - label: "Li o modelo de dados em `docs/modelo-de-dados.md`"
+          required: true

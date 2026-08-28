@@ -1,0 +1,79 @@
+name: "Correção de dado"
+description: "Um registro do dataset diverge da fonte oficial"
+title: "[dado] "
+labels: ["correção-de-dado"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Regra de ouro**: correção exige fonte oficial. Se a divergência é
+        entre o dataset e a planilha oficial, corrigimos. Se a fonte oficial é
+        que está inconsistente, o dado permanece fiel a ela e a issue vira um
+        registro em [`DECISOES.md`](../../blob/main/DECISOES.md).
+
+        Antes de abrir: confira se o caso já está explicado em `DECISOES.md`
+        (D001–D010) — em especial **D009** (códigos com segmento `90`/`99` são
+        baldes de "outros": o mesmo código se repete de propósito, com o
+        conteúdo real no campo `descricao`) e **D008/D010** (ocupações sem
+        nível de qualificação).
+
+  - type: dropdown
+    id: arquivo
+    attributes:
+      label: Onde está o registro
+      options:
+        - "dados/qbq/ocupacoes/ (título, síntese, perfil, níveis)"
+        - "dados/qbq/competencias/ (itens de conhecimento, habilidade, atitude)"
+        - "dados/qbq/vocabularios/ (descrição de um código CHA)"
+        - "dados/qbq/nao-classificadas.json"
+        - "derivados/ (CSV ou SQLite)"
+    validations:
+      required: true
+
+  - type: input
+    id: codigo
+    attributes:
+      label: Código da ocupação (6 dígitos)
+      description: "Como aparece no dataset, com zeros à esquerda. Ex.: 212405"
+      placeholder: "212405"
+    validations:
+      required: true
+
+  - type: input
+    id: campo
+    attributes:
+      label: Campo e, se for item CHA, o código do item
+      placeholder: "niveis.qualificacao · ou · conhecimentos[06.01.02.90].importancia"
+    validations:
+      required: true
+
+  - type: textarea
+    id: divergencia
+    attributes:
+      label: Valor no dataset × valor na fonte oficial
+      description: "Transcreva os dois, literalmente."
+      value: |
+        - No dataset: 
+        - Na fonte oficial: 
+    validations:
+      required: true
+
+  - type: input
+    id: localizador
+    attributes:
+      label: Localização na fonte oficial
+      description: |
+        Aba e linha da planilha (todo registro do dataset carrega essa
+        proveniência no campo `fonte`/`linha`), ou página do PDF do normativo.
+      placeholder: "Conhecimento II, linha 48213"
+    validations:
+      required: true
+
+  - type: input
+    id: versao
+    attributes:
+      label: Versão de conteúdo consultada
+      description: "Campo `versao_dados` do arquivo, ou a tag do release."
+      placeholder: "dados-2026.08"
+    validations:
+      required: true

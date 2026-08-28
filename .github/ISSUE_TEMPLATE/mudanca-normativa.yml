@@ -1,0 +1,65 @@
+name: "Mudança normativa"
+description: "Nova portaria, nova publicação do QBQ ou atualização da CBO"
+title: "[normativa] "
+labels: ["mudança-normativa"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use este formulário quando a **fonte oficial mudou** — não para relatar
+        um erro de extração (nesse caso use *Correção de dado*).
+
+        Mudança normativa gera uma nova **versão de conteúdo**
+        (`dados-AAAA.MM`): a fonte nova é arquivada em `fontes/` com checksum,
+        o pipeline é reexecutado e os registros que saíram de vigor recebem
+        `vigencia.status = "revogado"` — nunca são apagados
+        (ver [`docs/versionamento.md`](../../blob/main/docs/versionamento.md)).
+
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: O que mudou
+      options:
+        - "Nova publicação do QBQ (planilha oficial atualizada)"
+        - "Portaria que altera o QBQ (níveis, terminologia, metodologia)"
+        - "Atualização da CBO (inclusão, alteração ou exclusão de ocupação)"
+        - "Nova tábua de conversão ou correspondência internacional"
+    validations:
+      required: true
+
+  - type: input
+    id: normativo
+    attributes:
+      label: Normativo
+      description: "Número, órgão e data de publicação, se houver ato específico."
+      placeholder: "Portaria MTE nº XXX, de DD/MM/AAAA"
+
+  - type: input
+    id: url
+    attributes:
+      label: URL oficial
+      description: |
+        Link para a página ou arquivo em gov.br. URLs do gov.br mudam com
+        frequência — é por isso que arquivamos os documentos em `fontes/`.
+      placeholder: "https://www.gov.br/trabalho-e-emprego/..."
+    validations:
+      required: true
+
+  - type: input
+    id: data
+    attributes:
+      label: Data de vigência da mudança
+      placeholder: "AAAA-MM-DD"
+    validations:
+      required: true
+
+  - type: textarea
+    id: escopo
+    attributes:
+      label: O que muda no dataset
+      description: |
+        Se souber, indique as ocupações ou os itens CHA afetados, e se a
+        mudança altera apenas conteúdo ou também o formato (neste caso o
+        schema também sobe de versão).
+    validations:
+      required: true

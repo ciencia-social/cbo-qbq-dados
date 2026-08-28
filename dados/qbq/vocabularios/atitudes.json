@@ -1,0 +1,134 @@
+{
+  "versao_dados": "dados-2026.08",
+  "fonte": "fontes/qbq/qbq-2025-03.xlsx",
+  "categorias": [
+    {
+      "codigo": "01",
+      "descricao": "TRABALHO SOB SUPERVISÃO DIRETA"
+    },
+    {
+      "codigo": "02",
+      "descricao": "AUTONOMIA (AUSÊNCIA DE SUPERVISÃO DIRETA) NO  PRÓPRIO TRABALHO"
+    },
+    {
+      "codigo": "03",
+      "descricao": "SUPERVISÃO DO TRABALHO DE OUTROS"
+    },
+    {
+      "codigo": "04",
+      "descricao": "AVALIAÇÃO DE TRABALHO OU ATIVIDADE"
+    }
+  ],
+  "atitudes": [
+    {
+      "codigo": "01.01",
+      "descricao": "TRABALHO SOB SUPERVISÃO DIRETA",
+      "pai": "01"
+    },
+    {
+      "codigo": "01.02",
+      "descricao": "TRABALHO SOB SUPERVISÃO DIRETA, COM ALGUMA AUTONOMIA",
+      "pai": "01"
+    },
+    {
+      "codigo": "02.01",
+      "descricao": "AUTONOMIA NA EXECUÇÃO DAS TAREFAS QUE LHE FORAM ATRIBUÍDAS",
+      "pai": "02"
+    },
+    {
+      "codigo": "02.02",
+      "descricao": "AUTONOMIA NOS CONTEXTOS DE TRABALHO SEM PREVISÃO DE MUDANÇAS",
+      "pai": "02"
+    },
+    {
+      "codigo": "02.03",
+      "descricao": "AUTONOMIA EM CONTEXTOS DE TRABALHO COM PREVISÃO DE MUDANÇAS",
+      "pai": "02"
+    },
+    {
+      "codigo": "02.04",
+      "descricao": "AUTONOMIA EM ATIVIDADES OU PROJETOS TÉCNICOS COMPLEXOS",
+      "pai": "02"
+    },
+    {
+      "codigo": "02.05",
+      "descricao": "AUTONOMIA EM CONTEXTOS DE TRABALHO COMPLEXOS, QUE PODEM EXIGIR NOVAS ABORDAGENS ESTRATÉGICAS.",
+      "pai": "02"
+    },
+    {
+      "codigo": "02.06",
+      "descricao": "AUTONOMIA NO DESENVOLVIMENTO DE NOVAS IDEIAS OU DE PROCESSOS DE VANGUARDA, INCLUINDO PESQUISA",
+      "pai": "02"
+    },
+    {
+      "codigo": "03.01",
+      "descricao": "SUPERVISÃO DE PROFISSIONAIS QUE EXECUTAM TRABALHO ROTINEIRO",
+      "pai": "03"
+    },
+    {
+      "codigo": "03.02",
+      "descricao": "SUPERVISÃO DE PROFISSIONAIS EM CONTEXTOS DE TRABALHO SEM PREVISÃO DE MUDANÇAS",
+      "pai": "03"
+    },
+    {
+      "codigo": "03.03",
+      "descricao": "SUPERVISÃO DE PROFISSIONAIS EM CONTEXTOS DE TRABALHO COM PREVISÃO DE MUDANÇAS",
+      "pai": "03"
+    },
+    {
+      "codigo": "03.04",
+      "descricao": "SUPERVISÃO DE PROFISSIONAIS EM ATIVIDADES OU PROJETOS TÉCNICOS COMPLEXOS",
+      "pai": "03"
+    },
+    {
+      "codigo": "03.05",
+      "descricao": "SUPERVISÃO DE PROFISSIONAIS EM CONTEXTOS DE TRABALHO COMPLEXOS, QUE PODEM EXIGIR NOVAS ABORDAGENS ESTRATÉGICAS.",
+      "pai": "03"
+    },
+    {
+      "codigo": "03.06",
+      "descricao": "SUPERVISÃO DE PROFISSIONAIS NO DESENVOLVIMENTO DE NOVAS IDEIAS OU DE PROCESSOS DE VANGUARDA, INCLUINDO PESQUISA",
+      "pai": "03"
+    },
+    {
+      "codigo": "04.01",
+      "descricao": "AVALIAÇÃO DO PRÓPRIO DESEMPENHO, COM ALGUMA ORIENTAÇÃO",
+      "pai": "04"
+    },
+    {
+      "codigo": "04.02",
+      "descricao": "AVALIAÇÃO DO PRÓPRIO DESEMPENHO",
+      "pai": "04"
+    },
+    {
+      "codigo": "04.03",
+      "descricao": "AVALIAÇÃO DO PRÓPRIO DESEMPENHO, ASSUMINDO AUTODESENVOLVIMENTO",
+      "pai": "04"
+    },
+    {
+      "codigo": "04.04",
+      "descricao": "AVALIAÇÃO DO DESEMPENHO DOS OUTROS TRABALHADORES",
+      "pai": "04"
+    },
+    {
+      "codigo": "04.05",
+      "descricao": "AVALIAÇÃO DO DESEMPENHO DOS OUTROS TRABALHADORES, GERENCIANDO O DESENVOLVIMENTO PROFISSIONAL DELES",
+      "pai": "04"
+    },
+    {
+      "codigo": "04.06",
+      "descricao": "AVALIAÇÃO DO DESEMPENHO DE SETOR DE EMPRESA OU DE INSTITUIÇÃO",
+      "pai": "04"
+    },
+    {
+      "codigo": "04.07",
+      "descricao": "AVALIAÇÃO DO DESEMPENHO DE SETOR DE EMPRESA OU DE INSTITUIÇÃO, GERENCIANDO PROCESSOS DE MELHORIA",
+      "pai": "04"
+    },
+    {
+      "codigo": "04.08",
+      "descricao": "AVALIAÇÃO DO DESEMPENHO DE UMA EMPRESA OU INSTITUIÇÃO",
+      "pai": "04"
+    }
+  ]
+}

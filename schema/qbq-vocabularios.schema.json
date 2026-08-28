@@ -1,0 +1,195 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://qbq.dev/schema/qbq-vocabularios.schema.json",
+  "title": "Vocabulários controlados do QBQ (taxonomias de CHA)",
+  "type": "object",
+  "required": [
+    "versao_dados",
+    "fonte"
+  ],
+  "properties": {
+    "versao_dados": {
+      "type": "string"
+    },
+    "fonte": {
+      "type": "string"
+    },
+    "dominios": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "codigo",
+          "descricao"
+        ],
+        "properties": {
+          "codigo": {
+            "type": "string"
+          },
+          "descricao": {
+            "type": "string"
+          },
+          "pai": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "areas": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "codigo",
+          "descricao"
+        ],
+        "properties": {
+          "codigo": {
+            "type": "string"
+          },
+          "descricao": {
+            "type": "string"
+          },
+          "pai": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "campos": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "codigo",
+          "descricao"
+        ],
+        "properties": {
+          "codigo": {
+            "type": "string"
+          },
+          "descricao": {
+            "type": "string"
+          },
+          "pai": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "conhecimentos": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "codigo",
+          "descricao"
+        ],
+        "properties": {
+          "codigo": {
+            "type": "string"
+          },
+          "descricao": {
+            "type": "string"
+          },
+          "pai": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "elementos": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "codigo",
+          "descricao"
+        ],
+        "properties": {
+          "codigo": {
+            "type": "string"
+          },
+          "descricao": {
+            "type": "string"
+          },
+          "pai": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "categorias": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "codigo",
+          "descricao"
+        ],
+        "properties": {
+          "codigo": {
+            "type": "string"
+          },
+          "descricao": {
+            "type": "string"
+          },
+          "pai": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "habilidades": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "codigo",
+          "descricao"
+        ],
+        "properties": {
+          "codigo": {
+            "type": "string"
+          },
+          "descricao": {
+            "type": "string"
+          },
+          "pai": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "atitudes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "codigo",
+          "descricao"
+        ],
+        "properties": {
+          "codigo": {
+            "type": "string"
+          },
+          "descricao": {
+            "type": "string"
+          },
+          "pai": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

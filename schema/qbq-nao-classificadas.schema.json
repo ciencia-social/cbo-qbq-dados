@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://qbq.dev/schema/qbq-nao-classificadas.schema.json",
+  "title": "Ocupações CBO sem classificação de nível no QBQ, com justificativa oficial",
+  "type": "object",
+  "required": [
+    "versao_dados",
+    "total",
+    "ocupacoes"
+  ],
+  "properties": {
+    "versao_dados": {
+      "type": "string"
+    },
+    "total": {
+      "type": "integer"
+    },
+    "ocupacoes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "codigo",
+          "titulo",
+          "justificativa",
+          "fonte"
+        ],
+        "properties": {
+          "codigo": {
+            "$ref": "definicoes.json#/$defs/codigoCBO"
+          },
+          "titulo": {
+            "type": "string"
+          },
+          "justificativa": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "fonte": {
+            "$ref": "definicoes.json#/$defs/fonte"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

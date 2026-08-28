@@ -1,0 +1,517 @@
+{
+  "versao_dados": "dados-2026.08",
+  "fonte": "fontes/qbq/qbq-2025-03.xlsx",
+  "dominios": [
+    {
+      "codigo": "1",
+      "descricao": "HABILIDADES COGNITIVAS"
+    },
+    {
+      "codigo": "2",
+      "descricao": "HABILIDADES PRÁTICAS"
+    },
+    {
+      "codigo": "3",
+      "descricao": "HABILIDADES FÍSICAS, PSICOMOTORAS E SENSORIAIS"
+    }
+  ],
+  "categorias": [
+    {
+      "codigo": "01.01",
+      "descricao": "COMUNICAÇÃO",
+      "pai": "1"
+    },
+    {
+      "codigo": "01.02",
+      "descricao": "TRABALHO COM NÚMEROS",
+      "pai": "1"
+    },
+    {
+      "codigo": "01.03",
+      "descricao": "RACIOCÍNIO",
+      "pai": "1"
+    },
+    {
+      "codigo": "01.90",
+      "descricao": "OUTRAS HABILIDADES DE COGNITIVAS (ESPECIFICAR...)",
+      "pai": "1"
+    },
+    {
+      "codigo": "02.01",
+      "descricao": "HABILIDADES OPERACIONAIS",
+      "pai": "2"
+    },
+    {
+      "codigo": "02.02",
+      "descricao": "HABILIDADES ORGANIZACIONAIS",
+      "pai": "2"
+    },
+    {
+      "codigo": "02.03",
+      "descricao": "HABILIDADES INTERPESSOAIS",
+      "pai": "2"
+    },
+    {
+      "codigo": "02.90",
+      "descricao": "OUTRAS HABILIDADES PRÁTICAS (ESPECIFICAR: ....)",
+      "pai": "2"
+    },
+    {
+      "codigo": "03.01",
+      "descricao": "HABILIDADES FÍSICAS",
+      "pai": "3"
+    },
+    {
+      "codigo": "03.02",
+      "descricao": "HABILIDADES PSICOMOTORAS",
+      "pai": "3"
+    },
+    {
+      "codigo": "03.03",
+      "descricao": "HABILIDADES SENSORIAIS",
+      "pai": "3"
+    },
+    {
+      "codigo": "03.90",
+      "descricao": "OUTRAS HABILIDADES FÍSICAS, PSICOMOTORAS E SENSORIAIS (ESPECIFICAR: ....)",
+      "pai": "3"
+    }
+  ],
+  "habilidades": [
+    {
+      "codigo": "01.01.01",
+      "descricao": "COMPREENSÃO ORAL",
+      "pai": "01.01"
+    },
+    {
+      "codigo": "01.01.02",
+      "descricao": "ESCUTA ATIVA",
+      "pai": "01.01"
+    },
+    {
+      "codigo": "01.01.03",
+      "descricao": "EXPRESSÃO ORAL",
+      "pai": "01.01"
+    },
+    {
+      "codigo": "01.01.04",
+      "descricao": "COMPREENSÃO ESCRITA",
+      "pai": "01.01"
+    },
+    {
+      "codigo": "01.01.05",
+      "descricao": "EXPRESSÃO ESCRITA",
+      "pai": "01.01"
+    },
+    {
+      "codigo": "01.01.06",
+      "descricao": "ESTRATÉGIAS DE APRENDIZAGEM",
+      "pai": "01.01"
+    },
+    {
+      "codigo": "01.01.07",
+      "descricao": "APRENDIZADO ATIVO",
+      "pai": "01.01"
+    },
+    {
+      "codigo": "01.01.08",
+      "descricao": "PERSUASÃO",
+      "pai": "01.01"
+    },
+    {
+      "codigo": "01.01.09",
+      "descricao": "NEGOCIAÇÃO",
+      "pai": "01.01"
+    },
+    {
+      "codigo": "01.01.10",
+      "descricao": "HABILIDADE DE ORIENTAR SERVIÇOS",
+      "pai": "01.01"
+    },
+    {
+      "codigo": "01.01.11",
+      "descricao": "HABILIDADE DE ENSINAR",
+      "pai": "01.01"
+    },
+    {
+      "codigo": "01.02.01",
+      "descricao": "TRANSCRIÇÃO DE DADOS",
+      "pai": "01.02"
+    },
+    {
+      "codigo": "01.02.02",
+      "descricao": "COMPARAÇÃO DE DADOS",
+      "pai": "01.02"
+    },
+    {
+      "codigo": "01.02.03",
+      "descricao": "CLASSIFICAÇÃO DE DADOS",
+      "pai": "01.02"
+    },
+    {
+      "codigo": "01.02.04",
+      "descricao": "COMPREENSÃO NUMÉRICA",
+      "pai": "01.02"
+    },
+    {
+      "codigo": "01.02.05",
+      "descricao": "EXPRESSÃO NUMÉRICA",
+      "pai": "01.02"
+    },
+    {
+      "codigo": "01.02.06",
+      "descricao": "ANÁLISE DE DADOS",
+      "pai": "01.02"
+    },
+    {
+      "codigo": "01.02.07",
+      "descricao": "SINTETIZAÇÃO DE DADOS",
+      "pai": "01.02"
+    },
+    {
+      "codigo": "01.03.01",
+      "descricao": "RACIOCÍNIO CONCRETO PARA SEGUIR INSTRUÇÕES",
+      "pai": "01.03"
+    },
+    {
+      "codigo": "01.03.02",
+      "descricao": "RACIOCÍNIO ABSTRATO PARA RESOLUÇÃO DE PROBLEMAS",
+      "pai": "01.03"
+    },
+    {
+      "codigo": "01.03.03",
+      "descricao": "RACIOCÍNIO ANALÍTICO",
+      "pai": "01.03"
+    },
+    {
+      "codigo": "01.03.04",
+      "descricao": "RACIOCÍNIO SINTÉTICO (CAPACIDADE DE DIAGNÓSTICO DE PROBLEMAS OU TROUBLESHOOTING)",
+      "pai": "01.03"
+    },
+    {
+      "codigo": "01.03.05",
+      "descricao": "RACIOCÍNIO CRÍTICO",
+      "pai": "01.03"
+    },
+    {
+      "codigo": "01.03.06",
+      "descricao": "RACIOCÍONIO CIENTÍFICO",
+      "pai": "01.03"
+    },
+    {
+      "codigo": "01.90.01",
+      "descricao": "OUTRAS - VISÃO ESPACIAL",
+      "pai": "01.90"
+    },
+    {
+      "codigo": "02.01.01",
+      "descricao": "APLICAÇÃO DE INSTRUÇÕES SIMPLES E ROTINEIRAS",
+      "pai": "02.01"
+    },
+    {
+      "codigo": "02.01.02",
+      "descricao": "APLICAÇÃO DE TÉCNICAS QUE ENVOLVEM ALGUMAS VARIÁVEIS CONCRETAS E ESPECÍFICAS",
+      "pai": "02.01"
+    },
+    {
+      "codigo": "02.01.03",
+      "descricao": "APLICAÇÃO DE TÉCNICAS QUE ENVOLVEM MUITAS VARIÁVEIS CONCRETAS E ESPECÍFICAS",
+      "pai": "02.01"
+    },
+    {
+      "codigo": "02.01.04",
+      "descricao": "APLICAÇÃO DE HABILIDADES ARTÍSTICAS",
+      "pai": "02.01"
+    },
+    {
+      "codigo": "02.01.05",
+      "descricao": "APLICAÇÃO DE PRINCÍPIOS TECNOLÓGICOS DE BAIXA COMPLEXIDADE",
+      "pai": "02.01"
+    },
+    {
+      "codigo": "02.01.06",
+      "descricao": "APLICAÇÃO DE PRINCÍPIOS CIENTÍFICOS OU TECNOLÓGICOS PARA SOLUÇÃO DE PROBLEMAS",
+      "pai": "02.01"
+    },
+    {
+      "codigo": "02.01.07",
+      "descricao": "APLICAÇÃO DE CONHECIMENTO DE UM CAMPO DE ESTUDO CIENTÍFICO",
+      "pai": "02.01"
+    },
+    {
+      "codigo": "02.01.08",
+      "descricao": "APLICAÇÃO DE CONHECIMENTO CIENTÍFICO DE ALTA COMPLEXIDADE",
+      "pai": "02.01"
+    },
+    {
+      "codigo": "02.02.01",
+      "descricao": "ANÁLISE DE OPERAÇÕES",
+      "pai": "02.02"
+    },
+    {
+      "codigo": "02.02.02",
+      "descricao": "PROGRAMAÇÃO DE OPERAÇÕES",
+      "pai": "02.02"
+    },
+    {
+      "codigo": "02.02.03",
+      "descricao": "ANÁLISE DE GARANTIA DE QUALIDADE",
+      "pai": "02.02"
+    },
+    {
+      "codigo": "02.02.04",
+      "descricao": "ANÁLISE SISTÊMICA",
+      "pai": "02.02"
+    },
+    {
+      "codigo": "02.02.05",
+      "descricao": "GERENCIAMENTO DE RECURSOS MATERIAIS",
+      "pai": "02.02"
+    },
+    {
+      "codigo": "02.02.06",
+      "descricao": "GERENCIAMENTO DE RECURSOS FINANCEIROS",
+      "pai": "02.02"
+    },
+    {
+      "codigo": "02.02.07",
+      "descricao": "GERENCIAMENTO DE RECURSOS HUMANOS",
+      "pai": "02.02"
+    },
+    {
+      "codigo": "02.02.08",
+      "descricao": "ANÁLISE DE RISCOS",
+      "pai": "02.02"
+    },
+    {
+      "codigo": "02.02.09",
+      "descricao": "GERENCIAMENTO DE RISCOS",
+      "pai": "02.02"
+    },
+    {
+      "codigo": "02.03.01",
+      "descricao": "TRABALHO EM EQUIPE",
+      "pai": "02.03"
+    },
+    {
+      "codigo": "02.03.02",
+      "descricao": "ATENDIMENTO A SOLICITAÇÕES E PEDIDOS DAS PESSOAS...",
+      "pai": "02.03"
+    },
+    {
+      "codigo": "02.03.03",
+      "descricao": "TROCA DE INFORMAÇÕES",
+      "pai": "02.03"
+    },
+    {
+      "codigo": "02.03.04",
+      "descricao": "FORNECIMENTO DE INFORMAÇÕES",
+      "pai": "02.03"
+    },
+    {
+      "codigo": "02.03.05",
+      "descricao": "COOPERAÇÃO",
+      "pai": "02.03"
+    },
+    {
+      "codigo": "02.03.06",
+      "descricao": "PERSUASÃO DE PESSOAS EM FAVOR DE IDEIAS, PRODUTOS E/OU SERVIÇOS",
+      "pai": "02.03"
+    },
+    {
+      "codigo": "02.03.07",
+      "descricao": "ORIENTAÇÃO DE PESSOAS",
+      "pai": "02.03"
+    },
+    {
+      "codigo": "02.03.08",
+      "descricao": "FACILITAÇÃO E  MEDIAÇÃO DE APRENDIZAGEM",
+      "pai": "02.03"
+    },
+    {
+      "codigo": "02.03.09",
+      "descricao": "ASSESSORAMENTO",
+      "pai": "02.03"
+    },
+    {
+      "codigo": "02.03.10",
+      "descricao": "SUPERVISÃO",
+      "pai": "02.03"
+    },
+    {
+      "codigo": "02.03.11",
+      "descricao": "COORDENAÇÃO",
+      "pai": "02.03"
+    },
+    {
+      "codigo": "02.03.12",
+      "descricao": "PERCEPÇÃO DA REALIDADE SOCIAL",
+      "pai": "02.03"
+    },
+    {
+      "codigo": "02.90.01",
+      "descricao": "OUTRAS - TRABALHO SOB PRESSÃO",
+      "pai": "02.90"
+    },
+    {
+      "codigo": "03.01.01",
+      "descricao": "COORDENAÇÃO CORPORAL BRUTA",
+      "pai": "03.01"
+    },
+    {
+      "codigo": "03.01.02",
+      "descricao": "EQUILÍBRIO CORPORAL BRUTO",
+      "pai": "03.01"
+    },
+    {
+      "codigo": "03.01.03",
+      "descricao": "FLEXIBILIDADE DE EXTENSÃO",
+      "pai": "03.01"
+    },
+    {
+      "codigo": "03.01.04",
+      "descricao": "FLEXIBILIDADE DINÂMICA",
+      "pai": "03.01"
+    },
+    {
+      "codigo": "03.01.05",
+      "descricao": "FORÇA DE TRONCO",
+      "pai": "03.01"
+    },
+    {
+      "codigo": "03.01.06",
+      "descricao": "FORÇA DINÂMICA",
+      "pai": "03.01"
+    },
+    {
+      "codigo": "03.01.07",
+      "descricao": "FORÇA ESTÁTICA",
+      "pai": "03.01"
+    },
+    {
+      "codigo": "03.01.08",
+      "descricao": "FORÇA EXPLOSIVA",
+      "pai": "03.01"
+    },
+    {
+      "codigo": "03.01.09",
+      "descricao": "VIGOR (ESTAMINA)",
+      "pai": "03.01"
+    },
+    {
+      "codigo": "03.02.01",
+      "descricao": "ESTABILIDADE (FIRMEZA) BRAÇO-MÃO",
+      "pai": "03.02"
+    },
+    {
+      "codigo": "03.02.02",
+      "descricao": "PRECISÃO DE CONTROLE",
+      "pai": "03.02"
+    },
+    {
+      "codigo": "03.02.03",
+      "descricao": "DESTREZA DOS DEDOS (OU DIGITAL)",
+      "pai": "03.02"
+    },
+    {
+      "codigo": "03.02.04",
+      "descricao": "DESTREZA MANUAL",
+      "pai": "03.02"
+    },
+    {
+      "codigo": "03.02.05",
+      "descricao": "COORDENAÇÃO MULTIMEMBROS",
+      "pai": "03.02"
+    },
+    {
+      "codigo": "03.02.06",
+      "descricao": "TAXA DE CONTROLE",
+      "pai": "03.02"
+    },
+    {
+      "codigo": "03.02.07",
+      "descricao": "TEMPO DE REAÇÃO (OU DE RESPOSTA)",
+      "pai": "03.02"
+    },
+    {
+      "codigo": "03.02.08",
+      "descricao": "RESPOSTA DE ORIENTAÇÃO",
+      "pai": "03.02"
+    },
+    {
+      "codigo": "03.02.09",
+      "descricao": "VELOCIDADE DE MOVIMENTO DOS MEMBROS",
+      "pai": "03.02"
+    },
+    {
+      "codigo": "03.02.10",
+      "descricao": "VELOCIDADE DE PULSO-DEDOS​​",
+      "pai": "03.02"
+    },
+    {
+      "codigo": "03.03.01",
+      "descricao": "ATENÇÃO AUDITIVA",
+      "pai": "03.03"
+    },
+    {
+      "codigo": "03.03.02",
+      "descricao": "LOCALIZAÇÃO DE SOM",
+      "pai": "03.03"
+    },
+    {
+      "codigo": "03.03.03",
+      "descricao": "RECONHECIMENTO DE FALA",
+      "pai": "03.03"
+    },
+    {
+      "codigo": "03.03.04",
+      "descricao": "CLAREZA DE FALA",
+      "pai": "03.03"
+    },
+    {
+      "codigo": "03.03.05",
+      "descricao": "SENSIBILIDADE AUDITIVA",
+      "pai": "03.03"
+    },
+    {
+      "codigo": "03.03.06",
+      "descricao": "SENSIBILIDADE AO BRILHO",
+      "pai": "03.03"
+    },
+    {
+      "codigo": "03.03.07",
+      "descricao": "PERCEPÇÃO DE PROFUNDIDADE",
+      "pai": "03.03"
+    },
+    {
+      "codigo": "03.03.08",
+      "descricao": "VISÃO A DISTÂNCIA",
+      "pai": "03.03"
+    },
+    {
+      "codigo": "03.03.09",
+      "descricao": "VISÃO DE PERTO (OU A CURTA DISTÂNCIA)",
+      "pai": "03.03"
+    },
+    {
+      "codigo": "03.03.10",
+      "descricao": "VISÃO NOTURNA",
+      "pai": "03.03"
+    },
+    {
+      "codigo": "03.03.11",
+      "descricao": "VISÃO PERIFÉRICA",
+      "pai": "03.03"
+    },
+    {
+      "codigo": "03.03.12",
+      "descricao": "DISCRIMINAÇÃO DE COR VISUAL",
+      "pai": "03.03"
+    },
+    {
+      "codigo": "03.90.01",
+      "descricao": "OUTRAS - ATENÇÃO A DETALHES",
+      "pai": "03.90"
+    }
+  ]
+}
