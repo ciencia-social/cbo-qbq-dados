@@ -1,7 +1,6 @@
 # Fontes
 
-Arquivos oficiais **imutáveis**, exatamente como baixados. Nunca editar.
-Todo arquivo novo entra com registro em `docs/fontes-oficiais.md`.
+Arquivos oficiais **imutáveis**, exatamente como baixados. Nunca editar. Todo arquivo novo entra com registro em `docs/fontes-oficiais.md`.
 
 | arquivo | origem | capturado em | sha256 |
 |---|---|---|---|
@@ -16,7 +15,4 @@ Todo arquivo novo entra com registro em `docs/fontes-oficiais.md`.
 | `cbo/cbo2002-perfilocupacional.csv` | idem | 2026-11-17 | `01f2f99f0831d57fae27b90c57d112432350bee80fe55e969f969d4d9d6f7a91` |
 | `cbo/pagina-downloads-2026-11-17.html` | página de downloads da CBO, como evidência das URLs vigentes na captura | 2026-11-17 | (evidência de origem, não é dado) |
 
-Arquivos da CBO mantêm o nome original: ao contrário do XLSX e do PDF do QBQ,
-as respostas HTTP não trazem data de modificação e os CSVs não têm metadado
-interno de versão, então não há data de documento para carregar no nome
-(D014). A rastreabilidade fica na data de captura e no checksum.
+Arquivos da CBO mantêm o nome original: ao contrário do XLSX e do PDF do QBQ, as respostas HTTP não trazem data de modificação e os CSVs não têm metadado interno de versão, então não há data de documento para carregar no nome (D014). A rastreabilidade fica na data de captura e no checksum.
