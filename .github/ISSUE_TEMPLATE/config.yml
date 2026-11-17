@@ -7,7 +7,7 @@ contact_links:
       Emprego. Dúvidas sobre o conteúdo normativo do QBQ (não sobre a
       estruturação dos dados) devem ir aos canais oficiais.
   - name: Decisões de interpretação já registradas
-    url: https://github.com/ciencia-social/qbq-dados/blob/main/DECISOES.md
+    url: https://github.com/ciencia-social/cbo-qbq-dados/blob/main/DECISOES.md
     about: >-
       Antes de relatar uma anomalia, confira se ela já é um fato conhecido da
       fonte oficial documentado em DECISOES.md.

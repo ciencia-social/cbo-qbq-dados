@@ -4,4 +4,4 @@ Os dados de `dados/` e `derivados/` derivam de atos oficiais do Estado brasileir
 
 A **compilação estruturada** aqui distribuída (modelagem, normalizações documentadas, metadados de proveniência e vigência) é licenciada sob [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br).
 
-Atribuição sugerida: *qbq-dados — QBQ e CBO como dados abertos (github.com/qbq-dev/qbq-dados), a partir de dados oficiais do MTE.*
+Atribuição sugerida: *cbo-qbq-dados — CBO e QBQ como dados abertos (github.com/ciencia-social/cbo-qbq-dados), a partir de dados oficiais do MTE.*

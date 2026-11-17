@@ -1,4 +1,4 @@
--- Consultas de exemplo para derivados/qbq.sqlite (qbq-dados)
+-- Consultas de exemplo para derivados/qbq.sqlite (cbo-qbq-dados)
 -- Gerar o banco: python3 pipeline/derivar.py
 -- Rodar:        sqlite3 -box derivados/qbq.sqlite < docs/consultas.sql
 --
