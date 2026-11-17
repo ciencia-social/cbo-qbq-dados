@@ -43,11 +43,22 @@ print(tecnico["titulo"], "->", tecnico["niveis"]["qualificacao"])
 
 ```sql
 -- qbq.sqlite (anexo do release, ou `python3 pipeline/derivar.py`):
--- ocupações que exigem estatística em grau alto
-SELECT o.codigo, o.titulo, c.profundidade
-FROM qbq_conhecimento c JOIN qbq_ocupacao o ON o.codigo = c.ocupacao
-JOIN qbq_vocabulario_conhecimentos_i v ON v.codigo = c.item AND v.nivel = 'conhecimentos'
-WHERE v.descricao = 'ESTATÍSTICA' AND c.importancia >= 4;
+-- do nome de mercado ao código oficial, com o nível de qualificação do QBQ
+SELECT s.sinonimo, o.codigo, o.titulo, q.nivel_qualificacao
+FROM cbo_sinonimo s
+JOIN cbo_ocupacao o      ON o.codigo = s.ocupacao
+LEFT JOIN qbq_ocupacao q ON q.codigo = o.codigo
+WHERE s.sinonimo LIKE '%programador%'
+ORDER BY s.sinonimo;
+```
+
+Mais dez consultas comentadas — hierarquia completa, perfil CHA com a
+definição oficial de cada termo, agregados por grande grupo, divergências
+entre as camadas e similaridade entre ocupações — em
+[`docs/consultas.sql`](docs/consultas.sql):
+
+```bash
+sqlite3 -box derivados/qbq.sqlite < docs/consultas.sql
 ```
 
 ## Estrutura do repositório
