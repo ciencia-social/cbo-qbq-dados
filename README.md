@@ -10,12 +10,13 @@ proveniência. Este repositório resolve isso, nos moldes do
 proveniência por registro, pipeline reprodutível e derivados prontos para uso
 (CSV e SQLite).
 
-## O que tem aqui (versão `dados-2026.11`)
+## O que tem aqui (versão `dados-2026.11.1`)
 
 | Conjunto | Conteúdo | Onde |
 |---|---|---|
 | Espinha CBO | 10 grandes grupos → 49 subgrupos principais → 195 subgrupos → 626 famílias → 2.694 ocupações | `dados/cbo/estrutura/`, `dados/cbo/ocupacoes/` |
 | Sinônimos CBO | 7.778 denominações alternativas, em 1.865 ocupações | embutidos na ocupação |
+| Perfil ocupacional CBO | 174.296 atividades em 20.723 grandes áreas de competência, para 2.669 ocupações | `dados/cbo/perfis/` |
 | Ocupações QBQ | 2.673 ocupações (2.621 com síntese, perfil ocupacional e níveis de qualificação 1–8) | `dados/qbq/ocupacoes/` |
 | Competências (CHA) | ~258 mil itens de conhecimento, habilidade e atitude por ocupação, com graus de profundidade, frequência e importância (1–5) | `dados/qbq/competencias/` |
 | Vocabulários | Taxonomias controladas de conhecimentos (I e II), habilidades e atitudes | `dados/qbq/vocabularios/` |
@@ -99,7 +100,10 @@ python3 pipeline/extrair_qbq.py && python3 pipeline/validar_schema.py \
   vocabulários e conceitos das habilidades
 - [x] **Fase 1 — espinha CBO**: estrutura enumerativa completa (grandes grupos →
       ocupações → sinônimos) a partir dos CSVs oficiais da CBO
-- [ ] **Fase 3 — perfis descritivos CBO** por família (GAC, atividades, recursos)
+- [x] **Fase 3 — perfil ocupacional CBO**: grandes áreas de competência e
+      atividades por ocupação
+- [ ] **Fase 3b — Livros 1–3 em PDF**: condições gerais de exercício e
+      recursos de trabalho, por família
 - [ ] **Fase 4 — histórico de alterações** da CBO como dado estruturado
       (`alteracoes.json` + vigência retroativa)
 - [ ] **Fase 5 — `qbq-pacotes`**: pacotes Python/R/JS para consumo

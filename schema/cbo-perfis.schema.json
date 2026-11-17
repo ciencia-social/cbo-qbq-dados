@@ -1,0 +1,117 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://qbq.dev/schema/cbo-perfis.schema.json",
+  "title": "Perfil ocupacional da CBO 2002 de um grande grupo",
+  "type": "object",
+  "required": [
+    "grande_grupo",
+    "versao_dados",
+    "fonte",
+    "total",
+    "ocupacoes"
+  ],
+  "properties": {
+    "grande_grupo": {
+      "type": "string",
+      "pattern": "^[0-9]$"
+    },
+    "versao_dados": {
+      "type": "string"
+    },
+    "fonte": {
+      "type": "string"
+    },
+    "total": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "ocupacoes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "codigo",
+          "areas",
+          "fonte"
+        ],
+        "properties": {
+          "codigo": {
+            "type": "string",
+            "pattern": "^[0-9]{6}$"
+          },
+          "areas": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": [
+                "sigla",
+                "nome",
+                "atividades"
+              ],
+              "properties": {
+                "sigla": {
+                  "type": "string",
+                  "pattern": "^[A-Z]$",
+                  "description": "ordenação da área dentro da ocupação, não taxonomia controlada (D017)"
+                },
+                "nome": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "atividades": {
+                  "type": "array",
+                  "minItems": 1,
+                  "items": {
+                    "type": "object",
+                    "required": [
+                      "numero",
+                      "descricao"
+                    ],
+                    "properties": {
+                      "numero": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "description": "COD_ATIVIDADE como publicado: tem lacunas, começa em zero em alguns casos e repete uma vez (D017)"
+                      },
+                      "descricao": {
+                        "type": "string",
+                        "minLength": 1
+                      }
+                    },
+                    "additionalProperties": false
+                  }
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "fonte": {
+            "$ref": "#/$defs/fonte"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "$defs": {
+    "fonte": {
+      "type": "object",
+      "required": [
+        "arquivo",
+        "linha"
+      ],
+      "properties": {
+        "arquivo": {
+          "type": "string"
+        },
+        "linha": {
+          "type": "integer",
+          "minimum": 2
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

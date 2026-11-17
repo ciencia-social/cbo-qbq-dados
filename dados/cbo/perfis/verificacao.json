@@ -1,0 +1,70 @@
+{
+  "versao_dados": "dados-2026.11.1",
+  "fonte": "fontes/cbo/cbo2002-perfilocupacional.csv",
+  "sha256_fonte": "01f2f99f0831d57fae27b90c57d112432350bee80fe55e969f969d4d9d6f7a91",
+  "contagens": {
+    "linhas_lidas": 174296,
+    "ocupacoes_com_perfil": 2669,
+    "areas": 20723,
+    "atividades": 174296
+  },
+  "siglas": {
+    "M": [
+      "ADMINISTRAR CANAL DE DENÚNCIA",
+      "EXECUTAR ATIVIDADES DE INTELIGÊNCIA E CONTRA INTELIGÊNCIA",
+      "SOCORRER VÍTIMA",
+      "TRABALHAR COM SEGURANÇA",
+      "TRABALHAR COMPROMETIDO COM A SEGURANÇA DE VÔO E DAS PESSOAS"
+    ],
+    "N": [
+      "AVALIAR PARCEIROS DE NEGÓCIOS (DUE DILIGENCE)",
+      "CONTROLAR RESULTADOS DE FUNCIONAMENTO",
+      "REALIZAR AÇÕES DE CONTROLE DE ENDEMIAS"
+    ],
+    "O": [
+      "ASSESSORAR AQUISIÇÃO DE NOVAS TECNOLOGIAS PARA AMBIENTE CONSTRUÍDO"
+    ],
+    "Y": [
+      "COMUNICAR - SE",
+      "COMUNICAR-SE",
+      "DIVULGAR A LINGUAGEM FOTOGRÁFICA",
+      "TRABALHAR COM BIOSSEGURANÇA",
+      "TRABALHAR COM SEGURANÇA"
+    ],
+    "Z": [
+      "DEMONSTRAR COMPETENCIAS PESSOAIS",
+      "DEMONSTRAR COMPETÊNCIAS PESSOAIS"
+    ]
+  },
+  "ocupacoes_sem_perfil": [
+    "010105",
+    "010110",
+    "010115",
+    "010205",
+    "010210",
+    "010215",
+    "010305",
+    "010310",
+    "010315",
+    "111105",
+    "111110",
+    "111115",
+    "111120",
+    "111205",
+    "111210",
+    "111215",
+    "111220",
+    "111225",
+    "111230",
+    "111235",
+    "111240",
+    "111245",
+    "111250",
+    "111255",
+    "373220"
+  ],
+  "numeracao": {
+    "pares_com_lacuna": 7919,
+    "pares_com_numero_repetido": 1
+  }
+}

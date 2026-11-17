@@ -6,6 +6,7 @@ dataset executando, na raiz do repositório:
 
 ```bash
 python3 pipeline/extrair_cbo.py       # CSVs oficiais da CBO -> dados/cbo/*.json
+python3 pipeline/extrair_perfis.py    # perfil ocupacional -> dados/cbo/perfis/
 python3 pipeline/extrair_qbq.py       # XLSX oficial do QBQ -> dados/qbq/*.json
 python3 pipeline/extrair_conceitos.py # PDF de conceitos -> dados/qbq/conceitos/
 python3 pipeline/validar_schema.py    # JSON Schemas (draft 2020-12)
@@ -13,7 +14,8 @@ python3 pipeline/validar.py           # contratos: integridade referencial, esca
 python3 pipeline/derivar.py           # dados/ -> derivados/ (CSV + SQLite)
 ```
 
-A ordem importa: `extrair_conceitos.py` usa os rótulos de
+A ordem importa: `extrair_perfis.py` confere cada ocupação contra a espinha
+gerada por `extrair_cbo.py`, e `extrair_conceitos.py` usa os rótulos de
 `dados/qbq/vocabularios/habilidades.json` como âncoras de busca no PDF, então
 depende de `extrair_qbq.py` ter rodado. Ele falha com exit 1 se algum termo
 esperado não for localizado — completude verificada, em vez de dado

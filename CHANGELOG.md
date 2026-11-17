@@ -1,5 +1,20 @@
 # Changelog
 
+## dados-2026.11.1 · schema-v0.3.0 — 2026-11-17
+
+Fase 3: perfil ocupacional da CBO.
+
+- 174.296 atividades em 20.723 grandes áreas de competência, para 2.669
+  ocupações, em `dados/cbo/perfis/` — do CSV oficial capturado em 2026-11-17
+- Schema `cbo-perfis`, contrato 13 no validador e as tabelas `cbo_area` e
+  `cbo_atividade` nos derivados
+- `docs/perfil-e-atitudes.md`: o eixo transversal Z da CBO ("demonstrar
+  competências pessoais") confrontado com os vocabulários do QBQ — 79,2% das
+  atividades do eixo não têm palavra em comum com as atitudes do QBQ, que são
+  escala de autonomia e não catálogo de comportamento
+- D017 (só o código da ocupação é chave no CSV de perfil) e D018 (sufixo
+  sequencial para duas publicações no mesmo mês)
+
 ## dados-2026.11 · schema-v0.2.0 — 2026-11-17
 
 Fase 1: espinha enumerativa da CBO 2002.

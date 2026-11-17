@@ -59,6 +59,19 @@ def derivar_cbo(tabelas):
             ocup.append([o["codigo"], o["titulo"], o["familia"], o["vigencia"]["status"]])
             for s in o["sinonimos"]:
                 sin.append([o["codigo"], s["titulo"]])
+    areas, atividades = [], []
+    for arq in sorted((CBO / "perfis").glob("gg-*.json")):
+        for o in carregar(arq)["ocupacoes"]:
+            for a in o["areas"]:
+                areas.append([o["codigo"], a["sigla"], a["nome"]])
+                for t in a["atividades"]:
+                    atividades.append([o["codigo"], a["sigla"], t["numero"],
+                                       t["descricao"]])
+    tabelas["cbo_area"] = escrever_csv(
+        "cbo-areas.csv", ["ocupacao", "sigla", "nome"], areas)
+    tabelas["cbo_atividade"] = escrever_csv(
+        "cbo-atividades.csv", ["ocupacao", "sigla", "numero", "descricao"], atividades)
+
     tabelas["cbo_ocupacao"] = escrever_csv(
         "cbo-ocupacoes.csv", ["codigo", "titulo", "familia", "vigencia"], ocup)
     tabelas["cbo_sinonimo"] = escrever_csv(

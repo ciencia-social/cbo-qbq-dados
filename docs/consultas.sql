@@ -141,3 +141,34 @@ LEFT JOIN qbq_nao_classificada n ON n.codigo = o.codigo
 WHERE q.nivel_qualificacao IS NULL
 ORDER BY o.codigo
 LIMIT 15;
+
+
+-- 10. O que a ocupação faz (CBO) ao lado do que ela exige (QBQ).
+--     cbo_atividade é o perfil ocupacional; a sigla ordena as áreas dentro
+--     da ocupação e não é taxonomia controlada (D017).
+SELECT a.sigla, ar.nome AS grande_area, a.numero, a.descricao
+FROM cbo_atividade a
+JOIN cbo_area ar ON ar.ocupacao = a.ocupacao AND ar.sigla = a.sigla
+WHERE a.ocupacao = '212405'
+ORDER BY a.sigla, a.numero;
+
+
+-- 11. Eixo transversal Z ("demonstrar competências pessoais"): o que a CBO
+--     cobra de comportamento, e em quantas ocupações.
+SELECT descricao, count(*) AS ocupacoes
+FROM cbo_atividade
+WHERE sigla = 'Z'
+GROUP BY descricao
+ORDER BY ocupacoes DESC
+LIMIT 20;
+
+
+-- 12. Ocupações que fazem uma atividade específica, com o nível do QBQ.
+--     Busca textual no perfil — útil para achar ocupações por tarefa real.
+SELECT DISTINCT o.codigo, o.titulo, q.nivel_qualificacao
+FROM cbo_atividade a
+JOIN cbo_ocupacao o      ON o.codigo = a.ocupacao
+LEFT JOIN qbq_ocupacao q ON q.codigo = a.ocupacao
+WHERE a.descricao LIKE '%banco de dados%'
+ORDER BY q.nivel_qualificacao DESC, o.titulo
+LIMIT 15;

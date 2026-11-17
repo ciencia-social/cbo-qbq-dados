@@ -47,6 +47,35 @@ Sinônimos ficam embutidos na ocupação, e não em arquivo próprio, porque sã
 atributo dela: todo sinônimo da fonte referencia ocupação existente, e a
 proveniência de cada um aponta para o CSV de sinônimos.
 
+### Perfil ocupacional (`dados/cbo/perfis/gg-N.json`)
+
+O que a ocupação faz, como a CBO descreve: as grandes áreas de competência
+(GAC) e, dentro de cada uma, as atividades. 174.296 atividades em 2.669
+ocupações, particionadas por grande grupo como as demais camadas.
+
+| campo | conteúdo |
+|---|---|
+| `codigo` | CBO 6 dígitos — a única chave confiável do arquivo de origem (D017) |
+| `areas[]` | `sigla` (A–O, Y, Z), `nome` e `atividades[]` |
+| `atividades[]` | `numero` como publicado, com lacunas (D017), e `descricao` |
+| `fonte` | `{arquivo, linha}` da primeira linha da ocupação no CSV |
+
+A sigla da área **não é taxonomia controlada**: é ordenação dentro da
+ocupação. A mesma letra `A` nomeia 588 áreas diferentes ao longo do arquivo,
+porque cada ocupação tem o seu conjunto. Duas siglas fogem à regra e são
+transversais: `Z` ("demonstrar competências pessoais"), presente em 2.666 das
+2.669 ocupações, e `Y`, presente em 535 e com cinco nomes distintos
+(comunicar-se, trabalhar com segurança, trabalhar com biossegurança e outros).
+
+As 25 ocupações da espinha sem perfil não são aleatórias: 9 são das forças
+armadas, 15 são mandatos eletivos e cargos de direção do poder público
+(senador a vice-prefeito) e 1 é `373220`. A fonte não descreve atividades para
+mandato político nem para carreira militar.
+
+O eixo `Z` **não** é equivalente da dimensão "atitudes" do QBQ, que é escala de
+autonomia e supervisão: ver [perfil-e-atitudes.md](perfil-e-atitudes.md) para a
+medida e os termos que existem em uma fonte e não na outra.
+
 ## Entidades — QBQ
 
 ### Ocupação (`dados/qbq/ocupacoes/gg-N.json`)
@@ -149,3 +178,7 @@ escala (D006).
 12. Cruzamento QBQ × CBO: as diferenças entre as duas camadas viram aviso e
     tabela (`derivados/csv/cobertura-qbq-cbo.csv`), nunca correção silenciosa
     (D015) — ver [cobertura-qbq-cbo.md](cobertura-qbq-cbo.md)
+13. Perfil: ocupação com perfil existe na espinha e está no arquivo do seu
+    grande grupo; siglas de área únicas e ordenadas; numeração de atividade
+    não decrescente. Lacunas, repetição e ocupação sem perfil viram aviso —
+    são fatos da fonte (D017)

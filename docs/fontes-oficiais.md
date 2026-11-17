@@ -62,11 +62,30 @@ Capturados em 2026-11-17; checksums em `fontes/README.md`. A página de
 downloads vigente na captura está arquivada junto, como evidência das URLs
 (D014) — as respostas HTTP não trazem `Last-Modified`.
 
-Ainda **não** incorporados, previstos para fases seguintes:
-`cbo2002-perfilocupacional.csv` (grande área de competência e atividades por
-ocupação, 174.296 linhas), os Livros 1–3 em PDF (condições e recursos de
-trabalho), as tábuas de conversão (`publico-geral.zip`, `usuario-medio.zip`) e
-os PDFs anuais de alterações (2012–2023).
+### Perfil ocupacional (CBO 2002)
+
+| item | valor |
+|---|---|
+| Arquivo | `fontes/cbo/cbo2002-perfilocupacional.csv` |
+| Registros | 174.296 (2.669 ocupações) |
+| Colunas | `COD_GRANDE_GRUPO`, `COD_SUBGRUPO_PRINCIPAL`, `COD_SUBGRUPO`, `COD_FAMILIA`, `COD_OCUPACAO`, `SGL_GRANDE_AREA`, `NOME_GRANDE_AREA`, `COD_ATIVIDADE`, `NOME_ATIVIDADE` |
+| Capturado em | 2026-11-17 |
+| SHA-256 | ver `fontes/README.md` |
+
+Uma grande área de competência (GAC) agrupa as atividades de uma ocupação; as
+siglas `Y` e `Z` são eixos transversais, presentes em quase toda ocupação.
+As 25 ocupações da espinha sem perfil são todas do grande grupo 0 (forças
+armadas, policiais e bombeiros militares) — lacuna da fonte, não do dataset.
+
+O download deste arquivo chegou truncado na primeira tentativa (3 MB de
+17,6 MB, conexão interrompida pelo servidor). A conferência de integridade é
+o `Content-Length` da resposta mais o checksum registrado; refazer a captura
+exige repetir as duas.
+
+Ainda **não** incorporados, previstos para fases seguintes: os Livros 1–3 em
+PDF (condições gerais de exercício e recursos de trabalho, por família), as
+tábuas de conversão (`publico-geral.zip`, `usuario-medio.zip`) e os PDFs
+anuais de alterações (2012, 2013, 2016, 2018, 2021, 2022 e 2023).
 
 ## Instabilidade de URLs do gov.br
 

@@ -210,3 +210,36 @@ tag do release e o `CHANGELOG.md`. Quando a camada QBQ for regerada em uma
 publicação futura, preservar `vigencia.desde` dos registros existentes é
 requisito — mecanismo previsto para a fase 4, junto com o histórico de
 alterações.
+
+## D017 — No perfil ocupacional, só o código da ocupação é chave
+
+**Contexto.** O `cbo2002-perfilocupacional.csv` repete a hierarquia em cinco
+colunas (`COD_GRANDE_GRUPO` … `COD_OCUPACAO`), e elas não concordam entre si:
+em 164 linhas — as ocupações `226105` (quiropraxista) e `226110` (osteopata) —
+o `COD_SUBGRUPO` diz `223`, resquício de quando pertenciam a "profissionais da
+medicina", enquanto o `COD_FAMILIA` e o código da ocupação já refletem o
+subgrupo `226`, criado para práticas integrativas. Outros dois fatos aparecem
+na mesma fonte: o `COD_ATIVIDADE` não é sequência contínua — 7.919 dos 20.723
+pares ocupação-área fogem de `1..n`, sendo 7.913 por lacuna (mediana de 3
+números faltando), 9 por começarem em zero (os pilotos da família 3411) e 1
+pela repetição em `513505`, área G, onde o número 1 aparece em duas
+atividades distintas.
+
+**Decisão.** A chave é `COD_OCUPACAO`; as outras quatro colunas de código são
+desnormalização defasada e são **ignoradas** — a hierarquia vem do prefixo do
+código, conferida contra a espinha, como no resto da camada CBO. O número da
+atividade é gravado **como publicado**, com lacunas e com a repetição: é
+identificador da fonte, não posição em lista, e a ordem de leitura preserva a
+sequência do arquivo. O validador avisa sobre a repetição em vez de renumerar.
+
+## D018 — Duas publicações no mesmo mês ganham sufixo sequencial
+
+**Contexto.** O esquema `dados-AAAA.MM` supõe no máximo uma publicação por
+mês. A fase 3 ficou pronta no mesmo dia em que `dados-2026.11` foi publicada,
+então a próxima versão não tem mês livre para ocupar.
+
+**Decisão.** A segunda publicação de um mesmo mês e as seguintes recebem
+sufixo sequencial: `dados-2026.11.1`, `dados-2026.11.2`. O glob `dados-*` do
+workflow de release continua casando, a ordenação lexicográfica continua
+cronológica e o mês segue identificando a captura. Versão sem sufixo é sempre
+a primeira do mês.

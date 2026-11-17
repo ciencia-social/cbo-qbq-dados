@@ -30,6 +30,7 @@ jobs:
           python3 pipeline/extrair_qbq.py
           python3 pipeline/extrair_conceitos.py
           python3 pipeline/extrair_cbo.py
+          python3 pipeline/extrair_perfis.py
           git diff --exit-code dados/
           python3 pipeline/validar_schema.py
           python3 pipeline/validar.py

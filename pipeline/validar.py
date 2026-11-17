@@ -106,11 +106,48 @@ def validar_cbo():
         if doc["total"] != len(doc["ocupacoes"]):
             erro(f"cbo/{arq.name}: total declarado {doc['total']} != {len(doc['ocupacoes'])}")
 
-    return codigos, ocupacoes, sinonimos
+    # 13. perfil ocupacional (D017): integridade contra a espinha, siglas e
+    #     numeração. Lacunas e repetição na numeração são fatos da fonte e
+    #     viram aviso; ocupação sem perfil idem.
+    atividades = 0
+    com_perfil = set()
+    for arq in sorted((CBO / "perfis").glob("gg-*.json")):
+        doc = carregar(arq)
+        for o in doc["ocupacoes"]:
+            c = o["codigo"]
+            if c not in ocupacoes:
+                erro(f"cbo/perfis: ocupação {c} sem registro na espinha")
+            if c[0] != doc["grande_grupo"]:
+                erro(f"cbo/perfis: {c} no arquivo errado ({arq.name})")
+            if c in com_perfil:
+                erro(f"cbo/perfis: ocupação {c} duplicada")
+            com_perfil.add(c)
+            siglas = [a["sigla"] for a in o["areas"]]
+            if siglas != sorted(set(siglas)):
+                erro(f"cbo/perfis: {c} com siglas repetidas ou fora de ordem: {siglas}")
+            for a in o["areas"]:
+                nums = [t["numero"] for t in a["atividades"]]
+                atividades += len(nums)
+                if nums != sorted(nums):
+                    erro(f"cbo/perfis: {c} área {a['sigla']} com numeração fora de ordem")
+                if len(nums) != len(set(nums)):
+                    aviso(f"cbo/perfis: {c} área {a['sigla']} repete número de "
+                          f"atividade (D017)")
+        if doc["total"] != len(doc["ocupacoes"]):
+            erro(f"cbo/perfis/{arq.name}: total declarado {doc['total']} != "
+                 f"{len(doc['ocupacoes'])}")
+
+    if com_perfil:
+        sem_perfil = set(ocupacoes) - com_perfil
+        if sem_perfil:
+            aviso(f"{len(sem_perfil)} ocupações da espinha sem perfil ocupacional "
+                  f"(ex.: {', '.join(sorted(sem_perfil)[:3])}) — lacuna da fonte")
+
+    return codigos, ocupacoes, sinonimos, atividades
 
 
 def main():
-    cbo_niveis, cbo_ocupacoes, cbo_sinonimos = validar_cbo()
+    cbo_niveis, cbo_ocupacoes, cbo_sinonimos, cbo_atividades = validar_cbo()
 
     ocupacoes = {}
     for arq in sorted((QBQ / "ocupacoes").glob("gg-*.json")):
@@ -274,6 +311,7 @@ def main():
               f"(ex.: {divergentes[0]}) — D015")
 
     print(f"CBO: {len(cbo_ocupacoes)} ocupações | {cbo_sinonimos} sinônimos | "
+          f"{cbo_atividades} atividades de perfil | "
           f"{len(cbo_niveis['familias'])} famílias, {len(cbo_niveis['subgrupos'])} subgrupos, "
           f"{len(cbo_niveis['subgrupos-principais'])} subgrupos principais, "
           f"{len(cbo_niveis['grandes-grupos'])} grandes grupos")
