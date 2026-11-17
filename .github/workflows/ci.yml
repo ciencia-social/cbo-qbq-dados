@@ -10,10 +10,11 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
-      - run: pip install openpyxl jsonschema
+      - run: pip install openpyxl jsonschema pypdfium2
       - name: Extração reprodutível (dados/ commitado == pipeline(fontes/))
         run: |
           python3 pipeline/extrair_qbq.py
+          python3 pipeline/extrair_conceitos.py
           git diff --exit-code dados/
       - run: python3 pipeline/validar_schema.py
       - run: python3 pipeline/validar.py

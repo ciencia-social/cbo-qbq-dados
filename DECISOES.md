@@ -115,3 +115,48 @@ classificadas — diferentemente das 52 ocupações com justificativa oficial.
 `ocupacoes/` com níveis `null`, e o validador emite **aviso** (não erro).
 Não inventamos justificativa nem as movemos para `nao-classificadas.json`,
 que contém exatamente o que a fonte declara.
+
+## D011 — Conceitos em camada própria, chaveada pelo vocabulário
+
+**Contexto.** O QBQ publica as definições de cada habilidade em documento
+separado da planilha (o PDF de conceitos e terminologia, também disponível na
+página de Conceitos do portal de consulta). São duas fontes distintas sobre os
+mesmos termos: a planilha dá a taxonomia e as atribuições por ocupação; o PDF
+dá o significado de cada termo.
+
+**Decisão.** Os conceitos ficam em `dados/qbq/conceitos/<dimensao>.json`, uma
+camada à parte dos vocabulários, chaveada pelos mesmos códigos. Não são
+mesclados no vocabulário porque vêm de outra fonte, com outra data e outro
+checksum — juntá-los apagaria a rastreabilidade de qual documento afirma o
+quê. Cada registro guarda `codigo` (do vocabulário), `termo` (o rótulo como
+grafado no documento de conceitos) e `conceito` (a definição transcrita). O CI
+exige cobertura total: todo termo do vocabulário que não seja balde "outros"
+tem de ter conceito, e todo conceito tem de apontar para termo existente.
+
+Hoje só a dimensão `habilidades` tem documento de conceitos publicado. Quando
+houver equivalente para conhecimentos e atitudes, entram como novos arquivos
+na mesma pasta, sem mudança de schema.
+
+## D012 — Baldes "outros" não têm conceito oficial
+
+**Contexto.** Os baldes de segmento `90` (D009) existem para o preenchimento
+livre da fonte e não aparecem no documento de conceitos.
+
+**Decisão.** Ficam fora de `conceitos/`, e o validador trata como **erro** a
+presença de conceito para um balde — sinal de erro de parsing. A ausência de
+definição é fato da fonte, não lacuna a preencher.
+
+## D013 — Grafias divergentes entre planilha e PDF: as duas são preservadas
+
+**Contexto.** Os dois documentos oficiais têm erros de digitação em rótulos, em
+direções opostas: a planilha traz `RACIOCÍONIO CIENTÍFICO` (01.03.06, o PDF
+grafa "Raciocínio científico") e o PDF traz "Habilidades Sensorias" (categoria
+03.03, a planilha grafa `HABILIDADES SENSORIAIS`). O casamento exato de
+rótulos falharia nesses dois casos.
+
+**Decisão.** O extrator casa o rótulo por texto exato e, só quando isso falha,
+pela janela de palavras mais à esquerda com similaridade ≥ 0,90. Nenhuma das
+duas grafias é corrigida: o vocabulário mantém a da planilha, o conceito
+mantém a do PDF em `termo`, e toda diferença encontrada é listada em
+`divergencias`, no próprio arquivo de conceitos, com aviso no validador. Assim
+a divergência fica auditável em vez de escondida no código do extrator.

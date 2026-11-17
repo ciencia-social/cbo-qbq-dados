@@ -17,6 +17,7 @@ proveniência por registro, pipeline reprodutível e derivados prontos para uso
 | Ocupações QBQ | 2.673 ocupações (2.621 com síntese, perfil ocupacional e níveis de qualificação 1–8) | `dados/qbq/ocupacoes/` |
 | Competências (CHA) | ~258 mil itens de conhecimento, habilidade e atitude por ocupação, com graus de profundidade, frequência e importância (1–5) | `dados/qbq/competencias/` |
 | Vocabulários | Taxonomias controladas de conhecimentos (I e II), habilidades e atitudes | `dados/qbq/vocabularios/` |
+| Conceitos | 96 definições oficiais de domínios, categorias e habilidades (PDF de conceitos e terminologia) | `dados/qbq/conceitos/` |
 | Não classificadas | 52 ocupações sem nível QBQ, com a justificativa oficial | `dados/qbq/nao-classificadas.json` |
 | Derivados | Os mesmos dados em CSV e SQLite, gerados pelo pipeline | `derivados/` |
 
@@ -76,7 +77,8 @@ python3 pipeline/extrair_qbq.py && python3 pipeline/validar_schema.py \
 
 ## Roadmap
 
-- [x] **Fase 0-2 — QBQ**: fontes, schemas, ocupações, competências CHA, vocabulários
+- [x] **Fase 0-2 — QBQ**: fontes, schemas, ocupações, competências CHA,
+  vocabulários e conceitos das habilidades
 - [ ] **Fase 1 — espinha CBO**: estrutura enumerativa completa (grandes grupos →
       ocupações → sinônimos) a partir dos CSVs oficiais da CBO
 - [ ] **Fase 3 — perfis descritivos CBO** por família (GAC, atividades, recursos)

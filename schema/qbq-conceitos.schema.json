@@ -1,0 +1,105 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://qbq.dev/schema/qbq-conceitos.schema.json",
+  "title": "Conceitos oficiais dos termos de uma dimensão de CHA do QBQ",
+  "type": "object",
+  "required": [
+    "versao_dados",
+    "fonte",
+    "dimensao"
+  ],
+  "$defs": {
+    "conceituados": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "codigo",
+          "termo",
+          "conceito"
+        ],
+        "properties": {
+          "codigo": {
+            "type": "string",
+            "description": "código do termo no vocabulário da mesma dimensão"
+          },
+          "termo": {
+            "type": "string",
+            "description": "rótulo como grafado no documento de conceitos"
+          },
+          "conceito": {
+            "type": "string",
+            "minLength": 1,
+            "description": "definição oficial, transcrita da fonte"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "properties": {
+    "versao_dados": {
+      "type": "string"
+    },
+    "fonte": {
+      "type": "string"
+    },
+    "dimensao": {
+      "type": "string",
+      "description": "vocabulário a que os códigos se referem (ex.: habilidades)"
+    },
+    "dominios": {
+      "$ref": "#/$defs/conceituados"
+    },
+    "areas": {
+      "$ref": "#/$defs/conceituados"
+    },
+    "campos": {
+      "$ref": "#/$defs/conceituados"
+    },
+    "categorias": {
+      "$ref": "#/$defs/conceituados"
+    },
+    "conhecimentos": {
+      "$ref": "#/$defs/conceituados"
+    },
+    "elementos": {
+      "$ref": "#/$defs/conceituados"
+    },
+    "habilidades": {
+      "$ref": "#/$defs/conceituados"
+    },
+    "atitudes": {
+      "$ref": "#/$defs/conceituados"
+    },
+    "divergencias": {
+      "type": "array",
+      "description": "termos cuja grafia difere entre o documento de conceitos e a planilha; nenhuma das duas é corrigida",
+      "items": {
+        "type": "object",
+        "required": [
+          "nivel",
+          "codigo",
+          "termo_pdf",
+          "termo_planilha"
+        ],
+        "properties": {
+          "nivel": {
+            "type": "string"
+          },
+          "codigo": {
+            "type": "string"
+          },
+          "termo_pdf": {
+            "type": "string"
+          },
+          "termo_planilha": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

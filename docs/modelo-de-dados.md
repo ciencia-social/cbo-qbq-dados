@@ -55,6 +55,24 @@ Códigos `*.90` significam "outros" (nota da aba Layout). É o vocabulário
 controlado que habilita consultas transversais ("todas as ocupações que
 exigem ESTATÍSTICA com importância ≥ 4").
 
+### Conceitos (`dados/qbq/conceitos/<dimensao>.json`)
+
+Definição oficial de cada termo do vocabulário da dimensão, extraída do PDF de
+conceitos e terminologia do QBQ — outra fonte, com data e checksum próprios, e
+por isso camada separada do vocabulário (D011). Hoje existe
+`habilidades.json`, cobrindo 3 domínios, 9 categorias e 84 habilidades.
+
+| campo | conteúdo |
+|---|---|
+| `dimensao` | vocabulário a que os códigos se referem (ex.: `habilidades`) |
+| `fonte` | caminho do arquivo em `fontes/` |
+| `<nivel>[]` | `codigo` (do vocabulário), `termo` (rótulo como grafado no PDF), `conceito` (definição transcrita) |
+| `divergencias[]` | termos cuja grafia difere entre PDF e planilha; nenhuma das duas é corrigida (D013) |
+
+Baldes "outros" (segmento `90`) não constam: o PDF não os define (D012). O
+`conceito` de `01.01` (Comunicação) repete literalmente o do domínio pai —
+assim está na fonte, e o validador avisa em vez de corrigir.
+
 ### Não classificadas (`dados/qbq/nao-classificadas.json`)
 
 Cobertura parcial é dado: ocupações CBO sem nível QBQ, com a justificativa

@@ -30,6 +30,7 @@ MAPA = {
     "schema/qbq-ocupacoes.schema.json": "dados/qbq/ocupacoes/gg-*.json",
     "schema/qbq-competencias.schema.json": "dados/qbq/competencias/gg-*.json",
     "schema/qbq-vocabularios.schema.json": "dados/qbq/vocabularios/*.json",
+    "schema/qbq-conceitos.schema.json": "dados/qbq/conceitos/*.json",
     "schema/qbq-nao-classificadas.schema.json": "dados/qbq/nao-classificadas.json",
 }
 

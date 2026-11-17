@@ -78,6 +78,19 @@ def main():
             f"qbq-vocabulario-{nome}.csv",
             ["vocabulario", "nivel", "codigo", "descricao", "pai"], linhas)
 
+    conceitos = []
+    for arq in sorted((QBQ / "conceitos").glob("*.json")):
+        doc = carregar(arq)
+        for nivel, regs in doc.items():
+            if nivel == "divergencias" or not isinstance(regs, list):
+                continue
+            for r in regs:
+                conceitos.append([doc["dimensao"], nivel, r["codigo"],
+                                  r["termo"], r["conceito"]])
+    tabelas["qbq_conceito"] = escrever_csv(
+        "qbq-conceitos.csv",
+        ["vocabulario", "nivel", "codigo", "termo", "conceito"], conceitos)
+
     nc = [[o["codigo"], o["titulo"], o["justificativa"]]
           for o in carregar(QBQ / "nao-classificadas.json")["ocupacoes"]]
     tabelas["qbq_nao_classificada"] = escrever_csv(

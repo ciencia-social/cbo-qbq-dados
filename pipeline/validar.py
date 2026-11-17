@@ -135,8 +135,42 @@ def main():
         if c not in codigos_nc and all(v is None for v in o["niveis"].values()):
             aviso(f"{c} sem nenhum nível e fora de nao-classificadas.json (D010)")
 
+    # 11. conceitos (D011): cobertura e integridade referencial contra o
+    #     vocabulário da mesma dimensão. Baldes "outros" não têm definição
+    #     oficial no PDF (D012) e por isso não devem aparecer aqui.
+    total_conceitos = 0
+    for arq in sorted((QBQ / "conceitos").glob("*.json")):
+        doc = carregar(arq)
+        dim = doc["dimensao"]
+        if dim not in vocab:
+            erro(f"conceitos/{arq.name}: dimensão {dim!r} sem vocabulário correspondente")
+            continue
+        todos_conceitos = {c["codigo"]: c["conceito"]
+                           for nivel in vocab[dim] for c in doc.get(nivel, [])}
+        total_conceitos += len(todos_conceitos)
+        for nivel, termos in vocab[dim].items():
+            conceituados = {c["codigo"]: c["conceito"] for c in doc.get(nivel, [])}
+            for cod, conceito in conceituados.items():
+                if cod not in termos:
+                    erro(f"conceitos/{arq.name}: {nivel} {cod} fora do vocabulário")
+                if not conceito.strip():
+                    erro(f"conceitos/{arq.name}: {nivel} {cod} com conceito vazio")
+                pai = termos.get(cod, {}).get("pai")
+                if pai and todos_conceitos.get(pai) == conceito:
+                    aviso(f"conceitos/{arq.name}: {cod} repete a definição do pai "
+                          f"{pai} — o PDF as traz idênticas")
+            for cod in termos:
+                balde = "90" in cod.split(".")
+                if balde and cod in conceituados:
+                    erro(f"conceitos/{arq.name}: balde {cod} com conceito (D012)")
+                if not balde and cod not in conceituados:
+                    erro(f"conceitos/{arq.name}: {nivel} {cod} sem conceito oficial")
+        for d in doc.get("divergencias", []):
+            aviso(f"conceitos/{arq.name}: grafia do termo {d['codigo']} difere entre PDF "
+                  f"({d['termo_pdf']!r}) e planilha ({d['termo_planilha']!r}) (D013)")
+
     print(f"ocupações: {len(ocupacoes)} | com competências: {total_comp} "
-          f"| não classificadas: {nc['total']}")
+          f"| não classificadas: {nc['total']} | conceitos: {total_conceitos}")
     print(f"erros: {len(erros)} | avisos: {len(avisos)}")
     for m in avisos[:20]:
         print("  aviso:", m)

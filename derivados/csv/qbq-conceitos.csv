@@ -1,0 +1,100 @@
+vocabulario,nivel,codigo,termo,conceito
+habilidades,dominios,1,Habilidades Cognitivas,Capacidades desenvolvidas que influenciam a aquisição e aplicação de conhecimentos na resolução de problemas.
+habilidades,dominios,2,Habilidades Práticas,"Proficiência no uso de métodos, materiais, ferramentas e instrumentos, visando a aplicação dos conhecimentos adquiridos para realizar tarefas e solucionar problemas . São classificadas em três categorias: habilidades operacionais, organizacionais e interpessoais."
+habilidades,dominios,3,"Habilidades Físicas, Psicomotoras e Sensoriais","Atributos físicos, psicomotores e sensoriais duradouros, inatos e ou desenvolvidos pelo indivíduo que influenciam o desempenho."
+habilidades,categorias,01.01,Comunicação,Capacidades desenvolvidas que influenciam a aquisição e aplicação de conhecimentos na resolução de problemas.
+habilidades,categorias,01.02,Trabalho com Números,"Capacidades desenvolvidas de usar a linguagem de números, expressões numéricas, algébricas e geométricas para resolver problemas."
+habilidades,categorias,01.03,Raciocínio,"Capacidades desenvolvidas para usar a razão, especialmente para formular conclusões, inferências ou julgamentos."
+habilidades,categorias,02.01,Habilidades Operacionais,"Capacidades desenvolvidas para usar métodos, técnicas, materiais, instrumentos, procedimentos e conhecimentos, ao colocar em operação um determinado trabalho."
+habilidades,categorias,02.02,Habilidades Organizacionais,Capacidades desenvolvidas para usar os recursos com efetividade.
+habilidades,categorias,02.03,Habilidades Interpessoais,"Capacidades desenvolvidas para interagir com as pessoas, individualmente e em grupo."
+habilidades,categorias,03.01,Habilidades Físicas,"Capacidades relacionadas à força, à resistência, à flexibilidade, ao equilíbrio e à coordenação."
+habilidades,categorias,03.02,Habilidades Psicomotoras,Capacidades desenvolvidas que influenciam a habilidade de manipular e controlar objetos.
+habilidades,categorias,03.03,Habilidades Sensorias,"Capacidades desenvolvidas que influenciam a percepção visual, auditiva e da fala."
+habilidades,habilidades,01.01.01,Compreensão oral,Capacidade desenvolvida de ouvir e compreender informações e ideias apresentadas por meio de palavras faladas e frases.
+habilidades,habilidades,01.01.02,Escuta ativa,"Capacidade desenvolvida de atenção ao que as outras pessoas estão dizendo, tendo tempo para entender os pontos que são apresentados, fazendo perguntas adequadas e não interrompendo em momentos inapropriados."
+habilidades,habilidades,01.01.03,Expressão oral,Capacidade desenvolvida de comunicar–se claramente ao fornecer informações e ideias para que outros entendam.
+habilidades,habilidades,01.01.04,Compreensão escrita,Capacidade desenvolvida de compreender parágrafos e sentenças escritas em documentos relacionados ao trabalho.
+habilidades,habilidades,01.01.05,Expressão escrita,Capacidade desenvolvida de escrever palavras e sentenças com clareza e sem ambiguidade para que outros possam compreender.
+habilidades,habilidades,01.01.06,Estratégias de aprendizagem,Capacidade desenvolvida de selecionar e usar métodos e procedimentos de treinamento/formação/instrução apropriados em situações de aprendizagem ou de ensino.
+habilidades,habilidades,01.01.07,Aprendizado ativo,Capacidade desenvolvida de compreender as implicações de novas informações para a resolução de problemas atuais e futuros relacionados a um dado contexto.
+habilidades,habilidades,01.01.08,Persuasão,Capacidade desenvolvida de persuadir pessoas a mudarem de ideia ou comportamento.
+habilidades,habilidades,01.01.09,Negociação,Capacidade desenvolvida de reunir pessoas e tentar reconciliar as diferenças.
+habilidades,habilidades,01.01.10,Habilidade de orientar serviços,Capacidade desenvolvida de ativamente encontrar formas de ajudar as pessoas na realização de seus trabalhos.
+habilidades,habilidades,01.01.11,Habilidade de ensinar,"Capacidade desenvolvida de compreender as dificuldades de cada pessoa na execução de um trabalho ou de um estudo, fornecendo dicas para que as dificuldades sejam sanadas por meio de explanação, demonstração e teste."
+habilidades,habilidades,01.02.01,Transcrição de dados,"Capacidade desenvolvida de copiar dados ou expressões numéricas, algébricas e geométricas de maneira fidedigna."
+habilidades,habilidades,01.02.02,Comparação de dados,"Capacidade desenvolvida de selecionar, classificar, organizar e comparar dois ou mais elementos numéricos, algébricos ou geométricos."
+habilidades,habilidades,01.02.03,Classificação de dados,Capacidade desenvolvida de classificar informações numéricas com base em algum tipo de ordenamento.
+habilidades,habilidades,01.02.04,Compreensão numérica,Capacidade de leitura e interpretação de linguagem numérica.
+habilidades,habilidades,01.02.05,Expressão numérica,"Capacidade desenvolvida de expressar por escrito operações e expressões numéricas, algébricas ou geométricas."
+habilidades,habilidades,01.02.06,Análise de dados,"Capacidade desenvolvida de analisar dados e expressões numéricas, algébricas ou geométricas, bem como reconhecer padrões."
+habilidades,habilidades,01.02.07,Sintetização de dados,"Capacidade desenvolvida de realizar conclusões sintéticas de dados e expressões numéricas, algébricas ou geométricas em estudo."
+habilidades,habilidades,01.03.01,Raciocínio concreto para seguir instruções,Capacidade desenvolvida de seguir procedimentos baseados em fatos e coisas que se vê ou observa.
+habilidades,habilidades,01.03.02,Raciocínio abstrato para resolução de problemas,"Capacidade mental desenvolvida baseada em ideias, ou seja, de raciocinar além dos fatos ou do que está implícito nos fatos."
+habilidades,habilidades,01.03.03,Raciocínio analítico,Capacidade desenvolvida de análise de informações e uso de lógica para resolver problemas relacionados ao trabalho.
+habilidades,habilidades,01.03.04,Raciocínio sintético,Capacidade diagnóstico de problemas ou troubleshooting.
+habilidades,habilidades,01.03.05,Raciocínio crítico,"Capacidade desenvolvida de identificar os pontos fortes e fracos de soluções alternativas, conclusões ou abordagens para problemas."
+habilidades,habilidades,01.03.06,Raciocínio científico,Capacidade desenvolvida de usar regras e métodos científicos para resolver problemas.
+habilidades,habilidades,02.01.01,Aplicação de instruções simples e rotineiras,Capacidade desenvolvida para usar procedimentos simples na execução de tarefas rotineiras.
+habilidades,habilidades,02.01.02,"Aplicação de técnicas que envolvem algumas variáveis concretas e
+específicas",Capacidade desenvolvida para usar procedimentos para aplicação de técnicas que contêm algumas variáveis concretas e específicas.
+habilidades,habilidades,02.01.03,"Aplicação de técnicas que envolvem muitas variáveis concretas e
+específicas",Capacidade desenvolvida para usar procedimentos para aplicação de técnicas que que contêm muitas variáveis concretas e específicas.
+habilidades,habilidades,02.01.04,Aplicação de habilidades artísticas,Capacidade desenvolvida para usar e criar técnicas e concepções em trabalhos artísticos.
+habilidades,habilidades,02.01.05,Aplicação de princípios tecnológicos de baixa complexidade,Capacidade desenvolvida para usar regras e princípios tecnológicos de baixa complexidade para resolver problemas.
+habilidades,habilidades,02.01.06,"Aplicação de princípios científicos ou tecnológicos para solução de
+problemas",Capacidade desenvolvida para usar regras e métodos científicos ou tecnológicos de média complexidade para resolver problemas.
+habilidades,habilidades,02.01.07,Aplicação de conhecimento de um campo de estudo científico,Capacidade desenvolvida para usar princípios e métodos de um campo de estudo científico de alta complexidade.
+habilidades,habilidades,02.01.08,Aplicação de conhecimento científico de alta complexidade,Capacidade desenvolvida para usar princípios e criar métodos situados na vanguarda científica para criar soluções de problemas de alta complexidade.
+habilidades,habilidades,02.02.01,Análise de operações,Capacidade desenvolvida para analisar as necessidades e os requisitos para criar um projeto de produto (design).
+habilidades,habilidades,02.02.02,Programação de operações,Capacidade desenvolvida para escrever programas de computador para vários fins.
+habilidades,habilidades,02.02.03,Análise de garantia de qualidade,"Capacidade desenvolvida para realizar de testes e inspeções de produtos, serviços ou processos para avaliar a qualidade ou o desempenho."
+habilidades,habilidades,02.02.04,Análise sistêmica,"Capacidade desenvolvida para determinar como um sistema deve funcionar e como as mudanças nas condições, nas operações e no ambiente afetarão os resultados."
+habilidades,habilidades,02.02.05,Gerenciamento de recursos materiais,"Capacidade desenvolvida para seleção e obtenção apropriadas de equipamentos, instalações e materiais necessários para realizar determinado trabalho."
+habilidades,habilidades,02.02.06,Gerenciamento de recursos financeiros,Capacidade desenvolvida para determinar como o dinheiro será gasto para realizar o trabalho e contabilizar esses gastos.
+habilidades,habilidades,02.02.07,Gerenciamento de recursos humanos,"Capacidade desenvolvida para incentivar, desenvolver e dirigir as pessoas enquanto elas trabalham, identificando as melhores pessoas para cada trabalho."
+habilidades,habilidades,02.02.08,Análise de riscos,"Capacidade desenvolvida para analisar possibilidades de eventos acidentais que possam provocar danos às pessoas, às instalações, ao meio ambiente e à imagem da empresa."
+habilidades,habilidades,02.02.09,Gerenciamento de riscos,"Capacidade desenvolvida para gerenciar: a) a prevenção de eventos acidentais de natureza interna ou externa à empresa que possam provocar danos às pessoas, às instalações, ao meio ambiente e à imagem da empresa; b) procedimentos e providências em caso de incidentes."
+habilidades,habilidades,02.03.01,Trabalho em equipe,Capacidade desenvolvida e facilidade em unir-se a um esforço coletivo para resolver um problema ou executar um trabalho.
+habilidades,habilidades,02.03.02,Atendimento a solicitações e pedidos das pessoas,Capacidade desenvolvida para compreender a natureza das solicitações e pedidos das pessoas para resposta efetiva.
+habilidades,habilidades,02.03.03,Troca de informações,Capacidade desenvolvida para troca de informações com a equipe de trabalho e com a comunidade externa.
+habilidades,habilidades,02.03.04,Fornecimento de informações,"Capacidade desenvolvida para fornecer informações aos superiores, colegas de trabalho e subordinados por telefone, por escrito, por e-mail ou pessoalmente."
+habilidades,habilidades,02.03.05,Cooperação,Capacidade desenvolvida para ser agradável com os outros no trabalho e demonstrar uma atitude cooperativa e bem– humorada.
+habilidades,habilidades,02.03.06,"Persuasão de pessoas em favor de ideias, produtos e/ou serviços",Capacidade desenvolvida para convencer outros a mudarem de ideia ou comportamento.
+habilidades,habilidades,02.03.07,Orientação de pessoas,Capacidade desenvolvida na ação de ajudar e orientar as pessoas nas suas necessidades.
+habilidades,habilidades,02.03.08,Facilitação e mediação de aprendizagem,Capacidade desenvolvida para interagir com outros para que eles internalizem a aprendizagem por meio da ação.
+habilidades,habilidades,02.03.09,Assessoramento,"Capacidade desenvolvida para fornecer de informação técnica ou científica e ideias para definir, clarificar, ampliar e aperfeiçoar procedimentos, capabilidade ou especificação de produtos e serviços."
+habilidades,habilidades,02.03.10,Supervisão,"Capacidade desenvolvida para determinar e ou interpretar procedimentos para um grupo de trabalhadores, ao distribuir tarefas específicas a eles – delineando tópicos prescritos e discricionários, mantendo relação harmoniosa entre eles e avaliando seus desempenhos."
+habilidades,habilidades,02.03.11,Coordenação,Capacidade desenvolvida para ajustar as ações em relação às ações de outros.
+habilidades,habilidades,02.03.12,Percepção da realidade social,Capacidade desenvolvida para cientificar-se das reações dos outros e entender a razão das reações apresentadas.
+habilidades,habilidades,03.01.01,Coordenação corporal bruta,"Capacidade desenvolvida de coordenar o movimento de seus braços, pernas e tronco juntos quando todo o corpo está em movimento."
+habilidades,habilidades,03.01.02,Equilíbrio corporal bruto,Capacidade desenvolvida de manter ou recuperar o seu equilíbrio corporal ou ficar em pé quando em uma posição instável.
+habilidades,habilidades,03.01.03,Flexibilidade de extensão,"Capacidade desenvolvida de dobrar, esticar, torcer, ou chegar com o seu corpo, braços e ou pernas."
+habilidades,habilidades,03.01.04,Flexibilidade dinâmica,"Capacidade desenvolvida de rápida e repetidamente dobrar, esticar, torcer, ou chegar com o seu corpo, braços e ou pernas."
+habilidades,habilidades,03.01.05,Força de tronco,"Capacidade desenvolvida de usar os seus músculos abdominal e lombar para apoiar parte do corpo repetidamente ou continuamente ao longo do tempo, sem se exaurir ou fatigar."
+habilidades,habilidades,03.01.06,Força dinâmica,Capacidade desenvolvida de exercer a força muscular repetida ou continuamente ao longo do tempo. Isso envolve resistência muscular e resistência à fadiga muscular.
+habilidades,habilidades,03.01.07,Força estática,"Capacidade desenvolvida de exercer a força muscular máxima para levantar, puxar, empurrar ou carregar objetos."
+habilidades,habilidades,03.01.08,Força explosiva,"Capacidade desenvolvida de usar rajadas de força muscular para impulsionar a si mesmo (como no salto ou corrida), ou para jogar um objeto."
+habilidades,habilidades,03.01.09,Vigor (estamina),Capacidade desenvolvida de exercitar-se fisicamente durante longos períodos de tempo sem ficar sem fôlego ou com falta de ar.
+habilidades,habilidades,03.02.01,Estabilidade (firmeza) braço-mão,"Capacidade desenvolvida de manter a sua mão e braço firme, enquanto move o braço ou enquanto mantém seu braço e mão em uma posição."
+habilidades,habilidades,03.02.02,Precisão de controle,Capacidade desenvolvida de adaptação rápida e repetidamente aos comandos de uma máquina ou um veículo para posições exatas.
+habilidades,habilidades,03.02.03,Destreza dos dedos (ou digital),"Capacidade desenvolvida de fazer movimentos precisamente coordenados dos dedos de uma ou ambas as mãos para agarrar, manipular ou montar objetos muito pequenos."
+habilidades,habilidades,03.02.04,Destreza manual,"Capacidade desenvolvida de mover rapidamente sua mão, sua mão junto com seu braço, ou as duas mãos para agarrar, manipular ou montar objetos."
+habilidades,habilidades,03.02.05,Coordenação multimembros,"Capacidade desenvolvida de coordenar dois ou mais membros (por exemplo, dois braços, duas pernas, ou uma perna e um braço) enquanto está sentado, em pé ou deitado. Não envolve executar as atividades enquanto todo o corpo está em movimento."
+habilidades,habilidades,03.02.06,Taxa de controle,Capacidade desenvolvida de controlar o tempo de seus movimentos ou o movimento de uma peça de equipamento em antecipação a mudanças na velocidade e / ou direção de um objeto em movimento ou cena.
+habilidades,habilidades,03.02.07,Tempo de reação (ou de resposta),"Capacidade desenvolvida de responder rapidamente (com a mão, dedo, ou pé) a um sinal (som, luz, imagem) quando ele aparecer."
+habilidades,habilidades,03.02.08,Resposta de orientação,"Capacidade desenvolvida de escolher rapidamente entre dois ou mais movimentos em resposta a dois ou mais sinais diferentes (luzes, sons, imagens). Ela inclui a velocidade com que a resposta correta é iniciada com a mão, o pé ou outra parte do corpo."
+habilidades,habilidades,03.02.09,Velocidade de movimento dos membros,Capacidade desenvolvida de mover-se rapidamente nos braços e pernas.
+habilidades,habilidades,03.02.10,Velocidade de pulso-dedos,"Capacidade desenvolvida de fazer movimentos simples, rápidos, repetidos de dedos, mãos e pulsos."
+habilidades,habilidades,03.03.01,Atenção auditiva,Capacidade desenvolvida de se concentrar em uma única fonte de som na presença de outros sons que distraem.
+habilidades,habilidades,03.03.02,Localização de som,Capacidade desenvolvida de indicar a direção de onde um som foi originado.
+habilidades,habilidades,03.03.03,Reconhecimento de fala,Capacidade desenvolvida de identificar e entender o discurso de outra pessoa.
+habilidades,habilidades,03.03.04,Clareza de fala,Capacidade desenvolvida de falar claramente para que os outros possam entender você.
+habilidades,habilidades,03.03.05,Sensibilidade auditiva,Capacidade desenvolvida de detectar ou dizer as diferenças entre sons que variam em tom e intensidade.
+habilidades,habilidades,03.03.06,Sensibilidade ao brilho,Capacidade desenvolvida de ver objetos na presença de brilho ou iluminação brilhante.
+habilidades,habilidades,03.03.07,Percepção de profundidade,"Capacidade desenvolvida de julgar qual de vários objetos está mais perto ou mais longe de você, ou julgar a distância entre você e um objeto."
+habilidades,habilidades,03.03.08,Visão a distância,Capacidade desenvolvida de ver detalhes a distância.
+habilidades,habilidades,03.03.09,Visão de perto (ou a curta distância),Capacidade desenvolvida de ver detalhes a curta distância (a poucos metros do observador).
+habilidades,habilidades,03.03.10,Visão noturna,Capacidade desenvolvida de ver sob condições de pouca luz.
+habilidades,habilidades,03.03.11,Visão periférica,Capacidade desenvolvida de ver objetos ou movimentos de objetos para o lado quando os olhos estão olhando para frente.
+habilidades,habilidades,03.03.12,Discriminação de cor visual,"Capacidade desenvolvida de combinar ou detectar diferenças entre cores, incluindo tons de cor e brilho."

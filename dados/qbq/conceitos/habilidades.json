@@ -1,0 +1,505 @@
+{
+  "versao_dados": "dados-2026.08",
+  "fonte": "fontes/qbq/conceitos-habilidades-2025-06.pdf",
+  "dimensao": "habilidades",
+  "dominios": [
+    {
+      "codigo": "1",
+      "termo": "Habilidades Cognitivas",
+      "conceito": "Capacidades desenvolvidas que influenciam a aquisição e aplicação de conhecimentos na resolução de problemas."
+    },
+    {
+      "codigo": "2",
+      "termo": "Habilidades Práticas",
+      "conceito": "Proficiência no uso de métodos, materiais, ferramentas e instrumentos, visando a aplicação dos conhecimentos adquiridos para realizar tarefas e solucionar problemas . São classificadas em três categorias: habilidades operacionais, organizacionais e interpessoais."
+    },
+    {
+      "codigo": "3",
+      "termo": "Habilidades Físicas, Psicomotoras e Sensoriais",
+      "conceito": "Atributos físicos, psicomotores e sensoriais duradouros, inatos e ou desenvolvidos pelo indivíduo que influenciam o desempenho."
+    }
+  ],
+  "categorias": [
+    {
+      "codigo": "01.01",
+      "termo": "Comunicação",
+      "conceito": "Capacidades desenvolvidas que influenciam a aquisição e aplicação de conhecimentos na resolução de problemas."
+    },
+    {
+      "codigo": "01.02",
+      "termo": "Trabalho com Números",
+      "conceito": "Capacidades desenvolvidas de usar a linguagem de números, expressões numéricas, algébricas e geométricas para resolver problemas."
+    },
+    {
+      "codigo": "01.03",
+      "termo": "Raciocínio",
+      "conceito": "Capacidades desenvolvidas para usar a razão, especialmente para formular conclusões, inferências ou julgamentos."
+    },
+    {
+      "codigo": "02.01",
+      "termo": "Habilidades Operacionais",
+      "conceito": "Capacidades desenvolvidas para usar métodos, técnicas, materiais, instrumentos, procedimentos e conhecimentos, ao colocar em operação um determinado trabalho."
+    },
+    {
+      "codigo": "02.02",
+      "termo": "Habilidades Organizacionais",
+      "conceito": "Capacidades desenvolvidas para usar os recursos com efetividade."
+    },
+    {
+      "codigo": "02.03",
+      "termo": "Habilidades Interpessoais",
+      "conceito": "Capacidades desenvolvidas para interagir com as pessoas, individualmente e em grupo."
+    },
+    {
+      "codigo": "03.01",
+      "termo": "Habilidades Físicas",
+      "conceito": "Capacidades relacionadas à força, à resistência, à flexibilidade, ao equilíbrio e à coordenação."
+    },
+    {
+      "codigo": "03.02",
+      "termo": "Habilidades Psicomotoras",
+      "conceito": "Capacidades desenvolvidas que influenciam a habilidade de manipular e controlar objetos."
+    },
+    {
+      "codigo": "03.03",
+      "termo": "Habilidades Sensorias",
+      "conceito": "Capacidades desenvolvidas que influenciam a percepção visual, auditiva e da fala."
+    }
+  ],
+  "habilidades": [
+    {
+      "codigo": "01.01.01",
+      "termo": "Compreensão oral",
+      "conceito": "Capacidade desenvolvida de ouvir e compreender informações e ideias apresentadas por meio de palavras faladas e frases."
+    },
+    {
+      "codigo": "01.01.02",
+      "termo": "Escuta ativa",
+      "conceito": "Capacidade desenvolvida de atenção ao que as outras pessoas estão dizendo, tendo tempo para entender os pontos que são apresentados, fazendo perguntas adequadas e não interrompendo em momentos inapropriados."
+    },
+    {
+      "codigo": "01.01.03",
+      "termo": "Expressão oral",
+      "conceito": "Capacidade desenvolvida de comunicar–se claramente ao fornecer informações e ideias para que outros entendam."
+    },
+    {
+      "codigo": "01.01.04",
+      "termo": "Compreensão escrita",
+      "conceito": "Capacidade desenvolvida de compreender parágrafos e sentenças escritas em documentos relacionados ao trabalho."
+    },
+    {
+      "codigo": "01.01.05",
+      "termo": "Expressão escrita",
+      "conceito": "Capacidade desenvolvida de escrever palavras e sentenças com clareza e sem ambiguidade para que outros possam compreender."
+    },
+    {
+      "codigo": "01.01.06",
+      "termo": "Estratégias de aprendizagem",
+      "conceito": "Capacidade desenvolvida de selecionar e usar métodos e procedimentos de treinamento/formação/instrução apropriados em situações de aprendizagem ou de ensino."
+    },
+    {
+      "codigo": "01.01.07",
+      "termo": "Aprendizado ativo",
+      "conceito": "Capacidade desenvolvida de compreender as implicações de novas informações para a resolução de problemas atuais e futuros relacionados a um dado contexto."
+    },
+    {
+      "codigo": "01.01.08",
+      "termo": "Persuasão",
+      "conceito": "Capacidade desenvolvida de persuadir pessoas a mudarem de ideia ou comportamento."
+    },
+    {
+      "codigo": "01.01.09",
+      "termo": "Negociação",
+      "conceito": "Capacidade desenvolvida de reunir pessoas e tentar reconciliar as diferenças."
+    },
+    {
+      "codigo": "01.01.10",
+      "termo": "Habilidade de orientar serviços",
+      "conceito": "Capacidade desenvolvida de ativamente encontrar formas de ajudar as pessoas na realização de seus trabalhos."
+    },
+    {
+      "codigo": "01.01.11",
+      "termo": "Habilidade de ensinar",
+      "conceito": "Capacidade desenvolvida de compreender as dificuldades de cada pessoa na execução de um trabalho ou de um estudo, fornecendo dicas para que as dificuldades sejam sanadas por meio de explanação, demonstração e teste."
+    },
+    {
+      "codigo": "01.02.01",
+      "termo": "Transcrição de dados",
+      "conceito": "Capacidade desenvolvida de copiar dados ou expressões numéricas, algébricas e geométricas de maneira fidedigna."
+    },
+    {
+      "codigo": "01.02.02",
+      "termo": "Comparação de dados",
+      "conceito": "Capacidade desenvolvida de selecionar, classificar, organizar e comparar dois ou mais elementos numéricos, algébricos ou geométricos."
+    },
+    {
+      "codigo": "01.02.03",
+      "termo": "Classificação de dados",
+      "conceito": "Capacidade desenvolvida de classificar informações numéricas com base em algum tipo de ordenamento."
+    },
+    {
+      "codigo": "01.02.04",
+      "termo": "Compreensão numérica",
+      "conceito": "Capacidade de leitura e interpretação de linguagem numérica."
+    },
+    {
+      "codigo": "01.02.05",
+      "termo": "Expressão numérica",
+      "conceito": "Capacidade desenvolvida de expressar por escrito operações e expressões numéricas, algébricas ou geométricas."
+    },
+    {
+      "codigo": "01.02.06",
+      "termo": "Análise de dados",
+      "conceito": "Capacidade desenvolvida de analisar dados e expressões numéricas, algébricas ou geométricas, bem como reconhecer padrões."
+    },
+    {
+      "codigo": "01.02.07",
+      "termo": "Sintetização de dados",
+      "conceito": "Capacidade desenvolvida de realizar conclusões sintéticas de dados e expressões numéricas, algébricas ou geométricas em estudo."
+    },
+    {
+      "codigo": "01.03.01",
+      "termo": "Raciocínio concreto para seguir instruções",
+      "conceito": "Capacidade desenvolvida de seguir procedimentos baseados em fatos e coisas que se vê ou observa."
+    },
+    {
+      "codigo": "01.03.02",
+      "termo": "Raciocínio abstrato para resolução de problemas",
+      "conceito": "Capacidade mental desenvolvida baseada em ideias, ou seja, de raciocinar além dos fatos ou do que está implícito nos fatos."
+    },
+    {
+      "codigo": "01.03.03",
+      "termo": "Raciocínio analítico",
+      "conceito": "Capacidade desenvolvida de análise de informações e uso de lógica para resolver problemas relacionados ao trabalho."
+    },
+    {
+      "codigo": "01.03.04",
+      "termo": "Raciocínio sintético",
+      "conceito": "Capacidade diagnóstico de problemas ou troubleshooting."
+    },
+    {
+      "codigo": "01.03.05",
+      "termo": "Raciocínio crítico",
+      "conceito": "Capacidade desenvolvida de identificar os pontos fortes e fracos de soluções alternativas, conclusões ou abordagens para problemas."
+    },
+    {
+      "codigo": "01.03.06",
+      "termo": "Raciocínio científico",
+      "conceito": "Capacidade desenvolvida de usar regras e métodos científicos para resolver problemas."
+    },
+    {
+      "codigo": "02.01.01",
+      "termo": "Aplicação de instruções simples e rotineiras",
+      "conceito": "Capacidade desenvolvida para usar procedimentos simples na execução de tarefas rotineiras."
+    },
+    {
+      "codigo": "02.01.02",
+      "termo": "Aplicação de técnicas que envolvem algumas variáveis concretas e\r\nespecíficas",
+      "conceito": "Capacidade desenvolvida para usar procedimentos para aplicação de técnicas que contêm algumas variáveis concretas e específicas."
+    },
+    {
+      "codigo": "02.01.03",
+      "termo": "Aplicação de técnicas que envolvem muitas variáveis concretas e\r\nespecíficas",
+      "conceito": "Capacidade desenvolvida para usar procedimentos para aplicação de técnicas que que contêm muitas variáveis concretas e específicas."
+    },
+    {
+      "codigo": "02.01.04",
+      "termo": "Aplicação de habilidades artísticas",
+      "conceito": "Capacidade desenvolvida para usar e criar técnicas e concepções em trabalhos artísticos."
+    },
+    {
+      "codigo": "02.01.05",
+      "termo": "Aplicação de princípios tecnológicos de baixa complexidade",
+      "conceito": "Capacidade desenvolvida para usar regras e princípios tecnológicos de baixa complexidade para resolver problemas."
+    },
+    {
+      "codigo": "02.01.06",
+      "termo": "Aplicação de princípios científicos ou tecnológicos para solução de\r\nproblemas",
+      "conceito": "Capacidade desenvolvida para usar regras e métodos científicos ou tecnológicos de média complexidade para resolver problemas."
+    },
+    {
+      "codigo": "02.01.07",
+      "termo": "Aplicação de conhecimento de um campo de estudo científico",
+      "conceito": "Capacidade desenvolvida para usar princípios e métodos de um campo de estudo científico de alta complexidade."
+    },
+    {
+      "codigo": "02.01.08",
+      "termo": "Aplicação de conhecimento científico de alta complexidade",
+      "conceito": "Capacidade desenvolvida para usar princípios e criar métodos situados na vanguarda científica para criar soluções de problemas de alta complexidade."
+    },
+    {
+      "codigo": "02.02.01",
+      "termo": "Análise de operações",
+      "conceito": "Capacidade desenvolvida para analisar as necessidades e os requisitos para criar um projeto de produto (design)."
+    },
+    {
+      "codigo": "02.02.02",
+      "termo": "Programação de operações",
+      "conceito": "Capacidade desenvolvida para escrever programas de computador para vários fins."
+    },
+    {
+      "codigo": "02.02.03",
+      "termo": "Análise de garantia de qualidade",
+      "conceito": "Capacidade desenvolvida para realizar de testes e inspeções de produtos, serviços ou processos para avaliar a qualidade ou o desempenho."
+    },
+    {
+      "codigo": "02.02.04",
+      "termo": "Análise sistêmica",
+      "conceito": "Capacidade desenvolvida para determinar como um sistema deve funcionar e como as mudanças nas condições, nas operações e no ambiente afetarão os resultados."
+    },
+    {
+      "codigo": "02.02.05",
+      "termo": "Gerenciamento de recursos materiais",
+      "conceito": "Capacidade desenvolvida para seleção e obtenção apropriadas de equipamentos, instalações e materiais necessários para realizar determinado trabalho."
+    },
+    {
+      "codigo": "02.02.06",
+      "termo": "Gerenciamento de recursos financeiros",
+      "conceito": "Capacidade desenvolvida para determinar como o dinheiro será gasto para realizar o trabalho e contabilizar esses gastos."
+    },
+    {
+      "codigo": "02.02.07",
+      "termo": "Gerenciamento de recursos humanos",
+      "conceito": "Capacidade desenvolvida para incentivar, desenvolver e dirigir as pessoas enquanto elas trabalham, identificando as melhores pessoas para cada trabalho."
+    },
+    {
+      "codigo": "02.02.08",
+      "termo": "Análise de riscos",
+      "conceito": "Capacidade desenvolvida para analisar possibilidades de eventos acidentais que possam provocar danos às pessoas, às instalações, ao meio ambiente e à imagem da empresa."
+    },
+    {
+      "codigo": "02.02.09",
+      "termo": "Gerenciamento de riscos",
+      "conceito": "Capacidade desenvolvida para gerenciar: a) a prevenção de eventos acidentais de natureza interna ou externa à empresa que possam provocar danos às pessoas, às instalações, ao meio ambiente e à imagem da empresa; b) procedimentos e providências em caso de incidentes."
+    },
+    {
+      "codigo": "02.03.01",
+      "termo": "Trabalho em equipe",
+      "conceito": "Capacidade desenvolvida e facilidade em unir-se a um esforço coletivo para resolver um problema ou executar um trabalho."
+    },
+    {
+      "codigo": "02.03.02",
+      "termo": "Atendimento a solicitações e pedidos das pessoas",
+      "conceito": "Capacidade desenvolvida para compreender a natureza das solicitações e pedidos das pessoas para resposta efetiva."
+    },
+    {
+      "codigo": "02.03.03",
+      "termo": "Troca de informações",
+      "conceito": "Capacidade desenvolvida para troca de informações com a equipe de trabalho e com a comunidade externa."
+    },
+    {
+      "codigo": "02.03.04",
+      "termo": "Fornecimento de informações",
+      "conceito": "Capacidade desenvolvida para fornecer informações aos superiores, colegas de trabalho e subordinados por telefone, por escrito, por e-mail ou pessoalmente."
+    },
+    {
+      "codigo": "02.03.05",
+      "termo": "Cooperação",
+      "conceito": "Capacidade desenvolvida para ser agradável com os outros no trabalho e demonstrar uma atitude cooperativa e bem– humorada."
+    },
+    {
+      "codigo": "02.03.06",
+      "termo": "Persuasão de pessoas em favor de ideias, produtos e/ou serviços",
+      "conceito": "Capacidade desenvolvida para convencer outros a mudarem de ideia ou comportamento."
+    },
+    {
+      "codigo": "02.03.07",
+      "termo": "Orientação de pessoas",
+      "conceito": "Capacidade desenvolvida na ação de ajudar e orientar as pessoas nas suas necessidades."
+    },
+    {
+      "codigo": "02.03.08",
+      "termo": "Facilitação e mediação de aprendizagem",
+      "conceito": "Capacidade desenvolvida para interagir com outros para que eles internalizem a aprendizagem por meio da ação."
+    },
+    {
+      "codigo": "02.03.09",
+      "termo": "Assessoramento",
+      "conceito": "Capacidade desenvolvida para fornecer de informação técnica ou científica e ideias para definir, clarificar, ampliar e aperfeiçoar procedimentos, capabilidade ou especificação de produtos e serviços."
+    },
+    {
+      "codigo": "02.03.10",
+      "termo": "Supervisão",
+      "conceito": "Capacidade desenvolvida para determinar e ou interpretar procedimentos para um grupo de trabalhadores, ao distribuir tarefas específicas a eles – delineando tópicos prescritos e discricionários, mantendo relação harmoniosa entre eles e avaliando seus desempenhos."
+    },
+    {
+      "codigo": "02.03.11",
+      "termo": "Coordenação",
+      "conceito": "Capacidade desenvolvida para ajustar as ações em relação às ações de outros."
+    },
+    {
+      "codigo": "02.03.12",
+      "termo": "Percepção da realidade social",
+      "conceito": "Capacidade desenvolvida para cientificar-se das reações dos outros e entender a razão das reações apresentadas."
+    },
+    {
+      "codigo": "03.01.01",
+      "termo": "Coordenação corporal bruta",
+      "conceito": "Capacidade desenvolvida de coordenar o movimento de seus braços, pernas e tronco juntos quando todo o corpo está em movimento."
+    },
+    {
+      "codigo": "03.01.02",
+      "termo": "Equilíbrio corporal bruto",
+      "conceito": "Capacidade desenvolvida de manter ou recuperar o seu equilíbrio corporal ou ficar em pé quando em uma posição instável."
+    },
+    {
+      "codigo": "03.01.03",
+      "termo": "Flexibilidade de extensão",
+      "conceito": "Capacidade desenvolvida de dobrar, esticar, torcer, ou chegar com o seu corpo, braços e ou pernas."
+    },
+    {
+      "codigo": "03.01.04",
+      "termo": "Flexibilidade dinâmica",
+      "conceito": "Capacidade desenvolvida de rápida e repetidamente dobrar, esticar, torcer, ou chegar com o seu corpo, braços e ou pernas."
+    },
+    {
+      "codigo": "03.01.05",
+      "termo": "Força de tronco",
+      "conceito": "Capacidade desenvolvida de usar os seus músculos abdominal e lombar para apoiar parte do corpo repetidamente ou continuamente ao longo do tempo, sem se exaurir ou fatigar."
+    },
+    {
+      "codigo": "03.01.06",
+      "termo": "Força dinâmica",
+      "conceito": "Capacidade desenvolvida de exercer a força muscular repetida ou continuamente ao longo do tempo. Isso envolve resistência muscular e resistência à fadiga muscular."
+    },
+    {
+      "codigo": "03.01.07",
+      "termo": "Força estática",
+      "conceito": "Capacidade desenvolvida de exercer a força muscular máxima para levantar, puxar, empurrar ou carregar objetos."
+    },
+    {
+      "codigo": "03.01.08",
+      "termo": "Força explosiva",
+      "conceito": "Capacidade desenvolvida de usar rajadas de força muscular para impulsionar a si mesmo (como no salto ou corrida), ou para jogar um objeto."
+    },
+    {
+      "codigo": "03.01.09",
+      "termo": "Vigor (estamina)",
+      "conceito": "Capacidade desenvolvida de exercitar-se fisicamente durante longos períodos de tempo sem ficar sem fôlego ou com falta de ar."
+    },
+    {
+      "codigo": "03.02.01",
+      "termo": "Estabilidade (firmeza) braço-mão",
+      "conceito": "Capacidade desenvolvida de manter a sua mão e braço firme, enquanto move o braço ou enquanto mantém seu braço e mão em uma posição."
+    },
+    {
+      "codigo": "03.02.02",
+      "termo": "Precisão de controle",
+      "conceito": "Capacidade desenvolvida de adaptação rápida e repetidamente aos comandos de uma máquina ou um veículo para posições exatas."
+    },
+    {
+      "codigo": "03.02.03",
+      "termo": "Destreza dos dedos (ou digital)",
+      "conceito": "Capacidade desenvolvida de fazer movimentos precisamente coordenados dos dedos de uma ou ambas as mãos para agarrar, manipular ou montar objetos muito pequenos."
+    },
+    {
+      "codigo": "03.02.04",
+      "termo": "Destreza manual",
+      "conceito": "Capacidade desenvolvida de mover rapidamente sua mão, sua mão junto com seu braço, ou as duas mãos para agarrar, manipular ou montar objetos."
+    },
+    {
+      "codigo": "03.02.05",
+      "termo": "Coordenação multimembros",
+      "conceito": "Capacidade desenvolvida de coordenar dois ou mais membros (por exemplo, dois braços, duas pernas, ou uma perna e um braço) enquanto está sentado, em pé ou deitado. Não envolve executar as atividades enquanto todo o corpo está em movimento."
+    },
+    {
+      "codigo": "03.02.06",
+      "termo": "Taxa de controle",
+      "conceito": "Capacidade desenvolvida de controlar o tempo de seus movimentos ou o movimento de uma peça de equipamento em antecipação a mudanças na velocidade e / ou direção de um objeto em movimento ou cena."
+    },
+    {
+      "codigo": "03.02.07",
+      "termo": "Tempo de reação (ou de resposta)",
+      "conceito": "Capacidade desenvolvida de responder rapidamente (com a mão, dedo, ou pé) a um sinal (som, luz, imagem) quando ele aparecer."
+    },
+    {
+      "codigo": "03.02.08",
+      "termo": "Resposta de orientação",
+      "conceito": "Capacidade desenvolvida de escolher rapidamente entre dois ou mais movimentos em resposta a dois ou mais sinais diferentes (luzes, sons, imagens). Ela inclui a velocidade com que a resposta correta é iniciada com a mão, o pé ou outra parte do corpo."
+    },
+    {
+      "codigo": "03.02.09",
+      "termo": "Velocidade de movimento dos membros",
+      "conceito": "Capacidade desenvolvida de mover-se rapidamente nos braços e pernas."
+    },
+    {
+      "codigo": "03.02.10",
+      "termo": "Velocidade de pulso-dedos",
+      "conceito": "Capacidade desenvolvida de fazer movimentos simples, rápidos, repetidos de dedos, mãos e pulsos."
+    },
+    {
+      "codigo": "03.03.01",
+      "termo": "Atenção auditiva",
+      "conceito": "Capacidade desenvolvida de se concentrar em uma única fonte de som na presença de outros sons que distraem."
+    },
+    {
+      "codigo": "03.03.02",
+      "termo": "Localização de som",
+      "conceito": "Capacidade desenvolvida de indicar a direção de onde um som foi originado."
+    },
+    {
+      "codigo": "03.03.03",
+      "termo": "Reconhecimento de fala",
+      "conceito": "Capacidade desenvolvida de identificar e entender o discurso de outra pessoa."
+    },
+    {
+      "codigo": "03.03.04",
+      "termo": "Clareza de fala",
+      "conceito": "Capacidade desenvolvida de falar claramente para que os outros possam entender você."
+    },
+    {
+      "codigo": "03.03.05",
+      "termo": "Sensibilidade auditiva",
+      "conceito": "Capacidade desenvolvida de detectar ou dizer as diferenças entre sons que variam em tom e intensidade."
+    },
+    {
+      "codigo": "03.03.06",
+      "termo": "Sensibilidade ao brilho",
+      "conceito": "Capacidade desenvolvida de ver objetos na presença de brilho ou iluminação brilhante."
+    },
+    {
+      "codigo": "03.03.07",
+      "termo": "Percepção de profundidade",
+      "conceito": "Capacidade desenvolvida de julgar qual de vários objetos está mais perto ou mais longe de você, ou julgar a distância entre você e um objeto."
+    },
+    {
+      "codigo": "03.03.08",
+      "termo": "Visão a distância",
+      "conceito": "Capacidade desenvolvida de ver detalhes a distância."
+    },
+    {
+      "codigo": "03.03.09",
+      "termo": "Visão de perto (ou a curta distância)",
+      "conceito": "Capacidade desenvolvida de ver detalhes a curta distância (a poucos metros do observador)."
+    },
+    {
+      "codigo": "03.03.10",
+      "termo": "Visão noturna",
+      "conceito": "Capacidade desenvolvida de ver sob condições de pouca luz."
+    },
+    {
+      "codigo": "03.03.11",
+      "termo": "Visão periférica",
+      "conceito": "Capacidade desenvolvida de ver objetos ou movimentos de objetos para o lado quando os olhos estão olhando para frente."
+    },
+    {
+      "codigo": "03.03.12",
+      "termo": "Discriminação de cor visual",
+      "conceito": "Capacidade desenvolvida de combinar ou detectar diferenças entre cores, incluindo tons de cor e brilho."
+    }
+  ],
+  "divergencias": [
+    {
+      "nivel": "habilidade",
+      "codigo": "01.03.06",
+      "termo_pdf": "Raciocínio científico",
+      "termo_planilha": "RACIOCÍONIO CIENTÍFICO"
+    },
+    {
+      "nivel": "categoria",
+      "codigo": "03.03",
+      "termo_pdf": "Habilidades Sensorias",
+      "termo_planilha": "HABILIDADES SENSORIAIS"
+    }
+  ]
+}
