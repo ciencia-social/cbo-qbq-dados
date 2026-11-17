@@ -1,0 +1,449 @@
+{
+  "versao_dados": "dados-2026.11",
+  "fonte": "fontes/cbo/cbo2002-subgrupo-principal.csv",
+  "nivel": "subgrupos-principais",
+  "total": 49,
+  "itens": [
+    {
+      "codigo": "01",
+      "titulo": "MEMBROS DAS FORÇAS ARMADAS",
+      "pai": "0",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 2
+      }
+    },
+    {
+      "codigo": "02",
+      "titulo": "POLICIAIS MILITARES",
+      "pai": "0",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 3
+      }
+    },
+    {
+      "codigo": "03",
+      "titulo": "BOMBEIROS MILITARES",
+      "pai": "0",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 4
+      }
+    },
+    {
+      "codigo": "11",
+      "titulo": "MEMBROS SUPERIORES E DIRIGENTES DO PODER PÚBLICO",
+      "pai": "1",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 5
+      }
+    },
+    {
+      "codigo": "12",
+      "titulo": "DIRIGENTES DE EMPRESAS E ORGANIZAÇÕES (EXCETO DE INTERESSE PÚBLICO)",
+      "pai": "1",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 6
+      }
+    },
+    {
+      "codigo": "13",
+      "titulo": "DIRETORES E GERENTES EM EMPRESA DE SERVIÇOS DE SAÚDE, DA EDUCAÇÃO, OU DE SERVIÇOS CULTURAIS, SOCIAIS OU PESSOAIS",
+      "pai": "1",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 7
+      }
+    },
+    {
+      "codigo": "14",
+      "titulo": "GERENTES",
+      "pai": "1",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 8
+      }
+    },
+    {
+      "codigo": "20",
+      "titulo": "PESQUISADORES E PROFISSIONAIS POLICIENTÍFICOS",
+      "pai": "2",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 9
+      }
+    },
+    {
+      "codigo": "21",
+      "titulo": "PROFISSIONAIS DAS CIÊNCIAS EXATAS, FÍSICAS E DA ENGENHARIA",
+      "pai": "2",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 10
+      }
+    },
+    {
+      "codigo": "22",
+      "titulo": "PROFISSIONAIS DAS CIÊNCIAS BIOLÓGICAS, DA SAÚDE E AFINS",
+      "pai": "2",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 11
+      }
+    },
+    {
+      "codigo": "23",
+      "titulo": "PROFISSIONAIS DO ENSINO",
+      "pai": "2",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 12
+      }
+    },
+    {
+      "codigo": "24",
+      "titulo": "PROFISSIONAIS DAS CIÊNCIAS JURÍDICAS",
+      "pai": "2",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 13
+      }
+    },
+    {
+      "codigo": "25",
+      "titulo": "PROFISSIONAIS DAS CIÊNCIAS SOCIAIS E HUMANAS",
+      "pai": "2",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 14
+      }
+    },
+    {
+      "codigo": "26",
+      "titulo": "COMUNICADORES, ARTISTAS E RELIGIOSOS",
+      "pai": "2",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 15
+      }
+    },
+    {
+      "codigo": "27",
+      "titulo": "PROFISSIONAIS EM GASTRONOMIA",
+      "pai": "2",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 16
+      }
+    },
+    {
+      "codigo": "30",
+      "titulo": "TÉCNICOS POLIVALENTES",
+      "pai": "3",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 17
+      }
+    },
+    {
+      "codigo": "31",
+      "titulo": "TÉCNICOS DE NÍVEL MÉDIO DAS CIÊNCIAS FÍSICAS, QUÍMICAS, ENGENHARIA E AFINS",
+      "pai": "3",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 18
+      }
+    },
+    {
+      "codigo": "32",
+      "titulo": "TÉCNICOS DE NÍVEL MÉDIO DAS CIÊNCIAS BIOLÓGICAS, BIOQUÍMICAS, DA SAÚDE E AFINS",
+      "pai": "3",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 19
+      }
+    },
+    {
+      "codigo": "33",
+      "titulo": "PROFESSORES LEIGOS E DE NÍVEL MÉDIO",
+      "pai": "3",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 20
+      }
+    },
+    {
+      "codigo": "34",
+      "titulo": "TÉCNICOS DE NÍVEL MÉDIO EM SERVIÇOS DE TRANSPORTES",
+      "pai": "3",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 21
+      }
+    },
+    {
+      "codigo": "35",
+      "titulo": "TÉCNICOS DE NIVEL MÉDIO NAS CIÊNCIAS ADMINISTRATIVAS",
+      "pai": "3",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 22
+      }
+    },
+    {
+      "codigo": "37",
+      "titulo": "TÉCNICOS EM NIVEL MÉDIO DOS SERVIÇOS CULTURAIS, DAS COMUNICAÇÕES E DOS DESPORTOS",
+      "pai": "3",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 23
+      }
+    },
+    {
+      "codigo": "39",
+      "titulo": "OUTROS TÉCNICOS DE NÍVEL MÉDIO",
+      "pai": "3",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 24
+      }
+    },
+    {
+      "codigo": "41",
+      "titulo": "ESCRITURÁRIOS",
+      "pai": "4",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 25
+      }
+    },
+    {
+      "codigo": "42",
+      "titulo": "TRABALHADORES DE ATENDIMENTO AO PÚBLICO",
+      "pai": "4",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 26
+      }
+    },
+    {
+      "codigo": "51",
+      "titulo": "TRABALHADORES DOS SERVIÇOS",
+      "pai": "5",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 27
+      }
+    },
+    {
+      "codigo": "52",
+      "titulo": "VENDEDORES E PRESTADORES DE SERVIÇOS DO COMÉRCIO",
+      "pai": "5",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 28
+      }
+    },
+    {
+      "codigo": "61",
+      "titulo": "PRODUTORES NA EXPLORAÇÃO AGROPECUÁRIA",
+      "pai": "6",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 29
+      }
+    },
+    {
+      "codigo": "62",
+      "titulo": "TRABALHADORES NA EXPLORAÇÃO AGROPECUÁRIA",
+      "pai": "6",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 30
+      }
+    },
+    {
+      "codigo": "63",
+      "titulo": "PESCADORES E EXTRATIVISTAS FLORESTAIS",
+      "pai": "6",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 31
+      }
+    },
+    {
+      "codigo": "64",
+      "titulo": "TRABALHADORES DA MECANIZAÇÃO AGROPECUÁRIA E FLORESTAL",
+      "pai": "6",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 32
+      }
+    },
+    {
+      "codigo": "71",
+      "titulo": "TRABALHADORES DA INDÚSTRIA EXTRATIVA E DA CONSTRUÇÃO CIVIL",
+      "pai": "7",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 33
+      }
+    },
+    {
+      "codigo": "72",
+      "titulo": "TRABALHADORES DA TRANSFORMAÇÃO DE METAIS E DE COMPÓSITOS",
+      "pai": "7",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 34
+      }
+    },
+    {
+      "codigo": "73",
+      "titulo": "TRABALHADORES DA FABRICAÇÃO E INSTALAÇÃO ELETROELETRÔNICA",
+      "pai": "7",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 35
+      }
+    },
+    {
+      "codigo": "74",
+      "titulo": "MONTADORES DE APARELHOS E INSTRUMENTOS DE PRECISÃO E MUSICAIS",
+      "pai": "7",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 36
+      }
+    },
+    {
+      "codigo": "75",
+      "titulo": "JOALHEIROS, VIDREIROS, CERAMISTAS E AFINS",
+      "pai": "7",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 37
+      }
+    },
+    {
+      "codigo": "76",
+      "titulo": "TRABALHADORES NAS INDÚSTRIAS TÊXTIL, DO CURTIMENTO, DO VESTÚARIO E DAS ARTES GRÁFICAS",
+      "pai": "7",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 38
+      }
+    },
+    {
+      "codigo": "77",
+      "titulo": "TRABALHADORES DAS INDÚSTRIAS DE MADEIRA E DO MOBILIÁRIO",
+      "pai": "7",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 39
+      }
+    },
+    {
+      "codigo": "78",
+      "titulo": "TRABALHADORES DE FUNÇÕES TRANSVERSAIS",
+      "pai": "7",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 40
+      }
+    },
+    {
+      "codigo": "79",
+      "titulo": "TRABALHADORES DO ARTESANATO",
+      "pai": "7",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 41
+      }
+    },
+    {
+      "codigo": "81",
+      "titulo": "TRABALHADORES EM INDÚSTRIAS DE PROCESSOS CONTÍNUOS E OUTRAS INDÚSTRIAS",
+      "pai": "8",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 42
+      }
+    },
+    {
+      "codigo": "82",
+      "titulo": "TRABALHADORES DE INSTALAÇÕES SIDERÚRGICAS E DE MATERIAIS DE CONSTRUÇÃO",
+      "pai": "8",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 43
+      }
+    },
+    {
+      "codigo": "83",
+      "titulo": "TRABALHADORES DE INSTALAÇÕES E MÁQUINAS DE FABRICAÇÃO DE CELULOSE E PAPEL",
+      "pai": "8",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 44
+      }
+    },
+    {
+      "codigo": "84",
+      "titulo": "TRABALHADORES DA FABRICAÇÃO DE ALIMENTOS, BEBIDAS E FUMO",
+      "pai": "8",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 45
+      }
+    },
+    {
+      "codigo": "86",
+      "titulo": "OPERADORES DE PRODUÇÃO, CAPTAÇÃO, TRATAMENTO E DISTRIBUIÇÃO (ENERGIA, ÁGUA E UTILIDADES)",
+      "pai": "8",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 46
+      }
+    },
+    {
+      "codigo": "87",
+      "titulo": "OPERADORES DE OUTRAS INSTALAÇÕES INDUSTRIAIS",
+      "pai": "8",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 47
+      }
+    },
+    {
+      "codigo": "91",
+      "titulo": "TRABALHADORES EM SERVIÇOS DE REPARAÇÃO E MANUTENÇÃO MECÂNICA",
+      "pai": "9",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 48
+      }
+    },
+    {
+      "codigo": "95",
+      "titulo": "POLIMANTENEDORES",
+      "pai": "9",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 49
+      }
+    },
+    {
+      "codigo": "99",
+      "titulo": "OUTROS TRABALHADORES DA CONSERVAÇÃO, MANUTENÇÃO E REPARAÇÃO",
+      "pai": "9",
+      "fonte": {
+        "arquivo": "cbo2002-subgrupo-principal.csv",
+        "linha": 50
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+codigo,situacao,titulo_cbo,titulo_qbq
+114210,titulo_divergente,Dirigente de entidade patronal,Dirigentes de entidades patronais
+251105,so_cbo,Antropólogo,
+251110,so_cbo,Arqueólogo,
+251115,so_cbo,Cientista político,
+251120,so_cbo,Sociólogo,
+251205,so_cbo,Economista,
+251210,so_cbo,Economista agroindustrial,
+251215,so_cbo,Economista financeiro,
+251220,so_cbo,Economista industrial,
+251225,so_cbo,Economista do setor público,
+251230,so_cbo,Economista ambiental,
+251235,so_cbo,Economista regional e urbano,
+251305,so_cbo,Geógrafo,
+251405,so_cbo,Filósofo,
+251605,so_cbo,Assistente social,
+251610,so_cbo,Economista doméstico,
+252105,so_cbo,Administrador,
+254405,so_cbo,Fiscal de tributos estadual,
+254410,so_cbo,Fiscal de tributos municipal,
+254415,so_cbo,Técnico de tributos estadual,
+254420,so_cbo,Técnico de tributos municipal,
+333105,titulo_divergente,Instrutor de auto-escola,Instrutor de autoescola
+341240,titulo_divergente,Técnicos em manobras em equipamentos de convés,Técnico em manobras em equipamentos de convés
+341305,titulo_divergente,Condutor maquinista motorista fluvial,Condutor maquinista fluvial
+341310,titulo_divergente,Condutor de máquinas,Condutor maquinista marítimo
+342560,titulo_divergente,Operador de rampa ( transporte aéreo),Líder de rampa (transporte aéreo)
+351415,titulo_divergente,Escrivão extra - judicial,Escrivão extrajudicial
+354150,titulo_divergente,Propagandista de produtos famacêuticos,Propagandista de produtos farmacêuticos
+373220,titulo_divergente,Supervisor técnico operacional de sistemas de televisão e produtoras de vídeo,Supervisor técnico operacional de sistemas de televisão e produtores de vídeo
+377235,titulo_divergente,Árbitro de karatê,Árbitro de caratê
+415310,titulo_divergente,Analista de informação em saúde,Analista de informações em saúde
+513410,titulo_divergente,Sommelier,Garçom (serviços de vinhos)
+516120,titulo_divergente,Manicure/pedicure,Manicure
+516140,so_qbq,,Pedicure
+516145,so_cbo,Designer de unhas,
+516150,so_cbo,Designer de sobrancelhas,
+516155,so_cbo,Designer de cílios,
+517230,so_cbo,Policial penal,
+517235,so_cbo,Guarda portuário,
+517305,titulo_divergente,Vigilante de proteção de aeroporto,Agente de proteção de aeroporto
+517315,so_qbq,,Agente de segurança penitenciária
+517335,so_qbq,,Guarda portuário
+517415,titulo_divergente,Agente de portaria,Porteiro de locais de diversão
+632505,titulo_divergente,"Trabalhador da exploração de árvores e arbustos produtores de substâncias aromát., Medic. E tóxicas","Trabalhador da exploração de árvores e arbustos produtores de substâncias aromáticas, medicinais e tóxicas"
+643020,titulo_divergente,Trabalhador na operação de sistemas de irrigação e aspersão (alto propelido),Trabalhador na operação de sistemas de irrigação e aspersão (autopropelido)
+716205,titulo_divergente,Telhador (telhas de argila e materiais similares),Telhador (telhas de argila e matérias similares)
+722210,titulo_divergente,Operador de lingotamento,Lingotador
+722220,titulo_divergente,Operador de máquina de fundição,Operador de máquina centrifugadora de fundição
+722225,so_qbq,,Operador de máquina de fundir sob pressão
+722230,titulo_divergente,Operador de vazamento,Operador de vazamento (lingotamento)
+722235,titulo_divergente,Preparador de panelas,Preparador de panelas (lingotamento)
+722320,titulo_divergente,"Moldador, a  máquina","Moldador, a máquinas"
+752315,titulo_divergente,Ceramista (torno semi-automático),Ceramista (torno semiautomático)
+761354,titulo_divergente,Operador de máquina de cordoalha,Operador de máquinas de cordoalha
+761360,titulo_divergente,Passamaneiro a  máquina,Passamaneiro a máquinas
+773325,titulo_divergente,"Operador de máquina de usinagem madeira, em geral","Operador de máquinas de usinagem madeira, em geral"
+811805,titulo_divergente,Operador de máquina de produtos farmacêuticos,Operador de máquinas de produtos farmacêuticos
+811815,titulo_divergente,Operador de máquina de fabricação de cosméticos,Operador de máquinas de fabricação de cosméticos
+811820,titulo_divergente,"Operador de máquina de fabricação de produtos de higiene e limpeza (sabão, sabonete, detergente, absorvente, fraldas cotonetes e outros)","Operador de máquinas de fabricação de produtos de higiene e limpeza (sabões, sabonetes, detergentes,  absorventes, fraldas, cotonetes e outros)"
+832115,titulo_divergente,Operador de máquina de fabricar papel  (fase úmida),Operador de máquinas de fabricar papel (fase úmida)
+832120,titulo_divergente,Operador de máquina de fabricar papel (fase seca),Operador de máquinas de fabricar papel (fase seca)
+832125,titulo_divergente,Operador de máquina de fabricar papel e papelão,Operador de máquinas de fabricar papel e papelão
+833110,titulo_divergente,"Confeccionador de bolsas, sacos e sacolas e papel, a máquina","Confeccionador de bolsas, sacos e sacolas de papel, à máquina"
+833120,titulo_divergente,Operador de máquina de cortar e dobrar papelão,Operador de máquinas de cortar e dobrar papelão

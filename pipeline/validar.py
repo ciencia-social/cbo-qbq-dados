@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
-"""Checagens de contrato sobre dados/qbq/. Falha (exit 1) se algum contrato
+"""Checagens de contrato sobre dados/ (camadas CBO e QBQ). Falha (exit 1)
+se algum contrato
 for violado. Uso: python3 pipeline/validar.py"""
 import json
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
@@ -18,6 +20,14 @@ def carregar(caminho):
         return json.load(f)
 
 
+def normalizar_titulo(s):
+    """Título sem acento, caixa ou pontuação, para comparar grafias entre
+    camadas sem acusar diferença onde só muda a forma."""
+    s = unicodedata.normalize("NFKD", s)
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
+
+
 def erro(msg):
     erros.append(msg)
 
@@ -26,7 +36,82 @@ def aviso(msg):
     avisos.append(msg)
 
 
+NIVEIS_CBO = [("grandes-grupos", 1), ("subgrupos-principais", 2),
+              ("subgrupos", 3), ("familias", 4)]
+
+
+def validar_cbo():
+    """Contratos da espinha enumerativa (dados/cbo/): formato e unicidade dos
+    códigos, hierarquia por prefixo e sinônimos. Devolve as ocupações da CBO,
+    usadas depois no cruzamento com o QBQ."""
+    CBO = RAIZ / "dados" / "cbo"
+
+    codigos = {}
+    for nome, digitos in NIVEIS_CBO:
+        doc = carregar(CBO / "estrutura" / f"{nome}.json")
+        vistos = set()
+        for it in doc["itens"]:
+            c = it["codigo"]
+            # 1. formato do código no nível
+            if len(c) != digitos or not c.isdigit():
+                erro(f"cbo/{nome}: código {c!r} não tem {digitos} dígito(s)")
+            if c in vistos:
+                erro(f"cbo/{nome}: código {c} repetido")
+            vistos.add(c)
+        if doc["total"] != len(doc["itens"]):
+            erro(f"cbo/{nome}: total declarado {doc['total']} != {len(doc['itens'])}")
+        codigos[nome] = vistos
+
+    # 2. hierarquia: o pai é o prefixo do código e existe no nível acima
+    for (filho, _), (pai_nivel, digitos_pai) in zip(NIVEIS_CBO[1:], NIVEIS_CBO[:-1]):
+        for it in carregar(CBO / "estrutura" / f"{filho}.json")["itens"]:
+            esperado = it["codigo"][:digitos_pai]
+            if it.get("pai") != esperado:
+                erro(f"cbo/{filho}: {it['codigo']} declara pai {it.get('pai')!r}, "
+                     f"esperado {esperado!r}")
+            elif esperado not in codigos[pai_nivel]:
+                erro(f"cbo/{filho}: {it['codigo']} sem pai {esperado} em {pai_nivel}")
+
+    ocupacoes, sinonimos = {}, 0
+    for arq in sorted((CBO / "ocupacoes").glob("gg-*.json")):
+        doc = carregar(arq)
+        for o in doc["ocupacoes"]:
+            c = o["codigo"]
+            # 3. formato e particionamento por grande grupo
+            if not RE_CBO.match(c):
+                erro(f"cbo: código inválido {c!r} em {arq.name}")
+            if c[0] != doc["grande_grupo"]:
+                erro(f"cbo: {c} no arquivo errado ({arq.name})")
+            if c in ocupacoes:
+                erro(f"cbo: ocupação {c} duplicada")
+            ocupacoes[c] = o
+            # 4. família é o prefixo de 4 dígitos e existe
+            if o["familia"] != c[:4]:
+                erro(f"cbo: {c} declara família {o['familia']!r}, esperado {c[:4]!r}")
+            elif o["familia"] not in codigos["familias"]:
+                erro(f"cbo: {c} sem família {o['familia']} em familias.json")
+            # 5. sinônimos: sem repetição e sem repetir o próprio título
+            vistos = set()
+            for s in o["sinonimos"]:
+                t = s["titulo"]
+                if t in vistos:
+                    aviso(f"cbo: {c} repete o sinônimo {t!r}")
+                if t.casefold() == o["titulo"].casefold():
+                    aviso(f"cbo: {c} tem sinônimo igual ao próprio título ({t!r})")
+                vistos.add(t)
+                sinonimos += 1
+            # 6. vigência coerente
+            if o["vigencia"]["status"] == "vigente" and o["vigencia"]["ate"] is not None:
+                erro(f"cbo: {c} vigente mas com data final de vigência")
+        if doc["total"] != len(doc["ocupacoes"]):
+            erro(f"cbo/{arq.name}: total declarado {doc['total']} != {len(doc['ocupacoes'])}")
+
+    return codigos, ocupacoes, sinonimos
+
+
 def main():
+    cbo_niveis, cbo_ocupacoes, cbo_sinonimos = validar_cbo()
+
     ocupacoes = {}
     for arq in sorted((QBQ / "ocupacoes").glob("gg-*.json")):
         doc = carregar(arq)
@@ -169,7 +254,30 @@ def main():
             aviso(f"conceitos/{arq.name}: grafia do termo {d['codigo']} difere entre PDF "
                   f"({d['termo_pdf']!r}) e planilha ({d['termo_planilha']!r}) (D013)")
 
-    print(f"ocupações: {len(ocupacoes)} | com competências: {total_comp} "
+    # 12. cruzamento QBQ × CBO (D015): as duas camadas vêm de capturas
+    #     diferentes da mesma classificação, então as diferenças são fato das
+    #     fontes, não defeito do dataset. Ficam como aviso agregado; a lista
+    #     completa é derivados/csv/cobertura-qbq-cbo.csv.
+    so_cbo = sorted(set(cbo_ocupacoes) - set(ocupacoes))
+    so_qbq = sorted(set(ocupacoes) - set(cbo_ocupacoes))
+    if so_cbo:
+        aviso(f"{len(so_cbo)} ocupações da espinha da CBO sem registro no QBQ "
+              f"(ex.: {', '.join(so_cbo[:3])}) — D015")
+    if so_qbq:
+        aviso(f"{len(so_qbq)} ocupações do QBQ ausentes da espinha da CBO "
+              f"({', '.join(so_qbq)}) — D015")
+    divergentes = [c for c in sorted(set(ocupacoes) & set(cbo_ocupacoes))
+                   if normalizar_titulo(ocupacoes[c]["titulo"])
+                   != normalizar_titulo(cbo_ocupacoes[c]["titulo"])]
+    if divergentes:
+        aviso(f"{len(divergentes)} ocupações com título diferente entre QBQ e CBO "
+              f"(ex.: {divergentes[0]}) — D015")
+
+    print(f"CBO: {len(cbo_ocupacoes)} ocupações | {cbo_sinonimos} sinônimos | "
+          f"{len(cbo_niveis['familias'])} famílias, {len(cbo_niveis['subgrupos'])} subgrupos, "
+          f"{len(cbo_niveis['subgrupos-principais'])} subgrupos principais, "
+          f"{len(cbo_niveis['grandes-grupos'])} grandes grupos")
+    print(f"QBQ: {len(ocupacoes)} ocupações | com competências: {total_comp} "
           f"| não classificadas: {nc['total']} | conceitos: {total_conceitos}")
     print(f"erros: {len(erros)} | avisos: {len(avisos)}")
     for m in avisos[:20]:

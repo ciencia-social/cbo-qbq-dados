@@ -1,0 +1,2695 @@
+codigo,titulo,familia,vigencia
+010105,Oficial general da aeronáutica,0101,vigente
+010110,Oficial general do exército,0101,vigente
+010115,Oficial general da marinha,0101,vigente
+010205,Oficial da aeronáutica,0102,vigente
+010210,Oficial do exército,0102,vigente
+010215,Oficial da marinha,0102,vigente
+010305,Praça da aeronáutica,0103,vigente
+010310,Praça do exército,0103,vigente
+010315,Praça da marinha,0103,vigente
+020105,Coronel da polícia militar,0201,vigente
+020110,Tenente-coronel da polícia militar,0201,vigente
+020115,Major da polícia militar,0201,vigente
+020205,Capitão da polícia militar,0202,vigente
+020305,Primeiro tenente de polícia militar,0203,vigente
+020310,Segundo tenente de polícia militar,0203,vigente
+021105,Subtenente da policia militar,0211,vigente
+021110,Sargento da policia militar,0211,vigente
+021205,Cabo da polícia militar,0212,vigente
+021210,Soldado da polícia militar,0212,vigente
+030105,Coronel bombeiro militar,0301,vigente
+030110,Major bombeiro militar,0301,vigente
+030115,Tenente-coronel bombeiro militar,0301,vigente
+030205,Capitão bombeiro militar,0302,vigente
+030305,Tenente do corpo de bombeiros militar,0303,vigente
+031105,Subtenente bombeiro militar,0311,vigente
+031110,Sargento bombeiro militar,0311,vigente
+031205,Cabo bombeiro militar,0312,vigente
+031210,Soldado bombeiro militar,0312,vigente
+111105,Senador,1111,vigente
+111110,Deputado federal,1111,vigente
+111115,Deputado estadual e distrital,1111,vigente
+111120,Vereador,1111,vigente
+111205,Presidente da república,1112,vigente
+111210,Vice-presidente da república,1112,vigente
+111215,Ministro de estado,1112,vigente
+111220,Secretário - executivo,1112,vigente
+111225,Membro superior do poder executivo,1112,vigente
+111230,Governador de estado,1112,vigente
+111235,Governador do distrito federal,1112,vigente
+111240,Vice-governador de estado,1112,vigente
+111245,Vice-governador do distrito federal,1112,vigente
+111250,Prefeito,1112,vigente
+111255,Vice-prefeito,1112,vigente
+111305,Ministro do supremo tribunal federal,1113,vigente
+111310,Ministro do superior tribunal de justiça,1113,vigente
+111315,Ministro do  superior tribunal militar,1113,vigente
+111320,Ministro do  superior tribunal do trabalho,1113,vigente
+111325,Juiz de direito,1113,vigente
+111330,Juiz federal,1113,vigente
+111335,Juiz auditor federal - justiça militar,1113,vigente
+111340,Juiz auditor estadual - justiça militar,1113,vigente
+111345,Juiz do trabalho,1113,vigente
+111405,Dirigente do serviço público federal,1114,vigente
+111410,Dirigente do serviço público estadual e distrital,1114,vigente
+111415,Dirigente do serviço público municipal,1114,vigente
+111505,Especialista de políticas públicas e gestão governamental - eppgg,1115,vigente
+111510,Analista de planejamento e orçamento - apo,1115,vigente
+113005,Cacique,1130,vigente
+113010,Líder de comunidade caiçara,1130,vigente
+113015,Membro de liderança quilombola,1130,vigente
+114105,Dirigente de partido político,1141,vigente
+114205,Dirigente de entidade de trabalhadores,1142,vigente
+114210,Dirigente de entidade patronal,1142,vigente
+114305,Dirigente e administrador de organização religiosa,1143,vigente
+114405,Dirigente e administrador de organização da sociedade civil sem fins lucrativos,1144,vigente
+121005,Diretor de planejamento estratégico,1210,vigente
+121010,Diretor geral de empresa e organizações (exceto de interesse público),1210,vigente
+122105,Diretor de produção e operações em empresa agropecuária,1221,vigente
+122110,Diretor de produção e operações em empresa aqüícola,1221,vigente
+122115,Diretor de produção e operações em empresa florestal,1221,vigente
+122120,Diretor de produção e operações em empresa pesqueira,1221,vigente
+122205,"Diretor de produção e operações da indústria de transformação, extração mineral e utilidades",1222,vigente
+122305,Diretor de operações de obras pública e civil,1223,vigente
+122405,Diretor de operações comerciais (comércio atacadista e varejista),1224,vigente
+122505,Diretor de  produção e operações de alimentação,1225,vigente
+122510,Diretor de  produção e operações de hotel,1225,vigente
+122515,Diretor de  produção e operações de turismo,1225,vigente
+122520,Turismólogo,1225,vigente
+122605,Diretor de operações de correios,1226,vigente
+122610,Diretor de operações de serviços de armazenamento,1226,vigente
+122615,Diretor de operações de serviços de telecomunicações,1226,vigente
+122620,Diretor de operações de serviços de transporte,1226,vigente
+122705,Diretor comercial em operações de intermediação financeira,1227,vigente
+122710,Diretor de produtos bancários,1227,vigente
+122715,Diretor de crédito rural,1227,vigente
+122720,Diretor de câmbio e comércio exterior,1227,vigente
+122725,Diretor de compliance,1227,vigente
+122730,Diretor de crédito (exceto crédito imobiliário),1227,vigente
+122735,Diretor de crédito imobiliário,1227,vigente
+122740,Diretor de leasing,1227,vigente
+122745,Diretor de mercado de capitais,1227,vigente
+122750,Diretor de recuperação de créditos em operações de intermediação financeira,1227,vigente
+122755,Diretor de riscos de mercado,1227,vigente
+123105,Diretor administrativo,1231,vigente
+123110,Diretor administrativo e financeiro,1231,vigente
+123115,Diretor financeiro,1231,vigente
+123205,Diretor de recursos humanos,1232,vigente
+123210,Diretor de relações de trabalho,1232,vigente
+123305,Diretor comercial,1233,vigente
+123310,Diretor de marketing,1233,vigente
+123405,Diretor de suprimentos,1234,vigente
+123410,Diretor de suprimentos no serviço público,1234,vigente
+123605,Diretor de tecnologia da informação,1236,vigente
+123705,Diretor de pesquisa e desenvolvimento (p&d),1237,vigente
+123805,Diretor de manutenção,1238,vigente
+131105,Diretor de serviços culturais,1311,vigente
+131110,Diretor de serviços sociais,1311,vigente
+131115,Gerente de serviços culturais,1311,vigente
+131120,Gerente de serviços sociais,1311,vigente
+131205,Diretor de serviços de saúde,1312,vigente
+131210,Gerente de serviços de saúde,1312,vigente
+131215,Tecnólogo em gestão hospitalar,1312,vigente
+131220,Gerontólogo,1312,vigente
+131225,Sanitarista,1312,vigente
+131305,Diretor de instituição educacional da área privada,1313,vigente
+131310,Diretor de instituição educacional pública,1313,vigente
+131315,Gerente de instituição educacional da área privada,1313,vigente
+131320,Gerente de serviços educacionais da área pública,1313,vigente
+141105,Gerente de produção e operações  aqüícolas,1411,vigente
+141110,Gerente de produção e operações  florestais,1411,vigente
+141115,Gerente de produção e operações agropecuárias,1411,vigente
+141120,Gerente de produção e operações pesqueiras,1411,vigente
+141205,Gerente de produção e operações,1412,vigente
+141305,Gerente de produção e operações da construção civil e obras públicas,1413,vigente
+141405,Comerciante atacadista,1414,vigente
+141410,Comerciante varejista,1414,vigente
+141415,Gerente de loja e supermercado,1414,vigente
+141420,Gerente de operações de serviços de assistência técnica,1414,vigente
+141505,Gerente de hotel,1415,vigente
+141510,Gerente de restaurante,1415,vigente
+141515,Gerente de bar,1415,vigente
+141520,Gerente de pensão,1415,vigente
+141525,Gerente de turismo,1415,vigente
+141605,Gerente de operações de transportes,1416,vigente
+141610,Gerente de operações de correios e telecomunicações,1416,vigente
+141615,Gerente de logística (armazenagem e distribuição),1416,vigente
+141705,Gerente de produtos bancários,1417,vigente
+141710,Gerente de agência,1417,vigente
+141715,Gerente de câmbio e comércio exterior,1417,vigente
+141720,Gerente de crédito e cobrança,1417,vigente
+141725,Gerente de crédito imobiliário,1417,vigente
+141730,Gerente de crédito rural,1417,vigente
+141735,Gerente de recuperação de crédito,1417,vigente
+141805,Gerente de administração em aeroportos,1418,vigente
+141810,Gerente de empresa aérea e empresa de serviços auxiliares ao transporte aéreo (esata) em aeroportos,1418,vigente
+141815,Gerente de operações em aeroportos,1418,vigente
+141820,Gerente de operações de cargas,1418,vigente
+141825,Gerente de segurança da aviação civil,1418,vigente
+141830,Gerente de segurança operacional (aviação civil),1418,vigente
+142105,Gerente administrativo,1421,vigente
+142110,Gerente de riscos,1421,vigente
+142115,Gerente financeiro,1421,vigente
+142120,Tecnólogo em gestão administrativo- financeira,1421,vigente
+142125,Analista de compliance,1421,vigente
+142130,Analista de riscos,1421,vigente
+142135,Oficial de proteção de dados pessoais (dpo),1421,vigente
+142140,Gerente de facility management,1421,vigente
+142205,Gerente de recursos humanos,1422,vigente
+142210,Gerente de departamento pessoal,1422,vigente
+142305,Gerente comercial,1423,vigente
+142310,Gerente de comunicação,1423,vigente
+142315,Gerente de marketing,1423,vigente
+142320,Gerente de vendas,1423,vigente
+142325,Relações públicas,1423,vigente
+142330,Analista de negócios,1423,vigente
+142335,Analista de pesquisa de mercado,1423,vigente
+142340,Ouvidor,1423,vigente
+142345,Profissional de relações institucionais e governamentais,1423,vigente
+142350,Profissonal de relações internacionais,1423,vigente
+142355,Analista de e-commerce,1423,vigente
+142405,Gerente de compras,1424,vigente
+142410,Gerente de suprimentos,1424,vigente
+142415,Gerente de almoxarifado,1424,vigente
+142505,Gerente de infraestrutura de tecnologia da informação,1425,vigente
+142510,Gerente de desenvolvimento de sistemas,1425,vigente
+142515,Gerente de operação de tecnologia da informação,1425,vigente
+142520,Gerente de projetos de tecnologia da informação,1425,vigente
+142525,Gerente de segurança da informação,1425,vigente
+142530,Gerente de suporte técnico de tecnologia da informação,1425,vigente
+142535,Tecnólogo em gestão da tecnologia da informação,1425,vigente
+142605,Gerente de pesquisa e desenvolvimento (p&d),1426,vigente
+142610,Especialista em desenvolvimento de cigarros,1426,vigente
+142705,Gerente de projetos e serviços de manutenção,1427,vigente
+142710,Tecnólogo em sistemas biomédicos,1427,vigente
+201105,Bioengenheiro,2011,vigente
+201110,Biotecnologista,2011,vigente
+201115,Geneticista,2011,vigente
+201205,Pesquisador em metrologia,2012,vigente
+201210,Especialista em calibrações metrológicas,2012,vigente
+201215,Especialista em ensaios metrológicos,2012,vigente
+201220,Especialista em instrumentação metrológica,2012,vigente
+201225,Especialista em materiais de referência metrológica,2012,vigente
+202105,Engenheiro mecatrônico,2021,vigente
+202110,Engenheiro de controle e automação,2021,vigente
+202115,Tecnólogo em mecatrônica,2021,vigente
+202120,Tecnólogo em automação industrial,2021,vigente
+203005,Pesquisador em biologia ambiental,2030,vigente
+203010,Pesquisador em biologia animal,2030,vigente
+203015,Pesquisador em biologia de microorganismos e parasitas,2030,vigente
+203020,Pesquisador em biologia humana,2030,vigente
+203025,Pesquisador em biologia vegetal,2030,vigente
+203105,Pesquisador em ciências da computação e informática,2031,vigente
+203110,Pesquisador em ciências da terra e meio ambiente,2031,vigente
+203115,Pesquisador em física,2031,vigente
+203120,Pesquisador em matemática,2031,vigente
+203125,Pesquisador em química,2031,vigente
+203205,Pesquisador de engenharia civil,2032,vigente
+203210,Pesquisador de engenharia e tecnologia (outras áreas da engenharia),2032,vigente
+203215,Pesquisador de engenharia elétrica e eletrônica,2032,vigente
+203220,Pesquisador de engenharia mecânica,2032,vigente
+203225,"Pesquisador de engenharia metalúrgica, de minas e de materiais",2032,vigente
+203230,Pesquisador de engenharia química,2032,vigente
+203305,Pesquisador de clínica médica,2033,vigente
+203310,Pesquisador de medicina básica,2033,vigente
+203315,Pesquisador em medicina veterinária,2033,vigente
+203320,Pesquisador em saúde coletiva,2033,vigente
+203405,Pesquisador em ciências agronômicas,2034,vigente
+203410,Pesquisador em ciências da pesca e aqüicultura,2034,vigente
+203415,Pesquisador em ciências da zootecnia,2034,vigente
+203420,Pesquisador em ciências florestais,2034,vigente
+203505,Pesquisador em ciências sociais e humanas,2035,vigente
+203510,Pesquisador em economia,2035,vigente
+203515,Pesquisador em ciências da educação,2035,vigente
+203520,Pesquisador em história,2035,vigente
+203525,Pesquisador em psicologia,2035,vigente
+204105,Perito criminal,2041,vigente
+204110,Perito judicial,2041,vigente
+211105,Atuário,2111,vigente
+211110,Especialista em pesquisa operacional,2111,vigente
+211115,Matemático,2111,vigente
+211120,Matemático aplicado,2111,vigente
+211205,Estatístico,2112,vigente
+211210,Estatístico (estatística aplicada),2112,vigente
+211215,Estatístico teórico,2112,vigente
+211220,Cientista de dados,2112,vigente
+212205,Engenheiro de aplicativos em computação,2122,vigente
+212210,Engenheiro de equipamentos em computação,2122,vigente
+212215,Engenheiros de sistemas operacionais em computação,2122,vigente
+212305,Administrador de banco de dados,2123,vigente
+212310,Administrador de redes,2123,vigente
+212315,Administrador de sistemas operacionais,2123,vigente
+212320,Administrador em segurança da informação,2123,vigente
+212405,Analista de desenvolvimento de sistemas,2124,vigente
+212410,Analista de redes e de comunicação de dados,2124,vigente
+212415,Analista de sistemas de automação,2124,vigente
+212420,Analista de suporte computacional,2124,vigente
+212425,Arquiteto de soluções de tecnologia da informação,2124,vigente
+212430,Analista de testes de tecnologia da informação,2124,vigente
+213105,Físico,2131,vigente
+213110,Físico (acústica),2131,vigente
+213115,Físico (atômica e molecular),2131,vigente
+213120,Físico (cosmologia),2131,vigente
+213125,Físico (estatística e matemática),2131,vigente
+213130,Físico (fluidos),2131,vigente
+213135,Físico (instrumentação),2131,vigente
+213140,Físico (matéria condensada),2131,vigente
+213145,Físico (materiais),2131,vigente
+213150,Físico (medicina),2131,vigente
+213155,Físico (nuclear e reatores),2131,vigente
+213160,Físico (óptica),2131,vigente
+213165,Físico (partículas e campos),2131,vigente
+213170,Físico (plasma),2131,vigente
+213175,Físico (térmica),2131,vigente
+213205,Químico,2132,vigente
+213210,Químico industrial,2132,vigente
+213215,Tecnólogo em processos químicos,2132,vigente
+213305,Astrônomo,2133,vigente
+213310,Geofísico espacial,2133,vigente
+213315,Meteorologista,2133,vigente
+213405,Geólogo,2134,vigente
+213410,Geólogo de engenharia,2134,vigente
+213415,Geofísico,2134,vigente
+213420,Geoquímico,2134,vigente
+213425,Hidrogeólogo,2134,vigente
+213430,Paleontólogo,2134,vigente
+213435,Petrógrafo,2134,vigente
+213440,Oceanógrafo,2134,vigente
+214005,Engenheiro ambiental,2140,vigente
+214010,Tecnólogo em meio ambiente,2140,vigente
+214105,Arquiteto de edificações,2141,vigente
+214110,Arquiteto de interiores,2141,vigente
+214115,Arquiteto de patrimônio,2141,vigente
+214120,Arquiteto paisagista,2141,vigente
+214125,Arquiteto urbanista,2141,vigente
+214130,Urbanista,2141,vigente
+214205,Engenheiro civil,2142,vigente
+214210,Engenheiro civil (aeroportos),2142,vigente
+214215,Engenheiro civil (edificações),2142,vigente
+214220,Engenheiro civil (estruturas metálicas),2142,vigente
+214225,Engenheiro civil (ferrovias e metrovias),2142,vigente
+214230,Engenheiro civil (geotécnia),2142,vigente
+214235,Engenheiro civil (hidrologia),2142,vigente
+214240,Engenheiro civil (hidráulica),2142,vigente
+214245,Engenheiro civil (pontes e viadutos),2142,vigente
+214250,Engenheiro civil (portos e vias navegáveis),2142,vigente
+214255,Engenheiro civil (rodovias),2142,vigente
+214260,Engenheiro civil (saneamento),2142,vigente
+214265,Engenheiro civil (túneis),2142,vigente
+214270,Engenheiro civil (transportes e trânsito),2142,vigente
+214280,Tecnólogo em construção civil,2142,vigente
+214305,Engenheiro eletricista,2143,vigente
+214310,Engenheiro eletrônico,2143,vigente
+214315,Engenheiro eletricista de manutenção,2143,vigente
+214320,Engenheiro eletricista de projetos,2143,vigente
+214325,Engenheiro eletrônico de manutenção,2143,vigente
+214330,Engenheiro eletrônico de projetos,2143,vigente
+214335,Engenheiro de manutenção de telecomunicações,2143,vigente
+214340,Engenheiro de telecomunicações,2143,vigente
+214345,Engenheiro projetista de telecomunicações,2143,vigente
+214350,Engenheiro de redes de comunicação,2143,vigente
+214360,Tecnólogo em eletricidade,2143,vigente
+214365,Tecnólogo em eletrônica,2143,vigente
+214370,Tecnólogo em telecomunicações,2143,vigente
+214375,Engenheiro de energia,2143,vigente
+214380,Engenheiro biomédico,2143,vigente
+214405,Engenheiro mecânico,2144,vigente
+214410,Engenheiro mecânico automotivo,2144,vigente
+214415,Engenheiro mecânico (energia nuclear),2144,vigente
+214420,Engenheiro mecânico industrial,2144,vigente
+214425,Engenheiro aeronáutico,2144,vigente
+214430,Engenheiro naval,2144,vigente
+214435,Tecnólogo em fabricação mecânica,2144,vigente
+214505,Engenheiro químico,2145,vigente
+214510,Engenheiro químico (indústria química),2145,vigente
+214515,"Engenheiro químico (mineração, metalurgia, siderurgia, cimenteira e cerâmica)",2145,vigente
+214520,Engenheiro químico (papel e celulose),2145,vigente
+214525,Engenheiro químico (petróleo e borracha),2145,vigente
+214530,Engenheiro químico (utilidades e meio ambiente),2145,vigente
+214535,Tecnólogo em produção sulcroalcooleira,2145,vigente
+214540,Engenheiro têxtil,2145,vigente
+214605,Engenheiro de materiais,2146,vigente
+214610,Engenheiro metalurgista,2146,vigente
+214615,Tecnólogo em metalurgia,2146,vigente
+214705,Engenheiro de minas,2147,vigente
+214710,Engenheiro de minas (beneficiamento),2147,vigente
+214715,Engenheiro de minas (lavra a céu aberto),2147,vigente
+214720,Engenheiro de minas (lavra subterrânea),2147,vigente
+214725,Engenheiro de minas (pesquisa mineral),2147,vigente
+214730,Engenheiro de minas (planejamento),2147,vigente
+214735,Engenheiro de minas (processo),2147,vigente
+214740,Engenheiro de minas (projeto),2147,vigente
+214745,Tecnólogo em petróleo e gás,2147,vigente
+214750,Tecnólogo em rochas ornamentais,2147,vigente
+214805,Engenheiro agrimensor,2148,vigente
+214810,Engenheiro cartógrafo,2148,vigente
+214905,Engenheiro de produção,2149,vigente
+214910,Engenheiro de controle de qualidade,2149,vigente
+214915,Engenheiro de segurança do trabalho,2149,vigente
+214920,Engenheiro de riscos,2149,vigente
+214925,Engenheiro de tempos e movimentos,2149,vigente
+214930,Tecnólogo em produção industrial,2149,vigente
+214935,Tecnólogo em segurança do trabalho,2149,vigente
+214940,Higienista ocupacional,2149,vigente
+214945,Engenheiro de logistica,2149,vigente
+215105,Agente de manobra e docagem,2151,vigente
+215110,Capitão de manobra da marinha mercante,2151,vigente
+215115,Comandante da marinha mercante,2151,vigente
+215120,Coordenador de operações de combate à poluição no meio aquaviário,2151,vigente
+215125,Imediato da marinha mercante,2151,vigente
+215130,Inspetor de terminal,2151,vigente
+215135,Inspetor naval,2151,vigente
+215140,Oficial de quarto de navegação da marinha mercante,2151,vigente
+215145,Prático de portos da marinha mercante,2151,vigente
+215150,Vistoriador naval,2151,vigente
+215205,Oficial superior de máquinas da marinha mercante,2152,vigente
+215210,Primeiro oficial de máquinas da marinha mercante,2152,vigente
+215215,Segundo oficial de máquinas da marinha mercante,2152,vigente
+215220,Superintendente técnico no transporte aquaviário,2152,vigente
+215305,Piloto de aeronaves,2153,vigente
+215310,Piloto de ensaios em vôo,2153,vigente
+215315,Instrutor de vôo,2153,vigente
+221105,Biólogo,2211,vigente
+221205,Biomédico,2212,vigente
+222105,Engenheiro agrícola,2221,vigente
+222110,Engenheiro agrônomo,2221,vigente
+222115,Engenheiro de pesca,2221,vigente
+222120,Engenheiro florestal,2221,vigente
+222125,Tecnólogo em agronegócio,2221,vigente
+222205,Engenheiro de alimentos,2222,vigente
+222215,Tecnólogo em alimentos,2222,vigente
+223204,Cirurgião dentista - auditor,2232,vigente
+223208,Cirurgião dentista - clínico geral,2232,vigente
+223212,Cirurgião dentista - endodontista,2232,vigente
+223216,Cirurgião dentista - epidemiologista,2232,vigente
+223220,Cirurgião dentista - estomatologista,2232,vigente
+223224,Cirurgião dentista - implantodontista,2232,vigente
+223228,Cirurgião dentista - odontogeriatra,2232,vigente
+223232,Cirurgião dentista - odontologista legal,2232,vigente
+223236,Cirurgião dentista - odontopediatra,2232,vigente
+223240,Cirurgião dentista - ortopedista e ortodontista,2232,vigente
+223244,Cirurgião dentista - patologista bucal,2232,vigente
+223248,Cirurgião dentista - periodontista,2232,vigente
+223252,Cirurgião dentista - protesiólogo bucomaxilofacial,2232,vigente
+223256,Cirurgião dentista - protesista,2232,vigente
+223260,Cirurgião dentista - radiologista,2232,vigente
+223264,Cirurgião dentista - reabilitador oral,2232,vigente
+223268,Cirurgião dentista - traumatologista bucomaxilofacial,2232,vigente
+223272,Cirurgião dentista de saúde coletiva,2232,vigente
+223276,Cirurgião dentista - odontologia do trabalho,2232,vigente
+223280,Cirurgião dentista - dentística,2232,vigente
+223284,Cirurgião dentista - disfunção temporomandibular e dor orofacial,2232,vigente
+223288,Cirurgião dentista - odontologia para pacientes com necessidades especiais,2232,vigente
+223293,Cirurgião-dentista da estratégia de saúde da família,2232,vigente
+223305,Médico veterinário,2233,vigente
+223310,Zootecnista,2233,vigente
+223405,Farmacêutico,2234,vigente
+223415,Farmacêutico analista clínico,2234,vigente
+223420,Farmacêutico de alimentos,2234,vigente
+223425,Farmacêutico práticas integrativas e complementares,2234,vigente
+223430,Farmacêutico em saúde pública,2234,vigente
+223435,Farmacêutico industrial,2234,vigente
+223440,Farmacêutico toxicologista,2234,vigente
+223445,Farmacêutico hospitalar e clínico,2234,vigente
+223505,Enfermeiro,2235,vigente
+223510,Enfermeiro auditor,2235,vigente
+223515,Enfermeiro de bordo,2235,vigente
+223520,Enfermeiro de centro cirúrgico,2235,vigente
+223525,Enfermeiro de terapia intensiva,2235,vigente
+223530,Enfermeiro do trabalho,2235,vigente
+223535,Enfermeiro nefrologista,2235,vigente
+223540,Enfermeiro neonatologista,2235,vigente
+223545,Enfermeiro obstétrico,2235,vigente
+223550,Enfermeiro psiquiátrico,2235,vigente
+223555,Enfermeiro puericultor e pediátrico,2235,vigente
+223560,Enfermeiro sanitarista,2235,vigente
+223565,Enfermeiro da estratégia de saúde da família,2235,vigente
+223570,Perfusionista,2235,vigente
+223575,Obstetriz,2235,vigente
+223580,Enfermeiro estomaterapeuta,2235,vigente
+223585,Enfermeiro forense,2235,vigente
+223605,Fisioterapeuta geral,2236,vigente
+223625,Fisioterapeuta respiratória,2236,vigente
+223630,Fisioterapeuta neurofuncional,2236,vigente
+223635,Fisioterapeuta traumato-ortopédica funcional,2236,vigente
+223640,Fisioterapeuta osteopata,2236,vigente
+223645,Fisioterapeuta quiropraxista,2236,vigente
+223650,Fisioterapeuta acupunturista,2236,vigente
+223655,Fisioterapeuta esportivo,2236,vigente
+223660,Fisioterapeuta  do trabalho,2236,vigente
+223705,Dietista,2237,vigente
+223710,Nutricionista,2237,vigente
+223810,Fonoaudiólogo geral,2238,vigente
+223815,Fonoaudiólogo educacional,2238,vigente
+223820,Fonoaudiólogo em audiologia,2238,vigente
+223825,Fonoaudiólogo em disfagia,2238,vigente
+223830,Fonoaudiólogo em linguagem,2238,vigente
+223835,Fonoaudiólogo em motricidade orofacial,2238,vigente
+223840,Fonoaudiólogo em saúde coletiva,2238,vigente
+223845,Fonoaudiólogo em voz,2238,vigente
+223905,Terapeuta ocupacional,2239,vigente
+223910,Ortoptista,2239,vigente
+223915,Psicomotricista,2239,vigente
+224105,Avaliador físico,2241,vigente
+224110,Ludomotricista,2241,vigente
+224115,Preparador de atleta,2241,vigente
+224120,Preparador físico,2241,vigente
+224125,Técnico de desporto individual e coletivo (exceto futebol),2241,vigente
+224130,Técnico de laboratório e fiscalização desportiva,2241,vigente
+224135,Treinador profissional de futebol,2241,vigente
+224140,Profissional de educação física na saúde,2241,vigente
+225103,Médico infectologista,2251,vigente
+225105,Médico acupunturista,2251,vigente
+225106,Médico legista,2251,vigente
+225109,Médico nefrologista,2251,vigente
+225110,Médico alergista e imunologista,2251,vigente
+225112,Médico neurologista,2251,vigente
+225115,Médico angiologista,2251,vigente
+225118,Médico nutrologista,2251,vigente
+225120,Médico cardiologista,2251,vigente
+225121,Médico oncologista clínico,2251,vigente
+225122,Médico cancerologista pediátrico,2251,vigente
+225124,Médico pediatra,2251,vigente
+225125,Médico clínico,2251,vigente
+225127,Médico pneumologista,2251,vigente
+225130,Médico de família e comunidade,2251,vigente
+225133,Médico psiquiatra,2251,vigente
+225135,Médico dermatologista,2251,vigente
+225136,Médico reumatologista,2251,vigente
+225139,Médico sanitarista,2251,vigente
+225140,Médico do trabalho,2251,vigente
+225142,Médico da estratégia de saúde da família,2251,vigente
+225145,Médico em medicina de tráfego,2251,vigente
+225148,Médico anatomopatologista,2251,vigente
+225150,Médico em medicina intensiva,2251,vigente
+225151,Médico anestesiologista,2251,vigente
+225154,Médico antroposófico,2251,vigente
+225155,Médico endocrinologista e metabologista,2251,vigente
+225160,Médico fisiatra,2251,vigente
+225165,Médico gastroenterologista,2251,vigente
+225170,Médico generalista,2251,vigente
+225175,Médico geneticista,2251,vigente
+225180,Médico geriatra,2251,vigente
+225185,Médico hematologista,2251,vigente
+225195,Médico homeopata,2251,vigente
+225203,Médico em cirurgia vascular,2252,vigente
+225210,Médico cirurgião cardiovascular,2252,vigente
+225215,Médico cirurgião de cabeça e pescoço,2252,vigente
+225220,Médico cirurgião do aparelho digestivo,2252,vigente
+225225,Médico cirurgião geral,2252,vigente
+225230,Médico cirurgião pediátrico,2252,vigente
+225235,Médico cirurgião plástico,2252,vigente
+225240,Médico cirurgião torácico,2252,vigente
+225250,Médico ginecologista e obstetra,2252,vigente
+225255,Médico mastologista,2252,vigente
+225260,Médico neurocirurgião,2252,vigente
+225265,Médico oftalmologista,2252,vigente
+225270,Médico ortopedista e traumatologista,2252,vigente
+225275,Médico otorrinolaringologista,2252,vigente
+225280,Médico coloproctologista,2252,vigente
+225285,Médico urologista,2252,vigente
+225290,Médico cancerologista cirurgíco,2252,vigente
+225295,Médico cirurgião da mão,2252,vigente
+225305,Médico citopatologista,2253,vigente
+225310,Médico em endoscopia,2253,vigente
+225315,Médico em medicina nuclear,2253,vigente
+225320,Médico em radiologia e diagnóstico por imagem,2253,vigente
+225325,Médico patologista,2253,vigente
+225330,Médico radioterapeuta,2253,vigente
+225335,Médico patologista clínico / medicina laboratorial,2253,vigente
+225340,Médico hemoterapeuta,2253,vigente
+225345,Médico hiperbarista,2253,vigente
+225350,Médico neurofisiologista clínico,2253,vigente
+225355,Médico radiologista intervencionista,2253,vigente
+226105,Quiropraxista,2261,vigente
+226110,Osteopata,2261,vigente
+226305,Musicoterapeuta,2263,vigente
+226310,Arteterapeuta,2263,vigente
+226315,Equoterapeuta,2263,vigente
+226320,Naturólogo,2263,vigente
+231105,Professor de nível superior na educação infantil (quatro a seis anos),2311,vigente
+231110,Professor de nível superior na educação infantil (zero a três anos),2311,vigente
+231205,Professor da  educação de jovens e adultos do ensino fundamental (primeira a quarta série),2312,vigente
+231210,Professor de nível superior do ensino fundamental (primeira a quarta série),2312,vigente
+231305,Professor de ciências exatas e naturais do ensino fundamental,2313,vigente
+231310,Professor de educação artística do ensino fundamental,2313,vigente
+231315,Professor de educação física do ensino fundamental,2313,vigente
+231320,Professor de geografia do ensino fundamental,2313,vigente
+231325,Professor de história do ensino fundamental,2313,vigente
+231330,Professor de língua estrangeira moderna do ensino fundamental,2313,vigente
+231335,Professor de língua portuguesa do ensino fundamental,2313,vigente
+231340,Professor de matemática do ensino fundamental,2313,vigente
+232105,Professor de artes no ensino médio,2321,vigente
+232110,Professor de biologia no ensino médio,2321,vigente
+232115,Professor de disciplinas pedagógicas no ensino médio,2321,vigente
+232120,Professor de educação física no ensino médio,2321,vigente
+232125,Professor de filosofia no ensino médio,2321,vigente
+232130,Professor de física no ensino médio,2321,vigente
+232135,Professor de geografia no ensino médio,2321,vigente
+232140,Professor de história no ensino médio,2321,vigente
+232145,Professor de língua e literatura brasileira no ensino médio,2321,vigente
+232150,Professor de língua estrangeira moderna no ensino médio,2321,vigente
+232155,Professor de matemática no ensino médio,2321,vigente
+232160,Professor de psicologia no ensino médio,2321,vigente
+232165,Professor de química no ensino médio,2321,vigente
+232170,Professor de sociologia no ensino médio,2321,vigente
+233105,Professor da área de meio ambiente,2331,vigente
+233110,Professor de desenho técnico,2331,vigente
+233115,Professor de técnicas agrícolas,2331,vigente
+233120,Professor de técnicas comerciais e secretariais,2331,vigente
+233125,Professor de técnicas de enfermagem,2331,vigente
+233130,Professor de técnicas industriais,2331,vigente
+233135,Professor de tecnologia e cálculo técnico,2331,vigente
+233205,Instrutor de aprendizagem e treinamento agropecuário,2332,vigente
+233210,Instrutor de aprendizagem e treinamento industrial,2332,vigente
+233215,Instrutor de aprendizagem e treinamento comercial,2332,vigente
+233220,Professor instrutor de ensino e aprendizagem agroflorestal,2332,vigente
+233225,Professor instrutor de ensino e aprendizagem em serviços,2332,vigente
+234105,Professor de matemática aplicada (no ensino superior),2341,vigente
+234110,Professor de matemática pura (no ensino superior),2341,vigente
+234115,Professor de estatística (no ensino superior),2341,vigente
+234120,Professor de computação (no ensino superior),2341,vigente
+234125,Professor de pesquisa operacional (no ensino superior),2341,vigente
+234205,Professor de física (ensino superior),2342,vigente
+234210,Professor de química (ensino superior),2342,vigente
+234215,Professor de astronomia (ensino superior),2342,vigente
+234305,Professor de arquitetura,2343,vigente
+234310,Professor de engenharia,2343,vigente
+234315,Professor de geofísica,2343,vigente
+234320,Professor de geologia,2343,vigente
+234405,Professor de ciências biológicas do ensino superior,2344,vigente
+234410,Professor de educação física no ensino superior,2344,vigente
+234415,Professor de enfermagem do ensino superior,2344,vigente
+234420,Professor de farmácia e bioquímica,2344,vigente
+234425,Professor de fisioterapia,2344,vigente
+234430,Professor de fonoaudiologia,2344,vigente
+234435,Professor de medicina,2344,vigente
+234440,Professor de medicina veterinária,2344,vigente
+234445,Professor de nutrição,2344,vigente
+234450,Professor de odontologia,2344,vigente
+234455,Professor de terapia ocupacional,2344,vigente
+234460,Professor de zootecnia do ensino superior,2344,vigente
+234505,Professor de ensino superior na área de didática,2345,vigente
+234510,Professor de ensino superior na área de orientação educacional,2345,vigente
+234515,Professor de ensino superior na área de pesquisa educacional,2345,vigente
+234520,Professor de ensino superior na área de prática de ensino,2345,vigente
+234604,Professor de língua alemã,2346,vigente
+234608,Professor de língua italiana,2346,vigente
+234612,Professor de língua francesa,2346,vigente
+234616,Professor de língua inglesa,2346,vigente
+234620,Professor de língua espanhola,2346,vigente
+234624,Professor de língua portuguesa,2346,vigente
+234628,Professor de literatura brasileira,2346,vigente
+234632,Professor de literatura portuguesa,2346,vigente
+234636,Professor de literatura alemã,2346,vigente
+234640,Professor de literatura comparada,2346,vigente
+234644,Professor de literatura espanhola,2346,vigente
+234648,Professor de literatura francesa,2346,vigente
+234652,Professor de literatura inglesa,2346,vigente
+234656,Professor de literatura italiana,2346,vigente
+234660,Professor de literatura de línguas estrangeiras modernas,2346,vigente
+234664,Professor de outras línguas e literaturas,2346,vigente
+234668,Professor de línguas estrangeiras modernas,2346,vigente
+234672,Professor de lingüística e lingüística aplicada,2346,vigente
+234676,Professor de filologia e crítica textual,2346,vigente
+234680,Professor de semiótica,2346,vigente
+234684,Professor de teoria da literatura,2346,vigente
+234689,Professor de língua brasileira de sinais (libras),2346,vigente
+234705,Professor de antropologia do ensino superior,2347,vigente
+234710,Professor de arquivologia do ensino superior,2347,vigente
+234715,Professor de biblioteconomia do ensino superior,2347,vigente
+234720,Professor de ciência política do ensino superior,2347,vigente
+234725,Professor de comunicação social do ensino superior,2347,vigente
+234730,Professor de direito do ensino superior,2347,vigente
+234735,Professor de filosofia do ensino superior,2347,vigente
+234740,Professor de geografia do ensino superior,2347,vigente
+234745,Professor de história do ensino superior,2347,vigente
+234750,Professor de jornalismo,2347,vigente
+234755,Professor de museologia do ensino superior,2347,vigente
+234760,Professor de psicologia do ensino superior,2347,vigente
+234765,Professor de serviço social do ensino superior,2347,vigente
+234770,Professor de sociologia do ensino superior,2347,vigente
+234805,Professor de economia,2348,vigente
+234810,Professor de administração,2348,vigente
+234815,Professor de contabilidade,2348,vigente
+234905,Professor de artes do espetáculo no ensino superior,2349,vigente
+234910,Professor de artes visuais no ensino superior (artes plásticas e multimídia),2349,vigente
+234915,Professor de música no ensino superior,2349,vigente
+239205,Professor de alunos com deficiência auditiva e surdos,2392,vigente
+239210,Professor de alunos com deficiência física,2392,vigente
+239215,Professor de alunos com deficiência mental,2392,vigente
+239220,Professor de alunos com deficiência múltipla,2392,vigente
+239225,Professor de alunos com deficiência visual,2392,vigente
+239405,Coordenador pedagógico,2394,vigente
+239410,Orientador educacional,2394,vigente
+239415,Pedagogo,2394,vigente
+239420,Professor de técnicas e recursos audiovisuais,2394,vigente
+239425,Psicopedagogo,2394,vigente
+239430,Supervisor de ensino,2394,vigente
+239435,Designer educacional,2394,vigente
+239440,Neuropsicopedagogo clinico,2394,vigente
+239445,Neuropsicopedagogo institucional,2394,vigente
+241005,Advogado,2410,vigente
+241010,Advogado de empresa,2410,vigente
+241015,Advogado (direito civil),2410,vigente
+241020,Advogado (direito público),2410,vigente
+241025,Advogado (direito penal),2410,vigente
+241030,Advogado (áreas especiais),2410,vigente
+241035,Advogado (direito do trabalho),2410,vigente
+241040,Consultor jurídico,2410,vigente
+241205,Advogado da união,2412,vigente
+241210,Procurador autárquico,2412,vigente
+241215,Procurador da fazenda nacional,2412,vigente
+241220,Procurador do estado,2412,vigente
+241225,Procurador do município,2412,vigente
+241230,Procurador federal,2412,vigente
+241235,Procurador fundacional,2412,vigente
+241305,Oficial de registro de contratos marítimos,2413,vigente
+241310,Oficial do registro civil de pessoas jurídicas,2413,vigente
+241315,Oficial do registro civil de pessoas naturais,2413,vigente
+241320,Oficial do registro de distribuições,2413,vigente
+241325,Oficial do registro de imóveis,2413,vigente
+241330,Oficial do registro de títulos e documentos,2413,vigente
+241335,Tabelião de notas,2413,vigente
+241340,Tabelião de protestos,2413,vigente
+241405,Conselheiro julgador,2414,vigente
+242205,Procurador da república,2422,vigente
+242210,Procurador de justiça,2422,vigente
+242215,Procurador de justiça militar,2422,vigente
+242220,Procurador do trabalho,2422,vigente
+242225,Procurador regional da república,2422,vigente
+242230,Procurador regional do trabalho,2422,vigente
+242235,Promotor de justiça,2422,vigente
+242240,Subprocurador de justiça militar,2422,vigente
+242245,Subprocurador-geral da república,2422,vigente
+242250,Subprocurador-geral do trabalho,2422,vigente
+242305,Delegado de polícia,2423,vigente
+242405,Defensor público,2424,vigente
+242410,Procurador da assistência judiciária,2424,vigente
+242905,Oficial de inteligência,2429,vigente
+242910,Oficial técnico de inteligência,2429,vigente
+251105,Antropólogo,2511,vigente
+251110,Arqueólogo,2511,vigente
+251115,Cientista político,2511,vigente
+251120,Sociólogo,2511,vigente
+251205,Economista,2512,vigente
+251210,Economista agroindustrial,2512,vigente
+251215,Economista financeiro,2512,vigente
+251220,Economista industrial,2512,vigente
+251225,Economista do setor público,2512,vigente
+251230,Economista ambiental,2512,vigente
+251235,Economista regional e urbano,2512,vigente
+251305,Geógrafo,2513,vigente
+251405,Filósofo,2514,vigente
+251505,Psicólogo educacional,2515,vigente
+251510,Psicólogo clínico,2515,vigente
+251515,Psicólogo do esporte,2515,vigente
+251520,Psicólogo hospitalar,2515,vigente
+251525,Psicólogo jurídico,2515,vigente
+251530,Psicólogo social,2515,vigente
+251535,Psicólogo do trânsito,2515,vigente
+251540,Psicólogo do trabalho,2515,vigente
+251545,Neuropsicólogo,2515,vigente
+251550,Psicanalista,2515,vigente
+251555,Psicólogo acupunturista,2515,vigente
+251605,Assistente social,2516,vigente
+251610,Economista doméstico,2516,vigente
+252105,Administrador,2521,vigente
+252205,Auditor (contadores e afins),2522,vigente
+252210,Contador,2522,vigente
+252215,Perito contábil,2522,vigente
+252305,Secretária(o) executiva(o),2523,vigente
+252310,Secretário  bilíngüe,2523,vigente
+252315,Secretária trilíngüe,2523,vigente
+252320,Tecnólogo em secretariado escolar,2523,vigente
+252405,Analista de recursos humanos,2524,vigente
+252505,Administrador de fundos e carteiras de investimento,2525,vigente
+252510,Analista de câmbio,2525,vigente
+252515,Analista de cobrança (instituições financeiras),2525,vigente
+252525,Analista de crédito (instituições financeiras),2525,vigente
+252530,Analista de crédito rural,2525,vigente
+252535,Analista de leasing,2525,vigente
+252540,Analista de produtos bancários,2525,vigente
+252545,Analista financeiro (instituições financeiras),2525,vigente
+252550,Profissional de relações com investidores,2525,vigente
+252605,Gestor em segurança,2526,vigente
+252705,Analista de pcp (programação e controle da produção),2527,vigente
+252710,Analista de planejamento de materias,2527,vigente
+252715,Analista de logistica,2527,vigente
+252720,Analista de projetos logisticos,2527,vigente
+252725,Analista de gestão de estoque,2527,vigente
+253110,Redator de publicidade,2531,vigente
+253115,Publicitário,2531,vigente
+253120,Diretor de mídia (publicidade),2531,vigente
+253125,Diretor de arte (publicidade),2531,vigente
+253130,Diretor de criação,2531,vigente
+253135,Diretor de contas (publicidade),2531,vigente
+253140,Agenciador de propaganda,2531,vigente
+253205,Gerente de captação (fundos e investimentos institucionais),2532,vigente
+253210,Gerente de clientes especiais (private),2532,vigente
+253215,Gerente de contas - pessoa física e jurídica,2532,vigente
+253220,Gerente de grandes contas (corporate),2532,vigente
+253225,Operador de negócios,2532,vigente
+253305,"Corretor de valores, ativos financeiros, mercadorias e derivativos",2533,vigente
+253405,Analista de mídias sociais,2534,vigente
+253410,Influenciador digital,2534,vigente
+254105,Auditor-fiscal da receita federal,2541,vigente
+254110,Técnico da receita federal,2541,vigente
+254205,Auditor-fiscal da previdência social,2542,vigente
+254305,Auditor-fiscal do trabalho,2543,vigente
+254310,Agente de higiene e segurança,2543,vigente
+254405,Fiscal de tributos estadual,2544,vigente
+254410,Fiscal de tributos municipal,2544,vigente
+254415,Técnico de tributos estadual,2544,vigente
+254420,Técnico de tributos municipal,2544,vigente
+254505,Fiscal de atividades urbanas,2545,vigente
+261105,Arquivista pesquisador (jornalismo),2611,vigente
+261110,Assessor de imprensa,2611,vigente
+261115,Diretor de redação,2611,vigente
+261120,Editor,2611,vigente
+261125,Jornalista,2611,vigente
+261130,Produtor de texto,2611,vigente
+261135,Repórter (exclusive rádio e televisão),2611,vigente
+261140,Revisor de texto,2611,vigente
+261205,Bibliotecário,2612,vigente
+261210,Documentalista,2612,vigente
+261215,Analista de informações (pesquisador de informações de rede),2612,vigente
+261305,Arquivista,2613,vigente
+261310,Museólogo,2613,vigente
+261405,Filólogo,2614,vigente
+261410,Intérprete,2614,vigente
+261415,Lingüista,2614,vigente
+261420,Tradutor,2614,vigente
+261425,Intérprete de língua de sinais,2614,vigente
+261430,Audiodescritor,2614,vigente
+261505,Autor-roteirista,2615,vigente
+261510,Crítico,2615,vigente
+261515,Escritor de ficção,2615,vigente
+261520,Escritor de não ficção,2615,vigente
+261525,Poeta,2615,vigente
+261530,Redator de textos técnicos,2615,vigente
+261605,Editor de jornal,2616,vigente
+261610,Editor de livro,2616,vigente
+261615,Editor de mídia eletrônica,2616,vigente
+261620,Editor de revista,2616,vigente
+261625,Editor de revista científica,2616,vigente
+261705,Âncora de mídias audiovisuais,2617,vigente
+261710,Comentarista de mídias audiovisuais,2617,vigente
+261715,Locutor de mídias audiovisuais,2617,vigente
+261730,Repórter de mídias audiovisuais,2617,vigente
+261805,Fotógrafo,2618,vigente
+261810,Fotógrafo publicitário,2618,vigente
+261815,Fotógrafo retratista,2618,vigente
+261820,Repórter fotográfico,2618,vigente
+261905,Continuista,2619,vigente
+261910,Assistente de direção (tv),2619,vigente
+262105,Produtor cultural,2621,vigente
+262110,Produtor cinematográfico,2621,vigente
+262115,Produtor de rádio,2621,vigente
+262120,Produtor de teatro,2621,vigente
+262125,Produtor de televisão,2621,vigente
+262130,Tecnólogo em produção fonográfica,2621,vigente
+262135,Tecnólogo em produção audiovisual,2621,vigente
+262205,Diretor de cinema,2622,vigente
+262210,Diretor de programas de rádio,2622,vigente
+262215,Diretor de programas de televisão,2622,vigente
+262220,Diretor teatral,2622,vigente
+262225,Diretor de programação,2622,vigente
+262230,Diretor de produção,2622,vigente
+262235,Diretor artistíco,2622,vigente
+262305,Cenógrafo carnavalesco e festas populares,2623,vigente
+262310,Cenógrafo de cinema,2623,vigente
+262315,Cenógrafo de eventos,2623,vigente
+262320,Cenógrafo de teatro,2623,vigente
+262325,Cenógrafo de tv,2623,vigente
+262330,Diretor de arte,2623,vigente
+262405,Artista (artes visuais),2624,vigente
+262410,Desenhista industrial gráfico (designer gráfico),2624,vigente
+262415,Conservador-restaurador de bens  culturais,2624,vigente
+262420,Desenhista industrial de produto (designer de produto),2624,vigente
+262425,Desenhista industrial de produto de moda (designer de moda),2624,vigente
+262505,Ator,2625,vigente
+262605,Compositor,2626,vigente
+262610,Músico arranjador,2626,vigente
+262615,Músico regente,2626,vigente
+262620,Musicólogo,2626,vigente
+262705,Músico intérprete cantor,2627,vigente
+262710,Músico intérprete instrumentista,2627,vigente
+262805,Assistente de coreografia,2628,vigente
+262810,Bailarino (exceto danças populares),2628,vigente
+262815,Coreógrafo,2628,vigente
+262820,Dramaturgo de dança,2628,vigente
+262825,Ensaiador de dança,2628,vigente
+262830,Professor de dança,2628,vigente
+262905,Decorador de interiores de nível superior,2629,vigente
+263105,Ministro de culto religioso,2631,vigente
+263110,Missionário,2631,vigente
+263115,Teólogo,2631,vigente
+271105,Chefe de cozinha,2711,vigente
+271110,Tecnólogo em gastronomia,2711,vigente
+300105,Técnico em mecatrônica - automação da manufatura,3001,vigente
+300110,Técnico em mecatrônica - robótica,3001,vigente
+300305,Técnico em eletromecânica,3003,vigente
+301105,Técnico de laboratório industrial,3011,vigente
+301110,Técnico de laboratório de análises físico-químicas (materiais de construção),3011,vigente
+301115,Técnico químico de petróleo,3011,vigente
+301205,Técnico de apoio à bioengenharia,3012,vigente
+311105,Técnico químico,3111,vigente
+311110,Técnico de celulose e papel,3111,vigente
+311115,Técnico em curtimento,3111,vigente
+311205,Técnico em petroquímica,3112,vigente
+311305,"Técnico em materiais, produtos cerâmicos e vidros",3113,vigente
+311405,Técnico em borracha,3114,vigente
+311410,Técnico em plástico,3114,vigente
+311505,Técnico de controle de meio ambiente,3115,vigente
+311510,Técnico de meteorologia,3115,vigente
+311515,"Técnico de utilidade (produção e distribuição de vapor, gases, óleos, combustíveis, energia)",3115,vigente
+311520,Técnico em tratamento de efluentes,3115,vigente
+311605,Técnico têxtil,3116,vigente
+311610,Técnico têxtil (tratamentos químicos),3116,vigente
+311615,Técnico têxtil de fiação,3116,vigente
+311620,Técnico têxtil de malharia,3116,vigente
+311625,Técnico têxtil de tecelagem,3116,vigente
+311705,Colorista de papel,3117,vigente
+311710,Colorista têxtil,3117,vigente
+311715,Preparador de tintas,3117,vigente
+311720,Preparador de tintas (fábrica de tecidos),3117,vigente
+311725,Tingidor de couros e peles,3117,vigente
+312105,Técnico de obras civis,3121,vigente
+312205,Técnico de estradas,3122,vigente
+312210,Técnico de saneamento,3122,vigente
+312305,Técnico em agrimensura,3123,vigente
+312310,Técnico em geodésia e cartografia,3123,vigente
+312315,Técnico em hidrografia,3123,vigente
+312320,Topógrafo,3123,vigente
+313105,Eletrotécnico,3131,vigente
+313110,Eletrotécnico (produção de energia),3131,vigente
+313115,"Eletrotécnico na fabricação, montagem e instalação de máquinas e equipamentos",3131,vigente
+313120,Técnico de manutenção elétrica,3131,vigente
+313125,Técnico de manutenção elétrica de máquina,3131,vigente
+313130,Técnico eletricista,3131,vigente
+313205,Técnico de manutenção eletrônica,3132,vigente
+313210,Técnico de manutenção eletrônica (circuitos de máquinas com comando numérico),3132,vigente
+313215,Técnico eletrônico,3132,vigente
+313220,Técnico em manutenção de equipamentos de informática,3132,vigente
+313305,Técnico de comunicação de dados,3133,vigente
+313310,Técnico de rede (telecomunicações),3133,vigente
+313315,Técnico de telecomunicações (telefonia),3133,vigente
+313320,Técnico de transmissão (telecomunicações),3133,vigente
+313405,Técnico em calibração,3134,vigente
+313410,Técnico em instrumentação,3134,vigente
+313415,"Encarregado de manutenção de instrumentos de controle, medição e similares",3134,vigente
+313505,Técnico em fotônica,3135,vigente
+314105,Técnico em mecânica de precisão,3141,vigente
+314110,Técnico mecânico,3141,vigente
+314115,"Técnico mecânico (calefação, ventilação e refrigeração)",3141,vigente
+314120,Técnico mecânico (máquinas),3141,vigente
+314125,Técnico mecânico (motores),3141,vigente
+314205,Técnico mecânico na fabricação de ferramentas,3142,vigente
+314210,Técnico mecânico na manutenção de ferramentas,3142,vigente
+314305,Técnico em automobilística,3143,vigente
+314310,Técnico mecânico (aeronaves),3143,vigente
+314315,Técnico mecânico (embarcações),3143,vigente
+314405,Técnico de manutenção de sistemas e instrumentos,3144,vigente
+314410,Técnico em manutenção de máquinas,3144,vigente
+314610,Técnico em caldeiraria,3146,vigente
+314615,Técnico em estruturas metálicas,3146,vigente
+314620,Técnico em soldagem,3146,vigente
+314625,Tecnólogo em soldagem,3146,vigente
+314705,Técnico de acabamento em siderurgia,3147,vigente
+314710,Técnico de aciaria em siderurgia,3147,vigente
+314715,Técnico de fundição em siderurgia,3147,vigente
+314720,Técnico de laminação em siderurgia,3147,vigente
+314725,Técnico de redução na siderurgia (primeira fusão),3147,vigente
+314730,Técnico de refratário em siderurgia,3147,vigente
+314805,Inspetor de equipamentos,3148,vigente
+314810,Inspetor de fabricação,3148,vigente
+314815,Inspetor de ensaios não destrutivos,3148,vigente
+314825,Inspetor de dutos,3148,vigente
+314830,Inspetor de controle dimensional,3148,vigente
+314835,Inspetor de pintura,3148,vigente
+314840,Inspetor de manutenção,3148,vigente
+314845,Inspetor de soldagem,3148,vigente
+316105,Técnico em geofísica,3161,vigente
+316110,Técnico em geologia,3161,vigente
+316115,Técnico em geoquímica,3161,vigente
+316120,Técnico em geotecnia,3161,vigente
+316305,Técnico de mineração,3163,vigente
+316310,Técnico de mineração (óleo e petróleo),3163,vigente
+316315,Técnico em processamento mineral (exceto petróleo),3163,vigente
+316320,Técnico em pesquisa mineral,3163,vigente
+316325,Técnico de produção em refino de petróleo,3163,vigente
+316330,Técnico em planejamento de lavra de minas,3163,vigente
+316335,Desincrustador (poços de petróleo),3163,vigente
+316340,Cimentador (poços de petróleo),3163,vigente
+317105,Desenvolvedor web (técnico),3171,vigente
+317110,Desenvolvedor de sistemas de tecnologia da informação (técnico),3171,vigente
+317115,Programador de máquinas - ferramenta com comando numérico,3171,vigente
+317120,Desenvolvedor de multimídia,3171,vigente
+317205,Operador de computador,3172,vigente
+317210,Técnico de suporte ao usuário de tecnologia da informação,3172,vigente
+318005,Desenhista técnico,3180,vigente
+318010,Desenhista copista,3180,vigente
+318015,Desenhista detalhista,3180,vigente
+318105,Desenhista técnico (arquitetura),3181,vigente
+318110,Desenhista técnico (cartografia),3181,vigente
+318115,Desenhista técnico (construção civil),3181,vigente
+318120,Desenhista técnico (instalações hidrossanitárias),3181,vigente
+318205,Desenhista técnico mecânico,3182,vigente
+318210,Desenhista técnico aeronáutico,3182,vigente
+318215,Desenhista técnico naval,3182,vigente
+318305,Desenhista técnico (eletricidade e eletrônica),3183,vigente
+318310,"Desenhista técnico (calefação, ventilação e refrigeração)",3183,vigente
+318405,Desenhista técnico (artes gráficas),3184,vigente
+318410,Desenhista técnico (ilustrações artísticas),3184,vigente
+318415,Desenhista técnico (ilustrações técnicas),3184,vigente
+318420,Desenhista técnico (indústria têxtil),3184,vigente
+318425,Desenhista técnico (mobiliário),3184,vigente
+318430,"Desenhista técnico de embalagens, maquetes e leiautes",3184,vigente
+318505,Desenhista projetista de arquitetura,3185,vigente
+318510,Desenhista projetista de construção civil,3185,vigente
+318605,Desenhista projetista de máquinas,3186,vigente
+318610,Desenhista projetista mecânico,3186,vigente
+318705,Desenhista projetista de eletricidade,3187,vigente
+318710,Desenhista projetista eletrônico,3187,vigente
+318805,Projetista de móveis,3188,vigente
+318810,Modelista de roupas,3188,vigente
+318815,Modelista de calçados,3188,vigente
+319105,Técnico em calçados e artefatos de couro,3191,vigente
+319110,Técnico em confecções do vestuário,3191,vigente
+319205,Técnico do mobiliário,3192,vigente
+320105,Técnico em bioterismo,3201,vigente
+320110,Técnico em histologia,3201,vigente
+321105,Técnico agrícola,3211,vigente
+321110,Técnico agropecuário,3211,vigente
+321205,Técnico em madeira,3212,vigente
+321210,Técnico florestal,3212,vigente
+321305,Técnico em piscicultura,3213,vigente
+321310,Técnico em carcinicultura,3213,vigente
+321315,Técnico em mitilicultura,3213,vigente
+321320,Técnico em ranicultura,3213,vigente
+322105,Técnico em acupuntura,3221,vigente
+322110,Podólogo,3221,vigente
+322115,Técnico em quiropraxia,3221,vigente
+322120,Massoterapeuta,3221,vigente
+322125,Terapeuta holístico,3221,vigente
+322130,Esteticista,3221,vigente
+322135,Doula,3221,vigente
+322140,Instrutor de pilates,3221,vigente
+322205,Técnico de enfermagem,3222,vigente
+322210,Técnico de enfermagem de terapia intensiva,3222,vigente
+322215,Técnico de enfermagem do trabalho,3222,vigente
+322220,Técnico de enfermagem psiquiátrica,3222,vigente
+322225,Instrumentador cirúrgico,3222,vigente
+322230,Auxiliar de enfermagem,3222,vigente
+322235,Auxiliar de enfermagem do trabalho,3222,vigente
+322240,Auxiliar de saúde (navegação marítima),3222,vigente
+322245,Técnico de enfermagem da estratégia de saúde da família,3222,vigente
+322250,Auxiliar de enfermagem da estratégia de saúde da família,3222,vigente
+322255,Técnico em agente comunitário de saúde,3222,vigente
+322305,Técnico em óptica e optometria,3223,vigente
+322405,Técnico em saúde bucal,3224,vigente
+322410,Protético dentário,3224,vigente
+322415,Auxiliar em saúde bucal,3224,vigente
+322420,Auxiliar de prótese dentária,3224,vigente
+322425,Técnico em saúde bucal da estratégia de saúde da família,3224,vigente
+322430,Auxiliar em saúde bucal da estratégia de saúde da família,3224,vigente
+322505,Técnico de ortopedia,3225,vigente
+322605,Técnico de imobilização ortopédica,3226,vigente
+323105,Técnico em pecuária,3231,vigente
+324105,Técnico em métodos eletrográficos em encefalografia,3241,vigente
+324110,Técnico em métodos gráficos em cardiologia,3241,vigente
+324115,Técnico em radiologia e imagenologia,3241,vigente
+324120,Tecnólogo em radiologia,3241,vigente
+324125,Tecnólogo oftálmico,3241,vigente
+324130,Técnico em espirometria,3241,vigente
+324135,Técnico em polissonografia,3241,vigente
+324140,Dosimetrista clínico,3241,vigente
+324205,Técnico em patologia clínica,3242,vigente
+324215,Citotécnico,3242,vigente
+324220,Técnico em hemoterapia,3242,vigente
+325005,Enólogo,3250,vigente
+325010,Aromista,3250,vigente
+325015,Perfumista,3250,vigente
+325105,Auxiliar técnico em laboratório de farmácia,3251,vigente
+325110,Técnico em laboratório de farmácia,3251,vigente
+325115,Técnico em farmácia,3251,vigente
+325205,Técnico de alimentos,3252,vigente
+325210,Técnico em nutrição e dietética,3252,vigente
+325305,Técnico em biotecnologia,3253,vigente
+325310,Técnico em imunobiológicos,3253,vigente
+328105,Embalsamador,3281,vigente
+328110,Taxidermista,3281,vigente
+331105,Professor de nível médio na educação infantil,3311,vigente
+331110,Auxiliar de desenvolvimento infantil,3311,vigente
+331205,Professor de nível médio no ensino fundamental,3312,vigente
+331305,Professor de nível médio no ensino profissionalizante,3313,vigente
+332105,Professor leigo no ensino fundamental,3321,vigente
+332205,Professor prático no ensino profissionalizante,3322,vigente
+333105,Instrutor de auto-escola,3331,vigente
+333110,Instrutor de cursos livres,3331,vigente
+333115,Professores de cursos livres,3331,vigente
+334105,Inspetor de alunos de escola privada,3341,vigente
+334110,Inspetor de alunos de escola pública,3341,vigente
+334115,Monitor de transporte escolar,3341,vigente
+341105,Piloto comercial (exceto linhas aéreas),3411,vigente
+341110,Piloto comercial de helicóptero (exceto linhas aéreas),3411,vigente
+341115,Mecânico de vôo,3411,vigente
+341120,Piloto agrícola,3411,vigente
+341205,Contramestre de cabotagem,3412,vigente
+341210,Mestre de cabotagem,3412,vigente
+341215,Mestre fluvial,3412,vigente
+341220,Patrão de pesca de alto-mar,3412,vigente
+341225,Patrão de pesca na navegação interior,3412,vigente
+341230,Piloto fluvial,3412,vigente
+341235,Técnico em sinalização náutica,3412,vigente
+341240,Técnicos em manobras em equipamentos de convés,3412,vigente
+341245,Técnico em sinais navais,3412,vigente
+341250,Auxiliar técnico de sinalização nautica,3412,vigente
+341305,Condutor maquinista motorista fluvial,3413,vigente
+341310,Condutor de máquinas,3413,vigente
+341315,Eletricista de bordo,3413,vigente
+341320,Condutor de máquinas (bombeador),3413,vigente
+341325,Condutor de máquinas (mecânico),3413,vigente
+342105,Analista de transporte em comércio exterior,3421,vigente
+342110,Operador de transporte multimodal,3421,vigente
+342115,Controlador de serviços de máquinas e veículos,3421,vigente
+342120,Afretador,3421,vigente
+342125,Tecnólogo em logística de transporte,3421,vigente
+342205,Ajudante de despachante aduaneiro,3422,vigente
+342210,Despachante aduaneiro,3422,vigente
+342215,Analista de desembaraço aduaneiro,3422,vigente
+342305,Chefe de serviço de transporte rodoviário (passageiros e cargas),3423,vigente
+342310,Inspetor de serviços de transportes rodoviários (passageiros e cargas),3423,vigente
+342315,Supervisor de carga e descarga,3423,vigente
+342405,Agente de estação (ferrovia e metrô),3424,vigente
+342410,Operador de centro de controle (ferrovia e metrô),3424,vigente
+342505,Controlador de tráfego aéreo,3425,vigente
+342510,Despachante operacional de vôo,3425,vigente
+342515,Fiscal de aviação civil (fac),3425,vigente
+342530,Inspetor de aviação civil,3425,vigente
+342535,Operador de atendimento aeroviário,3425,vigente
+342540,Supervisor da administração de aeroportos,3425,vigente
+342545,Supervisor de empresa aérea em aeroportos,3425,vigente
+342550,Agente de proteção de aviação civil,3425,vigente
+342555,Fiscal de pista de aeroporto,3425,vigente
+342560,Operador de rampa ( transporte aéreo),3425,vigente
+342605,Chefe de estação portuária,3426,vigente
+342610,Supervisor de operações portuárias,3426,vigente
+351105,Técnico de contabilidade,3511,vigente
+351110,Chefe de contabilidade (técnico),3511,vigente
+351115,Consultor contábil (técnico),3511,vigente
+351305,Técnico em administração,3513,vigente
+351310,Técnico em administração de comércio exterior,3513,vigente
+351315,Agente de recrutamento e seleção,3513,vigente
+351405,Escrevente,3514,vigente
+351410,Escrivão judicial,3514,vigente
+351415,Escrivão extra - judicial,3514,vigente
+351420,Escrivão de polícia,3514,vigente
+351425,Oficial de justiça,3514,vigente
+351430,Auxiliar de serviços jurídicos,3514,vigente
+351435,Mediador de conflitos,3514,vigente
+351440,Árbitro extrajudicial,3514,vigente
+351505,Técnico em secretariado,3515,vigente
+351510,Taquígrafo,3515,vigente
+351515,Estenotipista,3515,vigente
+351605,Técnico em segurança do trabalho,3516,vigente
+351610,Técnico em higiene ocupacional,3516,vigente
+351705,Analista de seguros (técnico),3517,vigente
+351710,Analista de sinistros,3517,vigente
+351715,Assistente comercial de seguros,3517,vigente
+351720,Assistente técnico de seguros,3517,vigente
+351725,Inspetor de risco,3517,vigente
+351730,Inspetor de sinistros,3517,vigente
+351735,Técnico de resseguros,3517,vigente
+351740,Técnico de seguros,3517,vigente
+351805,Detetive profissional,3518,vigente
+351810,Investigador de polícia,3518,vigente
+351815,Papiloscopista policial,3518,vigente
+351905,Agente de inteligência,3519,vigente
+351910,Agente técnico de inteligência,3519,vigente
+352205,Agente de defesa ambiental,3522,vigente
+352210,Agente de saúde pública,3522,vigente
+352305,Metrologista,3523,vigente
+352310,Agente fiscal de qualidade,3523,vigente
+352315,Agente fiscal metrológico,3523,vigente
+352320,Agente fiscal têxtil,3523,vigente
+352405,Agente de direitos autorais,3524,vigente
+352410,Avaliador de produtos dos meios de comunicação,3524,vigente
+352420,Técnico em direitos autorais,3524,vigente
+353205,Técnico de operações e serviços bancários - câmbio,3532,vigente
+353210,Técnico de operações e serviços bancários - crédito imobiliário,3532,vigente
+353215,Técnico de operações e serviços bancários - crédito rural,3532,vigente
+353220,Técnico de operações e serviços bancários - leasing,3532,vigente
+353225,Técnico de operações e serviços bancários - renda fixa e variável,3532,vigente
+353230,Tesoureiro de banco,3532,vigente
+353235,Chefe de serviços bancários,3532,vigente
+354120,Agente de vendas de serviços,3541,vigente
+354125,Assistente de vendas,3541,vigente
+354130,Promotor de vendas especializado,3541,vigente
+354135,Técnico de vendas,3541,vigente
+354140,Técnico em atendimento e vendas,3541,vigente
+354145,Vendedor pracista,3541,vigente
+354150,Propagandista de produtos famacêuticos,3541,vigente
+354205,Comprador,3542,vigente
+354210,Supervisor de compras,3542,vigente
+354305,Analista de exportação e importação,3543,vigente
+354405,Leiloeiro,3544,vigente
+354410,Avaliador de imóveis,3544,vigente
+354415,Avaliador de bens móveis,3544,vigente
+354505,Corretor de seguros,3545,vigente
+354605,Corretor de imóveis,3546,vigente
+354610,Corretor de grãos,3546,vigente
+354705,Representante comercial autônomo,3547,vigente
+354805,Técnico em turismo,3548,vigente
+354810,Operador de turismo,3548,vigente
+354815,Agente de viagem,3548,vigente
+354820,Organizador de evento,3548,vigente
+354825,Cerimonialista,3548,vigente
+371105,Auxiliar de biblioteca,3711,vigente
+371110,Técnico em biblioteconomia,3711,vigente
+371205,Colecionador de selos e moedas,3712,vigente
+371210,Técnico em museologia,3712,vigente
+371305,Técnico em programação visual,3713,vigente
+371310,Técnico gráfico,3713,vigente
+371405,Recreador de acantonamento,3714,vigente
+371410,Recreador,3714,vigente
+372105,Diretor de fotografia,3721,vigente
+372110,Iluminador (televisão),3721,vigente
+372115,Operador de câmera de televisão,3721,vigente
+372205,Operador de rede de teleprocessamento,3722,vigente
+372210,Radiotelegrafista,3722,vigente
+373105,Operador de mídia audiovisual,3731,vigente
+373130,Técnico de sistemas audiovisuais,3731,vigente
+373135,Operador de controle mestre,3731,vigente
+373140,Coordenador de programação,3731,vigente
+373145,Assistente de operações audiovisuais,3731,vigente
+373220,Supervisor técnico operacional de sistemas de televisão e produtoras de vídeo,3732,vigente
+373225,Supervisor de operações (mídias audiovisuais),3732,vigente
+373230,Supervisor técnico (mídias audiovisuais),3732,vigente
+374105,Técnico em gravação de áudio,3741,vigente
+374110,Técnico em instalação de equipamentos de áudio,3741,vigente
+374115,Técnico em masterização de áudio,3741,vigente
+374120,Projetista de som,3741,vigente
+374125,Técnico em sonorização,3741,vigente
+374130,Técnico em mixagem de áudio,3741,vigente
+374135,Projetista de sistemas de áudio,3741,vigente
+374140,Microfonista,3741,vigente
+374145,Dj (disc jockey),3741,vigente
+374150,Sonoplasta,3741,vigente
+374155,Analista musical,3741,vigente
+374205,"Cenotécnico (cinema, vídeo, televisão, teatro e espetáculos)",3742,vigente
+374210,Maquinista de cinema e vídeo,3742,vigente
+374215,Maquinista de teatro e espetáculos,3742,vigente
+374305,Operador de projetor cinematográfico,3743,vigente
+374310,Operador-mantenedor de projetor cinematográfico,3743,vigente
+374405,Editor de mídia audiovisual,3744,vigente
+374410,Finalizador de filmes,3744,vigente
+374415,Finalizador de vídeo,3744,vigente
+374420,Montador de filmes,3744,vigente
+374425,Diretor de imagens (tv),3744,vigente
+375105,Designer de interiores,3751,vigente
+375110,Designer de vitrines,3751,vigente
+375115,Visual merchandiser,3751,vigente
+375120,Decorador de eventos,3751,vigente
+375125,Produtor de moda,3751,vigente
+375130,Profissional de organização (personal organizer),3751,vigente
+376105,Dançarino tradicional,3761,vigente
+376110,Dançarino popular,3761,vigente
+376205,Acrobata,3762,vigente
+376210,Artista aéreo,3762,vigente
+376215,Artista de circo (outros),3762,vigente
+376220,Contorcionista,3762,vigente
+376225,Domador de animais (circense),3762,vigente
+376230,Equilibrista,3762,vigente
+376235,Mágico,3762,vigente
+376240,Malabarista,3762,vigente
+376245,Palhaço,3762,vigente
+376250,Titeriteiro,3762,vigente
+376255,Trapezista,3762,vigente
+376305,Apresentador de eventos,3763,vigente
+376310,Apresentador de festas populares,3763,vigente
+376315,Apresentador de programas de rádio,3763,vigente
+376320,Apresentador de programas de televisão,3763,vigente
+376325,Apresentador de circo,3763,vigente
+376330,Mestre de cerimonias,3763,vigente
+376405,Modelo artístico,3764,vigente
+376410,Modelo de modas,3764,vigente
+376415,Modelo publicitário,3764,vigente
+377105,Atleta profissional (outras modalidades),3771,vigente
+377110,Atleta profissional de futebol,3771,vigente
+377115,Atleta profissional de golfe,3771,vigente
+377120,Atleta profissional de luta,3771,vigente
+377125,Atleta profissional de tênis,3771,vigente
+377130,Jóquei,3771,vigente
+377135,Piloto de competição automobilística,3771,vigente
+377140,Profissional de atletismo,3771,vigente
+377145,Pugilista,3771,vigente
+377205,Árbitro desportivo,3772,vigente
+377210,Árbitro de atletismo,3772,vigente
+377215,Árbitro de basquete,3772,vigente
+377220,Árbitro de futebol,3772,vigente
+377225,Árbitro de futebol de salão,3772,vigente
+377230,Árbitro de judô,3772,vigente
+377235,Árbitro de karatê,3772,vigente
+377240,Árbitro de poló aquático,3772,vigente
+377245,Árbitro de vôlei,3772,vigente
+391105,Cronoanalista,3911,vigente
+391110,Cronometrista,3911,vigente
+391115,Controlador de entrada e saída,3911,vigente
+391120,Planejista,3911,vigente
+391125,Técnico de planejamento de produção,3911,vigente
+391130,Técnico de planejamento e programação da manutenção,3911,vigente
+391135,Técnico de matéria-prima e material,3911,vigente
+391140,Analista de manutenção (equipamentos aéreos),3911,vigente
+391145,Analista de planejamento de manutenção,3911,vigente
+391205,Inspetor de qualidade,3912,vigente
+391210,Técnico de garantia da qualidade,3912,vigente
+391215,Operador de inspeção de qualidade,3912,vigente
+391220,Técnico de painel de controle,3912,vigente
+391225,Escolhedor de papel,3912,vigente
+391230,Técnico operacional de serviços de correios,3912,vigente
+395105,Técnico de apoio em pesquisa e desenvolvimento (exceto agropecuário e florestal),3951,vigente
+395110,Técnico de apoio em pesquisa e desenvolvimento agropecuário florestal,3951,vigente
+410105,Supervisor administrativo,4101,vigente
+410205,Supervisor de almoxarifado,4102,vigente
+410210,Supervisor de câmbio,4102,vigente
+410215,Supervisor de contas a pagar,4102,vigente
+410220,Supervisor de controle patrimonial,4102,vigente
+410225,Supervisor de crédito e cobrança,4102,vigente
+410230,Supervisor de orçamento,4102,vigente
+410235,Supervisor de tesouraria,4102,vigente
+410240,Supervisor de logística,4102,vigente
+411005,Auxiliar de escritório,4110,vigente
+411010,Assistente administrativo,4110,vigente
+411015,Atendente de judiciário,4110,vigente
+411020,Auxiliar de judiciário,4110,vigente
+411025,Auxiliar de cartório,4110,vigente
+411030,Auxiliar de pessoal,4110,vigente
+411035,Auxiliar de estatística,4110,vigente
+411040,Auxiliar de seguros,4110,vigente
+411045,Auxiliar de serviços de importação e exportação,4110,vigente
+411050,Agente de microcrédito,4110,vigente
+411055,Captador de recursos,4110,vigente
+412105,Datilógrafo,4121,vigente
+412110,Digitador,4121,vigente
+412115,Operador de mensagens de telecomunicações (correios),4121,vigente
+412120,Supervisor de digitação e operação,4121,vigente
+412205,Contínuo,4122,vigente
+413105,Analista de folha de pagamento,4131,vigente
+413110,Auxiliar de contabilidade,4131,vigente
+413115,Auxiliar de faturamento,4131,vigente
+413205,Atendente de agência,4132,vigente
+413210,Caixa de banco,4132,vigente
+413215,Compensador de banco,4132,vigente
+413220,Conferente de serviços bancários,4132,vigente
+413225,Escriturário de banco,4132,vigente
+413230,Operador de cobrança bancária,4132,vigente
+414105,Almoxarife,4141,vigente
+414110,Armazenista,4141,vigente
+414115,Balanceiro,4141,vigente
+414120,Conferente mercadoria (exceto carga e descarga),4141,vigente
+414125,Estoquista,4141,vigente
+414135,Expedidor de mercadorias,4141,vigente
+414140,Auxiliar de logistica,4141,vigente
+414205,Apontador de mão-de-obra,4142,vigente
+414210,Apontador de produção,4142,vigente
+414215,Conferente de carga e descarga,4142,vigente
+415105,Arquivista de documentos,4151,vigente
+415115,Codificador de dados,4151,vigente
+415120,Fitotecário,4151,vigente
+415125,Kardexista,4151,vigente
+415130,Operador de máquina copiadora (exceto operador de gráfica rápida),4151,vigente
+415205,Carteiro,4152,vigente
+415210,Operador de triagem e transbordo,4152,vigente
+415215,Entregador de publicações,4152,vigente
+415305,Registrador de câncer,4153,vigente
+415310,Analista de informação em saúde,4153,vigente
+420105,Supervisor de caixas e bilheteiros (exceto caixa de banco),4201,vigente
+420110,Supervisor de cobrança,4201,vigente
+420115,Supervisor de coletadores de apostas e de jogos,4201,vigente
+420120,Supervisor de entrevistadores e recenseadores,4201,vigente
+420125,Supervisor de recepcionistas,4201,vigente
+420130,Supervisor de telefonistas,4201,vigente
+420135,Supervisor de telemarketing e atendimento,4201,vigente
+421105,Atendente comercial (agência postal),4211,vigente
+421110,Bilheteiro de transportes coletivos,4211,vigente
+421115,Bilheteiro no serviço de diversões,4211,vigente
+421120,Emissor de passagens,4211,vigente
+421125,Operador de caixa,4211,vigente
+421205,Recebedor de apostas (loteria),4212,vigente
+421210,Recebedor de apostas (turfe),4212,vigente
+421305,Cobrador externo,4213,vigente
+421310,Cobrador interno,4213,vigente
+421315,Localizador (cobrador),4213,vigente
+422105,"Recepcionista, em geral",4221,vigente
+422110,Recepcionista de consultório médico ou dentário,4221,vigente
+422115,Recepcionista de seguro saúde,4221,vigente
+422120,Recepcionista de hotel,4221,vigente
+422125,Recepcionista de banco,4221,vigente
+422130,Concierge,4221,vigente
+422205,Telefonista,4222,vigente
+422210,Teleoperador,4222,vigente
+422220,Operador de rádio-chamada,4222,vigente
+422305,Operador de telemarketing ativo,4223,vigente
+422310,Operador de telemarketing ativo e receptivo,4223,vigente
+422315,Operador de telemarketing receptivo,4223,vigente
+422320,Operador de telemarketing técnico,4223,vigente
+422330,Teleatendente de emergência,4223,vigente
+422335,Monitor de teleatendimento,4223,vigente
+423105,Despachante documentalista,4231,vigente
+423110,Despachante de trânsito,4231,vigente
+423115,Vistoriador veicular,4231,vigente
+424105,Entrevistador censitário e de pesquisas amostrais,4241,vigente
+424110,Entrevistador de pesquisa de opinião e mídia,4241,vigente
+424115,Entrevistador de pesquisas de mercado,4241,vigente
+424120,Entrevistador de preços,4241,vigente
+424125,Escriturário  em  estatística,4241,vigente
+424130,Entrevistador social,4241,vigente
+424205,"Coordenador de provas (concurso, avaliação, exame)",4242,vigente
+424210,"Aplicador de provas (concurso, avaliação,exame)",4242,vigente
+510105,Supervisor de transportes,5101,vigente
+510110,Administrador de edifícios,5101,vigente
+510115,Supervisor de andar,5101,vigente
+510120,Chefe de portaria de hotel,5101,vigente
+510130,Chefe de bar,5101,vigente
+510135,Maître,5101,vigente
+510205,Supervisor de lavanderia,5102,vigente
+510305,Supervisor de bombeiros,5103,vigente
+510310,Supervisor de vigilantes,5103,vigente
+511105,Comissário de vôo,5111,vigente
+511110,Comissário de trem,5111,vigente
+511115,Taifeiro (exceto militares),5111,vigente
+511205,Fiscal de transportes coletivos (exceto trem),5112,vigente
+511210,Despachante de transportes coletivos (exceto trem),5112,vigente
+511215,Cobrador de transportes coletivos (exceto trem),5112,vigente
+511220,"Bilheteiro (estações de metrô, ferroviárias e assemelhadas)",5112,vigente
+511405,Guia de turismo,5114,vigente
+511505,Condutor de turismo de aventura,5115,vigente
+511510,Condutor de turismo de pesca,5115,vigente
+511515,Condutor turismo náutico,5115,vigente
+512105,Empregado  doméstico  nos serviços gerais,5121,vigente
+512110,Empregado doméstico  arrumador,5121,vigente
+512115,Empregado doméstico  faxineiro,5121,vigente
+512120,Empregado doméstico diarista,5121,vigente
+513105,Mordomo de residência,5131,vigente
+513110,Mordomo de hotelaria,5131,vigente
+513115,Governanta de hotelaria,5131,vigente
+513205,Cozinheiro geral,5132,vigente
+513210,Cozinheiro do serviço doméstico,5132,vigente
+513215,Cozinheiro industrial,5132,vigente
+513220,Cozinheiro de hospital,5132,vigente
+513225,Cozinheiro de embarcações,5132,vigente
+513305,Camareiro de teatro,5133,vigente
+513310,Camareiro de televisão,5133,vigente
+513315,Camareiro  de hotel,5133,vigente
+513320,Camareiro de embarcações,5133,vigente
+513325,Guarda-roupeiro de cinema,5133,vigente
+513405,Garçom,5134,vigente
+513410,Sommelier,5134,vigente
+513415,Cumim,5134,vigente
+513420,Barman,5134,vigente
+513425,Copeiro,5134,vigente
+513430,Copeiro de hospital,5134,vigente
+513435,Atendente de lanchonete,5134,vigente
+513440,Barista,5134,vigente
+513505,Auxiliar nos serviços de alimentação,5135,vigente
+513605,Churrasqueiro,5136,vigente
+513610,Pizzaiolo,5136,vigente
+513615,Sushiman,5136,vigente
+514105,Ascensorista,5141,vigente
+514110,Garagista,5141,vigente
+514115,Sacristão,5141,vigente
+514120,Zelador de edifício,5141,vigente
+514205,Coletor de lixo domiciliar,5142,vigente
+514215,Varredor de rua,5142,vigente
+514225,Trabalhador de serviços de limpeza e conservação de áreas públicas,5142,vigente
+514230,Coletor de resíduos sólidos de serviços de saúde,5142,vigente
+514305,Limpador de vidros,5143,vigente
+514310,Auxiliar de manutenção predial,5143,vigente
+514315,Limpador de fachadas,5143,vigente
+514320,Faxineiro,5143,vigente
+514325,Trabalhador da manutenção de edificações,5143,vigente
+514330,Limpador de piscinas,5143,vigente
+515105,Agente comunitário de saúde,5151,vigente
+515110,Atendente de enfermagem,5151,vigente
+515115,Parteira leiga,5151,vigente
+515120,Visitador sanitário,5151,vigente
+515125,Agente indígena de saúde,5151,vigente
+515130,Agente indígena de saneamento,5151,vigente
+515135,Socorrista (exceto médicos e enfermeiros),5151,vigente
+515140,Agente de combate às endemias,5151,vigente
+515205,Auxiliar de banco de sangue,5152,vigente
+515210,Auxiliar de farmácia de manipulação,5152,vigente
+515215,Auxiliar de laboratório de análises clínicas,5152,vigente
+515220,Auxiliar de laboratório de imunobiológicos,5152,vigente
+515225,Auxiliar de produção farmacêutica,5152,vigente
+515305,Educador social,5153,vigente
+515310,Agente de ação social,5153,vigente
+515315,Monitor de dependente químico,5153,vigente
+515320,Conselheiro tutelar,5153,vigente
+515325,Sócioeducador,5153,vigente
+515330,Monitor de ressocialização prisional,5153,vigente
+516105,Barbeiro,5161,vigente
+516110,Cabeleireiro,5161,vigente
+516120,Manicure/pedicure,5161,vigente
+516125,Maquiador,5161,vigente
+516130,Maquiador de caracterização,5161,vigente
+516145,Designer de unhas,5161,vigente
+516150,Designer de sobrancelhas,5161,vigente
+516155,Designer de cílios,5161,vigente
+516205,Babá,5162,vigente
+516210,Cuidador de idosos,5162,vigente
+516215,Mãe social,5162,vigente
+516220,Cuidador em saúde,5162,vigente
+516305,"Lavadeiro, em geral",5163,vigente
+516310,Lavador de roupas  a maquina,5163,vigente
+516315,Lavador de artefatos de tapeçaria,5163,vigente
+516320,"Limpador a seco, à máquina",5163,vigente
+516325,Passador de roupas em geral,5163,vigente
+516330,Tingidor de roupas,5163,vigente
+516335,Conferente-expedidor de roupas (lavanderias),5163,vigente
+516340,Atendente de lavanderia,5163,vigente
+516345,Auxiliar de lavanderia,5163,vigente
+516405,Lavador de roupas,5164,vigente
+516410,"Limpador de roupas a seco, à mão",5164,vigente
+516415,"Passador de roupas, à mão",5164,vigente
+516505,Agente funerário,5165,vigente
+516605,Operador de forno (serviços funerários),5166,vigente
+516610,Sepultador,5166,vigente
+516705,Astrólogo,5167,vigente
+516710,Numerólogo,5167,vigente
+516805,Esotérico,5168,vigente
+516810,Paranormal,5168,vigente
+516905,Tatuador,5169,vigente
+516910,Micropigmentador,5169,vigente
+516915,Body piercer,5169,vigente
+517105,Bombeiro de aeródromo,5171,vigente
+517110,Bombeiro civil,5171,vigente
+517115,Salva-vidas,5171,vigente
+517120,Brigadista florestal,5171,vigente
+517125,Chefe de brigada,5171,vigente
+517130,Agente de proteção e defesa civil,5171,vigente
+517205,Agente de polícia federal,5172,vigente
+517210,Policial rodoviário federal,5172,vigente
+517215,Guarda-civil municipal,5172,vigente
+517220,Agente de trânsito,5172,vigente
+517225,Policial legislativo,5172,vigente
+517230,Policial penal,5172,vigente
+517235,Guarda portuário,5172,vigente
+517305,Vigilante de proteção de aeroporto,5173,vigente
+517310,Agente de segurança,5173,vigente
+517320,Vigia florestal,5173,vigente
+517325,Vigia portuário,5173,vigente
+517330,Vigilante,5173,vigente
+517405,Porteiro (hotel),5174,vigente
+517410,Porteiro de edifícios,5174,vigente
+517415,Agente de portaria,5174,vigente
+517420,Vigia,5174,vigente
+517425,Fiscal de loja,5174,vigente
+519105,Ciclista mensageiro,5191,vigente
+519110,Motofretista,5191,vigente
+519115,Mototaxista,5191,vigente
+519205,Catador de material reciclável,5192,vigente
+519210,Selecionador de material reciclável,5192,vigente
+519215,Operador de prensa de material reciclável,5192,vigente
+519305,Auxiliar de veterinário,5193,vigente
+519310,Esteticista de animais domésticos,5193,vigente
+519315,Banhista de animais domésticos,5193,vigente
+519320,Tosador de animais domésticos,5193,vigente
+519805,Profissional do sexo,5198,vigente
+519905,Cartazeiro,5199,vigente
+519910,Controlador de pragas,5199,vigente
+519915,Engraxate,5199,vigente
+519920,Gandula,5199,vigente
+519925,Guardador de veículos,5199,vigente
+519930,"Lavador de garrafas, vidros e outros utensílios",5199,vigente
+519935,Lavador de veículos,5199,vigente
+519940,Leiturista,5199,vigente
+519945,Recepcionista de casas de espetáculos,5199,vigente
+520105,Supervisor de vendas de serviços,5201,vigente
+520110,Supervisor de vendas comercial,5201,vigente
+521105,Vendedor em comércio atacadista,5211,vigente
+521110,Vendedor de comércio varejista,5211,vigente
+521115,Promotor de vendas,5211,vigente
+521120,Demonstrador de mercadorias,5211,vigente
+521125,Repositor de mercadorias,5211,vigente
+521130,Atendente de farmácia - balconista,5211,vigente
+521135,Frentista,5211,vigente
+521140,Atendente de lojas e mercados,5211,vigente
+523105,"Instalador de cortinas e persianas, portas sanfonadas e boxe",5231,vigente
+523110,Instalador de som e acessórios de veículos,5231,vigente
+523115,Chaveiro,5231,vigente
+523120,Aplicador de vinil autoadesivo,5231,vigente
+523125,Estampador de placa de identificação veicular (epiv),5231,vigente
+524105,Vendedor em domicílio,5241,vigente
+524205,Feirante,5242,vigente
+524210,Jornaleiro (em banca de jornal),5242,vigente
+524215,Vendedor  permissionário,5242,vigente
+524305,Vendedor ambulante,5243,vigente
+524310,Pipoqueiro ambulante,5243,vigente
+524315,Baiana de acarajé,5243,vigente
+611005,"Produtor agropecuário, em geral",6110,vigente
+612005,Produtor agrícola polivalente,6120,vigente
+612105,Produtor de arroz,6121,vigente
+612110,Produtor de cana-de-açúcar,6121,vigente
+612115,Produtor de cereais de inverno,6121,vigente
+612120,Produtor de gramíneas forrageiras,6121,vigente
+612125,Produtor de milho e sorgo,6121,vigente
+612205,Produtor de algodão,6122,vigente
+612210,Produtor de curauá,6122,vigente
+612215,Produtor de juta,6122,vigente
+612220,Produtor de rami,6122,vigente
+612225,Produtor de sisal,6122,vigente
+612305,Produtor na olericultura de legumes,6123,vigente
+612310,"Produtor na olericultura de raízes, bulbos e tubérculos",6123,vigente
+612315,"Produtor na olericultura de talos, folhas e flores",6123,vigente
+612320,Produtor na olericultura de frutos e sementes,6123,vigente
+612405,Produtor de flores de corte,6124,vigente
+612410,Produtor de flores em vaso,6124,vigente
+612415,Produtor de forrações,6124,vigente
+612420,Produtor de plantas ornamentais,6124,vigente
+612505,Produtor de árvores frutíferas,6125,vigente
+612510,Produtor de espécies frutíferas rasteiras,6125,vigente
+612515,Produtor de espécies frutíferas trepadeiras,6125,vigente
+612605,Cafeicultor,6126,vigente
+612610,Produtor de cacau,6126,vigente
+612615,Produtor de erva-mate,6126,vigente
+612620,Produtor de fumo,6126,vigente
+612625,Produtor de guaraná,6126,vigente
+612705,Produtor da cultura de amendoim,6127,vigente
+612710,Produtor da cultura de canola,6127,vigente
+612715,Produtor da cultura de coco-da-baia,6127,vigente
+612720,Produtor da cultura de dendê,6127,vigente
+612725,Produtor da cultura de girassol,6127,vigente
+612730,Produtor da cultura de linho,6127,vigente
+612735,Produtor da cultura de mamona,6127,vigente
+612740,Produtor da cultura de soja,6127,vigente
+612805,Produtor de especiarias,6128,vigente
+612810,Produtor de plantas aromáticas e medicinais,6128,vigente
+613005,Criador em pecuária polivalente,6130,vigente
+613010,Criador de animais domésticos,6130,vigente
+613105,Criador de asininos e muares,6131,vigente
+613110,Criador de bovinos (corte),6131,vigente
+613115,Criador de bovinos (leite),6131,vigente
+613120,Criador de bubalinos (corte),6131,vigente
+613125,Criador de bubalinos (leite),6131,vigente
+613130,Criador de eqüínos,6131,vigente
+613205,Criador de caprinos,6132,vigente
+613210,Criador de ovinos,6132,vigente
+613215,Criador de suínos,6132,vigente
+613305,Avicultor,6133,vigente
+613310,Cunicultor,6133,vigente
+613405,Apicultor,6134,vigente
+613410,Criador de animais produtores de veneno,6134,vigente
+613415,Minhocultor,6134,vigente
+613420,Sericultor,6134,vigente
+620105,Supervisor de exploração agrícola,6201,vigente
+620110,Supervisor de exploração agropecuária,6201,vigente
+620115,Supervisor de exploração pecuária,6201,vigente
+621005,Trabalhador agropecuário em geral,6210,vigente
+622005,Caseiro (agricultura),6220,vigente
+622010,Jardineiro,6220,vigente
+622015,Trabalhador na produção de mudas e sementes,6220,vigente
+622020,Trabalhador volante da agricultura,6220,vigente
+622105,Trabalhador da cultura de arroz,6221,vigente
+622110,Trabalhador da cultura de cana-de-açúcar,6221,vigente
+622115,Trabalhador da cultura de milho e sorgo,6221,vigente
+622120,"Trabalhador da cultura de trigo, aveia, cevada e triticale",6221,vigente
+622205,Trabalhador da cultura de algodão,6222,vigente
+622210,Trabalhador da cultura de sisal,6222,vigente
+622215,Trabalhador da cultura do rami,6222,vigente
+622305,Trabalhador na olericultura (frutos e sementes),6223,vigente
+622310,Trabalhador na olericultura (legumes),6223,vigente
+622315,"Trabalhador na olericultura (raízes, bulbos e tubérculos)",6223,vigente
+622320,"Trabalhador na olericultura (talos, folhas e flores)",6223,vigente
+622405,Trabalhador no cultivo de flores e folhagens de corte,6224,vigente
+622410,Trabalhador no cultivo de flores em vaso,6224,vigente
+622415,Trabalhador no cultivo de forrações,6224,vigente
+622420,Trabalhador no cultivo de mudas,6224,vigente
+622425,Trabalhador no cultivo de plantas ornamentais,6224,vigente
+622505,Trabalhador no cultivo de árvores frutíferas,6225,vigente
+622510,Trabalhador no cultivo de espécies frutíferas rasteiras,6225,vigente
+622515,Trabalhador no cultivo de trepadeiras frutíferas,6225,vigente
+622605,Trabalhador da cultura de cacau,6226,vigente
+622610,Trabalhador da cultura de café,6226,vigente
+622615,Trabalhador da cultura de erva-mate,6226,vigente
+622620,Trabalhador da cultura de fumo,6226,vigente
+622625,Trabalhador da cultura de guaraná,6226,vigente
+622705,Trabalhador na cultura de amendoim,6227,vigente
+622710,Trabalhador na cultura de canola,6227,vigente
+622715,Trabalhador na cultura de coco-da-baía,6227,vigente
+622720,Trabalhador na cultura de dendê,6227,vigente
+622725,Trabalhador na cultura de mamona,6227,vigente
+622730,Trabalhador na cultura de soja,6227,vigente
+622735,Trabalhador na cultura do girassol,6227,vigente
+622740,Trabalhador na cultura do linho,6227,vigente
+622805,Trabalhador da cultura de especiarias,6228,vigente
+622810,Trabalhador da cultura de plantas aromáticas e medicinais,6228,vigente
+623005,Adestrador de animais,6230,vigente
+623010,Inseminador,6230,vigente
+623015,Trabalhador de pecuária polivalente,6230,vigente
+623020,Tratador de animais,6230,vigente
+623025,Casqueador de animais,6230,vigente
+623030,Ferrador de animais,6230,vigente
+623105,Trabalhador da pecuária (asininos e muares),6231,vigente
+623110,Trabalhador da pecuária (bovinos corte),6231,vigente
+623115,Trabalhador da pecuária (bovinos leite),6231,vigente
+623120,Trabalhador da pecuária (bubalinos),6231,vigente
+623125,Trabalhador da pecuária (eqüinos),6231,vigente
+623205,Trabalhador da caprinocultura,6232,vigente
+623210,Trabalhador da ovinocultura,6232,vigente
+623215,Trabalhador da suinocultura,6232,vigente
+623305,Trabalhador da avicultura de corte,6233,vigente
+623310,Trabalhador da avicultura de postura,6233,vigente
+623315,Operador de incubadora,6233,vigente
+623320,Trabalhador da cunicultura,6233,vigente
+623325,Sexador,6233,vigente
+623405,Trabalhador em criatórios de animais produtores de veneno,6234,vigente
+623410,Trabalhador na apicultura,6234,vigente
+623415,Trabalhador na minhocultura,6234,vigente
+623420,Trabalhador na sericicultura,6234,vigente
+630105,Supervisor da aqüicultura,6301,vigente
+630110,Supervisor da área florestal,6301,vigente
+631005,Catador de caranguejos e siris,6310,vigente
+631010,Catador de mariscos,6310,vigente
+631015,Pescador artesanal de lagostas,6310,vigente
+631020,Pescador artesanal de peixes e camarões,6310,vigente
+631105,Pescador artesanal de água doce,6311,vigente
+631205,Pescador industrial,6312,vigente
+631210,Pescador profissional,6312,vigente
+631305,Criador de camarões,6313,vigente
+631310,Criador de jacarés,6313,vigente
+631315,Criador de mexilhões,6313,vigente
+631320,Criador de ostras,6313,vigente
+631325,Criador de peixes,6313,vigente
+631330,Criador de quelônios,6313,vigente
+631335,Criador de rãs,6313,vigente
+631405,Gelador industrial,6314,vigente
+631410,Gelador profissional,6314,vigente
+631415,Proeiro,6314,vigente
+631420,Redeiro (pesca),6314,vigente
+632005,Guia florestal,6320,vigente
+632010,Raizeiro,6320,vigente
+632015,Viveirista florestal,6320,vigente
+632105,Classificador de toras,6321,vigente
+632110,Cubador de madeira,6321,vigente
+632115,Identificador florestal,6321,vigente
+632120,Operador de motosserra,6321,vigente
+632125,"Trabalhador de extração florestal, em geral",6321,vigente
+632205,Seringueiro,6322,vigente
+632210,Trabalhador da exploração de espécies produtoras de gomas não elásticas,6322,vigente
+632215,Trabalhador da exploração de resinas,6322,vigente
+632305,Trabalhador da exploração de andiroba,6323,vigente
+632310,Trabalhador da exploração de babaçu,6323,vigente
+632315,Trabalhador da exploração de bacaba,6323,vigente
+632320,Trabalhador da exploração de buriti,6323,vigente
+632325,Trabalhador da exploração de carnaúba,6323,vigente
+632330,Trabalhador da exploração de coco-da-praia,6323,vigente
+632335,Trabalhador da exploração de copaíba,6323,vigente
+632340,Trabalhador da exploração de malva (pãina),6323,vigente
+632345,Trabalhador da exploração de murumuru,6323,vigente
+632350,Trabalhador da exploração de oiticica,6323,vigente
+632355,Trabalhador da exploração de ouricuri,6323,vigente
+632360,Trabalhador da exploração de pequi,6323,vigente
+632365,Trabalhador da exploração de piaçava,6323,vigente
+632370,Trabalhador da exploração de tucum,6323,vigente
+632405,Trabalhador da exploração de açaí,6324,vigente
+632410,Trabalhador da exploração de castanha,6324,vigente
+632415,Trabalhador da exploração de pinhão,6324,vigente
+632420,Trabalhador da exploração de pupunha,6324,vigente
+632505,"Trabalhador da exploração de árvores e arbustos produtores de substâncias aromát., Medic. E tóxicas",6325,vigente
+632510,"Trabalhador da exploração de cipós produtores de substâncias aromáticas, medicinais e tóxicas",6325,vigente
+632515,Trabalhador da exploração de madeiras tanantes,6325,vigente
+632520,"Trabalhador da exploração de raízes produtoras de substâncias aromáticas, medicinais e tóxicas",6325,vigente
+632525,"Trabalhador da extração de substâncias aromáticas, medicinais e tóxicas, em geral",6325,vigente
+632605,Carvoeiro,6326,vigente
+632610,Carbonizador,6326,vigente
+632615,Ajudante de carvoaria,6326,vigente
+641005,Operador de colheitadeira,6410,vigente
+641010,Operador de máquinas de beneficiamento de produtos agrícolas,6410,vigente
+641015,Tratorista agrícola,6410,vigente
+642005,Operador de colhedor florestal,6420,vigente
+642010,Operador de máquinas florestais estáticas,6420,vigente
+642015,Operador de trator florestal,6420,vigente
+643005,Trabalhador na operação de sistema de irrigação localizada (microaspersão e gotejamento),6430,vigente
+643010,Trabalhador na operação de sistema de irrigação por aspersão (pivô central),6430,vigente
+643015,Trabalhador na operação de sistemas convencionais de irrigação por aspersão,6430,vigente
+643020,Trabalhador na operação de sistemas de irrigação e aspersão (alto propelido),6430,vigente
+643025,Trabalhador na operação de sistemas de irrigação por superfície e drenagem,6430,vigente
+710105,Supervisor de apoio operacional na mineração,7101,vigente
+710110,Supervisor de extração de sal,7101,vigente
+710115,Supervisor de perfuração e desmonte,7101,vigente
+710120,Supervisor de produção na mineração,7101,vigente
+710125,Supervisor de transporte na mineração,7101,vigente
+710205,Mestre (construção civil),7102,vigente
+710210,Mestre de linhas (ferrovias),7102,vigente
+710215,Inspetor de terraplenagem,7102,vigente
+710220,Supervisor de usina de concreto,7102,vigente
+710225,Fiscal de pátio de usina de concreto,7102,vigente
+711105,Amostrador de minérios,7111,vigente
+711110,Canteiro,7111,vigente
+711115,Destroçador de pedra,7111,vigente
+711120,Detonador,7111,vigente
+711125,Escorador de minas,7111,vigente
+711130,Mineiro,7111,vigente
+711205,Operador de caminhão (minas e pedreiras),7112,vigente
+711210,Operador de carregadeira,7112,vigente
+711215,Operador de máquina cortadora (minas e pedreiras),7112,vigente
+711220,Operador de máquina de extração contínua (minas de carvão),7112,vigente
+711225,Operador de máquina perfuradora (minas e pedreiras),7112,vigente
+711230,Operador de máquina perfuratriz,7112,vigente
+711235,Operador de motoniveladora (extração de minerais sólidos),7112,vigente
+711240,Operador de schutthecar,7112,vigente
+711245,Operador de trator (minas e pedreiras),7112,vigente
+711305,Operador de sonda de percussão,7113,vigente
+711310,Operador de sonda rotativa,7113,vigente
+711315,Sondador (poços de petróleo e gás),7113,vigente
+711320,Sondador de poços (exceto de petróleo e gás),7113,vigente
+711325,Plataformista (petróleo),7113,vigente
+711330,Torrista (petróleo),7113,vigente
+711405,Garimpeiro,7114,vigente
+711410,Operador de salina (sal marinho),7114,vigente
+712105,Moleiro de minérios,7121,vigente
+712110,Operador de aparelho de flotação,7121,vigente
+712115,Operador de aparelho de precipitação (minas de ouro ou prata),7121,vigente
+712120,Operador de britador de mandíbulas,7121,vigente
+712125,Operador de espessador,7121,vigente
+712130,Operador de jig (minas),7121,vigente
+712135,Operador de peneiras hidráulicas,7121,vigente
+712205,Cortador de pedras,7122,vigente
+712210,Gravador de inscrições em pedra,7122,vigente
+712215,Gravador de relevos em pedra,7122,vigente
+712220,Polidor de pedras,7122,vigente
+712225,Torneiro (lavra de pedra),7122,vigente
+712230,Traçador de pedras,7122,vigente
+715105,Operador de bate-estacas,7151,vigente
+715110,Operador de compactadora de solos,7151,vigente
+715115,Operador de escavadeira,7151,vigente
+715120,Operador de máquina de abrir valas,7151,vigente
+715125,Operador de máquinas de construção civil e mineração,7151,vigente
+715130,Operador de motoniveladora,7151,vigente
+715135,Operador de pá carregadeira,7151,vigente
+715140,"Operador de pavimentadora (asfalto, concreto e materiais similares)",7151,vigente
+715145,Operador de trator de lâmina,7151,vigente
+715205,Calceteiro,7152,vigente
+715210,Pedreiro,7152,vigente
+715215,Pedreiro (chaminés industriais),7152,vigente
+715220,Pedreiro (material refratário),7152,vigente
+715225,Pedreiro (mineração),7152,vigente
+715230,Pedreiro de edificações,7152,vigente
+715305,Armador de estrutura de concreto,7153,vigente
+715310,Moldador de corpos de prova em usinas de concreto,7153,vigente
+715315,Armador de estrutura de concreto armado,7153,vigente
+715405,Operador de betoneira,7154,vigente
+715410,Operador de bomba de concreto,7154,vigente
+715415,Operador de central de concreto,7154,vigente
+715420,Operador de usina de asfalto,7154,vigente
+715505,Carpinteiro,7155,vigente
+715510,Carpinteiro (esquadrias),7155,vigente
+715515,Carpinteiro (cenários),7155,vigente
+715520,Carpinteiro (mineração),7155,vigente
+715525,Carpinteiro de obras,7155,vigente
+715530,Carpinteiro (telhados),7155,vigente
+715535,Carpinteiro de fôrmas para concreto,7155,vigente
+715540,"Carpinteiro de obras civis de arte (pontes, túneis, barragens)",7155,vigente
+715545,Montador de andaimes (edificações),7155,vigente
+715605,Eletricista de instalações (cenários),7156,vigente
+715610,Eletricista de instalações (edifícios),7156,vigente
+715615,Eletricista de instalações,7156,vigente
+715705,Aplicador de asfalto impermeabilizante (coberturas),7157,vigente
+715710,Instalador de isolantes acústicos,7157,vigente
+715715,Instalador de isolantes térmicos (refrigeração e climatização),7157,vigente
+715720,Instalador de isolantes térmicos de caldeira e tubulações,7157,vigente
+715725,"Instalador de material isolante, a mão (edificações)",7157,vigente
+715730,"Instalador de material isolante, à máquina (edificações)",7157,vigente
+716105,Acabador de superfícies de concreto,7161,vigente
+716110,Revestidor de superfícies de concreto,7161,vigente
+716205,Telhador (telhas de argila e materiais similares),7162,vigente
+716210,Telhador (telhas de cimento-amianto),7162,vigente
+716215,Telhador (telhas metálicas),7162,vigente
+716220,Telhador (telhas plásticas),7162,vigente
+716305,Vidraceiro,7163,vigente
+716310,Vidraceiro (edificações),7163,vigente
+716315,Vidraceiro (vitrais),7163,vigente
+716405,Gesseiro,7164,vigente
+716505,Assoalhador,7165,vigente
+716510,Assentador de revestimentos cerâmicos,7165,vigente
+716515,Pastilheiro,7165,vigente
+716520,Lustrador de piso,7165,vigente
+716525,Marmorista (construção),7165,vigente
+716530,Mosaísta,7165,vigente
+716535,Taqueiro,7165,vigente
+716540,Rejuntador de revestimentos,7165,vigente
+716605,Calafetador,7166,vigente
+716610,Pintor de obras,7166,vigente
+716615,"Revestidor de interiores (papel, material plástico e emborrachados)",7166,vigente
+717005,Demolidor de edificações,7170,vigente
+717010,Operador de martelete,7170,vigente
+717015,Poceiro (edificações),7170,vigente
+717020,Servente de obras,7170,vigente
+717025,Vibradorista,7170,vigente
+720105,Mestre (afiador de ferramentas),7201,vigente
+720110,Mestre de caldeiraria,7201,vigente
+720115,Mestre de ferramentaria,7201,vigente
+720120,Mestre de forjaria,7201,vigente
+720125,Mestre de fundição,7201,vigente
+720130,Mestre de galvanoplastia,7201,vigente
+720135,Mestre de pintura (tratamento de superfícies),7201,vigente
+720140,Mestre de soldagem,7201,vigente
+720145,Mestre de trefilação de metais,7201,vigente
+720150,Mestre de usinagem,7201,vigente
+720155,Mestre serralheiro,7201,vigente
+720160,Supervisor de controle de tratamento térmico,7201,vigente
+720205,Mestre (construção naval),7202,vigente
+720210,Mestre (indústria de automotores e material de transportes),7202,vigente
+720215,Mestre (indústria de máquinas e outros equipamentos mecânicos),7202,vigente
+720220,Mestre de construção de fornos,7202,vigente
+721105,Ferramenteiro,7211,vigente
+721110,"Ferramenteiro de mandris, calibradores e outros dispositivos",7211,vigente
+721115,Modelador de metais (fundição),7211,vigente
+721205,Operador de máquina de eletroerosão,7212,vigente
+721210,Operador de máquinas operatrizes,7212,vigente
+721215,Operador de máquinas-ferramenta convencionais,7212,vigente
+721220,Operador de usinagem convencional por abrasão,7212,vigente
+721225,Preparador de máquinas-ferramenta,7212,vigente
+721305,Afiador de cardas,7213,vigente
+721310,Afiador de cutelaria,7213,vigente
+721315,Afiador de ferramentas,7213,vigente
+721320,Afiador de serras,7213,vigente
+721325,Polidor de metais,7213,vigente
+721405,Operador de centro de usinagem com comando numérico,7214,vigente
+721410,Operador de fresadora com comando numérico,7214,vigente
+721415,Operador de mandriladora com comando numérico,7214,vigente
+721420,"Operador de máquina eletroerosão, à fio, com comando numérico",7214,vigente
+721425,Operador de retificadora com comando numérico,7214,vigente
+721430,Operador de torno com comando numérico,7214,vigente
+722105,Forjador,7221,vigente
+722110,Forjador a martelo,7221,vigente
+722115,Forjador prensista,7221,vigente
+722205,Fundidor de metais,7222,vigente
+722210,Operador de lingotamento,7222,vigente
+722215,Operador de acabamento de peças fundidas,7222,vigente
+722220,Operador de máquina de fundição,7222,vigente
+722230,Operador de vazamento,7222,vigente
+722235,Preparador de panelas,7222,vigente
+722305,"Macheiro, a mão",7223,vigente
+722310,"Macheiro, a  máquina",7223,vigente
+722315,"Moldador, a  mão",7223,vigente
+722320,"Moldador, a  máquina",7223,vigente
+722325,Operador de equipamentos de preparação de areia,7223,vigente
+722330,Operador de máquina de moldar automatizada,7223,vigente
+722405,Cableador,7224,vigente
+722410,Estirador de tubos de metal sem costura,7224,vigente
+722415,"Trefilador de metais, à máquina",7224,vigente
+723105,Cementador de metais,7231,vigente
+723110,Normalizador de metais e de compósitos,7231,vigente
+723115,Operador de equipamento para resfriamento,7231,vigente
+723120,Operador de forno de tratamento térmico de metais,7231,vigente
+723125,Temperador de metais e de compósitos,7231,vigente
+723205,Decapador,7232,vigente
+723210,Fosfatizador,7232,vigente
+723215,Galvanizador,7232,vigente
+723220,Metalizador a pistola,7232,vigente
+723225,Metalizador (banho quente),7232,vigente
+723230,Operador de máquina recobridora de arame,7232,vigente
+723235,Operador de zincagem (processo eletrolítico),7232,vigente
+723240,Oxidador,7232,vigente
+723305,Operador de equipamento de secagem de pintura,7233,vigente
+723310,Pintor a pincel e rolo (exceto obras e estruturas metálicas),7233,vigente
+723315,Pintor de estruturas metálicas,7233,vigente
+723320,Pintor de veículos (fabricação),7233,vigente
+723325,Pintor por imersão,7233,vigente
+723330,"Pintor, a  pistola (exceto obras e estruturas metálicas)",7233,vigente
+724105,Assentador de canalização (edificações),7241,vigente
+724110,Encanador,7241,vigente
+724115,Instalador de tubulações,7241,vigente
+724120,Instalador de tubulações (aeronaves),7241,vigente
+724125,Instalador de tubulações (embarcações),7241,vigente
+724130,Instalador de tubulações de gás combustível (produção e distribuição),7241,vigente
+724135,Instalador de tubulações de vapor (produção e distribuição),7241,vigente
+724205,Montador de estruturas metálicas,7242,vigente
+724210,Montador de estruturas metálicas de embarcações,7242,vigente
+724215,Rebitador a  martelo pneumático,7242,vigente
+724220,Preparador de estruturas metálicas,7242,vigente
+724225,Riscador de estruturas metálicas,7242,vigente
+724230,"Rebitador, a  mão",7242,vigente
+724305,Brasador,7243,vigente
+724310,Oxicortador a mão e a  máquina,7243,vigente
+724315,Soldador,7243,vigente
+724320,Soldador a  oxigás,7243,vigente
+724325,Soldador elétrico,7243,vigente
+724405,Caldeireiro (chapas de cobre),7244,vigente
+724410,Caldeireiro (chapas de ferro e aço),7244,vigente
+724415,Chapeador,7244,vigente
+724420,Chapeador de carrocerias metálicas (fabricação),7244,vigente
+724425,Chapeador naval,7244,vigente
+724430,Chapeador de aeronaves,7244,vigente
+724435,Funileiro industrial,7244,vigente
+724440,Serralheiro,7244,vigente
+724505,Operador de máquina de cilindrar chapas,7245,vigente
+724510,Operador de máquina de dobrar chapas,7245,vigente
+724515,Prensista (operador de prensa),7245,vigente
+724605,Operador de laços de cabos de aço,7246,vigente
+724610,Trançador de cabos de aço,7246,vigente
+725005,Ajustador ferramenteiro,7250,vigente
+725010,Ajustador mecânico,7250,vigente
+725015,Ajustador mecânico (usinagem em bancada e em máquinas-ferramentas),7250,vigente
+725020,Ajustador mecânico em bancada,7250,vigente
+725025,Ajustador naval (reparo e construção),7250,vigente
+725030,Operador de manutenção e recarga de extintor de incêndio,7250,vigente
+725105,"Montador de máquinas, motores e acessórios (montagem em série)",7251,vigente
+725205,Montador de máquinas,7252,vigente
+725210,Montador de máquinas gráficas,7252,vigente
+725215,Montador de máquinas operatrizes para madeira,7252,vigente
+725220,Montador de máquinas têxteis,7252,vigente
+725225,Montador de máquinas-ferramentas (usinagem de metais),7252,vigente
+725305,Montador de equipamento de levantamento,7253,vigente
+725310,Montador de máquinas agrícolas,7253,vigente
+725315,Montador de máquinas de minas e pedreiras,7253,vigente
+725320,Montador de máquinas de terraplenagem,7253,vigente
+725405,Mecânico montador de motores de aeronaves,7254,vigente
+725410,Mecânico montador de motores de embarcações,7254,vigente
+725415,Mecânico montador de motores de explosão e diesel,7254,vigente
+725420,Mecânico montador de turboalimentadores,7254,vigente
+725505,Montador de veículos (linha de montagem),7255,vigente
+725510,Operador de time de montagem,7255,vigente
+725605,Montador de estruturas de aeronaves,7256,vigente
+725610,Montador de sistemas de combustível de aeronaves,7256,vigente
+725705,Mecânico de refrigeração,7257,vigente
+730105,Supervisor de montagem e instalação eletroeletrônica,7301,vigente
+731105,Montador de equipamentos eletrônicos (aparelhos médicos),7311,vigente
+731110,Montador de equipamentos eletrônicos (computadores e equipamentos auxiliares),7311,vigente
+731115,Montador de equipamentos elétricos (instrumentos de medição),7311,vigente
+731120,Montador de equipamentos elétricos (aparelhos eletrodomésticos),7311,vigente
+731125,Montador de equipamentos elétricos (centrais elétricas),7311,vigente
+731130,Montador de equipamentos elétricos (motores e dínamos),7311,vigente
+731135,Montador de equipamentos elétricos,7311,vigente
+731140,Montador de equipamentos eletrônicos (instalações de sinalização),7311,vigente
+731145,Montador de equipamentos eletrônicos (máquinas industriais),7311,vigente
+731150,Montador de equipamentos eletrônicos,7311,vigente
+731155,Montador de equipamentos elétricos (elevadores e equipamentos similares),7311,vigente
+731160,Montador de equipamentos elétricos (transformadores),7311,vigente
+731165,"Bobinador eletricista, à mão",7311,vigente
+731170,"Bobinador eletricista, à máquina",7311,vigente
+731175,Operador de linha de montagem (aparelhos elétricos),7311,vigente
+731180,Operador de linha de montagem (aparelhos eletrônicos),7311,vigente
+731205,"Montador de equipamentos eletrônicos (estação de rádio, tv e equipamentos de radar)",7312,vigente
+731305,Instalador-reparador de equipamentos de comutação em telefonia,7313,vigente
+731310,Instalador-reparador de equipamentos de energia em telefonia,7313,vigente
+731315,Instalador-reparador de equipamentos de transmissão em telefonia,7313,vigente
+731320,Instalador-reparador de linhas e aparelhos de telecomunicações,7313,vigente
+731325,Instalador-reparador de redes e cabos telefônicos,7313,vigente
+731330,Reparador de aparelhos de telecomunicações em laboratório,7313,vigente
+732105,"Eletricista de manutenção de linhas elétricas, telefônicas e de comunicação de dados",7321,vigente
+732110,Emendador de cabos elétricos e telefônicos (aéreos e subterrâneos),7321,vigente
+732115,"Examinador de cabos, linhas elétricas e telefônicas",7321,vigente
+732120,Instalador de linhas elétricas de alta e baixa - tensão (rede aérea e subterrânea),7321,vigente
+732125,Instalador eletricista (tração de veículos),7321,vigente
+732130,Instalador-reparador de redes telefônicas e de comunicação de dados,7321,vigente
+732135,Ligador de linhas telefônicas,7321,vigente
+732140,Instalador de sistemas fotovoltaicos,7321,vigente
+740105,Supervisor da mecânica de precisão,7401,vigente
+740110,Supervisor de fabricação de instrumentos musicais,7401,vigente
+741105,Ajustador de instrumentos de precisão,7411,vigente
+741110,Montador de instrumentos de óptica,7411,vigente
+741115,Montador de instrumentos de precisão,7411,vigente
+741120,Relojoeiro (fabricação),7411,vigente
+741125,Relojoeiro (reparação),7411,vigente
+742105,Afinador de instrumentos musicais,7421,vigente
+742110,Confeccionador de acordeão,7421,vigente
+742115,Confeccionador de instrumentos de corda,7421,vigente
+742120,"Confeccionador de instrumentos de percussão (pele, couro ou plástico)",7421,vigente
+742125,Confeccionador de instrumentos de sopro (madeira),7421,vigente
+742130,Confeccionador de instrumentos de sopro (metal),7421,vigente
+742135,Confeccionador de órgão,7421,vigente
+742140,Confeccionador de piano,7421,vigente
+750105,Supervisor de joalheria,7501,vigente
+750205,Supervisor da indústria de minerais não metálicos (exceto os derivados de petróleo e carvão),7502,vigente
+751005,Engastador (jóias),7510,vigente
+751010,Joalheiro,7510,vigente
+751015,Joalheiro (reparações),7510,vigente
+751020,Lapidador (jóias),7510,vigente
+751105,Bate-folha a  máquina,7511,vigente
+751110,Fundidor (joalheria e ourivesaria),7511,vigente
+751115,Gravador (joalheria e ourivesaria),7511,vigente
+751120,Laminador de metais preciosos a  mão,7511,vigente
+751125,Ourives,7511,vigente
+751130,Trefilador (joalheria e ourivesaria),7511,vigente
+752105,Artesão modelador (vidros),7521,vigente
+752110,Moldador (vidros),7521,vigente
+752115,Soprador de vidro,7521,vigente
+752120,Transformador de tubos de vidro,7521,vigente
+752205,Aplicador serigráfico em vidros,7522,vigente
+752210,Cortador de vidro,7522,vigente
+752215,Gravador de vidro a  água-forte,7522,vigente
+752220,Gravador de vidro a  esmeril,7522,vigente
+752225,Gravador de vidro a  jato de areia,7522,vigente
+752230,Lapidador de vidros e cristais,7522,vigente
+752235,Surfassagista,7522,vigente
+752305,Ceramista,7523,vigente
+752310,Ceramista (torno de pedal e motor),7523,vigente
+752315,Ceramista (torno semi-automático),7523,vigente
+752320,Ceramista modelador,7523,vigente
+752325,Ceramista moldador,7523,vigente
+752330,Ceramista prensador,7523,vigente
+752405,Decorador de cerâmica,7524,vigente
+752410,Decorador de vidro,7524,vigente
+752415,Decorador de vidro à pincel,7524,vigente
+752420,Operador de esmaltadeira,7524,vigente
+752425,Operador de espelhamento,7524,vigente
+752430,"Pintor de cerâmica, a  pincel",7524,vigente
+760105,Contramestre de acabamento (indústria têxtil),7601,vigente
+760110,Contramestre de fiação (indústria têxtil),7601,vigente
+760115,Contramestre de malharia (indústria têxtil),7601,vigente
+760120,Contramestre de tecelagem (indústria têxtil),7601,vigente
+760125,Mestre (indústria têxtil e de confecções),7601,vigente
+760205,Supervisor de curtimento,7602,vigente
+760305,Encarregado de corte na confecção do vestuário,7603,vigente
+760310,Encarregado de costura na confecção do vestuário,7603,vigente
+760405,Supervisor  (indústria de calçados e artefatos de couro),7604,vigente
+760505,"Supervisor da confecção de artefatos de tecidos, couros e afins",7605,vigente
+760605,Supervisor das artes gráficas  (indústria editorial e gráfica),7606,vigente
+761005,Operador polivalente da indústria têxtil,7610,vigente
+761105,Classificador de fibras têxteis,7611,vigente
+761110,Lavador de lã,7611,vigente
+761205,Operador de abertura (fiação),7612,vigente
+761210,Operador de binadeira,7612,vigente
+761215,Operador de bobinadeira,7612,vigente
+761220,Operador de cardas,7612,vigente
+761225,Operador de conicaleira,7612,vigente
+761230,Operador de filatório,7612,vigente
+761235,Operador de laminadeira e reunideira,7612,vigente
+761240,Operador de maçaroqueira,7612,vigente
+761245,Operador de open-end,7612,vigente
+761250,Operador de passador (fiação),7612,vigente
+761255,Operador de penteadeira,7612,vigente
+761260,Operador de retorcedeira,7612,vigente
+761303,Tecelão (redes),7613,vigente
+761306,Tecelão (rendas e bordados),7613,vigente
+761309,Tecelão (tear automático),7613,vigente
+761312,Tecelão (tear jacquard),7613,vigente
+761315,Tecelão (tear mecânico de maquineta),7613,vigente
+761318,Tecelão (tear mecânico de xadrez),7613,vigente
+761321,Tecelão (tear mecânico liso),7613,vigente
+761324,"Tecelão (tear mecânico, exceto jacquard)",7613,vigente
+761327,"Tecelão de malhas, a  máquina",7613,vigente
+761330,Tecelão de malhas (máquina circular),7613,vigente
+761333,Tecelão de malhas (máquina retilínea),7613,vigente
+761336,"Tecelão de meias, a  máquina",7613,vigente
+761339,Tecelão de meias (máquina circular),7613,vigente
+761342,Tecelão de meias (máquina retilínea),7613,vigente
+761345,"Tecelão de tapetes, a  máquina",7613,vigente
+761348,Operador de engomadeira de urdume,7613,vigente
+761351,Operador de espuladeira,7613,vigente
+761354,Operador de máquina de cordoalha,7613,vigente
+761357,Operador de urdideira,7613,vigente
+761360,Passamaneiro a  máquina,7613,vigente
+761363,Remetedor de fios,7613,vigente
+761366,Picotador de cartões jacquard,7613,vigente
+761405,Alvejador (tecidos),7614,vigente
+761410,Estampador de tecido,7614,vigente
+761415,Operador de calandras (tecidos),7614,vigente
+761420,Operador de chamuscadeira de tecidos,7614,vigente
+761425,Operador de impermeabilizador de tecidos,7614,vigente
+761430,Operador de máquina de lavar fios e tecidos,7614,vigente
+761435,Operador de rameuse,7614,vigente
+761805,Inspetor de estamparia (produção têxtil),7618,vigente
+761810,Revisor de fios (produção têxtil),7618,vigente
+761815,Revisor de tecidos acabados,7618,vigente
+761820,Revisor de tecidos crus,7618,vigente
+762005,Trabalhador polivalente do curtimento de couros e peles,7620,vigente
+762105,Classificador de peles,7621,vigente
+762110,"Descarnador de couros e peles, à maquina",7621,vigente
+762115,Estirador de couros e peles (preparação),7621,vigente
+762120,Fuloneiro,7621,vigente
+762125,Rachador de couros e peles,7621,vigente
+762205,Curtidor (couros e peles),7622,vigente
+762210,Classificador de couros,7622,vigente
+762215,Enxugador de couros,7622,vigente
+762220,Rebaixador de couros,7622,vigente
+762305,Estirador de couros e peles (acabamento),7623,vigente
+762310,Fuloneiro no acabamento de couros e peles,7623,vigente
+762315,Lixador de couros e peles,7623,vigente
+762320,Matizador de couros e peles,7623,vigente
+762325,Operador de máquinas do acabamento de couros e peles,7623,vigente
+762330,Prensador de couros e peles,7623,vigente
+762335,Palecionador de couros e peles,7623,vigente
+762340,Preparador de couros curtidos,7623,vigente
+762345,Vaqueador de couros e peles,7623,vigente
+763005,Alfaiate,7630,vigente
+763010,Costureira de peças sob encomenda,7630,vigente
+763015,Costureira de reparação de roupas,7630,vigente
+763020,Costureiro de roupa de couro e pele,7630,vigente
+763105,Auxiliar de corte (preparação da confecção de roupas),7631,vigente
+763110,Cortador de roupas,7631,vigente
+763115,Enfestador de roupas,7631,vigente
+763120,Riscador de roupas,7631,vigente
+763125,Ajudante de confecção,7631,vigente
+763205,"Costureiro de roupas de couro e pele, a  máquina na  confecção em série",7632,vigente
+763210,Costureiro na confecção em série,7632,vigente
+763215,"Costureiro, a  máquina  na confecção em série",7632,vigente
+763305,Arrematadeira,7633,vigente
+763310,"Bordador, à máquina",7633,vigente
+763315,Marcador de peças confeccionadas para bordar,7633,vigente
+763320,Operador de máquina de costura de acabamento,7633,vigente
+763325,Passadeira de peças confeccionadas,7633,vigente
+764005,Trabalhador polivalente da confecção de calçados,7640,vigente
+764105,"Cortador de calçados, a  máquina (exceto solas e palmilhas)",7641,vigente
+764110,"Cortador de solas e palmilhas, a  máquina",7641,vigente
+764115,Preparador de calçados,7641,vigente
+764120,Preparador de solas e palmilhas,7641,vigente
+764205,"Costurador de calçados, a  máquina",7642,vigente
+764210,Montador de calçados,7642,vigente
+764305,Acabador de calçados,7643,vigente
+765005,Confeccionador de artefatos de couro (exceto sapatos),7650,vigente
+765010,Chapeleiro de senhoras,7650,vigente
+765015,Boneleiro,7650,vigente
+765105,Cortador de artefatos de couro (exceto roupas e calçados),7651,vigente
+765110,Cortador de tapeçaria,7651,vigente
+765205,Colchoeiro (confecção de colchões),7652,vigente
+765215,Confeccionador de brinquedos de pano,7652,vigente
+765225,"Confeccionador de velas náuticas, barracas e toldos",7652,vigente
+765230,Estofador de aviões,7652,vigente
+765235,Estofador de móveis,7652,vigente
+765240,Tapeceiro de autos,7652,vigente
+765310,"Costurador de artefatos de couro, a  máquina (exceto roupas e calçados)",7653,vigente
+765315,Montador de artefatos de couro (exceto roupas e calçados),7653,vigente
+765405,Trabalhador do acabamento de artefatos de tecidos e couros,7654,vigente
+766105,Copiador de chapa,7661,vigente
+766115,Gravador de matriz para flexografia (clicherista),7661,vigente
+766120,Editor de texto e imagem,7661,vigente
+766125,Montador de fotolito (analógico e digital),7661,vigente
+766130,Gravador de matriz para rotogravura (eletromecânico e químico),7661,vigente
+766135,Gravador de matriz calcográfica,7661,vigente
+766140,Gravador de matriz serigráfica,7661,vigente
+766145,Operador de sistemas de prova (analógico e digital),7661,vigente
+766150,Operador de processo de tratamento de imagem,7661,vigente
+766155,Programador visual gráfico,7661,vigente
+766205,Impressor (serigrafia),7662,vigente
+766210,Impressor calcográfico,7662,vigente
+766215,Impressor de ofsete (plano e rotativo),7662,vigente
+766220,Impressor de rotativa,7662,vigente
+766225,Impressor de rotogravura,7662,vigente
+766230,Impressor digital,7662,vigente
+766235,Impressor flexográfico,7662,vigente
+766240,Impressor letterset,7662,vigente
+766245,Impressor tampográfico,7662,vigente
+766250,Impressor tipográfico,7662,vigente
+766305,Acabador de embalagens (flexíveis e cartotécnicas),7663,vigente
+766310,Impressor de corte e vinco,7663,vigente
+766315,Operador de acabamento (indústria gráfica),7663,vigente
+766320,Operador de guilhotina (corte de papel),7663,vigente
+766325,Preparador de matrizes de corte e vinco,7663,vigente
+766405,Laboratorista fotográfico,7664,vigente
+766410,"Revelador de filmes fotográficos, em preto e branco",7664,vigente
+766415,"Revelador de filmes fotográficos, em cores",7664,vigente
+766420,Auxiliar de radiologia (revelação fotográfica),7664,vigente
+768105,Tecelão (tear manual),7681,vigente
+768110,"Tecelão de tapetes, a  mão",7681,vigente
+768115,"Tricoteiro, à mão",7681,vigente
+768120,Redeiro,7681,vigente
+768125,Chapeleiro (chapéus de palha),7681,vigente
+768130,"Crocheteiro, a  mão",7681,vigente
+768205,"Bordador, a  mão",7682,vigente
+768210,Cerzidor,7682,vigente
+768305,Artífice do couro,7683,vigente
+768310,"Cortador de calçados, a  mão (exceto solas)",7683,vigente
+768315,"Costurador de artefatos de couro, a  mão (exceto roupas e calçados)",7683,vigente
+768320,Sapateiro (calçados sob medida),7683,vigente
+768325,Seleiro,7683,vigente
+768605,Tipógrafo,7686,vigente
+768610,Linotipista,7686,vigente
+768615,Monotipista,7686,vigente
+768620,Paginador,7686,vigente
+768625,Pintor de letreiros,7686,vigente
+768630,Confeccionador de carimbos de borracha,7686,vigente
+768705,"Gravador, à mão (encadernação)",7687,vigente
+768710,Restaurador de livros,7687,vigente
+770105,Mestre (indústria de madeira e mobiliário),7701,vigente
+770110,Mestre carpinteiro,7701,vigente
+771105,Marceneiro,7711,vigente
+771110,Modelador de madeira,7711,vigente
+771115,Maquetista na marcenaria,7711,vigente
+771120,Tanoeiro,7711,vigente
+772105,Classificador de madeira,7721,vigente
+772110,Impregnador de madeira,7721,vigente
+772115,Secador de madeira,7721,vigente
+773105,Cortador de laminados de madeira,7731,vigente
+773110,Operador de serras no desdobramento de madeira,7731,vigente
+773115,Serrador de bordas no desdobramento de madeira,7731,vigente
+773120,Serrador de madeira,7731,vigente
+773125,Serrador de madeira (serra circular múltipla),7731,vigente
+773130,Serrador de madeira (serra de fita múltipla),7731,vigente
+773205,Operador de máquina intercaladora de placas (compensados),7732,vigente
+773210,Prensista de aglomerados,7732,vigente
+773215,Prensista de compensados,7732,vigente
+773220,Preparador de aglomerantes,7732,vigente
+773305,Operador de desempenadeira na usinagem convencional de madeira,7733,vigente
+773310,Operador de entalhadeira (usinagem de madeira),7733,vigente
+773315,Operador de fresadora (usinagem de madeira),7733,vigente
+773320,Operador de lixadeira (usinagem de madeira),7733,vigente
+773325,"Operador de máquina de usinagem madeira, em geral",7733,vigente
+773330,Operador de molduradora (usinagem de madeira),7733,vigente
+773335,Operador de plaina desengrossadeira,7733,vigente
+773340,Operador de serras (usinagem de madeira),7733,vigente
+773345,Operador de torno automático (usinagem de madeira),7733,vigente
+773350,Operador de tupia (usinagem de madeira),7733,vigente
+773355,Torneiro na usinagem convencional de madeira,7733,vigente
+773405,Operador de máquina bordatriz,7734,vigente
+773410,Operador de máquina de cortina d´água (produção de móveis),7734,vigente
+773415,Operador de máquina de usinagem de madeira (produção em série),7734,vigente
+773420,Operador de prensa de alta freqüência na usinagem de madeira,7734,vigente
+773505,Operador de centro de usinagem de madeira (cnc),7735,vigente
+773510,Operador de máquinas de usinar madeira (cnc),7735,vigente
+774105,Montador de móveis e artefatos de madeira,7741,vigente
+775105,Entalhador  de madeira,7751,vigente
+775110,Folheador de móveis de madeira,7751,vigente
+775115,Lustrador de peças de madeira,7751,vigente
+775120,Marcheteiro,7751,vigente
+776405,Cesteiro,7764,vigente
+776410,"Confeccionador de escovas, pincéis e produtos similares (a mão)",7764,vigente
+776415,"Confeccionador de escovas, pincéis e produtos similares (a máquina)",7764,vigente
+776420,"Confeccionador de móveis de vime, junco e bambu",7764,vigente
+776425,Esteireiro,7764,vigente
+776430,Vassoureiro,7764,vigente
+777105,Carpinteiro naval (construção de pequenas embarcações),7771,vigente
+777110,Carpinteiro naval (embarcações),7771,vigente
+777115,Carpinteiro naval (estaleiros),7771,vigente
+777205,Carpinteiro de carretas,7772,vigente
+777210,Carpinteiro de carrocerias,7772,vigente
+780105,Supervisor de embalagem e etiquetagem,7801,vigente
+781105,Condutor de processos robotizados de pintura,7811,vigente
+781110,Condutor de processos robotizados de soldagem,7811,vigente
+781305,Operador de veículos subaquáticos controlados remotamente,7813,vigente
+781310,Operador de aeronaves não tripuladas,7813,vigente
+781705,Mergulhador profissional (raso e profundo),7817,vigente
+782105,Operador de draga,7821,vigente
+782110,Operador de guindaste (fixo),7821,vigente
+782115,Operador de guindaste móvel,7821,vigente
+782120,Operador de máquina rodoferroviária,7821,vigente
+782125,Operador de monta-cargas (construção civil),7821,vigente
+782130,Operador de ponte rolante,7821,vigente
+782135,Operador de pórtico rolante,7821,vigente
+782140,Operador de talha elétrica,7821,vigente
+782145,Sinaleiro (ponte-rolante),7821,vigente
+782205,Guincheiro (construção civil),7822,vigente
+782210,Operador de docagem,7822,vigente
+782220,Operador de empilhadeira,7822,vigente
+782305,Motorista de carro de passeio,7823,vigente
+782310,Motorista de furgão ou veículo similar,7823,vigente
+782315,Motorista de táxi,7823,vigente
+782320,Condutor de ambulância,7823,vigente
+782405,Motorista de ônibus rodoviário,7824,vigente
+782410,Motorista de ônibus urbano,7824,vigente
+782415,Motorista de trólebus,7824,vigente
+782505,Caminhoneiro autônomo (rotas regionais e internacionais),7825,vigente
+782510,Motorista de caminhão (rotas regionais e internacionais),7825,vigente
+782515,Motorista operacional de guincho,7825,vigente
+782605,Operador de trem de metrô,7826,vigente
+782610,Maquinista de trem,7826,vigente
+782615,Maquinista de trem metropolitano,7826,vigente
+782620,Motorneiro,7826,vigente
+782625,Auxiliar de maquinista de trem,7826,vigente
+782630,Operador de teleférico (passageiros),7826,vigente
+782705,Marinheiro de convés (marítimo e fluviário),7827,vigente
+782710,Marinheiro de máquinas,7827,vigente
+782715,Moço de convés (marítimo e fluviário),7827,vigente
+782720,Moço de máquinas (marítimo e fluviário),7827,vigente
+782725,Marinheiro de esporte e recreio,7827,vigente
+782730,Marinheiro auxiliar de convés (marítimo e aquaviario),7827,vigente
+782735,Marinheiro auxiliar de máquinas (marítimo e aquaviário),7827,vigente
+782805,Condutor de veículos de tração animal (ruas e estradas),7828,vigente
+782810,Tropeiro,7828,vigente
+782815,Boiadeiro,7828,vigente
+782820,Condutor de veículos a pedais,7828,vigente
+783105,Agente de pátio,7831,vigente
+783110,Manobrador,7831,vigente
+783205,Carregador (aeronaves),7832,vigente
+783210,Carregador (armazém),7832,vigente
+783215,Carregador (veículos de transportes terrestres),7832,vigente
+783220,Estivador,7832,vigente
+783225,Ajudante de motorista,7832,vigente
+783230,Bloqueiro (trabalhador portuário),7832,vigente
+783235,Trabalhador portuário de capatazia,7832,vigente
+783240,Amarrador e desamarrado de embarcações,7832,vigente
+784105,"Embalador, a mão",7841,vigente
+784110,"Embalador, a máquina",7841,vigente
+784115,Operador de máquina de etiquetar,7841,vigente
+784120,Operador de máquina de envasar líquidos,7841,vigente
+784125,Operador de prensa de enfardamento,7841,vigente
+784205,Alimentador de linha de produção,7842,vigente
+791105,Artesão bordador,7911,vigente
+791110,Artesão ceramista,7911,vigente
+791115,Artesão com material reciclável,7911,vigente
+791120,Artesão confeccionador de biojóias e ecojóias,7911,vigente
+791125,Artesão do couro,7911,vigente
+791130,Artesão escultor,7911,vigente
+791135,Artesão moveleiro (exceto reciclado),7911,vigente
+791140,Artesão tecelão,7911,vigente
+791145,Artesão trançador,7911,vigente
+791150,Artesão crocheteiro,7911,vigente
+791155,Artesão tricoteiro,7911,vigente
+791160,Artesão rendeiro,7911,vigente
+810105,Mestre (indústria petroquímica e carboquímica),8101,vigente
+810110,Mestre de produção química,8101,vigente
+810205,Mestre (indústria de borracha e plástico),8102,vigente
+810305,Mestre de produção farmacêutica,8103,vigente
+811005,Operador de processos químicos e petroquímicos,8110,vigente
+811010,"Operador de sala de controle de instalações químicas, petroquímicas e afins",8110,vigente
+811105,Moleiro (tratamentos químicos e afins),8111,vigente
+811110,Operador de máquina misturadeira (tratamentos químicos e afins),8111,vigente
+811115,Operador de britadeira (tratamentos químicos e afins),8111,vigente
+811120,Operador de concentração,8111,vigente
+811125,Trabalhador da fabricação de resinas e vernizes,8111,vigente
+811130,Trabalhador de fabricação de tintas,8111,vigente
+811205,Operador de calcinação (tratamento químico e afins),8112,vigente
+811215,Operador de tratamento químico de materiais radioativos,8112,vigente
+811305,Operador de centrifugadora (tratamentos químicos e afins),8113,vigente
+811310,Operador de exploração de petróleo,8113,vigente
+811315,Operador de filtro de secagem (mineração),8113,vigente
+811320,Operador de filtro de tambor rotativo (tratamentos químicos e afins),8113,vigente
+811325,Operador de filtro-esteira (mineração),8113,vigente
+811330,Operador de filtro-prensa (tratamentos químicos e afins),8113,vigente
+811335,Operador de filtros de parafina (tratamentos químicos e afins),8113,vigente
+811405,Destilador de madeira,8114,vigente
+811410,Destilador de produtos químicos (exceto petróleo),8114,vigente
+811415,"Operador de alambique de funcionamento contínuo (produtos químicos, exceto petróleo)",8114,vigente
+811420,"Operador de aparelho de reação e conversão (produtos químicos, exceto petróleo)",8114,vigente
+811425,Operador de equipamento de destilação de álcool,8114,vigente
+811430,Operador de evaporador na destilação,8114,vigente
+811505,Operador de painel de controle (refinação de petróleo),8115,vigente
+811510,Operador de transferência e estocagem - na refinação do petróleo,8115,vigente
+811605,Operador de britador de coque,8116,vigente
+811610,Operador de carro de apagamento e coque,8116,vigente
+811615,Operador de destilação e subprodutos de coque,8116,vigente
+811620,Operador de enfornamento e desenfornamento de coque,8116,vigente
+811625,Operador de exaustor (coqueria),8116,vigente
+811630,Operador de painel de controle,8116,vigente
+811635,Operador de preservação e controle térmico,8116,vigente
+811640,Operador de reator de coque de petróleo,8116,vigente
+811645,Operador de refrigeração (coqueria),8116,vigente
+811650,Operador de sistema de reversão (coqueria),8116,vigente
+811705,Bamburista,8117,vigente
+811710,Calandrista de borracha,8117,vigente
+811715,Confeccionador de pneumáticos,8117,vigente
+811725,Confeccionador de velas por imersão,8117,vigente
+811735,Confeccionador de velas por moldagem,8117,vigente
+811745,Laminador de plástico,8117,vigente
+811750,Moldador de borracha por compressão,8117,vigente
+811760,Moldador de plástico por compressão,8117,vigente
+811770,Moldador de plástico por injeção,8117,vigente
+811775,Trefilador de borracha,8117,vigente
+811805,Operador de máquina de produtos farmacêuticos,8118,vigente
+811810,Drageador (medicamentos),8118,vigente
+811815,Operador de máquina de fabricação de cosméticos,8118,vigente
+811820,"Operador de máquina de fabricação de produtos de higiene e limpeza (sabão, sabonete, detergente, absorvente, fraldas cotonetes e outros)",8118,vigente
+812105,Pirotécnico,8121,vigente
+812110,Trabalhador da fabricação de munição e explosivos,8121,vigente
+813105,Cilindrista (petroquímica e afins),8131,vigente
+813110,"Operador de calandra (química, petroquímica e afins)",8131,vigente
+813115,"Operador de extrusora (química, petroquímica e afins)",8131,vigente
+813120,"Operador de processo (química, petroquímica e afins)",8131,vigente
+813125,"Operador de produção (química, petroquímica e afins)",8131,vigente
+813130,"Técnico de operação (química, petroquímica e afins)",8131,vigente
+818105,Assistente de laboratório industrial,8181,vigente
+818110,Auxiliar de laboratório de análises físico-químicas,8181,vigente
+820105,Mestre de siderurgia,8201,vigente
+820110,Mestre de aciaria,8201,vigente
+820115,Mestre de alto-forno,8201,vigente
+820120,Mestre de forno elétrico,8201,vigente
+820125,Mestre de laminação,8201,vigente
+820205,"Supervisor de fabricação de produtos cerâmicos, porcelanatos e afins",8202,vigente
+820210,Supervisor de fabricação de produtos de vidro,8202,vigente
+821105,Operador de centro de controle ( sinterização),8211,vigente
+821110,Operador de máquina de sinterizar,8211,vigente
+821205,Forneiro e operador (alto-forno),8212,vigente
+821210,Forneiro e operador (conversor a oxigênio),8212,vigente
+821215,Forneiro e operador (forno elétrico),8212,vigente
+821220,Forneiro e operador (refino de metais não-ferrosos),8212,vigente
+821225,Forneiro e operador de forno de redução direta,8212,vigente
+821230,Operador de aciaria (basculamento de convertedor),8212,vigente
+821235,Operador de aciaria (dessulfuração de gusa),8212,vigente
+821240,Operador de aciaria (recebimento de gusa),8212,vigente
+821245,Operador de área de corrida,8212,vigente
+821250,Operador de desgaseificação,8212,vigente
+821255,Soprador de convertedor,8212,vigente
+821305,Operador de laminador,8213,vigente
+821310,Operador de laminador de barras a frio,8213,vigente
+821315,Operador de laminador de barras a quente,8213,vigente
+821320,Operador de laminador de metais não-ferrosos,8213,vigente
+821325,Operador de laminador de tubos,8213,vigente
+821330,Operador de montagem de cilindros e mancais,8213,vigente
+821335,Recuperador de guias e cilindros,8213,vigente
+821405,Encarregado de acabamento de chapas e metais  (têmpera),8214,vigente
+821410,Escarfador,8214,vigente
+821415,Marcador de produtos (siderúrgico e metalúrgico),8214,vigente
+821420,"Operador de bobinadeira de tiras a quente, no acabamento de chapas e metais",8214,vigente
+821425,Operador de cabine de laminação (fio-máquina),8214,vigente
+821430,Operador de escória e sucata,8214,vigente
+821435,Operador de jato abrasivo,8214,vigente
+821440,"Operador de tesoura mecânica e máquina de corte, no acabamento de chapas e metais",8214,vigente
+821445,Preparador de sucata e aparas,8214,vigente
+821450,Rebarbador de metal,8214,vigente
+822105,Forneiro de cubilô,8221,vigente
+822110,Forneiro de forno-poço,8221,vigente
+822115,Forneiro de fundição (forno de redução),8221,vigente
+822120,Forneiro de reaquecimento e tratamento térmico na metalurgia,8221,vigente
+822125,Forneiro de revérbero,8221,vigente
+823105,Preparador de massa (fabricação de abrasivos),8231,vigente
+823110,Preparador de massa (fabricação de vidro),8231,vigente
+823115,Preparador de massa de argila,8231,vigente
+823120,Preparador de barbotina,8231,vigente
+823125,Preparador de esmaltes (cerâmica),8231,vigente
+823130,Preparador de aditivos,8231,vigente
+823135,Operador de atomizador,8231,vigente
+823210,Extrusor de fios ou fibras de vidro,8232,vigente
+823215,Forneiro na fundição de vidro,8232,vigente
+823220,Forneiro no recozimento de vidro,8232,vigente
+823230,"Moldador de abrasivos na fabricação de cerâmica, vidro e porcelana",8232,vigente
+823235,Operador de banho metálico de vidro por flutuação,8232,vigente
+823240,Operador de máquina de soprar vidro,8232,vigente
+823245,Operador de máquina extrusora de varetas e tubos de vidro,8232,vigente
+823250,Operador de prensa de moldar vidro,8232,vigente
+823255,Temperador de vidro,8232,vigente
+823265,Trabalhador na fabricação de produtos abrasivos,8232,vigente
+823305,Classificador e empilhador de tijolos refratários,8233,vigente
+823315,Forneiro (materiais de construção),8233,vigente
+823320,Trabalhador da elaboração de pré-fabricados (cimento amianto),8233,vigente
+823325,Trabalhador da elaboração de pré-fabricados (concreto armado),8233,vigente
+823330,Trabalhador da fabricação de pedras artificiais,8233,vigente
+828105,Oleiro (fabricação de telhas),8281,vigente
+828110,Oleiro (fabricação de tijolos),8281,vigente
+830105,"Mestre (indústria de celulose, papel e papelão)",8301,vigente
+831105,Cilindreiro na preparação de pasta para fabricação de papel,8311,vigente
+831110,Operador de branqueador de pasta para fabricação de papel,8311,vigente
+831115,Operador de digestor de pasta para fabricação de papel,8311,vigente
+831120,Operador de lavagem e depuração de pasta para fabricação de papel,8311,vigente
+831125,Operador de máquina de secar celulose,8311,vigente
+832105,Calandrista de papel,8321,vigente
+832110,Operador de cortadeira de papel,8321,vigente
+832115,Operador de máquina de fabricar papel  (fase úmida),8321,vigente
+832120,Operador de máquina de fabricar papel (fase seca),8321,vigente
+832125,Operador de máquina de fabricar papel e papelão,8321,vigente
+832135,Operador de rebobinadeira na fabricação de papel e papelão,8321,vigente
+833105,"Cartonageiro, a máquina",8331,vigente
+833110,"Confeccionador de bolsas, sacos e sacolas e papel, a máquina",8331,vigente
+833115,"Confeccionador de sacos de celofane, a máquina",8331,vigente
+833120,Operador de máquina de cortar e dobrar papelão,8331,vigente
+833125,Operador de prensa de embutir papelão,8331,vigente
+833205,"Cartonageiro, a mão (caixas de papelão)",8332,vigente
+840105,Supervisor de produção da indústria alimentícia,8401,vigente
+840110,Supervisor da indústria de bebidas,8401,vigente
+840115,Supervisor da indústria de fumo,8401,vigente
+840120,Chefe de confeitaria,8401,vigente
+841105,Moleiro de cereais (exceto arroz),8411,vigente
+841110,Moleiro de especiarias,8411,vigente
+841115,Operador de processo de moagem,8411,vigente
+841205,Moedor de sal,8412,vigente
+841210,Refinador de sal,8412,vigente
+841305,Operador de cristalização na refinação de açucar,8413,vigente
+841310,Operador de equipamentos de refinação de açúcar (processo contínuo),8413,vigente
+841315,Operador de moenda na fabricação de açúcar,8413,vigente
+841320,Operador de tratamento de calda na refinação de açúcar,8413,vigente
+841408,Cozinhador (conservação de alimentos),8414,vigente
+841416,Cozinhador de carnes,8414,vigente
+841420,Cozinhador de frutas e legumes,8414,vigente
+841428,Cozinhador de pescado,8414,vigente
+841432,Desidratador de alimentos,8414,vigente
+841440,Esterilizador de alimentos,8414,vigente
+841444,Hidrogenador de óleos e gorduras,8414,vigente
+841448,Lagareiro,8414,vigente
+841456,Operador de câmaras frias,8414,vigente
+841460,Operador de preparação de grãos vegetais (óleos e gorduras),8414,vigente
+841464,Prensador de frutas (exceto oleaginosas),8414,vigente
+841468,Preparador de rações,8414,vigente
+841472,Refinador de óleo e gordura,8414,vigente
+841476,Trabalhador de fabricação de margarina,8414,vigente
+841484,Trabalhador de preparação de pescados (limpeza),8414,vigente
+841505,Trabalhador de tratamento do leite e fabricação de laticínios e afins,8415,vigente
+841605,Misturador de café,8416,vigente
+841610,Torrador de café,8416,vigente
+841615,Moedor de café,8416,vigente
+841620,Operador de extração de café solúvel,8416,vigente
+841625,Torrador de cacau,8416,vigente
+841630,Misturador de chá ou mate,8416,vigente
+841705,Alambiqueiro,8417,vigente
+841710,Filtrador de cerveja,8417,vigente
+841715,Fermentador,8417,vigente
+841720,Trabalhador de fabricação de vinhos,8417,vigente
+841725,Malteiro (germinação),8417,vigente
+841730,Cozinhador de malte,8417,vigente
+841735,Dessecador de malte,8417,vigente
+841740,Vinagreiro,8417,vigente
+841745,Xaropeiro,8417,vigente
+841805,"Operador de forno (fabricação de pães, biscoitos e similares)",8418,vigente
+841810,"Operador de máquinas de fabricação de doces, salgados e massas alimentícias",8418,vigente
+841815,Operador de máquinas de fabricação de chocolates e achocolatados,8418,vigente
+842105,Preparador de melado e essência de fumo,8421,vigente
+842110,Processador de fumo,8421,vigente
+842115,Classificador de fumo,8421,vigente
+842120,Auxiliar de processamento de fumo,8421,vigente
+842125,Operador de máquina (fabricação de cigarros),8421,vigente
+842135,Operador de máquina de preparação de matéria prima para produção de cigarros,8421,vigente
+842205,Preparador de fumo na fabricação de charutos,8422,vigente
+842210,Operador de máquina de fabricar charutos e cigarrilhas,8422,vigente
+842215,Classificador de charutos,8422,vigente
+842220,Cortador de charutos,8422,vigente
+842225,Celofanista na fabricação de charutos,8422,vigente
+842230,Charuteiro a mão,8422,vigente
+842235,Degustador de charutos,8422,vigente
+848105,Defumador de carnes e pescados,8481,vigente
+848110,Salgador de alimentos,8481,vigente
+848115,"Salsicheiro (fabricação de lingüiça, salsicha e produtos similares)",8481,vigente
+848205,Pasteurizador,8482,vigente
+848210,Queijeiro na fabricação de laticínio,8482,vigente
+848215,Manteigueiro na fabricação de laticínio,8482,vigente
+848305,Padeiro,8483,vigente
+848310,Confeiteiro,8483,vigente
+848315,Masseiro (massas alimentícias),8483,vigente
+848325,Trabalhador de fabricação de sorvete,8483,vigente
+848405,Degustador de café,8484,vigente
+848410,Degustador de chá,8484,vigente
+848415,Degustador de derivados de cacau,8484,vigente
+848420,Degustador de vinhos ou licores,8484,vigente
+848425,Classificador de grãos,8484,vigente
+848505,Abatedor,8485,vigente
+848510,Açougueiro,8485,vigente
+848515,Desossador,8485,vigente
+848520,Magarefe,8485,vigente
+848525,Retalhador de carne,8485,vigente
+848605,Trabalhador do beneficiamento de fumo,8486,vigente
+860105,Supervisor de manutenção eletromecânica (utilidades),8601,vigente
+860110,"Supervisor de operação de fluidos (distribuição, captação, tratamento de água, gases, vapor)",8601,vigente
+860115,"Supervisor de operação elétrica (geração, transmissão e distribuição de energia elétrica)",8601,vigente
+861105,Operador de central hidrelétrica,8611,vigente
+861110,Operador de quadro de distribuição de energia elétrica,8611,vigente
+861115,Operador de central termoelétrica,8611,vigente
+861120,Operador de reator nuclear,8611,vigente
+861205,Operador de subestação,8612,vigente
+862105,Foguista (locomotivas a vapor),8621,vigente
+862110,Maquinista de embarcações,8621,vigente
+862115,Operador de bateria de gás de hulha,8621,vigente
+862120,Operador de caldeira,8621,vigente
+862130,Operador de compressor de ar,8621,vigente
+862140,Operador de estação de bombeamento,8621,vigente
+862150,"Operador de máquinas fixas, em geral",8621,vigente
+862155,"Operador de utilidade (produção e distribuição de vapor, gás, óleo, combustível, energia, oxigênio)",8621,vigente
+862160,Operador de abastecimento de combustível de aeronave,8621,vigente
+862205,"Operador de estação de captação, tratamento e distribuição de água",8622,vigente
+862305,Operador de estação de tratamento de água e efluentes,8623,vigente
+862310,"Operador de forno de incineração no tratamento de água, efluentes e resíduos industriais",8623,vigente
+862405,"Operador de instalação de extração, processamento, envasamento e distribuição de gases",8624,vigente
+862505,Operador de instalação de refrigeração,8625,vigente
+862510,Operador de refrigeração com amônia,8625,vigente
+862515,Operador de instalação de ar-condicionado,8625,vigente
+910105,Encarregado de manutenção mecânica de sistemas operacionais,9101,vigente
+910110,"Supervisor de manutenção de aparelhos térmicos, de climatização e de refrigeração",9101,vigente
+910115,"Supervisor de manutenção de bombas, motores, compressores e equipamentos de transmissão",9101,vigente
+910120,Supervisor de manutenção de máquinas gráficas,9101,vigente
+910125,Supervisor de manutenção de máquinas industriais têxteis,9101,vigente
+910130,Supervisor de manutenção de máquinas operatrizes e de usinagem,9101,vigente
+910205,Supervisor da manutenção e reparação de veículos leves,9102,vigente
+910210,Supervisor da manutenção e reparação de veículos pesados,9102,vigente
+910905,Supervisor de reparos linhas férreas,9109,vigente
+910910,Supervisor de manutenção de vias férreas,9109,vigente
+911105,Mecânico de manutenção de bomba injetora (exceto de veículos automotores),9111,vigente
+911110,Mecânico de manutenção de bombas,9111,vigente
+911115,Mecânico de manutenção de compressores de ar,9111,vigente
+911120,Mecânico de manutenção de motores diesel (exceto de veículos automotores),9111,vigente
+911125,Mecânico de manutenção de redutores,9111,vigente
+911130,Mecânico de manutenção de turbinas (exceto de aeronaves),9111,vigente
+911135,Mecânico de manutenção de turbocompressores,9111,vigente
+911205,Mecânico de manutenção e instalação de aparelhos de climatização e  refrigeração,9112,vigente
+911305,"Mecânico de manutenção de máquinas, em geral",9113,vigente
+911310,Mecânico de manutenção de máquinas gráficas,9113,vigente
+911315,Mecânico de manutenção de máquinas operatrizes (lavra de madeira),9113,vigente
+911320,Mecânico de manutenção de máquinas têxteis,9113,vigente
+911325,Mecânico de manutenção de máquinas-ferramentas (usinagem de metais),9113,vigente
+913105,Mecânico de manutenção de aparelhos de levantamento,9131,vigente
+913110,Mecânico de manutenção de equipamento de mineração,9131,vigente
+913115,Mecânico de manutenção de máquinas agrícolas,9131,vigente
+913120,Mecânico de manutenção de máquinas de construção e terraplenagem,9131,vigente
+913125,Vulcanizador de correias transportadoras,9131,vigente
+914105,"Mecânico de manutenção de aeronaves, em geral",9141,vigente
+914110,Mecânico de manutenção de sistema hidráulico de aeronaves (serviços de pista e hangar),9141,vigente
+914205,Mecânico de manutenção de motores e equipamentos navais,9142,vigente
+914305,Mecânico de manutenção de veículos ferroviários,9143,vigente
+914405,"Mecânico de manutenção de automóveis, motocicletas e veículos similares",9144,vigente
+914410,Mecânico de manutenção de empilhadeiras e outros veículos de cargas leves,9144,vigente
+914415,Mecânico de manutenção de motocicletas,9144,vigente
+914420,Mecânico de manutenção de tratores,9144,vigente
+914425,Mecânico de veículos automotores a diesel (exceto tratores),9144,vigente
+915105,Técnico em manutenção de instrumentos de medição e precisão,9151,vigente
+915110,Técnico em manutenção de hidrômetros,9151,vigente
+915115,Técnico em manutenção de balanças,9151,vigente
+915205,Restaurador de instrumentos musicais (exceto cordas arcadas),9152,vigente
+915210,Reparador de instrumentos musicais,9152,vigente
+915215,Luthier (restauração de cordas arcadas),9152,vigente
+915305,Técnico em manutenção de equipamentos e instrumentos médico-hospitalares,9153,vigente
+915405,Reparador de equipamentos fotográficos,9154,vigente
+919105,Lubrificador industrial,9191,vigente
+919110,Lubrificador de veículos automotores (exceto embarcações),9191,vigente
+919115,Lubrificador de embarcações,9191,vigente
+919205,"Mecânico de manutenção de máquinas cortadoras de grama, roçadeiras, motosserras e similares",9192,vigente
+919305,Mecânico de manutenção de aparelhos esportivos e de ginástica,9193,vigente
+919310,Mecânico de manutenção de bicicletas e veículos similares,9193,vigente
+919315,Montador de bicicletas,9193,vigente
+950105,Supervisor de manutenção elétrica de alta tensão industrial,9501,vigente
+950110,"Supervisor de manutenção eletromecânica industrial, comercial e predial",9501,vigente
+950205,Encarregado de manutenção elétrica de veículos,9502,vigente
+950305,Supervisor de manutenção eletromecânica,9503,vigente
+951105,Eletricista de manutenção eletroeletrônica,9511,vigente
+951305,Instalador de sistemas eletroeletrônicos de segurança,9513,vigente
+951310,Mantenedor de sistemas eletroeletrônicos de segurança,9513,vigente
+951315,Monitor de sistemas eletrônicos de segurança interno,9513,vigente
+951320,Monitor de sistemas eletrônicos de segurança externo,9513,vigente
+953105,Eletricista de instalações (aeronaves),9531,vigente
+953110,Eletricista de instalações (embarcações),9531,vigente
+953115,"Eletricista de instalações (veículos automotores e máquinas operatrizes, exceto aeronaves e embarcações)",9531,vigente
+954105,Eletromecânico de manutenção de elevadores,9541,vigente
+954110,Eletromecânico de manutenção de escadas rolantes,9541,vigente
+954115,Eletromecânico de manutenção de portas automáticas,9541,vigente
+954120,Mecânico de manutenção de instalações mecânicas de edifícios,9541,vigente
+954125,Operador eletromecânico,9541,vigente
+954205,Reparador de aparelhos eletrodomésticos (exceto imagem e som),9542,vigente
+954210,"Reparador de rádio, tv e som",9542,vigente
+954305,Reparador de equipamentos de escritório,9543,vigente
+991105,Conservador de via permanente (trilhos),9911,vigente
+991110,Inspetor de via permanente (trilhos),9911,vigente
+991115,Operador de máquinas especiais em conservação de via permanente (trilhos),9911,vigente
+991120,Soldador aluminotérmico em conservação de trilhos,9911,vigente
+991205,Mantenedor de equipamentos de parques de diversões e similares,9912,vigente
+991305,Funileiro de veículos (reparação),9913,vigente
+991310,Montador de veículos (reparação),9913,vigente
+991315,Pintor de veículos (reparação),9913,vigente
+992105,Alinhador de pneus,9921,vigente
+992110,Balanceador,9921,vigente
+992115,Borracheiro,9921,vigente
+992120,Lavador de peças,9921,vigente
+992205,Encarregado geral de operações de conservação de vias permanentes (exceto trilhos),9922,vigente
+992210,Encarregado de equipe de conservação de vias permanentes (exceto trilhos),9922,vigente
+992215,Operador de ceifadeira na conservação de vias permanentes,9922,vigente
+992220,Pedreiro de conservação de vias permanentes (exceto trilhos),9922,vigente
+992225,Auxiliar geral de conservação de vias permanentes (exceto trilhos),9922,vigente

@@ -1,0 +1,6796 @@
+{
+  "grande_grupo": "1",
+  "versao_dados": "dados-2026.11",
+  "fonte": "fontes/cbo/cbo2002-ocupacao.csv",
+  "total": 156,
+  "ocupacoes": [
+    {
+      "codigo": "111105",
+      "titulo": "Senador",
+      "familia": "1111",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 30
+      }
+    },
+    {
+      "codigo": "111110",
+      "titulo": "Deputado federal",
+      "familia": "1111",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 31
+      }
+    },
+    {
+      "codigo": "111115",
+      "titulo": "Deputado estadual e distrital",
+      "familia": "1111",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 32
+      }
+    },
+    {
+      "codigo": "111120",
+      "titulo": "Vereador",
+      "familia": "1111",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 33
+      }
+    },
+    {
+      "codigo": "111205",
+      "titulo": "Presidente da república",
+      "familia": "1112",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 34
+      }
+    },
+    {
+      "codigo": "111210",
+      "titulo": "Vice-presidente da república",
+      "familia": "1112",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 35
+      }
+    },
+    {
+      "codigo": "111215",
+      "titulo": "Ministro de estado",
+      "familia": "1112",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 36
+      }
+    },
+    {
+      "codigo": "111220",
+      "titulo": "Secretário - executivo",
+      "familia": "1112",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 37
+      }
+    },
+    {
+      "codigo": "111225",
+      "titulo": "Membro superior do poder executivo",
+      "familia": "1112",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 38
+      }
+    },
+    {
+      "codigo": "111230",
+      "titulo": "Governador de estado",
+      "familia": "1112",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 39
+      }
+    },
+    {
+      "codigo": "111235",
+      "titulo": "Governador do distrito federal",
+      "familia": "1112",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 40
+      }
+    },
+    {
+      "codigo": "111240",
+      "titulo": "Vice-governador de estado",
+      "familia": "1112",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 41
+      }
+    },
+    {
+      "codigo": "111245",
+      "titulo": "Vice-governador do distrito federal",
+      "familia": "1112",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 42
+      }
+    },
+    {
+      "codigo": "111250",
+      "titulo": "Prefeito",
+      "familia": "1112",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 43
+      }
+    },
+    {
+      "codigo": "111255",
+      "titulo": "Vice-prefeito",
+      "familia": "1112",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 44
+      }
+    },
+    {
+      "codigo": "111305",
+      "titulo": "Ministro do supremo tribunal federal",
+      "familia": "1113",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 45
+      }
+    },
+    {
+      "codigo": "111310",
+      "titulo": "Ministro do superior tribunal de justiça",
+      "familia": "1113",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 46
+      }
+    },
+    {
+      "codigo": "111315",
+      "titulo": "Ministro do  superior tribunal militar",
+      "familia": "1113",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 47
+      }
+    },
+    {
+      "codigo": "111320",
+      "titulo": "Ministro do  superior tribunal do trabalho",
+      "familia": "1113",
+      "sinonimos": [
+        {
+          "titulo": "Juiz do tribunal regional do trabalho",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 66
+          }
+        },
+        {
+          "titulo": "Juiz federal  de segunda  instância",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 67
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 48
+      }
+    },
+    {
+      "codigo": "111325",
+      "titulo": "Juiz de direito",
+      "familia": "1113",
+      "sinonimos": [
+        {
+          "titulo": "Desembargadores",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 68
+          }
+        },
+        {
+          "titulo": "Juiz de alçada",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 69
+          }
+        },
+        {
+          "titulo": "Juiz de direito de primeira instância",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 70
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 49
+      }
+    },
+    {
+      "codigo": "111330",
+      "titulo": "Juiz federal",
+      "familia": "1113",
+      "sinonimos": [
+        {
+          "titulo": "Juiz do tribunal regional federal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 71
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 50
+      }
+    },
+    {
+      "codigo": "111335",
+      "titulo": "Juiz auditor federal - justiça militar",
+      "familia": "1113",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 51
+      }
+    },
+    {
+      "codigo": "111340",
+      "titulo": "Juiz auditor estadual - justiça militar",
+      "familia": "1113",
+      "sinonimos": [
+        {
+          "titulo": "Juiz dos tribunais militares estaduais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 72
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 52
+      }
+    },
+    {
+      "codigo": "111345",
+      "titulo": "Juiz do trabalho",
+      "familia": "1113",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 53
+      }
+    },
+    {
+      "codigo": "111405",
+      "titulo": "Dirigente do serviço público federal",
+      "familia": "1114",
+      "sinonimos": [
+        {
+          "titulo": "Conselheiro (diplomacia)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 73
+          }
+        },
+        {
+          "titulo": "Coordenador  do serviço público federal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 74
+          }
+        },
+        {
+          "titulo": "Coordenador geral do serviço público federal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 75
+          }
+        },
+        {
+          "titulo": "Diretor do serviço público federal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 76
+          }
+        },
+        {
+          "titulo": "Funcionário público federal superior",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 77
+          }
+        },
+        {
+          "titulo": "Gerente do serviço público federal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 78
+          }
+        },
+        {
+          "titulo": "Ministro (diplomacia)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 79
+          }
+        },
+        {
+          "titulo": "Secretário (diplomacia)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 81
+          }
+        },
+        {
+          "titulo": "Secretário de estado (serviço público federal)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 80
+          }
+        },
+        {
+          "titulo": "Subsecretário de estado (serviço público federal)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 82
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 54
+      }
+    },
+    {
+      "codigo": "111410",
+      "titulo": "Dirigente do serviço público estadual e distrital",
+      "familia": "1114",
+      "sinonimos": [
+        {
+          "titulo": "Chefe do serviço público estadual e distrital",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 83
+          }
+        },
+        {
+          "titulo": "Coordenador do serviço público estadual e distrital",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 84
+          }
+        },
+        {
+          "titulo": "Funcionário público estadual e distrital superior",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 85
+          }
+        },
+        {
+          "titulo": "Gerente do serviço público estadual e distrital",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 86
+          }
+        },
+        {
+          "titulo": "Secretário estadual e distrital (serviço público estadual e distrital)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 87
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 55
+      }
+    },
+    {
+      "codigo": "111415",
+      "titulo": "Dirigente do serviço público municipal",
+      "familia": "1114",
+      "sinonimos": [
+        {
+          "titulo": "Chefe de assessoria técnica do serviço público municipal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 88
+          }
+        },
+        {
+          "titulo": "Chefe de gabinete do serviço público municipal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 89
+          }
+        },
+        {
+          "titulo": "Diretor de departamento do  serviço público municipal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 90
+          }
+        },
+        {
+          "titulo": "Diretor de divisão do serviço público municipal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 91
+          }
+        },
+        {
+          "titulo": "Funcionário público municipal superior",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 92
+          }
+        },
+        {
+          "titulo": "Secretário municipal (serviço público municipal)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 93
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 56
+      }
+    },
+    {
+      "codigo": "111505",
+      "titulo": "Especialista de políticas públicas e gestão governamental - eppgg",
+      "familia": "1115",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 57
+      }
+    },
+    {
+      "codigo": "111510",
+      "titulo": "Analista de planejamento e orçamento - apo",
+      "familia": "1115",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 58
+      }
+    },
+    {
+      "codigo": "113005",
+      "titulo": "Cacique",
+      "familia": "1130",
+      "sinonimos": [
+        {
+          "titulo": "Morubixaba",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 94
+          }
+        },
+        {
+          "titulo": "Tuxaua",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 95
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 59
+      }
+    },
+    {
+      "codigo": "113010",
+      "titulo": "Líder de comunidade caiçara",
+      "familia": "1130",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 60
+      }
+    },
+    {
+      "codigo": "113015",
+      "titulo": "Membro de liderança quilombola",
+      "familia": "1130",
+      "sinonimos": [
+        {
+          "titulo": "Coordenador de associação quilombola",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 96
+          }
+        },
+        {
+          "titulo": "Líder quilombola",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 97
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 61
+      }
+    },
+    {
+      "codigo": "114105",
+      "titulo": "Dirigente de partido político",
+      "familia": "1141",
+      "sinonimos": [
+        {
+          "titulo": "Assessor político partidário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 98
+          }
+        },
+        {
+          "titulo": "Assessr",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 99
+          }
+        },
+        {
+          "titulo": "Dirigente partidário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 100
+          }
+        },
+        {
+          "titulo": "Dirigente político",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 101
+          }
+        },
+        {
+          "titulo": "Líder partidário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 102
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 62
+      }
+    },
+    {
+      "codigo": "114205",
+      "titulo": "Dirigente de entidade de trabalhadores",
+      "familia": "1142",
+      "sinonimos": [
+        {
+          "titulo": "Assistente sindical de entidades de trabalhadores",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 103
+          }
+        },
+        {
+          "titulo": "Diretor de sindicato de trabalhadores",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 104
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 63
+      }
+    },
+    {
+      "codigo": "114210",
+      "titulo": "Dirigente de entidade patronal",
+      "familia": "1142",
+      "sinonimos": [
+        {
+          "titulo": "Assistente sindical de entidades patronais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 105
+          }
+        },
+        {
+          "titulo": "Diretor de sindicato patronal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 106
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 64
+      }
+    },
+    {
+      "codigo": "114305",
+      "titulo": "Dirigente e administrador de organização religiosa",
+      "familia": "1143",
+      "sinonimos": [
+        {
+          "titulo": "Coordenador de entidade religiosa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 107
+          }
+        },
+        {
+          "titulo": "Diretor de entidade religiosa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 108
+          }
+        },
+        {
+          "titulo": "Gestor de entidade religiosa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 109
+          }
+        },
+        {
+          "titulo": "Secretário-executivo de entidade religiosa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 110
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 65
+      }
+    },
+    {
+      "codigo": "114405",
+      "titulo": "Dirigente e administrador de organização da sociedade civil sem fins lucrativos",
+      "familia": "1144",
+      "sinonimos": [
+        {
+          "titulo": "Dirigente de clube e associação esportiva",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 111
+          }
+        },
+        {
+          "titulo": "Dirigente de organização de defesa de direitos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 112
+          }
+        },
+        {
+          "titulo": "Dirigente de organização de desenvolvimento cultural",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 113
+          }
+        },
+        {
+          "titulo": "Dirigente de organização de proteção ao meio ambiente",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 114
+          }
+        },
+        {
+          "titulo": "Dirigente de organização filantrópica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 115
+          }
+        },
+        {
+          "titulo": "Dirigente de organização humanitária",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 116
+          }
+        },
+        {
+          "titulo": "Dirigente de organização não-governamental",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 117
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 66
+      }
+    },
+    {
+      "codigo": "121005",
+      "titulo": "Diretor de planejamento estratégico",
+      "familia": "1210",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 67
+      }
+    },
+    {
+      "codigo": "121010",
+      "titulo": "Diretor geral de empresa e organizações (exceto de interesse público)",
+      "familia": "1210",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 68
+      }
+    },
+    {
+      "codigo": "122105",
+      "titulo": "Diretor de produção e operações em empresa agropecuária",
+      "familia": "1221",
+      "sinonimos": [
+        {
+          "titulo": "Diretor de produção na agropecuária",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 118
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 69
+      }
+    },
+    {
+      "codigo": "122110",
+      "titulo": "Diretor de produção e operações em empresa aqüícola",
+      "familia": "1221",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 70
+      }
+    },
+    {
+      "codigo": "122115",
+      "titulo": "Diretor de produção e operações em empresa florestal",
+      "familia": "1221",
+      "sinonimos": [
+        {
+          "titulo": "Diretor de produção em empresa florestal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 119
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 71
+      }
+    },
+    {
+      "codigo": "122120",
+      "titulo": "Diretor de produção e operações em empresa pesqueira",
+      "familia": "1221",
+      "sinonimos": [
+        {
+          "titulo": "Diretor de produção em empresa pesqueira",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 120
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 72
+      }
+    },
+    {
+      "codigo": "122205",
+      "titulo": "Diretor de produção e operações da indústria de transformação, extração mineral e utilidades",
+      "familia": "1222",
+      "sinonimos": [
+        {
+          "titulo": "Diretor de produção em utilidades",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 121
+          }
+        },
+        {
+          "titulo": "Diretor de produção na indústria de transformação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 122
+          }
+        },
+        {
+          "titulo": "Diretor de produção na mineração",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 123
+          }
+        },
+        {
+          "titulo": "Superintendente de operações industriais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 124
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 73
+      }
+    },
+    {
+      "codigo": "122305",
+      "titulo": "Diretor de operações de obras pública e civil",
+      "familia": "1223",
+      "sinonimos": [
+        {
+          "titulo": "Diretor de contratos de obras pública e civil",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 125
+          }
+        },
+        {
+          "titulo": "Diretor de obras pública e civil",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 126
+          }
+        },
+        {
+          "titulo": "Diretor de produção de obras pública e civil",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 127
+          }
+        },
+        {
+          "titulo": "Superintendente de contratos de operações de obras pública e civil",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 128
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 74
+      }
+    },
+    {
+      "codigo": "122405",
+      "titulo": "Diretor de operações comerciais (comércio atacadista e varejista)",
+      "familia": "1224",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 75
+      }
+    },
+    {
+      "codigo": "122505",
+      "titulo": "Diretor de  produção e operações de alimentação",
+      "familia": "1225",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 76
+      }
+    },
+    {
+      "codigo": "122510",
+      "titulo": "Diretor de  produção e operações de hotel",
+      "familia": "1225",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 77
+      }
+    },
+    {
+      "codigo": "122515",
+      "titulo": "Diretor de  produção e operações de turismo",
+      "familia": "1225",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 78
+      }
+    },
+    {
+      "codigo": "122520",
+      "titulo": "Turismólogo",
+      "familia": "1225",
+      "sinonimos": [
+        {
+          "titulo": "Analista de turismo (turismólogo)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 129
+          }
+        },
+        {
+          "titulo": "Consultor em turismo (turismólogo)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 130
+          }
+        },
+        {
+          "titulo": "Gestor em turismo (turismólogo)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 131
+          }
+        },
+        {
+          "titulo": "Planejador de turismo (turismólogo)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 132
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 79
+      }
+    },
+    {
+      "codigo": "122605",
+      "titulo": "Diretor de operações de correios",
+      "familia": "1226",
+      "sinonimos": [
+        {
+          "titulo": "Coordenador geral de operações de correios",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 133
+          }
+        },
+        {
+          "titulo": "Diretor de correios",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 134
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 80
+      }
+    },
+    {
+      "codigo": "122610",
+      "titulo": "Diretor de operações de serviços de armazenamento",
+      "familia": "1226",
+      "sinonimos": [
+        {
+          "titulo": "Diretor de gestão portuária",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 135
+          }
+        },
+        {
+          "titulo": "Gerente de terminal em operações de armazenamento",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 136
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 81
+      }
+    },
+    {
+      "codigo": "122615",
+      "titulo": "Diretor de operações de serviços de telecomunicações",
+      "familia": "1226",
+      "sinonimos": [
+        {
+          "titulo": "Diretor de operações de radiodifusão",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 137
+          }
+        },
+        {
+          "titulo": "Diretor de redes (telecomunicações)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 138
+          }
+        },
+        {
+          "titulo": "Diretor regional (telecomunicações)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 139
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 82
+      }
+    },
+    {
+      "codigo": "122620",
+      "titulo": "Diretor de operações de serviços de transporte",
+      "familia": "1226",
+      "sinonimos": [
+        {
+          "titulo": "Diretor de logística em operações de transportes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 140
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 83
+      }
+    },
+    {
+      "codigo": "122705",
+      "titulo": "Diretor comercial em operações de intermediação financeira",
+      "familia": "1227",
+      "sinonimos": [
+        {
+          "titulo": "Diretor adjunto comercial em operações de intermediação financeira",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 141
+          }
+        },
+        {
+          "titulo": "Diretor de plataforma em operações de intermediação financeira",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 142
+          }
+        },
+        {
+          "titulo": "Diretor regional em operações de intermediação financeira",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 143
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 84
+      }
+    },
+    {
+      "codigo": "122710",
+      "titulo": "Diretor de produtos bancários",
+      "familia": "1227",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 85
+      }
+    },
+    {
+      "codigo": "122715",
+      "titulo": "Diretor de crédito rural",
+      "familia": "1227",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 86
+      }
+    },
+    {
+      "codigo": "122720",
+      "titulo": "Diretor de câmbio e comércio exterior",
+      "familia": "1227",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 87
+      }
+    },
+    {
+      "codigo": "122725",
+      "titulo": "Diretor de compliance",
+      "familia": "1227",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 88
+      }
+    },
+    {
+      "codigo": "122730",
+      "titulo": "Diretor de crédito (exceto crédito imobiliário)",
+      "familia": "1227",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 89
+      }
+    },
+    {
+      "codigo": "122735",
+      "titulo": "Diretor de crédito imobiliário",
+      "familia": "1227",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 90
+      }
+    },
+    {
+      "codigo": "122740",
+      "titulo": "Diretor de leasing",
+      "familia": "1227",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 91
+      }
+    },
+    {
+      "codigo": "122745",
+      "titulo": "Diretor de mercado de capitais",
+      "familia": "1227",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 92
+      }
+    },
+    {
+      "codigo": "122750",
+      "titulo": "Diretor de recuperação de créditos em operações de intermediação financeira",
+      "familia": "1227",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 93
+      }
+    },
+    {
+      "codigo": "122755",
+      "titulo": "Diretor de riscos de mercado",
+      "familia": "1227",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 94
+      }
+    },
+    {
+      "codigo": "123105",
+      "titulo": "Diretor administrativo",
+      "familia": "1231",
+      "sinonimos": [
+        {
+          "titulo": "Superintendente administrativo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 144
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 95
+      }
+    },
+    {
+      "codigo": "123110",
+      "titulo": "Diretor administrativo e financeiro",
+      "familia": "1231",
+      "sinonimos": [
+        {
+          "titulo": "Superintendente administrativo e financeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 145
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 96
+      }
+    },
+    {
+      "codigo": "123115",
+      "titulo": "Diretor financeiro",
+      "familia": "1231",
+      "sinonimos": [
+        {
+          "titulo": "Diretor de finanças",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 146
+          }
+        },
+        {
+          "titulo": "Diretor de planejamento financeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 147
+          }
+        },
+        {
+          "titulo": "Superintendente de finanças",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 148
+          }
+        },
+        {
+          "titulo": "Superintendente financeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 149
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 97
+      }
+    },
+    {
+      "codigo": "123205",
+      "titulo": "Diretor de recursos humanos",
+      "familia": "1232",
+      "sinonimos": [
+        {
+          "titulo": "Diretor de capital humano",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 150
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 98
+      }
+    },
+    {
+      "codigo": "123210",
+      "titulo": "Diretor de relações de trabalho",
+      "familia": "1232",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 99
+      }
+    },
+    {
+      "codigo": "123305",
+      "titulo": "Diretor comercial",
+      "familia": "1233",
+      "sinonimos": [
+        {
+          "titulo": "Diretor de vendas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 151
+          }
+        },
+        {
+          "titulo": "Diretor geral de vendas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 152
+          }
+        },
+        {
+          "titulo": "Superintendente comercial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 153
+          }
+        },
+        {
+          "titulo": "Vice-presidente comercial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 154
+          }
+        },
+        {
+          "titulo": "Vice-presidente de vendas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 155
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 100
+      }
+    },
+    {
+      "codigo": "123310",
+      "titulo": "Diretor de marketing",
+      "familia": "1233",
+      "sinonimos": [
+        {
+          "titulo": "Superintendente de marketing",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 156
+          }
+        },
+        {
+          "titulo": "Vice-presidente de marketing",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 157
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 101
+      }
+    },
+    {
+      "codigo": "123405",
+      "titulo": "Diretor de suprimentos",
+      "familia": "1234",
+      "sinonimos": [
+        {
+          "titulo": "Diretor de compras",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 158
+          }
+        },
+        {
+          "titulo": "Diretor de logística e de suprimentos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 159
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 102
+      }
+    },
+    {
+      "codigo": "123410",
+      "titulo": "Diretor de suprimentos no serviço público",
+      "familia": "1234",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 103
+      }
+    },
+    {
+      "codigo": "123605",
+      "titulo": "Diretor de tecnologia da informação",
+      "familia": "1236",
+      "sinonimos": [
+        {
+          "titulo": "Diretor de informática",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 160
+          }
+        },
+        {
+          "titulo": "Diretor de infraestrutura de tecnologia da informação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 161
+          }
+        },
+        {
+          "titulo": "Diretor de processos de tecnologia da informação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 162
+          }
+        },
+        {
+          "titulo": "Diretor de serviços de informática",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 163
+          }
+        },
+        {
+          "titulo": "Diretor de serviços de tecnologia da informação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 164
+          }
+        },
+        {
+          "titulo": "Diretor de tecnologia",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 165
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 104
+      }
+    },
+    {
+      "codigo": "123705",
+      "titulo": "Diretor de pesquisa e desenvolvimento (p&d)",
+      "familia": "1237",
+      "sinonimos": [
+        {
+          "titulo": "Diretor de tecnologia (pesquisa e desenvolvimento)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 166
+          }
+        },
+        {
+          "titulo": "Diretor técnico (pesquisa e desenvolvimento)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 167
+          }
+        },
+        {
+          "titulo": "Superintendente de desenvolvimento de produtos e processos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 168
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 105
+      }
+    },
+    {
+      "codigo": "123805",
+      "titulo": "Diretor de manutenção",
+      "familia": "1238",
+      "sinonimos": [
+        {
+          "titulo": "Diretor de operações e manutenção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 169
+          }
+        },
+        {
+          "titulo": "Superintendente de manutenção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 170
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 106
+      }
+    },
+    {
+      "codigo": "131105",
+      "titulo": "Diretor de serviços culturais",
+      "familia": "1311",
+      "sinonimos": [
+        {
+          "titulo": "Diretor de biblioteca",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 171
+          }
+        },
+        {
+          "titulo": "Diretor de museu",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 172
+          }
+        },
+        {
+          "titulo": "Diretor de ong (organização não-governamental)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 173
+          }
+        },
+        {
+          "titulo": "Diretor de organização social e interesse público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 174
+          }
+        },
+        {
+          "titulo": "Diretor de pesquisa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 175
+          }
+        },
+        {
+          "titulo": "Diretor de relações interinstitucionais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 176
+          }
+        },
+        {
+          "titulo": "Diretor executivo de instituições culturais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 177
+          }
+        },
+        {
+          "titulo": "Superintendente de relações institucionais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 178
+          }
+        },
+        {
+          "titulo": "Superintendente de serviços culturais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 179
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 107
+      }
+    },
+    {
+      "codigo": "131110",
+      "titulo": "Diretor de serviços sociais",
+      "familia": "1311",
+      "sinonimos": [
+        {
+          "titulo": "Diretor de departamento de esportes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 180
+          }
+        },
+        {
+          "titulo": "Diretor de osip (organização social de interesse público)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 181
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 108
+      }
+    },
+    {
+      "codigo": "131115",
+      "titulo": "Gerente de serviços culturais",
+      "familia": "1311",
+      "sinonimos": [
+        {
+          "titulo": "Administrador de instituições culturais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 182
+          }
+        },
+        {
+          "titulo": "Coordenador de eventos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 183
+          }
+        },
+        {
+          "titulo": "Coordenador executivo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 184
+          }
+        },
+        {
+          "titulo": "Gerente de departamento de planejamento e análise",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 185
+          }
+        },
+        {
+          "titulo": "Gerente de departamento de planejamento e pesquisa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 186
+          }
+        },
+        {
+          "titulo": "Gerente de divisão de pesquisas e análise",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 187
+          }
+        },
+        {
+          "titulo": "Gerente de ong (organização não-governamental)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 188
+          }
+        },
+        {
+          "titulo": "Gerente de planejamento e estatística",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 189
+          }
+        },
+        {
+          "titulo": "Superintendente de seção de estudos e programação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 190
+          }
+        },
+        {
+          "titulo": "Superintendente de seção de estudos especiais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 191
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 109
+      }
+    },
+    {
+      "codigo": "131120",
+      "titulo": "Gerente de serviços sociais",
+      "familia": "1311",
+      "sinonimos": [
+        {
+          "titulo": "Chefe de serviço de pesquisa e estatística",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 192
+          }
+        },
+        {
+          "titulo": "Coordenador de projetos sociais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 193
+          }
+        },
+        {
+          "titulo": "Diretor de futebol",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 194
+          }
+        },
+        {
+          "titulo": "Gerente de organização social de interesse público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 195
+          }
+        },
+        {
+          "titulo": "Gerente de pesquisas no ibge (instituto brasileiro de geografia e estatística)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 196
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 110
+      }
+    },
+    {
+      "codigo": "131205",
+      "titulo": "Diretor de serviços de saúde",
+      "familia": "1312",
+      "sinonimos": [
+        {
+          "titulo": "Diretor clínico",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 197
+          }
+        },
+        {
+          "titulo": "Diretor de departamento de saúde",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 198
+          }
+        },
+        {
+          "titulo": "Diretor de departamento médico",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 199
+          }
+        },
+        {
+          "titulo": "Diretor de divisão médica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 200
+          }
+        },
+        {
+          "titulo": "Diretor de serviços médicos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 201
+          }
+        },
+        {
+          "titulo": "Diretor de unidade assistencial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 202
+          }
+        },
+        {
+          "titulo": "Diretor de unidade de saúde",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 203
+          }
+        },
+        {
+          "titulo": "Diretor de unidade hospitalar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 204
+          }
+        },
+        {
+          "titulo": "Diretor médico-hospitalar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 205
+          }
+        },
+        {
+          "titulo": "Diretor técnico de unidade hospitalar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 206
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 111
+      }
+    },
+    {
+      "codigo": "131210",
+      "titulo": "Gerente de serviços de saúde",
+      "familia": "1312",
+      "sinonimos": [
+        {
+          "titulo": "Administrador de ambulatório",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 207
+          }
+        },
+        {
+          "titulo": "Chefe de serviços de saúde",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 208
+          }
+        },
+        {
+          "titulo": "Gerente da área de saúde mental",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 209
+          }
+        },
+        {
+          "titulo": "Gerente de ambulatório",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 210
+          }
+        },
+        {
+          "titulo": "Gerente de apoio e diagnóstico de saúde",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 211
+          }
+        },
+        {
+          "titulo": "Gerente de enfermagem",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 212
+          }
+        },
+        {
+          "titulo": "Gerente de nutrição em unidades de saúde",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 213
+          }
+        },
+        {
+          "titulo": "Gerente de programas de saúde",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 214
+          }
+        },
+        {
+          "titulo": "Gerente de pronto-socorro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 215
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 112
+      }
+    },
+    {
+      "codigo": "131215",
+      "titulo": "Tecnólogo em gestão hospitalar",
+      "familia": "1312",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 113
+      }
+    },
+    {
+      "codigo": "131220",
+      "titulo": "Gerontólogo",
+      "familia": "1312",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 114
+      }
+    },
+    {
+      "codigo": "131225",
+      "titulo": "Sanitarista",
+      "familia": "1312",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 115
+      }
+    },
+    {
+      "codigo": "131305",
+      "titulo": "Diretor de instituição educacional da área privada",
+      "familia": "1313",
+      "sinonimos": [
+        {
+          "titulo": "Diretor adjunto de escolas privadas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 216
+          }
+        },
+        {
+          "titulo": "Diretor de centro de educação infantil (creche e pré-escola) privado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 217
+          }
+        },
+        {
+          "titulo": "Diretor de centro de formação profissional privado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 218
+          }
+        },
+        {
+          "titulo": "Diretor de colégio privado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 219
+          }
+        },
+        {
+          "titulo": "Diretor de escola privada",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 220
+          }
+        },
+        {
+          "titulo": "Diretor de escola religiosa privada",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 221
+          }
+        },
+        {
+          "titulo": "Diretor de estabelecimento de ensino fundamental privado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 222
+          }
+        },
+        {
+          "titulo": "Diretor de estabelecimento de ensino médio privado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 223
+          }
+        },
+        {
+          "titulo": "Diretor de estabelecimento de ensino superior privado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 224
+          }
+        },
+        {
+          "titulo": "Diretor de internato privado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 225
+          }
+        },
+        {
+          "titulo": "Diretor de unidade integrada de pré-escola privada",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 226
+          }
+        },
+        {
+          "titulo": "Subdiretor de ensino privado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 227
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 116
+      }
+    },
+    {
+      "codigo": "131310",
+      "titulo": "Diretor de instituição educacional pública",
+      "familia": "1313",
+      "sinonimos": [
+        {
+          "titulo": "Diretor de caic público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 228
+          }
+        },
+        {
+          "titulo": "Diretor de centro de educação infantil público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 229
+          }
+        },
+        {
+          "titulo": "Diretor de centro de ensino especial público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 230
+          }
+        },
+        {
+          "titulo": "Diretor de centro de ensino fundamental público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 231
+          }
+        },
+        {
+          "titulo": "Diretor de centro de ensino médio profissionalizante público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 232
+          }
+        },
+        {
+          "titulo": "Diretor de centro de ensino médio público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 233
+          }
+        },
+        {
+          "titulo": "Diretor de centro de ensino supletivo público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 234
+          }
+        },
+        {
+          "titulo": "Diretor de colégio público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 235
+          }
+        },
+        {
+          "titulo": "Diretor de escola de classe pública",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 236
+          }
+        },
+        {
+          "titulo": "Diretor de escola pública",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 237
+          }
+        },
+        {
+          "titulo": "Vice-diretor de centro de educação infantil público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 238
+          }
+        },
+        {
+          "titulo": "Vice-diretor de centro de ensino especial público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 239
+          }
+        },
+        {
+          "titulo": "Vice-diretor de centro de ensino fundamental público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 240
+          }
+        },
+        {
+          "titulo": "Vice-diretor de centro de ensino médio público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 242
+          }
+        },
+        {
+          "titulo": "Vice-diretor de centro de ensino médio, profissionalizante público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 241
+          }
+        },
+        {
+          "titulo": "Vice-diretor de centro de ensino supletivo público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 243
+          }
+        },
+        {
+          "titulo": "Vice-diretor de centro interescolar de línguas público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 244
+          }
+        },
+        {
+          "titulo": "Vice-diretor de colégio público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 245
+          }
+        },
+        {
+          "titulo": "Vice-diretor de escola de classe pública",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 246
+          }
+        },
+        {
+          "titulo": "Vice-diretor de escola pública",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 247
+          }
+        },
+        {
+          "titulo": "Vice-diretor de grupo escolar público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 248
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 117
+      }
+    },
+    {
+      "codigo": "131315",
+      "titulo": "Gerente de instituição educacional da área privada",
+      "familia": "1313",
+      "sinonimos": [
+        {
+          "titulo": "Chefe de centro de formação profissional privado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 249
+          }
+        },
+        {
+          "titulo": "Chefe de departamento em escolas privadas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 250
+          }
+        },
+        {
+          "titulo": "Gerente de apoio educacional em escolas privadas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 251
+          }
+        },
+        {
+          "titulo": "Gerente de centro de educação profissional em escolas privadas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 252
+          }
+        },
+        {
+          "titulo": "Gerente de centro de formação profissional em escolas privadas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 253
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 118
+      }
+    },
+    {
+      "codigo": "131320",
+      "titulo": "Gerente de serviços educacionais da área pública",
+      "familia": "1313",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 119
+      }
+    },
+    {
+      "codigo": "141105",
+      "titulo": "Gerente de produção e operações  aqüícolas",
+      "familia": "1411",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 120
+      }
+    },
+    {
+      "codigo": "141110",
+      "titulo": "Gerente de produção e operações  florestais",
+      "familia": "1411",
+      "sinonimos": [
+        {
+          "titulo": "Coordenador de produção de madeira",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 254
+          }
+        },
+        {
+          "titulo": "Gerente de departamento florestal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 255
+          }
+        },
+        {
+          "titulo": "Gerente de produção florestal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 256
+          }
+        },
+        {
+          "titulo": "Gerente operacional florestal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 257
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 121
+      }
+    },
+    {
+      "codigo": "141115",
+      "titulo": "Gerente de produção e operações agropecuárias",
+      "familia": "1411",
+      "sinonimos": [
+        {
+          "titulo": "Gerente de agropecuária",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 258
+          }
+        },
+        {
+          "titulo": "Gerente de produção na agropecuária",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 259
+          }
+        },
+        {
+          "titulo": "Gerente operacional na agropecuária",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 260
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 122
+      }
+    },
+    {
+      "codigo": "141120",
+      "titulo": "Gerente de produção e operações pesqueiras",
+      "familia": "1411",
+      "sinonimos": [
+        {
+          "titulo": "Administrador de empresas de pesca",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 261
+          }
+        },
+        {
+          "titulo": "Gerente de empresa de pesca",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 262
+          }
+        },
+        {
+          "titulo": "Gerente de frota pesqueira",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 263
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 123
+      }
+    },
+    {
+      "codigo": "141205",
+      "titulo": "Gerente de produção e operações",
+      "familia": "1412",
+      "sinonimos": [
+        {
+          "titulo": "Banguezeiro - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 264
+          }
+        },
+        {
+          "titulo": "Banguezista - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 265
+          }
+        },
+        {
+          "titulo": "Cervejeiro - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 266
+          }
+        },
+        {
+          "titulo": "Correeiro - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 267
+          }
+        },
+        {
+          "titulo": "Correiro - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 268
+          }
+        },
+        {
+          "titulo": "Corrieiro - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 269
+          }
+        },
+        {
+          "titulo": "Curtidor - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 270
+          }
+        },
+        {
+          "titulo": "Gerente de departamento de fabricação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 271
+          }
+        },
+        {
+          "titulo": "Gerente de departamento de produção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 272
+          }
+        },
+        {
+          "titulo": "Gerente de departamento industrial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 273
+          }
+        },
+        {
+          "titulo": "Gerente de fábrica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 274
+          }
+        },
+        {
+          "titulo": "Gerente de manufatura",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 275
+          }
+        },
+        {
+          "titulo": "Gerente de montagem",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 276
+          }
+        },
+        {
+          "titulo": "Gerente de processos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 277
+          }
+        },
+        {
+          "titulo": "Gerente de produção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 278
+          }
+        },
+        {
+          "titulo": "Gerente de unidade de fabricação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 279
+          }
+        },
+        {
+          "titulo": "Gerente industrial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 280
+          }
+        },
+        {
+          "titulo": "Joalheiro - na fabricação - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 281
+          }
+        },
+        {
+          "titulo": "Lombilheiro - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 282
+          }
+        },
+        {
+          "titulo": "Marmorista - exclusive na extração - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 283
+          }
+        },
+        {
+          "titulo": "Marmorista - na extração - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 284
+          }
+        },
+        {
+          "titulo": "Proprietário de areal - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 285
+          }
+        },
+        {
+          "titulo": "Proprietário de pedreira - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 286
+          }
+        },
+        {
+          "titulo": "Proprietário de porto de areia - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 287
+          }
+        },
+        {
+          "titulo": "Proprietário de saibreira - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 288
+          }
+        },
+        {
+          "titulo": "Proprietário de salina - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 289
+          }
+        },
+        {
+          "titulo": "Salineiro (empregador)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 292
+          }
+        },
+        {
+          "titulo": "Salineiro - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 290
+          }
+        },
+        {
+          "titulo": "Salineiro - na extração - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 291
+          }
+        },
+        {
+          "titulo": "Seleiro - na fabricação - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 293
+          }
+        },
+        {
+          "titulo": "Sócio-proprietário - na extração mineral - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 294
+          }
+        },
+        {
+          "titulo": "Sócio-proprietário de areal - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 295
+          }
+        },
+        {
+          "titulo": "Sócio-proprietário de pedreira - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 296
+          }
+        },
+        {
+          "titulo": "Sócio-proprietário de porto de areia - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 297
+          }
+        },
+        {
+          "titulo": "Sócio-proprietário de saibreira - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 298
+          }
+        },
+        {
+          "titulo": "Sócio-proprietário de salina - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 299
+          }
+        },
+        {
+          "titulo": "Talabarteiro - empregador (selas)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 300
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 124
+      }
+    },
+    {
+      "codigo": "141305",
+      "titulo": "Gerente de produção e operações da construção civil e obras públicas",
+      "familia": "1413",
+      "sinonimos": [
+        {
+          "titulo": "Coordenador de obras (construção civil)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 301
+          }
+        },
+        {
+          "titulo": "Gerente de contratos (construção civil)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 302
+          }
+        },
+        {
+          "titulo": "Gerente de empresas de construção civil",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 303
+          }
+        },
+        {
+          "titulo": "Gerente de obras (construção civil)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 304
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 125
+      }
+    },
+    {
+      "codigo": "141405",
+      "titulo": "Comerciante atacadista",
+      "familia": "1414",
+      "sinonimos": [
+        {
+          "titulo": "Adeleiro  (comércio atacadista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 305
+          }
+        },
+        {
+          "titulo": "Alfarrabista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 306
+          }
+        },
+        {
+          "titulo": "Alheiro (comércio atacadista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 307
+          }
+        },
+        {
+          "titulo": "Antiquário (comércio atacadista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 308
+          }
+        },
+        {
+          "titulo": "Arborário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 309
+          }
+        },
+        {
+          "titulo": "Armarinheiro (comércio atacadista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 310
+          }
+        },
+        {
+          "titulo": "Armazenário (comércio atacadista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 311
+          }
+        },
+        {
+          "titulo": "Armeiro (comércio atacadista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 312
+          }
+        },
+        {
+          "titulo": "Arrombador (comércio de gado)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 314
+          }
+        },
+        {
+          "titulo": "Arrombador - no comércio de gado - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 313
+          }
+        },
+        {
+          "titulo": "Atacadista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 315
+          }
+        },
+        {
+          "titulo": "Boiadeiro (comércio de gado)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 317
+          }
+        },
+        {
+          "titulo": "Boiadeiro - no comércio de gado - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 316
+          }
+        },
+        {
+          "titulo": "Boieiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 318
+          }
+        },
+        {
+          "titulo": "Comissário de café",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 319
+          }
+        },
+        {
+          "titulo": "Comissário de mercadorias",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 320
+          }
+        },
+        {
+          "titulo": "Distribuidor de fumo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 321
+          }
+        },
+        {
+          "titulo": "Distribuidor de produtos químicos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 322
+          }
+        },
+        {
+          "titulo": "Distribuidor de revistas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 323
+          }
+        },
+        {
+          "titulo": "Exportador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 324
+          }
+        },
+        {
+          "titulo": "Exportador - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 325
+          }
+        },
+        {
+          "titulo": "Grossista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 326
+          }
+        },
+        {
+          "titulo": "Importador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 327
+          }
+        },
+        {
+          "titulo": "Lojista  (comércio atacadista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 328
+          }
+        },
+        {
+          "titulo": "Madeireiro (comércio atacadista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 329
+          }
+        },
+        {
+          "titulo": "Marchante (comércio de gado)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 330
+          }
+        },
+        {
+          "titulo": "Negociante (comércio atacadista )",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 331
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 126
+      }
+    },
+    {
+      "codigo": "141410",
+      "titulo": "Comerciante varejista",
+      "familia": "1414",
+      "sinonimos": [
+        {
+          "titulo": "Adegueiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 332
+          }
+        },
+        {
+          "titulo": "Adeleiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 333
+          }
+        },
+        {
+          "titulo": "Alfarrabista (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 334
+          }
+        },
+        {
+          "titulo": "Alheiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 335
+          }
+        },
+        {
+          "titulo": "Alugador (comerciante varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 336
+          }
+        },
+        {
+          "titulo": "Antiquário comércio varejista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 337
+          }
+        },
+        {
+          "titulo": "Armarinheiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 338
+          }
+        },
+        {
+          "titulo": "Armazenário (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 339
+          }
+        },
+        {
+          "titulo": "Armeiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 340
+          }
+        },
+        {
+          "titulo": "Arrozeiro (comércio)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 341
+          }
+        },
+        {
+          "titulo": "Aviador (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 342
+          }
+        },
+        {
+          "titulo": "Bacalhoeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 343
+          }
+        },
+        {
+          "titulo": "Baiuqueiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 344
+          }
+        },
+        {
+          "titulo": "Baleiro (exclusive no comércio ambulante)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 345
+          }
+        },
+        {
+          "titulo": "Barraconista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 346
+          }
+        },
+        {
+          "titulo": "Barraqueiro (barracão comercial)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 347
+          }
+        },
+        {
+          "titulo": "Bauleiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 348
+          }
+        },
+        {
+          "titulo": "Bazareiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 349
+          }
+        },
+        {
+          "titulo": "Beiradeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 350
+          }
+        },
+        {
+          "titulo": "Belchior",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 351
+          }
+        },
+        {
+          "titulo": "Bibliopola",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 352
+          }
+        },
+        {
+          "titulo": "Bodegueiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 353
+          }
+        },
+        {
+          "titulo": "Botequineiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 354
+          }
+        },
+        {
+          "titulo": "Bricabraquista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 355
+          }
+        },
+        {
+          "titulo": "Bricabraquista - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 356
+          }
+        },
+        {
+          "titulo": "Cacaulista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 357
+          }
+        },
+        {
+          "titulo": "Caga-sebista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 358
+          }
+        },
+        {
+          "titulo": "Cantineiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 359
+          }
+        },
+        {
+          "titulo": "Carniceiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 360
+          }
+        },
+        {
+          "titulo": "Carvoeiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 362
+          }
+        },
+        {
+          "titulo": "Carvoeiro - no comércio - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 361
+          }
+        },
+        {
+          "titulo": "Chanfaneiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 363
+          }
+        },
+        {
+          "titulo": "Chapeleiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 364
+          }
+        },
+        {
+          "titulo": "Charcuteiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 366
+          }
+        },
+        {
+          "titulo": "Charcuteiro - no comércio - conta própria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 365
+          }
+        },
+        {
+          "titulo": "Charqueador (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 367
+          }
+        },
+        {
+          "titulo": "Charuteiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 369
+          }
+        },
+        {
+          "titulo": "Charuteiro - no comércio - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 368
+          }
+        },
+        {
+          "titulo": "Chumbeiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 370
+          }
+        },
+        {
+          "titulo": "Cigarreiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 371
+          }
+        },
+        {
+          "titulo": "Comissário de transporte (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 372
+          }
+        },
+        {
+          "titulo": "Cuteleiro  (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 373
+          }
+        },
+        {
+          "titulo": "Diamantário (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 374
+          }
+        },
+        {
+          "titulo": "Doceiro (exclusive no comércio ambulante)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 375
+          }
+        },
+        {
+          "titulo": "Dono de lavanderia automática - conta própria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 376
+          }
+        },
+        {
+          "titulo": "Droguista (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 377
+          }
+        },
+        {
+          "titulo": "Ervanário (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 378
+          }
+        },
+        {
+          "titulo": "Estancieiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 379
+          }
+        },
+        {
+          "titulo": "Ferrageiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 380
+          }
+        },
+        {
+          "titulo": "Ferragista (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 381
+          }
+        },
+        {
+          "titulo": "Florista (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 382
+          }
+        },
+        {
+          "titulo": "Fornecedor",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 383
+          }
+        },
+        {
+          "titulo": "Fruteiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 384
+          }
+        },
+        {
+          "titulo": "Galinheiro (exceto no comércio ambulante)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 385
+          }
+        },
+        {
+          "titulo": "Geleiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 386
+          }
+        },
+        {
+          "titulo": "Gerente de box de mercado público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 387
+          }
+        },
+        {
+          "titulo": "Gerente de carrocerias (vendas a varejo)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 388
+          }
+        },
+        {
+          "titulo": "Gerente de casa de peixe",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 389
+          }
+        },
+        {
+          "titulo": "Gerente de editora",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 390
+          }
+        },
+        {
+          "titulo": "Gerente de farmácia",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 391
+          }
+        },
+        {
+          "titulo": "Gerente de granja",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 392
+          }
+        },
+        {
+          "titulo": "Herborista (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 393
+          }
+        },
+        {
+          "titulo": "Inspetor geral (comércio de mercadorias a varejo)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 394
+          }
+        },
+        {
+          "titulo": "Inspetor regional (comércio de mercadorias a varejo)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 395
+          }
+        },
+        {
+          "titulo": "Joalheiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 396
+          }
+        },
+        {
+          "titulo": "Lenheiro ( comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 397
+          }
+        },
+        {
+          "titulo": "Livreiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 398
+          }
+        },
+        {
+          "titulo": "Locador (serviços de diversões)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 412
+          }
+        },
+        {
+          "titulo": "Locador de animais para lazer",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 399
+          }
+        },
+        {
+          "titulo": "Locador de barco para lazer",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 400
+          }
+        },
+        {
+          "titulo": "Locador de bicicletas para lazer",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 401
+          }
+        },
+        {
+          "titulo": "Locador de bóia para lazer",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 402
+          }
+        },
+        {
+          "titulo": "Locador de cadeira de praia",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 403
+          }
+        },
+        {
+          "titulo": "Locador de cadeira para festa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 404
+          }
+        },
+        {
+          "titulo": "Locador de caiaque para lazer",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 405
+          }
+        },
+        {
+          "titulo": "Locador de eletrodomésticos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 406
+          }
+        },
+        {
+          "titulo": "Locador de mesas para festa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 407
+          }
+        },
+        {
+          "titulo": "Locador de móveis",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 408
+          }
+        },
+        {
+          "titulo": "Locador de patins para lazer",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 409
+          }
+        },
+        {
+          "titulo": "Locador de pedalinho para lazer",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 410
+          }
+        },
+        {
+          "titulo": "Locador de televisão",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 411
+          }
+        },
+        {
+          "titulo": "Lojista (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 413
+          }
+        },
+        {
+          "titulo": "Madeireiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 414
+          }
+        },
+        {
+          "titulo": "Maleiro (comércio varejista )",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 415
+          }
+        },
+        {
+          "titulo": "Merceeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 416
+          }
+        },
+        {
+          "titulo": "Muladeiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 417
+          }
+        },
+        {
+          "titulo": "Mulandeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 418
+          }
+        },
+        {
+          "titulo": "Negociante (comércio varejista - empregador)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 420
+          }
+        },
+        {
+          "titulo": "Negociante (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 419
+          }
+        },
+        {
+          "titulo": "Papeleiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 421
+          }
+        },
+        {
+          "titulo": "Peixeiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 422
+          }
+        },
+        {
+          "titulo": "Peleteiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 423
+          }
+        },
+        {
+          "titulo": "Proprietário de casa funerária (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 424
+          }
+        },
+        {
+          "titulo": "Proprietário de fliperama",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 425
+          }
+        },
+        {
+          "titulo": "Proprietário de jogos eletrônicos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 426
+          }
+        },
+        {
+          "titulo": "Proprietário de lavanderia",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 427
+          }
+        },
+        {
+          "titulo": "Proprietário de lavanderia automática (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 428
+          }
+        },
+        {
+          "titulo": "Proprietário de loja (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 429
+          }
+        },
+        {
+          "titulo": "Proprietário de pebolim (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 430
+          }
+        },
+        {
+          "titulo": "Proprietário de sinuquinha (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 431
+          }
+        },
+        {
+          "titulo": "Proprietário de tinturaria (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 432
+          }
+        },
+        {
+          "titulo": "Proprietário de totó (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 433
+          }
+        },
+        {
+          "titulo": "Quitandeiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 434
+          }
+        },
+        {
+          "titulo": "Relojoeiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 435
+          }
+        },
+        {
+          "titulo": "Retalhista (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 436
+          }
+        },
+        {
+          "titulo": "Sapateiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 437
+          }
+        },
+        {
+          "titulo": "Seleiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 438
+          }
+        },
+        {
+          "titulo": "Sorveteiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 440
+          }
+        },
+        {
+          "titulo": "Sócio proprietário (comércio  varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 439
+          }
+        },
+        {
+          "titulo": "Tintureiro lavagem de roupas (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 441
+          }
+        },
+        {
+          "titulo": "Vendeiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 442
+          }
+        },
+        {
+          "titulo": "Vidraceiro (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 443
+          }
+        },
+        {
+          "titulo": "Vidraceiro de quadros e molduras (comércio varejista)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 444
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 127
+      }
+    },
+    {
+      "codigo": "141415",
+      "titulo": "Gerente de loja e supermercado",
+      "familia": "1414",
+      "sinonimos": [
+        {
+          "titulo": "Administrador no comércio de mercadorias",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 445
+          }
+        },
+        {
+          "titulo": "Gerente de balconista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 446
+          }
+        },
+        {
+          "titulo": "Gerente de empresas comerciais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 447
+          }
+        },
+        {
+          "titulo": "Gerente de magazine",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 448
+          }
+        },
+        {
+          "titulo": "Gerente de mercearia",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 449
+          }
+        },
+        {
+          "titulo": "Gerente de papelaria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 450
+          }
+        },
+        {
+          "titulo": "Gerente de posto de venda",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 451
+          }
+        },
+        {
+          "titulo": "Gerente de supermercado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 452
+          }
+        },
+        {
+          "titulo": "Gerente de utilidades (operações comerciais)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 453
+          }
+        },
+        {
+          "titulo": "Gerente de varejo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 454
+          }
+        },
+        {
+          "titulo": "Subchefe de loja (operações comerciais)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 455
+          }
+        },
+        {
+          "titulo": "Subgerente de loja (operações comerciais)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 456
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 128
+      }
+    },
+    {
+      "codigo": "141420",
+      "titulo": "Gerente de operações de serviços de assistência técnica",
+      "familia": "1414",
+      "sinonimos": [
+        {
+          "titulo": "Gerente de serviços de oficina (assistência técnica)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 457
+          }
+        },
+        {
+          "titulo": "Gerente de serviços e peças",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 458
+          }
+        },
+        {
+          "titulo": "Proprietário de oficina mecânica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 459
+          }
+        },
+        {
+          "titulo": "Subgerente de oficina (assistência técnica)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 460
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 129
+      }
+    },
+    {
+      "codigo": "141505",
+      "titulo": "Gerente de hotel",
+      "familia": "1415",
+      "sinonimos": [
+        {
+          "titulo": "Administrador (serviço de hospedagem)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 463
+          }
+        },
+        {
+          "titulo": "Administrador de camping",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 461
+          }
+        },
+        {
+          "titulo": "Administrador de empresas de hospedagem",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 462
+          }
+        },
+        {
+          "titulo": "Dono de hotel - conta própria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 464
+          }
+        },
+        {
+          "titulo": "Dono de motel - conta própria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 465
+          }
+        },
+        {
+          "titulo": "Gerente de apart hotel",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 466
+          }
+        },
+        {
+          "titulo": "Gerente de ecoresort",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 467
+          }
+        },
+        {
+          "titulo": "Gerente de estância",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 468
+          }
+        },
+        {
+          "titulo": "Gerente de hotel fazenda",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 469
+          }
+        },
+        {
+          "titulo": "Gerente de hotel residencial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 470
+          }
+        },
+        {
+          "titulo": "Gerente de resort",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 471
+          }
+        },
+        {
+          "titulo": "Gerente de termas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 472
+          }
+        },
+        {
+          "titulo": "Proprietário - nos serviços de alojamento - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 473
+          }
+        },
+        {
+          "titulo": "Proprietário - nos serviços de hospedagem - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 474
+          }
+        },
+        {
+          "titulo": "Proprietário de hotel - conta própria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 475
+          }
+        },
+        {
+          "titulo": "Proprietário de hotel - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 476
+          }
+        },
+        {
+          "titulo": "Proprietário de motel - conta própria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 477
+          }
+        },
+        {
+          "titulo": "Subgerente de hotel",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 484
+          }
+        },
+        {
+          "titulo": "Sócio-proprietário - nos serviços de alojamento - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 478
+          }
+        },
+        {
+          "titulo": "Sócio-proprietário - nos serviços de hospedagem - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 479
+          }
+        },
+        {
+          "titulo": "Sócio-proprietário de hotel - conta-própria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 480
+          }
+        },
+        {
+          "titulo": "Sócio-proprietário de hotel - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 481
+          }
+        },
+        {
+          "titulo": "Sócio-proprietário de motel - conta própria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 482
+          }
+        },
+        {
+          "titulo": "Sócio-proprietário de motel - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 483
+          }
+        },
+        {
+          "titulo": "Tecnólogo em hotelaria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 485
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 130
+      }
+    },
+    {
+      "codigo": "141510",
+      "titulo": "Gerente de restaurante",
+      "familia": "1415",
+      "sinonimos": [
+        {
+          "titulo": "Administrador de refeitório",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 486
+          }
+        },
+        {
+          "titulo": "Administrador de restaurante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 487
+          }
+        },
+        {
+          "titulo": "Assistente de direção de restaurante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 488
+          }
+        },
+        {
+          "titulo": "Coordenador de restaurante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 489
+          }
+        },
+        {
+          "titulo": "Coordenador de vendas (restaurante)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 490
+          }
+        },
+        {
+          "titulo": "Gerente de cantina",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 491
+          }
+        },
+        {
+          "titulo": "Proprietário - nos serviços de alimentação - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 492
+          }
+        },
+        {
+          "titulo": "Proprietário de restaurante - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 493
+          }
+        },
+        {
+          "titulo": "Proprietário no serviço de alimentação - conta própria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 494
+          }
+        },
+        {
+          "titulo": "Subgerente de restaurante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 499
+          }
+        },
+        {
+          "titulo": "Sócio proprietário - no serviço de alimentação - conta própria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 495
+          }
+        },
+        {
+          "titulo": "Sócio proprietário - no serviço de alimentação - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 496
+          }
+        },
+        {
+          "titulo": "Sócio proprietário de restaurante - conta própria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 497
+          }
+        },
+        {
+          "titulo": "Sócio proprietário de restaurante - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 498
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 131
+      }
+    },
+    {
+      "codigo": "141515",
+      "titulo": "Gerente de bar",
+      "familia": "1415",
+      "sinonimos": [
+        {
+          "titulo": "Gerente administrativo de lanchonete",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 500
+          }
+        },
+        {
+          "titulo": "Gerente de bar e lanchonete",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 502
+          }
+        },
+        {
+          "titulo": "Gerente de bar, cantina e restaurante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 501
+          }
+        },
+        {
+          "titulo": "Gerente de salão de café",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 503
+          }
+        },
+        {
+          "titulo": "Proprietário de bar - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 504
+          }
+        },
+        {
+          "titulo": "Proprietário de bar, lanchonete, restaurante - conta própria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 505
+          }
+        },
+        {
+          "titulo": "Proprietário de lanchonete - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 506
+          }
+        },
+        {
+          "titulo": "Sócio proprietário de bar - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 507
+          }
+        },
+        {
+          "titulo": "Sócio proprietário de bar, lanchonete - conta própria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 508
+          }
+        },
+        {
+          "titulo": "Sócio proprietário de lanchonete - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 509
+          }
+        },
+        {
+          "titulo": "Taverneiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 510
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 132
+      }
+    },
+    {
+      "codigo": "141520",
+      "titulo": "Gerente de pensão",
+      "familia": "1415",
+      "sinonimos": [
+        {
+          "titulo": "Dono de pensão - conta própria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 511
+          }
+        },
+        {
+          "titulo": "Dono de pensão - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 512
+          }
+        },
+        {
+          "titulo": "Estalageiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 513
+          }
+        },
+        {
+          "titulo": "Gerente de  albergue",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 514
+          }
+        },
+        {
+          "titulo": "Gerente de pensionato",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 515
+          }
+        },
+        {
+          "titulo": "Gerente de pousada",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 516
+          }
+        },
+        {
+          "titulo": "Proprietário de pensão - conta própria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 517
+          }
+        },
+        {
+          "titulo": "Proprietário de pensão - empregador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 518
+          }
+        },
+        {
+          "titulo": "Sócio proprietário de pensão",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 519
+          }
+        },
+        {
+          "titulo": "Sócio proprietário de pensão - conta própria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 520
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 133
+      }
+    },
+    {
+      "codigo": "141525",
+      "titulo": "Gerente de turismo",
+      "familia": "1415",
+      "sinonimos": [
+        {
+          "titulo": "Gerente de operações de turismo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 521
+          }
+        },
+        {
+          "titulo": "Gerente de produtos de turismo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 522
+          }
+        },
+        {
+          "titulo": "Gerente operacional de turismo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 523
+          }
+        },
+        {
+          "titulo": "Tecnólogo em gestão de turismo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 524
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 134
+      }
+    },
+    {
+      "codigo": "141605",
+      "titulo": "Gerente de operações de transportes",
+      "familia": "1416",
+      "sinonimos": [
+        {
+          "titulo": "Agente de navio - no transporte marítimo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 525
+          }
+        },
+        {
+          "titulo": "Encarregado de operação de porto",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 526
+          }
+        },
+        {
+          "titulo": "Gerente de frota",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 527
+          }
+        },
+        {
+          "titulo": "Gerente de operações e transportes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 528
+          }
+        },
+        {
+          "titulo": "Gerente de transportes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 530
+          }
+        },
+        {
+          "titulo": "Gerente de tráfego",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 529
+          }
+        },
+        {
+          "titulo": "Gerente técnico operacional de transporte",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 531
+          }
+        },
+        {
+          "titulo": "Subgerente nos transportes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 532
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 135
+      }
+    },
+    {
+      "codigo": "141610",
+      "titulo": "Gerente de operações de correios e telecomunicações",
+      "familia": "1416",
+      "sinonimos": [
+        {
+          "titulo": "Gerente de assistência técnica nas operações de correios e telecomunicações",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 533
+          }
+        },
+        {
+          "titulo": "Gerente de correio expresso - internacional",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 534
+          }
+        },
+        {
+          "titulo": "Gerente de encomendas nas operações de correios e telecomunicações",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 535
+          }
+        },
+        {
+          "titulo": "Gerente de operações e manutenção nos sistemas de correios e telecomunicações",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 536
+          }
+        },
+        {
+          "titulo": "Gerente de rede nas operações de correios e telecomunicações",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 537
+          }
+        },
+        {
+          "titulo": "Gerente de serviços operacionais de correios e telecomunicações",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 538
+          }
+        },
+        {
+          "titulo": "Gerente de suporte operacional de correios e telecomunicações",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 539
+          }
+        },
+        {
+          "titulo": "Gerente técnico nas operações de correios e telecomunicações",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 540
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 136
+      }
+    },
+    {
+      "codigo": "141615",
+      "titulo": "Gerente de logística (armazenagem e distribuição)",
+      "familia": "1416",
+      "sinonimos": [
+        {
+          "titulo": "Gerente de armazém",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 541
+          }
+        },
+        {
+          "titulo": "Gerente de depósito",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 542
+          }
+        },
+        {
+          "titulo": "Gerente de distribuição de mercadorias",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 543
+          }
+        },
+        {
+          "titulo": "Gerente de movimentação de materiais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 544
+          }
+        },
+        {
+          "titulo": "Gerente de recebimento e expedição de materiais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 545
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 137
+      }
+    },
+    {
+      "codigo": "141705",
+      "titulo": "Gerente de produtos bancários",
+      "familia": "1417",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 138
+      }
+    },
+    {
+      "codigo": "141710",
+      "titulo": "Gerente de agência",
+      "familia": "1417",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 139
+      }
+    },
+    {
+      "codigo": "141715",
+      "titulo": "Gerente de câmbio e comércio exterior",
+      "familia": "1417",
+      "sinonimos": [
+        {
+          "titulo": "Administrador de carteiras de câmbio e comércio exterior",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 546
+          }
+        },
+        {
+          "titulo": "Gerente de administração de carteiras de câmbio e comércio exterior",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 547
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 140
+      }
+    },
+    {
+      "codigo": "141720",
+      "titulo": "Gerente de crédito e cobrança",
+      "familia": "1417",
+      "sinonimos": [
+        {
+          "titulo": "Administrador de carteiras de crédito e cobrança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 548
+          }
+        },
+        {
+          "titulo": "Gerente de administração de carteiras de crédito e cobrança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 549
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 141
+      }
+    },
+    {
+      "codigo": "141725",
+      "titulo": "Gerente de crédito imobiliário",
+      "familia": "1417",
+      "sinonimos": [
+        {
+          "titulo": "Administrador de carteiras de crédito imobiliário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 550
+          }
+        },
+        {
+          "titulo": "Gerente de administração de carteira de crédito imobiliário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 551
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 142
+      }
+    },
+    {
+      "codigo": "141730",
+      "titulo": "Gerente de crédito rural",
+      "familia": "1417",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 143
+      }
+    },
+    {
+      "codigo": "141735",
+      "titulo": "Gerente de recuperação de crédito",
+      "familia": "1417",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 144
+      }
+    },
+    {
+      "codigo": "141805",
+      "titulo": "Gerente de administração em aeroportos",
+      "familia": "1418",
+      "sinonimos": [
+        {
+          "titulo": "Gerente de aeródromo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 552
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 145
+      }
+    },
+    {
+      "codigo": "141810",
+      "titulo": "Gerente de empresa aérea e empresa de serviços auxiliares ao transporte aéreo (esata) em aeroportos",
+      "familia": "1418",
+      "sinonimos": [
+        {
+          "titulo": "Gerente de aeroportos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 553
+          }
+        },
+        {
+          "titulo": "Gerente de atendimento a passageiros",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 554
+          }
+        },
+        {
+          "titulo": "Gerente de aviação executiva",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 555
+          }
+        },
+        {
+          "titulo": "Gerente de rampa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 556
+          }
+        },
+        {
+          "titulo": "Gerente de taxi aéreo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 557
+          }
+        },
+        {
+          "titulo": "Gerente operacional",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 558
+          }
+        },
+        {
+          "titulo": "Gerente regional de aeroportos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 559
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 146
+      }
+    },
+    {
+      "codigo": "141815",
+      "titulo": "Gerente de operações em aeroportos",
+      "familia": "1418",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 147
+      }
+    },
+    {
+      "codigo": "141820",
+      "titulo": "Gerente de operações de cargas",
+      "familia": "1418",
+      "sinonimos": [
+        {
+          "titulo": "Gerente de cargas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 560
+          }
+        },
+        {
+          "titulo": "Gerente de tráfego de cargas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 561
+          }
+        },
+        {
+          "titulo": "Gerente operacional de cargas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 562
+          }
+        },
+        {
+          "titulo": "Gerente regional de cargas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 563
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 148
+      }
+    },
+    {
+      "codigo": "141825",
+      "titulo": "Gerente de segurança da aviação civil",
+      "familia": "1418",
+      "sinonimos": [
+        {
+          "titulo": "Gerente avsec (segurança da aviação civil)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 564
+          }
+        },
+        {
+          "titulo": "Gerente de security",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 565
+          }
+        },
+        {
+          "titulo": "Gerente de segurança e resposta à emergência",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 566
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 149
+      }
+    },
+    {
+      "codigo": "141830",
+      "titulo": "Gerente de segurança operacional (aviação civil)",
+      "familia": "1418",
+      "sinonimos": [
+        {
+          "titulo": "Gerente de investigação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 567
+          }
+        },
+        {
+          "titulo": "Gerente de prevenção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 568
+          }
+        },
+        {
+          "titulo": "Gerente de safety",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 569
+          }
+        },
+        {
+          "titulo": "Gerente de sistema de gerenciamento de segurança operacional (sgso)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 570
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 150
+      }
+    },
+    {
+      "codigo": "142105",
+      "titulo": "Gerente administrativo",
+      "familia": "1421",
+      "sinonimos": [
+        {
+          "titulo": "Gerente administrativo e financeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 571
+          }
+        },
+        {
+          "titulo": "Gerente de sistemas administrativos e finanças",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 572
+          }
+        },
+        {
+          "titulo": "Gerente de sistemas e métodos administrativos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 573
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 151
+      }
+    },
+    {
+      "codigo": "142110",
+      "titulo": "Gerente de riscos",
+      "familia": "1421",
+      "sinonimos": [
+        {
+          "titulo": "Gerente de riscos e seguros",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 574
+          }
+        },
+        {
+          "titulo": "Gerente de seguros",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 575
+          }
+        },
+        {
+          "titulo": "Gestor de riscos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 576
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 152
+      }
+    },
+    {
+      "codigo": "142115",
+      "titulo": "Gerente financeiro",
+      "familia": "1421",
+      "sinonimos": [
+        {
+          "titulo": "Gerente de administração financeira",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 577
+          }
+        },
+        {
+          "titulo": "Gerente de finanças",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 578
+          }
+        },
+        {
+          "titulo": "Gerente de operações financeiras",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 579
+          }
+        },
+        {
+          "titulo": "Tecnólogo em gestão financeira",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 580
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 153
+      }
+    },
+    {
+      "codigo": "142120",
+      "titulo": "Tecnólogo em gestão administrativo- financeira",
+      "familia": "1421",
+      "sinonimos": [
+        {
+          "titulo": "Tecnólogo em gestão de cooperativas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 581
+          }
+        },
+        {
+          "titulo": "Tecnólogo em gestão pública",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 582
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 154
+      }
+    },
+    {
+      "codigo": "142125",
+      "titulo": "Analista de compliance",
+      "familia": "1421",
+      "sinonimos": [
+        {
+          "titulo": "Analista de integridade (compliance)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 583
+          }
+        },
+        {
+          "titulo": "Assistente de compliance",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 584
+          }
+        },
+        {
+          "titulo": "Especialista em compliance",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 585
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 155
+      }
+    },
+    {
+      "codigo": "142130",
+      "titulo": "Analista de riscos",
+      "familia": "1421",
+      "sinonimos": [
+        {
+          "titulo": "Analista de gerenciamento de riscos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 586
+          }
+        },
+        {
+          "titulo": "Analista de riscos corporativos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 587
+          }
+        },
+        {
+          "titulo": "Analista de riscos e controles internos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 588
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 156
+      }
+    },
+    {
+      "codigo": "142135",
+      "titulo": "Oficial de proteção de dados pessoais (dpo)",
+      "familia": "1421",
+      "sinonimos": [
+        {
+          "titulo": "Encarregado de proteção de dados pessoais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 589
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 157
+      }
+    },
+    {
+      "codigo": "142140",
+      "titulo": "Gerente de facility management",
+      "familia": "1421",
+      "sinonimos": [
+        {
+          "titulo": "Gerente de infraestrutura (facility management)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 590
+          }
+        },
+        {
+          "titulo": "Gerente de propriedade (facility management)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 591
+          }
+        },
+        {
+          "titulo": "Gerente de workplace (facility management)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 592
+          }
+        },
+        {
+          "titulo": "Profissional de facility management",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 593
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 158
+      }
+    },
+    {
+      "codigo": "142205",
+      "titulo": "Gerente de recursos humanos",
+      "familia": "1422",
+      "sinonimos": [
+        {
+          "titulo": "Coordenador de rh",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 594
+          }
+        },
+        {
+          "titulo": "Gerente de planejamento de salários e benefícios",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 595
+          }
+        },
+        {
+          "titulo": "Gerente de relações de recursos humanos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 596
+          }
+        },
+        {
+          "titulo": "Gerente de relações humanas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 597
+          }
+        },
+        {
+          "titulo": "Gerente de relações industriais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 598
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 159
+      }
+    },
+    {
+      "codigo": "142210",
+      "titulo": "Gerente de departamento pessoal",
+      "familia": "1422",
+      "sinonimos": [
+        {
+          "titulo": "Administrador de pessoal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 599
+          }
+        },
+        {
+          "titulo": "Coordenador de administração de pessoal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 600
+          }
+        },
+        {
+          "titulo": "Gerente de administração de pessoal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 601
+          }
+        },
+        {
+          "titulo": "Gerente de divisão de pessoal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 602
+          }
+        },
+        {
+          "titulo": "Gerente de setor de pessoal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 603
+          }
+        },
+        {
+          "titulo": "Gerente de sistemas administrativos de pessoal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 604
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 160
+      }
+    },
+    {
+      "codigo": "142305",
+      "titulo": "Gerente comercial",
+      "familia": "1423",
+      "sinonimos": [
+        {
+          "titulo": "Encarregado de supermercado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 605
+          }
+        },
+        {
+          "titulo": "Gerente de divisão comercial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 606
+          }
+        },
+        {
+          "titulo": "Gerente de exportação e importação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 607
+          }
+        },
+        {
+          "titulo": "Gerente técnico comercial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 608
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 161
+      }
+    },
+    {
+      "codigo": "142310",
+      "titulo": "Gerente de comunicação",
+      "familia": "1423",
+      "sinonimos": [
+        {
+          "titulo": "Gerente de assuntos corporativos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 609
+          }
+        },
+        {
+          "titulo": "Gerente de comunicação corporativa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 610
+          }
+        },
+        {
+          "titulo": "Gerente de comunicação social",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 611
+          }
+        },
+        {
+          "titulo": "Gerente de relações corporativas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 612
+          }
+        },
+        {
+          "titulo": "Gerente de relações institucionais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 613
+          }
+        },
+        {
+          "titulo": "Gerente de relações públicas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 614
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 162
+      }
+    },
+    {
+      "codigo": "142315",
+      "titulo": "Gerente de marketing",
+      "familia": "1423",
+      "sinonimos": [
+        {
+          "titulo": "Gerente de coordenação de marketing",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 615
+          }
+        },
+        {
+          "titulo": "Gerente de departamento de marketing",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 616
+          }
+        },
+        {
+          "titulo": "Gerente de divisão de marketing",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 617
+          }
+        },
+        {
+          "titulo": "Gerente de marketing e vendas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 618
+          }
+        },
+        {
+          "titulo": "Gerente de produtos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 619
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 163
+      }
+    },
+    {
+      "codigo": "142320",
+      "titulo": "Gerente de vendas",
+      "familia": "1423",
+      "sinonimos": [
+        {
+          "titulo": "Gerente de departamento de vendas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 621
+          }
+        },
+        {
+          "titulo": "Gerente de exportação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 622
+          }
+        },
+        {
+          "titulo": "Gerente de mercado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 623
+          }
+        },
+        {
+          "titulo": "Gerente de área de vendas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 620
+          }
+        },
+        {
+          "titulo": "Gerente distrital de vendas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 624
+          }
+        },
+        {
+          "titulo": "Gerente geral de vendas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 625
+          }
+        },
+        {
+          "titulo": "Gerente nacional de vendas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 626
+          }
+        },
+        {
+          "titulo": "Gerente regional de vendas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 627
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 164
+      }
+    },
+    {
+      "codigo": "142325",
+      "titulo": "Relações públicas",
+      "familia": "1423",
+      "sinonimos": [
+        {
+          "titulo": "Especialista de comunicação em relações públicas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 628
+          }
+        },
+        {
+          "titulo": "Profissional de relações públicas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 629
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 165
+      }
+    },
+    {
+      "codigo": "142330",
+      "titulo": "Analista de negócios",
+      "familia": "1423",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 166
+      }
+    },
+    {
+      "codigo": "142335",
+      "titulo": "Analista de pesquisa de mercado",
+      "familia": "1423",
+      "sinonimos": [
+        {
+          "titulo": "Analista de estudos de mercado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 630
+          }
+        },
+        {
+          "titulo": "Analista de informações de mercado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 631
+          }
+        },
+        {
+          "titulo": "Analista de inteligência de mercado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 632
+          }
+        },
+        {
+          "titulo": "Analista de marketing",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 633
+          }
+        },
+        {
+          "titulo": "Analista de mercado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 634
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 167
+      }
+    },
+    {
+      "codigo": "142340",
+      "titulo": "Ouvidor",
+      "familia": "1423",
+      "sinonimos": [
+        {
+          "titulo": "Ombudsman",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 635
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 168
+      }
+    },
+    {
+      "codigo": "142345",
+      "titulo": "Profissional de relações institucionais e governamentais",
+      "familia": "1423",
+      "sinonimos": [
+        {
+          "titulo": "Defensor de interesses ( relações governamentais)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 636
+          }
+        },
+        {
+          "titulo": "Profissionais de relações institucionais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 637
+          }
+        },
+        {
+          "titulo": "Profissional de relações governamentais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 638
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 169
+      }
+    },
+    {
+      "codigo": "142350",
+      "titulo": "Profissonal de relações internacionais",
+      "familia": "1423",
+      "sinonimos": [
+        {
+          "titulo": "Analista de mercado internacional",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 639
+          }
+        },
+        {
+          "titulo": "Analista de relações internacionais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 640
+          }
+        },
+        {
+          "titulo": "Gestor de negócios internacionais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 641
+          }
+        },
+        {
+          "titulo": "Gestor de projetos internacionais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 642
+          }
+        },
+        {
+          "titulo": "Internacionalista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 643
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 170
+      }
+    },
+    {
+      "codigo": "142355",
+      "titulo": "Analista de e-commerce",
+      "familia": "1423",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 171
+      }
+    },
+    {
+      "codigo": "142405",
+      "titulo": "Gerente de compras",
+      "familia": "1424",
+      "sinonimos": [
+        {
+          "titulo": "Administrador de compras",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 644
+          }
+        },
+        {
+          "titulo": "Coordenador de compras",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 645
+          }
+        },
+        {
+          "titulo": "Gerente de materiais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 646
+          }
+        },
+        {
+          "titulo": "Gerente de planejamento de compras",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 647
+          }
+        },
+        {
+          "titulo": "Gerente geral de compras",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 648
+          }
+        },
+        {
+          "titulo": "Gerente nacional de compras",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 649
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 172
+      }
+    },
+    {
+      "codigo": "142410",
+      "titulo": "Gerente de suprimentos",
+      "familia": "1424",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 173
+      }
+    },
+    {
+      "codigo": "142415",
+      "titulo": "Gerente de almoxarifado",
+      "familia": "1424",
+      "sinonimos": [
+        {
+          "titulo": "Administrador de materiais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 650
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 174
+      }
+    },
+    {
+      "codigo": "142505",
+      "titulo": "Gerente de infraestrutura de tecnologia da informação",
+      "familia": "1425",
+      "sinonimos": [
+        {
+          "titulo": "Coordenador de infraestrutura de tecnologia da informação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 651
+          }
+        },
+        {
+          "titulo": "Gerente de rede",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 652
+          }
+        },
+        {
+          "titulo": "Gerente executivo de infraestrutura de ti",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 653
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 175
+      }
+    },
+    {
+      "codigo": "142510",
+      "titulo": "Gerente de desenvolvimento de sistemas",
+      "familia": "1425",
+      "sinonimos": [
+        {
+          "titulo": "Coordenador de desenvolvimento de ti",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 654
+          }
+        },
+        {
+          "titulo": "Gerente de desenvolvimento de aplicações",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 655
+          }
+        },
+        {
+          "titulo": "Gerente de desenvolvimento de software",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 656
+          }
+        },
+        {
+          "titulo": "Gerente de desenvolvimento de ti",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 657
+          }
+        },
+        {
+          "titulo": "Gerente de sistemas de ti",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 658
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 176
+      }
+    },
+    {
+      "codigo": "142515",
+      "titulo": "Gerente de operação de tecnologia da informação",
+      "familia": "1425",
+      "sinonimos": [
+        {
+          "titulo": "Coordenador de operação de tecnologia da informação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 659
+          }
+        },
+        {
+          "titulo": "Gerente de produção de tecnologia da informação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 660
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 177
+      }
+    },
+    {
+      "codigo": "142520",
+      "titulo": "Gerente de projetos de tecnologia da informação",
+      "familia": "1425",
+      "sinonimos": [
+        {
+          "titulo": "Coordenador de projetos de tecnologia da informação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 661
+          }
+        },
+        {
+          "titulo": "Gerente de programas de ti",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 662
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 178
+      }
+    },
+    {
+      "codigo": "142525",
+      "titulo": "Gerente de segurança da informação",
+      "familia": "1425",
+      "sinonimos": [
+        {
+          "titulo": "Coordenador de segurança da informação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 663
+          }
+        },
+        {
+          "titulo": "Gerente de cyber security",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 664
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 179
+      }
+    },
+    {
+      "codigo": "142530",
+      "titulo": "Gerente de suporte técnico de tecnologia da informação",
+      "familia": "1425",
+      "sinonimos": [
+        {
+          "titulo": "Coordenador de suporte técnico de tecnologia da informação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 665
+          }
+        },
+        {
+          "titulo": "Gerente de atendimento de tecnologia da informação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 666
+          }
+        },
+        {
+          "titulo": "Gerente de operação de suporte de tecnologia da informação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 667
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 180
+      }
+    },
+    {
+      "codigo": "142535",
+      "titulo": "Tecnólogo em gestão da tecnologia da informação",
+      "familia": "1425",
+      "sinonimos": [
+        {
+          "titulo": "Tecnólogo em gestão de sistema de informação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 668
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 181
+      }
+    },
+    {
+      "codigo": "142605",
+      "titulo": "Gerente de pesquisa e desenvolvimento (p&d)",
+      "familia": "1426",
+      "sinonimos": [
+        {
+          "titulo": "Chefe de desenvolvimento de novos produtos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 669
+          }
+        },
+        {
+          "titulo": "Gerente de desenvolvimento (tecnologia)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 670
+          }
+        },
+        {
+          "titulo": "Gerente de divisão de desenvolvimento de novos produtos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 671
+          }
+        },
+        {
+          "titulo": "Gerente de estudos e projetos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 672
+          }
+        },
+        {
+          "titulo": "Gerente de pesquisa (tecnologia)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 673
+          }
+        },
+        {
+          "titulo": "Gerente de pesquisas tecnológicas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 675
+          }
+        },
+        {
+          "titulo": "Gerente de pesquisas técnicas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 674
+          }
+        },
+        {
+          "titulo": "Gerente de planejamento e novos projetos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 676
+          }
+        },
+        {
+          "titulo": "Gerente de projeto de pesquisa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 677
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 182
+      }
+    },
+    {
+      "codigo": "142610",
+      "titulo": "Especialista em desenvolvimento de cigarros",
+      "familia": "1426",
+      "sinonimos": [
+        {
+          "titulo": "Blender (cigarros)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 678
+          }
+        },
+        {
+          "titulo": "Flavourist (cigarros)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 679
+          }
+        },
+        {
+          "titulo": "Flavourista (cigarros)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 680
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 183
+      }
+    },
+    {
+      "codigo": "142705",
+      "titulo": "Gerente de projetos e serviços de manutenção",
+      "familia": "1427",
+      "sinonimos": [
+        {
+          "titulo": "Coordenador de projetos de manutenção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 681
+          }
+        },
+        {
+          "titulo": "Coordenador de serviços de manutenção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 682
+          }
+        },
+        {
+          "titulo": "Gerente de planejamento e manutenção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 683
+          }
+        },
+        {
+          "titulo": "Gerente de serviço de manutenção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 684
+          }
+        },
+        {
+          "titulo": "Gestor de manutenção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 685
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 184
+      }
+    },
+    {
+      "codigo": "142710",
+      "titulo": "Tecnólogo em sistemas biomédicos",
+      "familia": "1427",
+      "sinonimos": [
+        {
+          "titulo": "Tecnólogo em saúde",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 686
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 185
+      }
+    }
+  ]
+}

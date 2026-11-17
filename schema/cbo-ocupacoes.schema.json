@@ -1,0 +1,128 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://qbq.dev/schema/cbo-ocupacoes.schema.json",
+  "title": "Ocupações da CBO 2002 de um grande grupo, com sinônimos",
+  "type": "object",
+  "required": [
+    "grande_grupo",
+    "versao_dados",
+    "fonte",
+    "total",
+    "ocupacoes"
+  ],
+  "properties": {
+    "grande_grupo": {
+      "type": "string",
+      "pattern": "^[0-9]$"
+    },
+    "versao_dados": {
+      "type": "string"
+    },
+    "fonte": {
+      "type": "string"
+    },
+    "total": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "ocupacoes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "codigo",
+          "titulo",
+          "familia",
+          "sinonimos",
+          "vigencia",
+          "fonte"
+        ],
+        "properties": {
+          "codigo": {
+            "type": "string",
+            "pattern": "^[0-9]{6}$"
+          },
+          "titulo": {
+            "type": "string",
+            "minLength": 1
+          },
+          "familia": {
+            "type": "string",
+            "pattern": "^[0-9]{4}$"
+          },
+          "sinonimos": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "titulo",
+                "fonte"
+              ],
+              "properties": {
+                "titulo": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "fonte": {
+                  "$ref": "#/$defs/fonte"
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "vigencia": {
+            "type": "object",
+            "required": [
+              "status",
+              "desde",
+              "ate"
+            ],
+            "properties": {
+              "status": {
+                "type": "string",
+                "enum": [
+                  "vigente",
+                  "revogado"
+                ]
+              },
+              "desde": {
+                "type": "string"
+              },
+              "ate": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            },
+            "additionalProperties": false
+          },
+          "fonte": {
+            "$ref": "#/$defs/fonte"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "$defs": {
+    "fonte": {
+      "type": "object",
+      "required": [
+        "arquivo",
+        "linha"
+      ],
+      "properties": {
+        "arquivo": {
+          "type": "string"
+        },
+        "linha": {
+          "type": "integer",
+          "minimum": 2
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

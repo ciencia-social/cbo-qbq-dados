@@ -1,0 +1,88 @@
+{
+  "versao_dados": "dados-2026.11",
+  "fonte": "fontes/cbo/cbo2002-grande-grupo.csv",
+  "nivel": "grandes-grupos",
+  "total": 10,
+  "itens": [
+    {
+      "codigo": "0",
+      "titulo": "MEMBROS DAS FORÇAS ARMADAS, POLICIAIS E BOMBEIROS MILITARES",
+      "fonte": {
+        "arquivo": "cbo2002-grande-grupo.csv",
+        "linha": 2
+      }
+    },
+    {
+      "codigo": "1",
+      "titulo": "MEMBROS SUPERIORES DO PODER PÚBLICO, DIRIGENTES DE ORGANIZAÇÕES DE INTERESSE PÚBLICO E DE EMPRESAS, GERENTES",
+      "fonte": {
+        "arquivo": "cbo2002-grande-grupo.csv",
+        "linha": 3
+      }
+    },
+    {
+      "codigo": "2",
+      "titulo": "PROFISSIONAIS DAS CIÊNCIAS E DAS ARTES",
+      "fonte": {
+        "arquivo": "cbo2002-grande-grupo.csv",
+        "linha": 4
+      }
+    },
+    {
+      "codigo": "3",
+      "titulo": "TÉCNICOS DE NIVEL MÉDIO",
+      "fonte": {
+        "arquivo": "cbo2002-grande-grupo.csv",
+        "linha": 5
+      }
+    },
+    {
+      "codigo": "4",
+      "titulo": "TRABALHADORES DE SERVIÇOS ADMINISTRATIVOS",
+      "fonte": {
+        "arquivo": "cbo2002-grande-grupo.csv",
+        "linha": 6
+      }
+    },
+    {
+      "codigo": "5",
+      "titulo": "TRABALHADORES DOS SERVIÇOS, VENDEDORES DO COMÉRCIO EM LOJAS E MERCADOS",
+      "fonte": {
+        "arquivo": "cbo2002-grande-grupo.csv",
+        "linha": 7
+      }
+    },
+    {
+      "codigo": "6",
+      "titulo": "TRABALHADORES AGROPECUÁRIOS, FLORESTAIS E DA PESCA",
+      "fonte": {
+        "arquivo": "cbo2002-grande-grupo.csv",
+        "linha": 8
+      }
+    },
+    {
+      "codigo": "7",
+      "titulo": "TRABALHADORES DA PRODUÇÃO DE BENS E SERVIÇOS INDUSTRIAIS",
+      "fonte": {
+        "arquivo": "cbo2002-grande-grupo.csv",
+        "linha": 9
+      }
+    },
+    {
+      "codigo": "8",
+      "titulo": "TRABALHADORES DA PRODUÇÃO DE BENS E SERVIÇOS INDUSTRIAIS",
+      "fonte": {
+        "arquivo": "cbo2002-grande-grupo.csv",
+        "linha": 10
+      }
+    },
+    {
+      "codigo": "9",
+      "titulo": "TRABALHADORES EM SERVIÇOS DE REPARAÇÃO E MANUTENÇÃO",
+      "fonte": {
+        "arquivo": "cbo2002-grande-grupo.csv",
+        "linha": 11
+      }
+    }
+  ]
+}

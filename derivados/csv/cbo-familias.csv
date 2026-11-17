@@ -1,0 +1,627 @@
+codigo,titulo,pai
+0101,Oficiais generais das forças armadas,010
+0102,Oficiais das forças armadas,010
+0103,Praças das forças armadas,010
+0201,Oficiais superiores da polícia militar,020
+0202,Capitães da  polícia militar,020
+0203,Tenentes da polícia militar,020
+0211,Subtenentes e sargentos da policia militar,021
+0212,Cabos e soldados da polícia militar,021
+0301,Oficiais superiores do corpo de bombeiros militar,030
+0302,Oficiais intermediários do corpo de bombeiros militar,030
+0303,Tenentes do corpo de bombeiros militar,030
+0311,Subtenentes e sargentos do corpo de bombeiros militar,031
+0312,Cabos e soldados do corpo de bombeiros militar,031
+1111,Legisladores,111
+1112,Dirigentes gerais da administração pública,111
+1113,Magistrados,111
+1114,Dirigentes do serviço público,111
+1115,Gestores públicos,111
+1130,"Dirigentes de povos indígenas, de quilombolas e caiçaras",113
+1141,Dirigentes de partidos políticos,114
+1142,Dirigentes e administradores de entidades patronais e dos trabalhadores e de outros interesses sócioeconômicos,114
+1143,Dirigentes e administradores de entidades religiosas,114
+1144,Dirigentes e administradores de organizações da sociedade civil sem fins lucrativos,114
+1210,Diretores gerais,121
+1221,"Diretores de produção e operações em empresa agropecuária, pesqueira , aqüícola e florestal",122
+1222,"Diretores de produção e operações em empresa da indústria extrativa, transformação e de serviços de utilidade pública",122
+1223,Diretores de operações de obras em empresa de construção,122
+1224,Diretores de operações em empresa do comércio,122
+1225,"Diretores de serviços de turismo, de alojamento e de alimentação",122
+1226,"Diretores de operações de serviços em empresa de armazenamento, de transporte e de telecomunicação",122
+1227,Diretores de operações de serviços em instituição de intermediação financeira,122
+1231,Diretores administrativos e financeiros,123
+1232,Diretores de recursos humanos e relações de trabalho,123
+1233,Diretores de comercialização e marketing,123
+1234,Diretores de suprimentos e afins,123
+1236,Diretores de tecnologia da informação,123
+1237,Diretores de pesquisa e desenvolvimento,123
+1238,Diretores de manutenção,123
+1311,"Diretores e gerentes de operações em empresa de serviços pessoais, sociais e culturais",131
+1312,"Gestores e especialistas de operações em empresas, secretarias e unidades de serviços de saúde",131
+1313,Diretores e gerentes de instituição de serviços educacionais,131
+1411,"Gerentes de produção e operações em empresa agropecuária, pesqueira, aqüícola e florestal",141
+1412,"Gerentes de produção e operações em empresa da indústria extrativa, de transformação e de serviços de utilidade pública",141
+1413,Gerentes de obras em empresa de construção,141
+1414,Gerentes de operações comerciais e de assistência técnica,141
+1415,"Gerentes de operações de serviços em empresa de turismo, de alojamento e alimentação",141
+1416,"Gerentes de operações de serviços em empresa de transporte, de comunicação e de logística (armazenagem e distribuição)",141
+1417,Gerentes de operações de serviços em instituição de intermediação financeira,141
+1418,Gerentes operacionais da aviação civil,141
+1421,"Gerentes administrativos, financeiros, de riscos e afins",142
+1422,Gerentes de recursos humanos e de relações do trabalho,142
+1423,"Gerentes de comercialização, marketing e comunicação",142
+1424,Gerentes de suprimentos e afins,142
+1425,Gerentes de tecnologia da informação,142
+1426,Gerentes de pesquisa e desenvolvimento e afins,142
+1427,Gerentes de manutenção e afins,142
+2011,Profissionais da biotecnologia,201
+2012,Profissionais da metrologia,201
+2021,"Engenheiros de controle e automação, engenheiros mecatrônicos e afins",202
+2030,Pesquisadores das ciências biológicas,203
+2031,Pesquisadores das ciências naturais e exatas,203
+2032,Pesquisadores de engenharia e tecnologia,203
+2033,Pesquisadores das ciências da saúde,203
+2034,Pesquisadores das ciências da agricultura,203
+2035,Pesquisadores das ciências sociais e humanas,203
+2041,Peritos criminais e judiciais,204
+2111,Profissionais da matemática,211
+2112,Profissionais de estatística e afins,211
+2122,Engenheiros em computação,212
+2123,Administradores de tecnologia da informação,212
+2124,Analistas de tecnologia da informação,212
+2131,Físicos,213
+2132,Químicos,213
+2133,Profissionais das ciências atmosféricas e espaciais e de astronomia,213
+2134,"Geólogos, oceanógrafos, geofísicos e afins",213
+2140,Engenheiros ambientais e afins,214
+2141,Arquitetos e urbanistas,214
+2142,Engenheiros civis e afins,214
+2143,"Engenheiros eletricistas, eletrônicos e afins",214
+2144,Engenheiros mecânicos e afins,214
+2145,Engenheiros químicos e afins,214
+2146,"Engenheiros metalurgistas, de materiais e afins",214
+2147,Engenheiros de minas e afins,214
+2148,Engenheiros agrimensores e engenheiros cartógrafos,214
+2149,"Engenheiros de produção, qualidade, segurança e afins",214
+2151,Oficiais de convés e afins,215
+2152,Oficiais de máquinas da marinha mercante,215
+2153,Profissionais da pilotagem aeronáutica,215
+2211,Biólogos e afins,221
+2212,Biomédicos,221
+2221,Engenheiros agrossilvipecuários,222
+2222,Engenheiros de alimentos e afins,222
+2232,Cirurgiões-dentistas,223
+2233,Veterinários e zootecnistas,223
+2234,Farmacêuticos,223
+2235,Enfermeiros e afins,223
+2236,Fisioterapeutas,223
+2237,Nutricionistas,223
+2238,Fonoaudiólogos,223
+2239,"Terapeutas ocupacionais, ortoptistas e psicomotricistas",223
+2241,Profissionais da educação física,224
+2251,Médicos clínicos,225
+2252,Médicos em especialidades cirúrgicas,225
+2253,Médicos em medicina diagnóstica e terapêutica,225
+2261,Osteopatas e quiropraxistas,226
+2263,"Profissionais das terapias criativas,equoterápicas e naturológicas",226
+2311,Professores de nível superior na educação infantil,231
+2312,Professores de nível superior do ensino fundamental (primeira a quarta séries),231
+2313,Professores de nível superior no ensino fundamental de quinta a oitava série,231
+2321,Professores do ensino médio,232
+2331,Professores do ensino profissional,233
+2332,Instrutores de ensino profissional,233
+2341,"Professores de matemática, estatística e informática do ensino superior",234
+2342,"Professores de ciências físicas, químicas e afins do ensino superior",234
+2343,"Professores de arquitetura e urbanismo, engenharia, geofísica e geologia do ensino superior",234
+2344,Professores de ciências biológicas e da saúde do ensino superior,234
+2345,Professores na área de formação pedagógica do ensino superior,234
+2346,Professores nas áreas de língua e literatura do ensino superior,234
+2347,Professores de ciências humanas do ensino superior,234
+2348,"Professores de ciências econômicas, administrativas e contábeis do ensino superior",234
+2349,Professores de artes do ensino superior,234
+2392,Professores de educação especial,239
+2394,"Programadores, avaliadores e orientadores de ensino",239
+2410,Advogados,241
+2412,Procuradores e advogados públicos,241
+2413,Tabeliães e registradores,241
+2414,Conselheiros julgadores,241
+2422,Membros do ministério público,242
+2423,Delegados de polícia,242
+2424,Defensores públicos e procuradores da assistência judiciária,242
+2429,Profissionais da inteligência,242
+2511,Profissionais em pesquisa e análise antropológica sociológica,251
+2512,Economistas,251
+2513,Profissionais em pesquisa e análise geográfica,251
+2514,Filósofos,251
+2515,Psicólogos e psicanalistas,251
+2516,Assistentes sociais e economistas domésticos,251
+2521,Administradores,252
+2522,Contadores e afins,252
+2523,Secretárias(os) executivas(os) e afins,252
+2524,Profissionais de recursos humanos,252
+2525,Profissionais de administração ecônomico-financeira,252
+2526,Profissionais da administração dos serviços de segurança,252
+2527,"Profissionais de planejamento, programação e controles logisticos",252
+2531,Profissionais de publicidade,253
+2532,Profissionais de comercializacão e consultoria de serviços bancários,253
+2533,"Corretores de valores, ativos financeiros, mercadorias e derivativos",253
+2534,Profissionais de mídias digitais e afins,253
+2541,Auditores fiscais e técnicos da receita federal,254
+2542,Auditores fiscais da previdência social,254
+2543,Auditores fiscais do trabalho,254
+2544,Fiscais de tributos estaduais e municipais,254
+2545,Profissionais da fiscalização de atividades urbanas,254
+2611,Profissionais do jornalismo,261
+2612,Profissionais da informação,261
+2613,Arquivistas e museólogos,261
+2614,"Filólogos,tradutores ,intérpretes e afins",261
+2615,Profissionais da escrita,261
+2616,Editores,261
+2617,"Locutores, comentaristas e repórteres de mídias audiovisuais",261
+2618,Fotógrafos profissionais,261
+2619,Assistentes de direção (tv) e continuístas,261
+2621,Produtores artísticos e culturais,262
+2622,Diretores de espetáculos e afins,262
+2623,Cenógrafos,262
+2624,"Artistas visuais,desenhistas industriais e conservadores-restauradores de bens culturais",262
+2625,Atores,262
+2626,"Músicos compositores, arranjadores, regentes e musicólogos",262
+2627,Músicos intérpretes,262
+2628,Artistas da dança (exceto dança tradicional e popular),262
+2629,Designer de interiores de nível superior,262
+2631,"Ministros de culto, missionários, teólogos e profissionais assemelhados",263
+2711,Chefes de cozinha e afins,271
+3001,Técnicos em mecatrônica,300
+3003,Técnicos em eletromecânica,300
+3011,Técnicos de laboratório industrial,301
+3012,Técnicos de apoio à bioengenharia,301
+3111,Técnicos químicos,311
+3112,"Técnicos de produção de indústrias químicas, petroquímicas, refino de petróleo, gás e afins",311
+3113,"Técnicos em materiais, produtos cerâmicos e vidros",311
+3114,Técnicos em fabricação de produtos plásticos e de borracha,311
+3115,"Técnicos em controle ambiental, utilidades e tratamento de efluentes",311
+3116,Técnicos têxteis,311
+3117,Coloristas,311
+3121,Técnicos em construção civil (edificações),312
+3122,Técnicos em construção civil (obras de infraestrutura),312
+3123,Técnicos em geomática,312
+3131,Técnicos em eletricidade e eletrotécnica,313
+3132,Técnicos em eletrônica,313
+3133,Técnicos em telecomunicações,313
+3134,Técnicos em calibração e instrumentação,313
+3135,Técnicos em fotônica,313
+3141,"Técnicos mecânicos na fabricação e montagem de máquinas, sistemas e instrumentos",314
+3142,Técnicos mecânicos (ferramentas),314
+3143,Técnicos em mecânica veicular,314
+3144,"Técnicos mecânicos na manutenção de máquinas, sistemas e instrumentos",314
+3146,Técnicos em metalurgia (estruturas metálicas),314
+3147,Técnicos em siderurgia,314
+3148,Especialistas em inspeções industriais,314
+3161,Técnicos em geologia,316
+3163,Técnicos em mineração,316
+3171,Técnicos de desenvolvimento de sistemas e aplicações,317
+3172,Técnicos de suporte e monitoração ao usuário de tecnologia da informação.,317
+3180,"Desenhistas técnicos, em geral",318
+3181,Desenhistas técnicos da construção civil e arquitetura,318
+3182,Desenhistas técnicos da mecânica,318
+3183,"Desenhistas técnicos em eletricidade, eletrônica, eletromecânica, calefação, ventilação e refrigeração",318
+3184,Desenhistas técnicos de produtos e serviços diversos,318
+3185,Desenhistas projetistas de construção civil e arquitetura,318
+3186,Desenhistas projetistas da mecânica,318
+3187,Desenhistas projetistas da eletrônica,318
+3188,Desenhistas projetistas e modelistas de produtos e serviços diversos,318
+3191,Técnicos do vestuário,319
+3192,Técnicos do mobiliário e afins,319
+3201,Técnicos em biologia,320
+3211,Técnicos agrícolas,321
+3212,Técnicos florestais,321
+3213,Técnicos em aqüicultura,321
+3221,Tecnólogos e técnicos em terapias complementares e estéticas,322
+3222,Técnicos e auxiliares de enfermagem,322
+3223,Técnicos em óptica e optometria,322
+3224,Técnicos de odontologia,322
+3225,Técnicos em próteses ortopédicas,322
+3226,Técnicos de imobilizações ortopédicas,322
+3231,Técnicos em pecuária,323
+3241,Tecnólogos e técnicos em métodos de diagnósticos e terapêutica,324
+3242,Técnicos de laboratórios de saúde e bancos de sangue,324
+3250,"Enólogos, perfumistas e aromistas",325
+3251,Técnico em farmácia e em manipulação farmacêutica,325
+3252,"Técnicos em produção, conservação  e de qualidade de alimentos",325
+3253,Técnicos de apoio à biotecnologia,325
+3281,Técnicos em necrópsia e taxidermistas,328
+3311,Professores de nível médio na educação infantil,331
+3312,Professores de nível médio no ensino fundamental,331
+3313,Professores de nível médio no ensino profissionalizante,331
+3321,Professores leigos no ensino fundamental,332
+3322,Professores práticos no ensino profissionalizante,332
+3331,Instrutores e professores de cursos livres,333
+3341,Inspetores de alunos e afins,334
+3411,"Pilotos de aviação comercial, mecânicos de vôo e afins",341
+3412,"Técnicos marítimos, fluviários e pescadores de convés",341
+3413,Técnicos marítimos e fluviários de máquinas,341
+3421,Especialistas em logística de transportes,342
+3422,Despachantes aduaneiros,342
+3423,Técnicos em transportes rodoviários,342
+3424,Técnicos em transportes metroferroviários,342
+3425,Técnicos em transportes aéreos,342
+3426,Técnicos em transportes por vias navegáveis e operações portuárias,342
+3511,Técnicos em contabilidade,351
+3513,Técnicos em administração,351
+3514,Serventuários da justiça e afins,351
+3515,"Técnicos em secretariado, taquígrafos e estenotipistas",351
+3516,Técnicos em segurança do trabalho,351
+3517,Técnicos de seguros e afins,351
+3518,Agentes de investigação e identificação,351
+3519,Técnicos da inteligência,351
+3522,Agentes da saúde e do meio ambiente,352
+3523,Agentes  fiscais metrológicos e de qualidade,352
+3524,Profissionais de direitos autorais e de avaliacão de produtos dos meios de comunicação,352
+3532,Técnicos em operações e serviços bancários,353
+3541,Especialistas em promoção de produtos e vendas,354
+3542,Compradores,354
+3543,Analistas de comércio exterior,354
+3544,Leiloeiros e avaliadores,354
+3545,Corretores de seguros,354
+3546,Corretores de imóveis e de grãos,354
+3547,Representantes comerciais autônomos,354
+3548,Técnicos em serviços de turismo e organização de eventos,354
+3711,Técnicos em biblioteconomia,371
+3712,Técnicos em museologia e afins,371
+3713,Técnicos em artes gráficas,371
+3714,Recreadores,371
+3721,Captadores de imagens em movimento,372
+3722,Operadores de rede de teleprocessamento e afins,372
+3731,Técnicos de operação de registros sonoro/audiovisuais,373
+3732,Supervisores operacionais e técnicos em mídias audiovisuais,373
+3741,Técnicos em áudio,374
+3742,Técnicos em cenografia,374
+3743,Técnicos em operação de aparelhos de projeção,374
+3744,"Técnicos em montagem, edição e finalização de mídia audiovisual",374
+3751,"Designers de interiores, de vitrines e visual merchandiser e afins (nível médio)",375
+3761,Dançarinos tradicionais e populares,376
+3762,Artistas de circo (circenses),376
+3763,"Apresentadores de eventos, programas e espetáculos",376
+3764,Modelos,376
+3771,Atletas profissionais,377
+3772,Árbitros desportivos,377
+3911,"Planejadores, programadores e controladores de produção e manutenção",391
+3912,Técnicos de controle da produção,391
+3951,Técnicos de apoio em pesquisa e desenvolvimento,395
+4101,Supervisores administrativos,410
+4102,"Supervisores de serviços financeiros, de câmbio e de controle",410
+4110,"Agentes, assistentes e auxiliares administrativos",411
+4121,Operadores de equipamentos de entrada e transmissão de dados,412
+4122,Contínuos,412
+4131,Auxiliares de contabilidade,413
+4132,Escriturários de serviços bancários,413
+4141,Almoxarifes e armazenistas,414
+4142,Apontadores e conferentes,414
+4151,"Auxiliares de serviços de documentação, informação e pesquisa",415
+4152,"Trabalhadores nos serviços de classificação e entregas de correspondências, encomendas e publicações",415
+4153,Trabalhadores em registros e informações em saúde,415
+4201,Supervisores de atendimento ao público e de pesquisa,420
+4211,Caixas e bilheteiros (exceto caixa de banco),421
+4212,Coletadores de apostas e de jogos,421
+4213,Cobradores e afins,421
+4221,Recepcionistas,422
+4222,Operadores de telefonia,422
+4223,Operadores de telemarketing e afins,422
+4231,Despachantes documentalistas e afins,423
+4241,Entrevistadores e recenseadores,424
+4242,Aplicadores de provas e afins,424
+5101,"Supervisores dos serviços de transporte, turismo, hotelaria e administração de edifícios",510
+5102,Supervisores de lavanderia,510
+5103,"Supervisores dos serviços de proteção, segurança e outros",510
+5111,Trabalhadores de segurança e atendimento aos usuários nos transportes,511
+5112,Fiscais e cobradores dos transportes coletivos,511
+5114,Guias de turismo,511
+5115,Condutores de turismo,511
+5121,Trabalhadores dos serviços domésticos em geral,512
+5131,Mordomos e governantas,513
+5132,Cozinheiros,513
+5133,"Camareiros, roupeiros e afins",513
+5134,"Trabalhadores no atendimento em estabelecimentos de serviços de alimentação, bebidas e hotelaria",513
+5135,Trabalhadores auxiliares nos serviços de alimentação,513
+5136,"Churrasqueiros, pizzaiolos e sushimen",513
+5141,Trabalhadores nos serviços de administração de edifícios,514
+5142,"Trabalhadores nos serviços de coleta de resíduos, de limpeza e conservação de áreas públicas",514
+5143,Trabalhadores nos  serviços de manutenção de edificações,514
+5151,Trabalhadores em serviços de promoção e apoio à saúde,515
+5152,Auxiliares de laboratório da saúde,515
+5153,"Trabalhadores de atenção, defesa e proteção a pessoas em situação de risco e adolescentes em conflito com a lei",515
+5161,Trabalhadores nos serviços de embelezamento e higiene,516
+5162,"Cuidadores de crianças, jovens, adultos e idosos",516
+5163,"Tintureiros, lavadeiros e afins, a máquina",516
+5164,"Lavadores e passadores de roupa, a mão",516
+5165,Trabalhadores dos serviços funerários,516
+5166,Trabalhadores auxiliares dos serviços funerários,516
+5167,Astrólogos e numerólogos,516
+5168,Esotéricos e paranormais,516
+5169,Trabalhadores nos serviços de arte corporal,516
+5171,"Bombeiros, salva-vidas e afins",517
+5172,"Policiais, guardas-civis municipais e agentes de trânsito",517
+5173,Vigilantes e guardas de segurança,517
+5174,"Porteiros, vigias e afins",517
+5191,Motociclistas e ciclistas de entregas rápidas,519
+5192,Trabalhadores da coleta e seleção de material reciclável,519
+5193,"Trabalhadores de serviços veterinários, de higiene e estética de animais domésticos",519
+5198,Profissionais do sexo,519
+5199,Outros trabalhadores dos serviços,519
+5201,Supervisores de vendas e de prestação de serviços,520
+5211,Operadores do comércio em lojas e mercados,521
+5231,Instaladores de produtos e acessórios,523
+5241,Vendedores em domicílio,524
+5242,"Vendedores em bancas, quiosques e barracas",524
+5243,Vendedores ambulantes,524
+6110,Produtores agropecuários em geral,611
+6120,Produtores agrícolas polivalentes,612
+6121,Produtores agrícolas na cultura de gramíneas,612
+6122,Produtores agrícolas na cultura de plantas fibrosas,612
+6123,Produtores agrícolas na olericultura,612
+6124,Produtores agrícolas no cultivo de flores e plantas ornamentais,612
+6125,Produtores agrícolas na fruticultura,612
+6126,Produtores agrícolas na cultura de plantas estimulantes,612
+6127,Produtores agrícolas na cultura de plantas oleaginosas,612
+6128,Produtores de especiarias e de plantas aromáticas e medicinais,612
+6130,Produtores em pecuária polivalente,613
+6131,Produtores em pecuária de animais de grande porte,613
+6132,Produtores em pecuária de animais de médio porte,613
+6133,Produtores da avicultura e cunicultura,613
+6134,Produtores de animais e insetos úteis,613
+6201,Supervisores na exploração agropecuária,620
+6210,Trabalhadores agropecuários em geral,621
+6220,Trabalhadores de apoio à agricultura,622
+6221,Trabalhadores agrícolas na cultura de gramíneas,622
+6222,Trabalhadores agrícolas na cultura de plantas fibrosas,622
+6223,Trabalhadores agrícolas na olericultura,622
+6224,Trabalhadores agrícolas no cultivo de flores e plantas ornamentais,622
+6225,Trabalhadores agrícolas na fruticultura,622
+6226,Trabalhadores agrícolas nas culturas de plantas estimulantes,622
+6227,Trabalhadores agrícolas na cultura de plantas oleaginosas,622
+6228,Trabalhadores agrícolas da cultura de especiarias e de plantas aromáticas e medicinais,622
+6230,Tratadores polivalentes de animais,623
+6231,Trabalhadores na pecuária de animais de grande porte,623
+6232,Trabalhadores na pecuária de animais de médio porte,623
+6233,Trabalhadores na avicultura e cunicultura,623
+6234,Trabalhadores na criação de insetos e animais úteis,623
+6301,Supervisores na área florestal e aqüicultura,630
+6310,Pescadores polivalentes,631
+6311,Pescadores profissionais artesanais de água doce,631
+6312,Pescadores de água costeira e alto mar,631
+6313,Criadores de animais aquáticos,631
+6314,Trabalhadores de apoio à pesca,631
+6320,Trabalhadores florestais polivalentes,632
+6321,Extrativistas e reflorestadores de espécies produtoras de madeira,632
+6322,Extrativistas florestais de espécies produtoras de gomas e resinas,632
+6323,"Extrativistas florestais de espécies produtoras de fibras, ceras e óleos",632
+6324,Extrativistas florestais de espécies produtoras de alimentos silvestres,632
+6325,"Extrativistas florestais de espécies produtoras de substâncias aromáticas, medicinais e tóxicas",632
+6326,Carvoejadores,632
+6410,Trabalhadores da mecanização agrícola,641
+6420,Trabalhadores da mecanização florestal,642
+6430,Trabalhadores da irrigação e drenagem,643
+7101,Supervisores da extração mineral,710
+7102,Supervisores da construção civil,710
+7111,Trabalhadores da extração de minerais sólidos,711
+7112,Trabalhadores de extração de minerais sólidos (operadores de máquinas),711
+7113,Trabalhadores da extração de minerais líquidos e gasosos,711
+7114,Garimpeiros e operadores de salinas,711
+7121,Trabalhadores de beneficiamento de minérios,712
+7122,Trabalhadores de beneficiamento de pedras ornamentais,712
+7151,Trabalhadores na operação de máquinas de terraplenagem e fundações,715
+7152,Trabalhadores de estruturas de alvenaria,715
+7153,Montadores de estruturas de concreto armado,715
+7154,Trabalhadores na operação de máquinas de concreto usinado e afins,715
+7155,"Trabalhadores de montagem de estruturas de madeira, metal e compósitos em obras civis",715
+7156,Trabalhadores de instalações elétricas,715
+7157,Aplicadores de materiais isolantes,715
+7161,Revestidores de concreto,716
+7162,Telhadores (revestimentos rígidos),716
+7163,Vidraceiros (revestimentos rígidos),716
+7164,Gesseiros,716
+7165,"Aplicadores de revestimentos cerâmicos, pastilhas, pedras e madeiras",716
+7166,Pintores de obras e revestidores de interiores (revestimentos flexíveis),716
+7170,Ajudantes de obras civis,717
+7201,"Supervisores de usinagem, conformação e tratamento de metais",720
+7202,Supervisores da fabricação e montagem metalmecânica,720
+7211,Ferramenteiros e afins,721
+7212,Preparadores e operadores de máquinas-ferramenta convencionais,721
+7213,Afiadores e polidores de metais,721
+7214,Operadores de máquinas de usinagem cnc,721
+7221,Trabalhadores de forjamento de metais,722
+7222,Trabalhadores de fundição de metais puros e de ligas metálicas,722
+7223,Trabalhadores de moldagem de metais e de ligas metálicas,722
+7224,Trabalhadores de trefilação e estiramento de metais puros e ligas metálicas,722
+7231,Trabalhadores de tratamento térmico de metais,723
+7232,Trabalhadores de tratamento de superfícies de metais e de compósitos (termoquímicos),723
+7233,"Trabalhadores da pintura de equipamentos, veículos, estruturas metálicas e de compósitos",723
+7241,Encanadores e instaladores de tubulações,724
+7242,Trabalhadores de traçagem e montagem de estruturas metálicas e de compósitos,724
+7243,Trabalhadores de soldagem e corte de ligas metálicas,724
+7244,Trabalhadores de caldeiraria e serralheria,724
+7245,Operadores de máquinas de conformação de metais,724
+7246,Trançadores e laceiros de cabos de aço,724
+7250,Ajustadores mecânicos polivalentes e afins,725
+7251,"Montadores de máquinas, aparelhos e acessórios em linhas de montagem",725
+7252,Montadores de máquinas industriais,725
+7253,Montadores de máquinas pesadas e equipamentos agrícolas,725
+7254,Mecânicos montadores de motores e turboalimentadores,725
+7255,Montadores de veículos automotores (linha de montagem),725
+7256,Montadores de sistemas e estruturas de aeronaves,725
+7257,Instaladores de equipamentos de refrigeração e ventilação,725
+7301,Supervisores de montagens e instalações eletroeletrônicas,730
+7311,Montadores de equipamentos eletroeletrônicos,731
+7312,Montadores de aparelhos de telecomunicações,731
+7313,Instaladores-reparadores de  linhas e equipamentos de telecomunicações,731
+7321,"Instaladores e reparadores de linhas e cabos elétricos, telefônicos e de comunicação de dados",732
+7401,Supervisores da mecânica de precisão e instrumentos musicais,740
+7411,Mecânicos de instrumentos de precisão,741
+7421,Confeccionadores de instrumentos musicais,742
+7501,Supervisores de joalheria e afins,750
+7502,"Supervisores de vidraria, cerâmica e afins",750
+7510,Joalheiros e lapidadores de gemas,751
+7511,Artesãos de metais preciosos e semi-preciosos,751
+7521,"Sopradores, moldadores e modeladores de vidros e afins",752
+7522,Trabalhadores da transformação de vidros planos,752
+7523,Ceramistas (preparação e fabricação),752
+7524,Vidreiros e ceramistas (arte e decoração),752
+7601,Supervisores da indústria têxtil,760
+7602,Supervisores na indústria do curtimento,760
+7603,Supervisores na confecção do vestuário,760
+7604,Supervisores na confecção de calçados,760
+7605,"Supervisores da confecção de artefatos de tecidos, couros e afins",760
+7606,Supervisores das artes gráficas,760
+7610,Trabalhadores polivalentes das indústrias têxteis,761
+7611,Trabalhadores da classificação de fibras têxteis e lavagem de lã,761
+7612,Operadores da fiação,761
+7613,Operadores de tear e máquinas similares,761
+7614,"Trabalhadores de acabamento, tingimento e estamparia das indústrias têxteis",761
+7618,Inspetores e revisores de produção têxtil,761
+7620,Trabalhadores polivalentes do curtimento de couros e peles,762
+7621,Trabalhadores da preparação do curtimento de couros e peles,762
+7622,Trabalhadores do curtimento de couros e peles,762
+7623,Trabalhadores do acabamento de couros e peles,762
+7630,Profissionais polivalentes da confecção de roupas,763
+7631,Trabalhadores da preparação da confecção de roupas,763
+7632,Operadores de máquinas para costura de peças do vestuário,763
+7633,Operadores de máquinas para bordado e acabamento de roupas,763
+7640,Trabalhadores polivalentes da confecção de calçados,764
+7641,Trabalhadores da preparação da confecção de calçados,764
+7642,Operadores de máquinas de costurar e montar calçados,764
+7643,Trabalhadores de acabamento de calçados,764
+7650,Trabalhadores polivalentes da confecção de artefatos de tecidos e couros,765
+7651,"Trabalhadores da preparação de artefatos de tecidos, couros e tapeçaria",765
+7652,"Trabalhadores da confecção de artefatos de tecidos, couros e sintéticos",765
+7653,Operadores de máquinas na confecção de artefatos de  couro,765
+7654,Trabalhadores do acabamento de artefatos de tecidos e couros,765
+7661,Trabalhadores da pré-impressão gráfica,766
+7662,Trabalhadores da impressão gráfica,766
+7663,Trabalhadores do acabamento gráfico,766
+7664,Trabalhadores de laboratório fotográfico e radiológico,766
+7681,"Trabalhadores de tecelagem manual, tricô, crochê, rendas e afins",768
+7682,Trabalhadores artesanais da confecção de peças e tecidos,768
+7683,Trabalhadores artesanais da confecção de calçados e artefatos de couros e peles,768
+7686,Trabalhadores tipográficos linotipistas e afins,768
+7687,Encadernadores e recuperadores de livros (pequenos lotes ou a unidade),768
+7701,"Supervisores em indústria de madeira, mobiliário e da carpintaria veicular",770
+7711,Marceneiros e afins,771
+7721,Trabalhadores de tratamento e preparação da madeira,772
+7731,Operadores de máquinas de desdobramento da madeira,773
+7732,Operadores de máquinas de aglomeração e prensagem de chapas,773
+7733,Operadores de usinagem convencional de madeira,773
+7734,Operadores de máquina de usinar madeira (produção em série),773
+7735,Operadores de máquinas de usinagem de madeira cnc,773
+7741,Montadores de móveis e artefatos de madeira,774
+7751,Trabalhadores de arte e  do acabamento em madeira do mobiliário,775
+7764,"Confeccionadores de artefatos de madeira, móveis de vime e afins",776
+7771,Carpinteiros navais,777
+7772,Carpinteiros de carrocerias e carretas,777
+7801,Supervisores de trabalhadores de embalagem e etiquetagem,780
+7811,Condutores de processos robotizados,781
+7813,Operadores de equipamentos pilotados remotamente,781
+7817,Trabalhadores subaquáticos,781
+7821,Operadores de máquinas e equipamentos de elevação,782
+7822,Operadores de equipamentos de movimentação de cargas,782
+7823,Motoristas de veículos de pequeno e médio porte,782
+7824,"Motoristas de ônibus urbanos, metropolitanos e rodoviários",782
+7825,Motoristas de veículos de cargas em geral,782
+7826,Operadores de veículos sobre trilhos e cabos aéreos,782
+7827,Trabalhadores aquaviários,782
+7828,Condutores de animais e de veículos de tração animal e pedais,782
+7831,Trabalhadores de manobras de transportes sobre trilhos,783
+7832,Trabalhadores de cargas e descargas de mercadorias,783
+7841,Trabalhadores de embalagem e de etiquetagem,784
+7842,Alimentadores de linhas de produção,784
+7911,Artesãos,791
+8101,"Supervisores de produção em indústrias químicas, petroquímicas e afins",810
+8102,Supervisores de produção em indústrias de transformação de plásticos e borrachas,810
+8103,"Supervisores de produção em indústrias de produtos farmacêuticos, cosméticos e afins",810
+8110,"Operadores polivalentes de equipamentos em indústrias químicas, petroquímicas e afins",811
+8111,Operadores de equipamentos de moagem e mistura de materiais (tratamentos químicos e afins),811
+8112,Operadores de calcinação e de tratamentos químicos de materiais radioativos,811
+8113,Operadores de equipamentos de filtragem e separação,811
+8114,"Operadores de equipamentos de destilação, evaporação e reação",811
+8115,Operadores de equipamentos de produção e refino de petróleo e gás,811
+8116,Operadores de equipamentos de coqueificação,811
+8117,"Operadores de instalações e máquinas de produtos plásticos, de borracha e moldadores de parafinas",811
+8118,"Operadores de máquinas e instalações de produtos farmacêuticos, cosméticos e afins",811
+8121,Trabalhadores da fabricação de munição e explosivos químicos,812
+8131,"Operadores de processos das indústrias de transformação de produtos químicos, petroquímicos e afins",813
+8181,Laboratoristas industriais auxiliares,818
+8201,Supervisores de produção em indústrias siderúrgicas,820
+8202,Supervisores na fabricação de materiais para construção (vidros e cerâmicas),820
+8211,Operadores de instalações de sinterização,821
+8212,Operadores de fornos de primeira  fusão e aciaria,821
+8213,Operadores de equipamentos de laminação,821
+8214,Operadores de equipamentos de acabamento de chapas e metais,821
+8221,Forneiros metalúrgicos (segunda fusão e reaquecimento),822
+8231,"Operadores na preparação de massas para abrasivo, vidro, cerâmica, porcelana e materiais de construção",823
+8232,"Operadores de equipamentos de fabricação  e beneficiamento de cristais, vidros, cerâmicas, porcelanas, fibras de vidro, abrasivos e afins",823
+8233,Operadores de instalações e equipamentos de fabricação de materiais de construção,823
+8281,Trabalhadores da fabricação de cerâmica estrutural para construção,828
+8301,Supervisores da fabricação de celulose e papel,830
+8311,Preparadores de pasta para fabricação de papel,831
+8321,Operadores de máquinas de fabricar papel e papelão,832
+8331,Operadores de máquinas na fabricação de produtos de papel e papelão,833
+8332,Trabalhadores artesanais de produtos de papel e papelão,833
+8401,"Supervisores da fabricação de alimentos, bebidas e fumo",840
+8411,"Trabalhadores da indústria de beneficiamento de grãos, cereais e afins",841
+8412,Trabalhadores no beneficiamento do sal,841
+8413,Trabalhadores na fabricação e refino de açúcar,841
+8414,Trabalhadores na fabricação e conservação de alimentos,841
+8415,Trabalhadores na pasteurização do leite e na fabricação de laticínios  e afins,841
+8416,"Trabalhadores na industrialização de café, cacau, mate e de produtos afins",841
+8417,"Trabalhadores na fabricação de cachaça, cerveja, vinhos e outras bebidas",841
+8418,"Operadores de equipamentos na fabricação de pães, massas alimentícias, doces, chocolates e achocolatados",841
+8421,Cigarreiros e beneficiadores de fumo,842
+8422,Charuteiros,842
+8423,Cigarreiros,842
+8481,Trabalhadores artesanais na conservação de alimentos,848
+8482,Trabalhadores artesanais na pasteurização do leite e na fabricação de laticínios e afins,848
+8483,"Padeiros, confeiteiros e afins",848
+8484,Trabalhadores na degustação e classificação de grãos e afins,848
+8485,Magarefes e afins,848
+8486,Trabalhadores artesanais na indústria do fumo,848
+8601,Supervisores da produção de utilidades,860
+8611,"Operadores de instalações de geração e distribuição de energia elétrica, hidráulica, térmica ou nuclear",861
+8612,Operadores de instalações de distribuição de energia elétrica,861
+8621,Operadores de máquinas a vapor e utilidades,862
+8622,"Operadores de instalações de captação, tratamento e distribuição de água",862
+8623,Operadores de instalações de captação e esgotos,862
+8624,"Operadores de instalações de extração, processamento, envasamento e distribuição de gases",862
+8625,Operadores de instalações de refrigeração e ar-condicionado,862
+9101,"Supervisores em serviços de reparação e manutenção de máquinas e equipamentos industriais, comerciais e residenciais",910
+9102,Supervisores em serviços de reparação e manutenção veicular,910
+9109,"Supervisores de outros trabalhadores de serviços de reparação, conservação e manutenção",910
+9111,"Mecânicos de manutenção de bombas, motores, compressores e equipamentos de transmissão",911
+9112,Mecânicos de manutenção e instalação de aparelhos de  climatização e refrigeração,911
+9113,Mecânicos de manutenção de máquinas industriais,911
+9131,Mecânicos de manutenção de máquinas pesadas e equipamentos agrícolas,913
+9141,Mecânicos de manutenção aeronáutica,914
+9142,Mecânicos de manutenção de motores e equipamentos navais,914
+9143,Mecânicos de manutenção metroferroviária,914
+9144,Mecânicos de manutenção de veículos automotores,914
+9151,Técnicos em manutenção e reparação de instrumentos de medição e precisão,915
+9152,Restauradores de instrumentos musicais,915
+9153,Técnicos em manutenção e reparação de equipamentos biomédicos,915
+9154,Reparadores de equipamentos fotográficos,915
+9191,Lubrificadores,919
+9192,"Trabalhadores de manutenção de roçadeiras, motoserras e similares",919
+9193,Mecânicos de manutenção de bicicletas e equipamentos esportivos e de ginástica,919
+9501,"Supervisores de manutenção eletroeletrônica industrial, comercial e predial",950
+9502,Supervisores de manutenção eletroeletrônica veicular,950
+9503,Supervisores de manutenção eletromecânica,950
+9511,Eletricistas de manutenção eletroeletrônica,951
+9513,Instaladores e mantenedores de sistemas eletroeletrônicos de segurança,951
+9531,"Eletricistas eletrônicos de manutenção veicular (aérea, terrestre e naval)",953
+9541,"Instaladores e mantenedores eletromecânicos de elevadores, escadas e portas automáticas",954
+9542,Reparadores de aparelhos eletrodomésticos,954
+9543,Reparadores de equipamentos de escritório,954
+9911,Conservadores de vias permanentes (trilhos),991
+9912,Mantenedores de equipamentos de parques de diversões e similares,991
+9913,Reparadores de carrocerias de veículos,991
+9914,Mantenedores de edificações,991
+9921,Trabalhadores elementares de serviços de manutenção veicular,992
+9922,Trabalhadores operacionais de conservação de vias permanentes (exceto trilhos),992

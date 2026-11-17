@@ -3,13 +3,24 @@
 derivados/ à mão. Uso: python3 pipeline/derivar.py"""
 import csv
 import hashlib
+import re
+import unicodedata
 import json
 import sqlite3
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
 QBQ = RAIZ / "dados" / "qbq"
+CBO = RAIZ / "dados" / "cbo"
 DER = RAIZ / "derivados"
+
+
+def normalizar_titulo(s):
+    """Mesma normalização do validador: compara grafias entre camadas sem
+    acusar diferença onde só muda acento, caixa ou pontuação."""
+    s = unicodedata.normalize("NFKD", s)
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
 
 
 def carregar(caminho):
@@ -28,8 +39,62 @@ def escrever_csv(nome, colunas, linhas):
     return colunas, linhas
 
 
+NIVEIS_CBO = [("grandes-grupos", "cbo_grande_grupo", "cbo-grandes-grupos.csv"),
+              ("subgrupos-principais", "cbo_subgrupo_principal", "cbo-subgrupos-principais.csv"),
+              ("subgrupos", "cbo_subgrupo", "cbo-subgrupos.csv"),
+              ("familias", "cbo_familia", "cbo-familias.csv")]
+
+
+def derivar_cbo(tabelas):
+    """Espinha da CBO em tabelas planas: um CSV por nível, um de ocupações e
+    um de sinônimos (relação 1:N, por isso fora da linha da ocupação)."""
+    for nivel, tabela, csv_nome in NIVEIS_CBO:
+        doc = carregar(CBO / "estrutura" / f"{nivel}.json")
+        linhas = [[i["codigo"], i["titulo"], i.get("pai")] for i in doc["itens"]]
+        tabelas[tabela] = escrever_csv(csv_nome, ["codigo", "titulo", "pai"], linhas)
+
+    ocup, sin = [], []
+    for arq in sorted((CBO / "ocupacoes").glob("gg-*.json")):
+        for o in carregar(arq)["ocupacoes"]:
+            ocup.append([o["codigo"], o["titulo"], o["familia"], o["vigencia"]["status"]])
+            for s in o["sinonimos"]:
+                sin.append([o["codigo"], s["titulo"]])
+    tabelas["cbo_ocupacao"] = escrever_csv(
+        "cbo-ocupacoes.csv", ["codigo", "titulo", "familia", "vigencia"], ocup)
+    tabelas["cbo_sinonimo"] = escrever_csv(
+        "cbo-sinonimos.csv", ["ocupacao", "sinonimo"], sin)
+    return {c[0] for c in ocup}
+
+
+def derivar_cobertura(tabelas, codigos_cbo):
+    """Diferenças entre as duas camadas na mesma chave (D015), em tabela: o
+    que existe só de um lado e os títulos que divergem onde o código coincide.
+    """
+    qbq_titulos = {}
+    for arq in sorted((QBQ / "ocupacoes").glob("gg-*.json")):
+        for o in carregar(arq)["ocupacoes"]:
+            qbq_titulos[o["codigo"]] = o["titulo"]
+    cbo_titulos = {}
+    for arq in sorted((CBO / "ocupacoes").glob("gg-*.json")):
+        for o in carregar(arq)["ocupacoes"]:
+            cbo_titulos[o["codigo"]] = o["titulo"]
+
+    linhas = []
+    for c in sorted(codigos_cbo - set(qbq_titulos)):
+        linhas.append([c, "so_cbo", cbo_titulos[c], ""])
+    for c in sorted(set(qbq_titulos) - codigos_cbo):
+        linhas.append([c, "so_qbq", "", qbq_titulos[c]])
+    for c in sorted(codigos_cbo & set(qbq_titulos)):
+        if normalizar_titulo(cbo_titulos[c]) != normalizar_titulo(qbq_titulos[c]):
+            linhas.append([c, "titulo_divergente", cbo_titulos[c], qbq_titulos[c]])
+    linhas.sort()
+    tabelas["cobertura_qbq_cbo"] = escrever_csv(
+        "cobertura-qbq-cbo.csv", ["codigo", "situacao", "titulo_cbo", "titulo_qbq"], linhas)
+
+
 def main():
     tabelas = {}
+    codigos_cbo = derivar_cbo(tabelas)
 
     ocup = []
     for arq in sorted((QBQ / "ocupacoes").glob("gg-*.json")):
@@ -95,6 +160,8 @@ def main():
           for o in carregar(QBQ / "nao-classificadas.json")["ocupacoes"]]
     tabelas["qbq_nao_classificada"] = escrever_csv(
         "qbq-nao-classificadas.csv", ["codigo", "titulo", "justificativa"], nc)
+
+    derivar_cobertura(tabelas, codigos_cbo)
 
     # SQLite com as mesmas tabelas
     db_path = DER / "qbq.sqlite"

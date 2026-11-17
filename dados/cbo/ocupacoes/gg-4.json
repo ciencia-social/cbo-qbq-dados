@@ -1,0 +1,3539 @@
+{
+  "grande_grupo": "4",
+  "versao_dados": "dados-2026.11",
+  "fonte": "fontes/cbo/cbo2002-ocupacao.csv",
+  "total": 97,
+  "ocupacoes": [
+    {
+      "codigo": "410105",
+      "titulo": "Supervisor administrativo",
+      "familia": "4101",
+      "sinonimos": [
+        {
+          "titulo": "Agente administrativo supervisor",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3293
+          }
+        },
+        {
+          "titulo": "Chefe administrativo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3294
+          }
+        },
+        {
+          "titulo": "Chefe de departamento de pessoal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3295
+          }
+        },
+        {
+          "titulo": "Chefe de escritório",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3296
+          }
+        },
+        {
+          "titulo": "Chefe de expediente - no serviço público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3297
+          }
+        },
+        {
+          "titulo": "Chefe de serviço de limpeza",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3302
+          }
+        },
+        {
+          "titulo": "Chefe de serviços de coordenação de contratos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3303
+          }
+        },
+        {
+          "titulo": "Chefe de setor - exclusive no serviço público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3304
+          }
+        },
+        {
+          "titulo": "Chefe de setor - no serviço público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3305
+          }
+        },
+        {
+          "titulo": "Chefe de seção - no serviço público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3298
+          }
+        },
+        {
+          "titulo": "Chefe de seção de expedição",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3299
+          }
+        },
+        {
+          "titulo": "Chefe de seção de serviços administrativos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3300
+          }
+        },
+        {
+          "titulo": "Chefe de seção de serviços gerais - exclusive no serviço público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3301
+          }
+        },
+        {
+          "titulo": "Coordenador administrativo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3306
+          }
+        },
+        {
+          "titulo": "Encarregado administrativo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3307
+          }
+        },
+        {
+          "titulo": "Encarregado de escritório - exclusive no serviço público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3308
+          }
+        },
+        {
+          "titulo": "Encarregado de serviço - exclusive no serviço público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3309
+          }
+        },
+        {
+          "titulo": "Subencarregado de escritório",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3310
+          }
+        },
+        {
+          "titulo": "Supervisor administrativo de escritório",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3311
+          }
+        },
+        {
+          "titulo": "Supervisor administrativo de pessoal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3312
+          }
+        },
+        {
+          "titulo": "Supervisor administrativo interno",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3313
+          }
+        },
+        {
+          "titulo": "Supervisor de administração",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3314
+          }
+        },
+        {
+          "titulo": "Supervisor de administração e arquivo técnico",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3315
+          }
+        },
+        {
+          "titulo": "Supervisor de seção de serviços gerais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3316
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1275
+      }
+    },
+    {
+      "codigo": "410205",
+      "titulo": "Supervisor de almoxarifado",
+      "familia": "4102",
+      "sinonimos": [
+        {
+          "titulo": "Encarregado de almoxarifado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3317
+          }
+        },
+        {
+          "titulo": "Supervisor de materiais em almoxarifado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3318
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1276
+      }
+    },
+    {
+      "codigo": "410210",
+      "titulo": "Supervisor de câmbio",
+      "familia": "4102",
+      "sinonimos": [
+        {
+          "titulo": "Encarregado de câmbio",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3319
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1277
+      }
+    },
+    {
+      "codigo": "410215",
+      "titulo": "Supervisor de contas a pagar",
+      "familia": "4102",
+      "sinonimos": [
+        {
+          "titulo": "Encarregado de contas a pagar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3320
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1278
+      }
+    },
+    {
+      "codigo": "410220",
+      "titulo": "Supervisor de controle patrimonial",
+      "familia": "4102",
+      "sinonimos": [
+        {
+          "titulo": "Chefe de administração patrimonial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3321
+          }
+        },
+        {
+          "titulo": "Encarregado de ativo fixo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3322
+          }
+        },
+        {
+          "titulo": "Encarregado de patrimônio",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3323
+          }
+        },
+        {
+          "titulo": "Supervisor de ativo fixo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3324
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1279
+      }
+    },
+    {
+      "codigo": "410225",
+      "titulo": "Supervisor de crédito e cobrança",
+      "familia": "4102",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar de crédito",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3325
+          }
+        },
+        {
+          "titulo": "Balconista de crediário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3326
+          }
+        },
+        {
+          "titulo": "Encarregado de crédito e cobrança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3327
+          }
+        },
+        {
+          "titulo": "Supervisor de cobrança de serviço financeiro, de câmbio e controle",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3328
+          }
+        },
+        {
+          "titulo": "Supervisor de crédito",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3329
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1280
+      }
+    },
+    {
+      "codigo": "410230",
+      "titulo": "Supervisor de orçamento",
+      "familia": "4102",
+      "sinonimos": [
+        {
+          "titulo": "Chefe de orçamento",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3330
+          }
+        },
+        {
+          "titulo": "Controlador de orçamento",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3331
+          }
+        },
+        {
+          "titulo": "Encarregado de orçamento",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3332
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1281
+      }
+    },
+    {
+      "codigo": "410235",
+      "titulo": "Supervisor de tesouraria",
+      "familia": "4102",
+      "sinonimos": [
+        {
+          "titulo": "Chefe de serviço financeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3333
+          }
+        },
+        {
+          "titulo": "Encarregado de controle financeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3334
+          }
+        },
+        {
+          "titulo": "Encarregado de tesouraria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3335
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1282
+      }
+    },
+    {
+      "codigo": "410240",
+      "titulo": "Supervisor de logística",
+      "familia": "4102",
+      "sinonimos": [
+        {
+          "titulo": "Supervisor de operações logísticas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3336
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1283
+      }
+    },
+    {
+      "codigo": "411005",
+      "titulo": "Auxiliar de escritório",
+      "familia": "4110",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar administrativo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3337
+          }
+        },
+        {
+          "titulo": "Auxiliar de compras",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3338
+          }
+        },
+        {
+          "titulo": "Escriturário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3339
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1284
+      }
+    },
+    {
+      "codigo": "411010",
+      "titulo": "Assistente administrativo",
+      "familia": "4110",
+      "sinonimos": [
+        {
+          "titulo": "Agente administrativo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3340
+          }
+        },
+        {
+          "titulo": "Apoiador político partidário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3341
+          }
+        },
+        {
+          "titulo": "Assistente administrativo sindical",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3342
+          }
+        },
+        {
+          "titulo": "Assistente de compras",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3343
+          }
+        },
+        {
+          "titulo": "Assistente de escritório",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3344
+          }
+        },
+        {
+          "titulo": "Assistente técnico - no serviço público",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3345
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1285
+      }
+    },
+    {
+      "codigo": "411015",
+      "titulo": "Atendente de judiciário",
+      "familia": "4110",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1286
+      }
+    },
+    {
+      "codigo": "411020",
+      "titulo": "Auxiliar de judiciário",
+      "familia": "4110",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1287
+      }
+    },
+    {
+      "codigo": "411025",
+      "titulo": "Auxiliar de cartório",
+      "familia": "4110",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1288
+      }
+    },
+    {
+      "codigo": "411030",
+      "titulo": "Auxiliar de pessoal",
+      "familia": "4110",
+      "sinonimos": [
+        {
+          "titulo": "Apontador de cartões de ponto",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3346
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1289
+      }
+    },
+    {
+      "codigo": "411035",
+      "titulo": "Auxiliar de estatística",
+      "familia": "4110",
+      "sinonimos": [
+        {
+          "titulo": "Controlador de estatística",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3347
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1290
+      }
+    },
+    {
+      "codigo": "411040",
+      "titulo": "Auxiliar de seguros",
+      "familia": "4110",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar técnico de seguros",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3348
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1291
+      }
+    },
+    {
+      "codigo": "411045",
+      "titulo": "Auxiliar de serviços de importação e exportação",
+      "familia": "4110",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar de tráfego de exportação e importação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3349
+          }
+        },
+        {
+          "titulo": "Conferente de documentação de importação e exportação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3350
+          }
+        },
+        {
+          "titulo": "Conferente de exportação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3351
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1292
+      }
+    },
+    {
+      "codigo": "411050",
+      "titulo": "Agente de microcrédito",
+      "familia": "4110",
+      "sinonimos": [
+        {
+          "titulo": "Agente de microfinanças",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3352
+          }
+        },
+        {
+          "titulo": "Assessor de microcrédito",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3353
+          }
+        },
+        {
+          "titulo": "Assessor de microfinanças",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3354
+          }
+        },
+        {
+          "titulo": "Coordenador de microcrédito",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3355
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1293
+      }
+    },
+    {
+      "codigo": "411055",
+      "titulo": "Captador de recursos",
+      "familia": "4110",
+      "sinonimos": [
+        {
+          "titulo": "Mobilizador de recursos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3356
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1294
+      }
+    },
+    {
+      "codigo": "412105",
+      "titulo": "Datilógrafo",
+      "familia": "4121",
+      "sinonimos": [
+        {
+          "titulo": "Operador de máquina de escrever",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3357
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1295
+      }
+    },
+    {
+      "codigo": "412110",
+      "titulo": "Digitador",
+      "familia": "4121",
+      "sinonimos": [
+        {
+          "titulo": "Digitador de terminal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3358
+          }
+        },
+        {
+          "titulo": "Operador de equipamentos de entrada de dados",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3359
+          }
+        },
+        {
+          "titulo": "Operador de microcomputador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3360
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1296
+      }
+    },
+    {
+      "codigo": "412115",
+      "titulo": "Operador de mensagens de telecomunicações (correios)",
+      "familia": "4121",
+      "sinonimos": [
+        {
+          "titulo": "Operador de telecomunicações de correios",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3361
+          }
+        },
+        {
+          "titulo": "Operador de telex",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3362
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1297
+      }
+    },
+    {
+      "codigo": "412120",
+      "titulo": "Supervisor de digitação e operação",
+      "familia": "4121",
+      "sinonimos": [
+        {
+          "titulo": "Chefe de digitação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3363
+          }
+        },
+        {
+          "titulo": "Coordenador de digitação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3364
+          }
+        },
+        {
+          "titulo": "Encarregado de digitação e operação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3365
+          }
+        },
+        {
+          "titulo": "Encarregado de serviço de digitação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3366
+          }
+        },
+        {
+          "titulo": "Supervisor de digitação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3367
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1298
+      }
+    },
+    {
+      "codigo": "412205",
+      "titulo": "Contínuo",
+      "familia": "4122",
+      "sinonimos": [
+        {
+          "titulo": "Chasquil",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3368
+          }
+        },
+        {
+          "titulo": "Estafeta",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3369
+          }
+        },
+        {
+          "titulo": "Mensageiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3370
+          }
+        },
+        {
+          "titulo": "Mensageiro externo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3371
+          }
+        },
+        {
+          "titulo": "Mensageiro interno",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3372
+          }
+        },
+        {
+          "titulo": "Office-boy",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3373
+          }
+        },
+        {
+          "titulo": "Office-girl",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3374
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1299
+      }
+    },
+    {
+      "codigo": "413105",
+      "titulo": "Analista de folha de pagamento",
+      "familia": "4131",
+      "sinonimos": [
+        {
+          "titulo": "Calculista de folha de pagamento",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3375
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1300
+      }
+    },
+    {
+      "codigo": "413110",
+      "titulo": "Auxiliar de contabilidade",
+      "familia": "4131",
+      "sinonimos": [
+        {
+          "titulo": "Assistente de serviço de contabilidade",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3376
+          }
+        },
+        {
+          "titulo": "Auxiliar contábil",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3377
+          }
+        },
+        {
+          "titulo": "Auxiliar de contas a pagar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3378
+          }
+        },
+        {
+          "titulo": "Auxiliar de contas a receber",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3379
+          }
+        },
+        {
+          "titulo": "Auxiliar de custos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3380
+          }
+        },
+        {
+          "titulo": "Auxiliar de escrituração fiscal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3381
+          }
+        },
+        {
+          "titulo": "Auxiliar financeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3382
+          }
+        },
+        {
+          "titulo": "Revisor contábil",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3383
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1301
+      }
+    },
+    {
+      "codigo": "413115",
+      "titulo": "Auxiliar de faturamento",
+      "familia": "4131",
+      "sinonimos": [
+        {
+          "titulo": "Faturista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3384
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1302
+      }
+    },
+    {
+      "codigo": "413205",
+      "titulo": "Atendente de agência",
+      "familia": "4132",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1303
+      }
+    },
+    {
+      "codigo": "413210",
+      "titulo": "Caixa de banco",
+      "familia": "4132",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1304
+      }
+    },
+    {
+      "codigo": "413215",
+      "titulo": "Compensador de banco",
+      "familia": "4132",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1305
+      }
+    },
+    {
+      "codigo": "413220",
+      "titulo": "Conferente de serviços bancários",
+      "familia": "4132",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1306
+      }
+    },
+    {
+      "codigo": "413225",
+      "titulo": "Escriturário de banco",
+      "familia": "4132",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1307
+      }
+    },
+    {
+      "codigo": "413230",
+      "titulo": "Operador de cobrança bancária",
+      "familia": "4132",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1308
+      }
+    },
+    {
+      "codigo": "414105",
+      "titulo": "Almoxarife",
+      "familia": "4141",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar de almoxarifado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3385
+          }
+        },
+        {
+          "titulo": "Controlador de almoxarifado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3386
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1309
+      }
+    },
+    {
+      "codigo": "414110",
+      "titulo": "Armazenista",
+      "familia": "4141",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar de armazenamento",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3387
+          }
+        },
+        {
+          "titulo": "Fiel de depósito",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3388
+          }
+        },
+        {
+          "titulo": "Operador de movimentação e armazenamento de carga",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3389
+          }
+        },
+        {
+          "titulo": "Sileiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3390
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1310
+      }
+    },
+    {
+      "codigo": "414115",
+      "titulo": "Balanceiro",
+      "familia": "4141",
+      "sinonimos": [
+        {
+          "titulo": "Encarregado de pesagem",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3391
+          }
+        },
+        {
+          "titulo": "Fiscal de balanças",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3392
+          }
+        },
+        {
+          "titulo": "Operador de balanças rodoviárias",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3393
+          }
+        },
+        {
+          "titulo": "Operador de pesagem de matéria prima",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3394
+          }
+        },
+        {
+          "titulo": "Pesador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3395
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1311
+      }
+    },
+    {
+      "codigo": "414120",
+      "titulo": "Conferente mercadoria (exceto carga e descarga)",
+      "familia": "4141",
+      "sinonimos": [
+        {
+          "titulo": "Conferente de logística",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3396
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1312
+      }
+    },
+    {
+      "codigo": "414125",
+      "titulo": "Estoquista",
+      "familia": "4141",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar de estoque",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3397
+          }
+        },
+        {
+          "titulo": "Encarregado de estoque",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3398
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1313
+      }
+    },
+    {
+      "codigo": "414135",
+      "titulo": "Expedidor de mercadorias",
+      "familia": "4141",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar de expedição",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3399
+          }
+        },
+        {
+          "titulo": "Encarregado de expedição",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3400
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1314
+      }
+    },
+    {
+      "codigo": "414140",
+      "titulo": "Auxiliar de logistica",
+      "familia": "4141",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar operacional de logística",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3401
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1315
+      }
+    },
+    {
+      "codigo": "414205",
+      "titulo": "Apontador de mão-de-obra",
+      "familia": "4142",
+      "sinonimos": [
+        {
+          "titulo": "Anotador de mão-de-obra",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3402
+          }
+        },
+        {
+          "titulo": "Anotador de pessoal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3403
+          }
+        },
+        {
+          "titulo": "Apontador de obras",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3404
+          }
+        },
+        {
+          "titulo": "Apontador de pessoal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3405
+          }
+        },
+        {
+          "titulo": "Apropriador de mão-de-obra",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3406
+          }
+        },
+        {
+          "titulo": "Controlador de mão-de-obra",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3407
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1316
+      }
+    },
+    {
+      "codigo": "414210",
+      "titulo": "Apontador de produção",
+      "familia": "4142",
+      "sinonimos": [
+        {
+          "titulo": "Anotador de processo de produção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3408
+          }
+        },
+        {
+          "titulo": "Anotador de produção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3409
+          }
+        },
+        {
+          "titulo": "Apontador de campo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3410
+          }
+        },
+        {
+          "titulo": "Apontador industrial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3411
+          }
+        },
+        {
+          "titulo": "Conferente de controle de produção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3412
+          }
+        },
+        {
+          "titulo": "Controlador de produção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3413
+          }
+        },
+        {
+          "titulo": "Controlador de serviços de produção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3414
+          }
+        },
+        {
+          "titulo": "Encarregado de seção de controle de produção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3415
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1317
+      }
+    },
+    {
+      "codigo": "414215",
+      "titulo": "Conferente de carga e descarga",
+      "familia": "4142",
+      "sinonimos": [
+        {
+          "titulo": "Conferente de faturas e notas fiscais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3416
+          }
+        },
+        {
+          "titulo": "Conferente portuário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3417
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1318
+      }
+    },
+    {
+      "codigo": "415105",
+      "titulo": "Arquivista de documentos",
+      "familia": "4151",
+      "sinonimos": [
+        {
+          "titulo": "Arquivador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3418
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1319
+      }
+    },
+    {
+      "codigo": "415115",
+      "titulo": "Codificador de dados",
+      "familia": "4151",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1320
+      }
+    },
+    {
+      "codigo": "415120",
+      "titulo": "Fitotecário",
+      "familia": "4151",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1321
+      }
+    },
+    {
+      "codigo": "415125",
+      "titulo": "Kardexista",
+      "familia": "4151",
+      "sinonimos": [
+        {
+          "titulo": "Ficharista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3419
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1322
+      }
+    },
+    {
+      "codigo": "415130",
+      "titulo": "Operador de máquina copiadora (exceto operador de gráfica rápida)",
+      "familia": "4151",
+      "sinonimos": [
+        {
+          "titulo": "Copiador de documentos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3420
+          }
+        },
+        {
+          "titulo": "Operador de máquina reprográfica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3421
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1323
+      }
+    },
+    {
+      "codigo": "415205",
+      "titulo": "Carteiro",
+      "familia": "4152",
+      "sinonimos": [
+        {
+          "titulo": "Carteiro motorizado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3422
+          }
+        },
+        {
+          "titulo": "Entregador de correspondências (correios e telégrafos)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3423
+          }
+        },
+        {
+          "titulo": "Mensageiro (correios e telégrafos)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3424
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1324
+      }
+    },
+    {
+      "codigo": "415210",
+      "titulo": "Operador de triagem e transbordo",
+      "familia": "4152",
+      "sinonimos": [
+        {
+          "titulo": "Classificador de correspondências (correios e telégrafos)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3425
+          }
+        },
+        {
+          "titulo": "Encarregado de malote",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3426
+          }
+        },
+        {
+          "titulo": "Manipulador de correspondências (correios e telégrafos)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3427
+          }
+        },
+        {
+          "titulo": "Manipulador postal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3428
+          }
+        },
+        {
+          "titulo": "Selecionador de correspondências (correios e telégrafos)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3429
+          }
+        },
+        {
+          "titulo": "Separador de cargas postais (correios e telégrafos)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3430
+          }
+        },
+        {
+          "titulo": "Separador de correspondências (correios e telégrafos)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3431
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1325
+      }
+    },
+    {
+      "codigo": "415215",
+      "titulo": "Entregador de publicações",
+      "familia": "4152",
+      "sinonimos": [
+        {
+          "titulo": "Ajudante de entregador de publicações",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3432
+          }
+        },
+        {
+          "titulo": "Entregador de assinaturas (jornais e revistas)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3433
+          }
+        },
+        {
+          "titulo": "Entregador de jornais e revistas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3434
+          }
+        },
+        {
+          "titulo": "Entregador de venda avulsa (jornais e revistas)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3435
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1326
+      }
+    },
+    {
+      "codigo": "415305",
+      "titulo": "Registrador de câncer",
+      "familia": "4153",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1327
+      }
+    },
+    {
+      "codigo": "415310",
+      "titulo": "Analista de informação em saúde",
+      "familia": "4153",
+      "sinonimos": [
+        {
+          "titulo": "Codificador de dados clínicos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3436
+          }
+        },
+        {
+          "titulo": "Codificador hospitalar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3437
+          }
+        },
+        {
+          "titulo": "Gestor de dados clínicos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3438
+          }
+        },
+        {
+          "titulo": "Técnico em registro e informação em saúde",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3439
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1328
+      }
+    },
+    {
+      "codigo": "420105",
+      "titulo": "Supervisor de caixas e bilheteiros (exceto caixa de banco)",
+      "familia": "4201",
+      "sinonimos": [
+        {
+          "titulo": "Supervisor de atendimento (caixas e bilheteiros)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3440
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1329
+      }
+    },
+    {
+      "codigo": "420110",
+      "titulo": "Supervisor de cobrança",
+      "familia": "4201",
+      "sinonimos": [
+        {
+          "titulo": "Chefe de cobrança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3441
+          }
+        },
+        {
+          "titulo": "Coordenador de cobrança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3442
+          }
+        },
+        {
+          "titulo": "Encarregado de cobrança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3443
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1330
+      }
+    },
+    {
+      "codigo": "420115",
+      "titulo": "Supervisor de coletadores de apostas e de jogos",
+      "familia": "4201",
+      "sinonimos": [
+        {
+          "titulo": "Supervisor de arrecadação (apostas e jogos)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3444
+          }
+        },
+        {
+          "titulo": "Supervisor de tesouraria de apostas e jogos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3445
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1331
+      }
+    },
+    {
+      "codigo": "420120",
+      "titulo": "Supervisor de entrevistadores e recenseadores",
+      "familia": "4201",
+      "sinonimos": [
+        {
+          "titulo": "Agente de coleta supervisor",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3446
+          }
+        },
+        {
+          "titulo": "Supervisor de coleta",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3447
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1332
+      }
+    },
+    {
+      "codigo": "420125",
+      "titulo": "Supervisor de recepcionistas",
+      "familia": "4201",
+      "sinonimos": [
+        {
+          "titulo": "Chefe de recepção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3448
+          }
+        },
+        {
+          "titulo": "Coordenador de recepção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3449
+          }
+        },
+        {
+          "titulo": "Encarregado de recepção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3450
+          }
+        },
+        {
+          "titulo": "Líder de recepção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3451
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1333
+      }
+    },
+    {
+      "codigo": "420130",
+      "titulo": "Supervisor de telefonistas",
+      "familia": "4201",
+      "sinonimos": [
+        {
+          "titulo": "Encarregado de telefonistas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3452
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1334
+      }
+    },
+    {
+      "codigo": "420135",
+      "titulo": "Supervisor de telemarketing e atendimento",
+      "familia": "4201",
+      "sinonimos": [
+        {
+          "titulo": "Encarregado de telemarketing",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3453
+          }
+        },
+        {
+          "titulo": "Supervisor de atendimento ao cliente",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3454
+          }
+        },
+        {
+          "titulo": "Supervisor de central de atendimento",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3455
+          }
+        },
+        {
+          "titulo": "Supervisor de teleatendimento",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3456
+          }
+        },
+        {
+          "titulo": "Supervisor de televendas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3457
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1335
+      }
+    },
+    {
+      "codigo": "421105",
+      "titulo": "Atendente comercial (agência postal)",
+      "familia": "4211",
+      "sinonimos": [
+        {
+          "titulo": "Atendente comercial em agência postal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3458
+          }
+        },
+        {
+          "titulo": "Atendente em agência de correios",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3459
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1336
+      }
+    },
+    {
+      "codigo": "421110",
+      "titulo": "Bilheteiro de transportes coletivos",
+      "familia": "4211",
+      "sinonimos": [
+        {
+          "titulo": "Agente operacional de estação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3460
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1337
+      }
+    },
+    {
+      "codigo": "421115",
+      "titulo": "Bilheteiro no serviço de diversões",
+      "familia": "4211",
+      "sinonimos": [
+        {
+          "titulo": "Bilheteiro de cinema",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3461
+          }
+        },
+        {
+          "titulo": "Bilheteiro de circo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3462
+          }
+        },
+        {
+          "titulo": "Bilheteiro de parques de diversão",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3463
+          }
+        },
+        {
+          "titulo": "Bilheteiro de teatro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3464
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1338
+      }
+    },
+    {
+      "codigo": "421120",
+      "titulo": "Emissor de passagens",
+      "familia": "4211",
+      "sinonimos": [
+        {
+          "titulo": "Agente de passagens",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3465
+          }
+        },
+        {
+          "titulo": "Agente de passagens aéreas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3466
+          }
+        },
+        {
+          "titulo": "Agente de reserva de passagens aéreas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3467
+          }
+        },
+        {
+          "titulo": "Agente de reserva de passagens rodoviárias",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3468
+          }
+        },
+        {
+          "titulo": "Agente de venda de passagens",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3469
+          }
+        },
+        {
+          "titulo": "Bilheteiro de agência",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3470
+          }
+        },
+        {
+          "titulo": "Emissor de passagens aéreas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3471
+          }
+        },
+        {
+          "titulo": "Emissor de passagens no transporte rodoviário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3472
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1339
+      }
+    },
+    {
+      "codigo": "421125",
+      "titulo": "Operador de caixa",
+      "familia": "4211",
+      "sinonimos": [
+        {
+          "titulo": "Atendente de pedágio",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3473
+          }
+        },
+        {
+          "titulo": "Caixa (supermercado)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3478
+          }
+        },
+        {
+          "titulo": "Caixa de bar, lanchonetes e restaurantes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3474
+          }
+        },
+        {
+          "titulo": "Caixa de loja",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3475
+          }
+        },
+        {
+          "titulo": "Caixa no comércio",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3476
+          }
+        },
+        {
+          "titulo": "Caixa no serviço de alimentação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3477
+          }
+        },
+        {
+          "titulo": "Fiscal de caixa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3479
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1340
+      }
+    },
+    {
+      "codigo": "421205",
+      "titulo": "Recebedor de apostas (loteria)",
+      "familia": "4212",
+      "sinonimos": [
+        {
+          "titulo": "Caixa lotérico",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3480
+          }
+        },
+        {
+          "titulo": "Operador de caixa lotérico",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3481
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1341
+      }
+    },
+    {
+      "codigo": "421210",
+      "titulo": "Recebedor de apostas (turfe)",
+      "familia": "4212",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar de apostas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3482
+          }
+        },
+        {
+          "titulo": "Caixa de turfe",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3483
+          }
+        },
+        {
+          "titulo": "Mensageira",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3484
+          }
+        },
+        {
+          "titulo": "Operador de teleturfe",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3485
+          }
+        },
+        {
+          "titulo": "Vendedor de apostas de turfe",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3486
+          }
+        },
+        {
+          "titulo": "Vendedor de poule",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3487
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1342
+      }
+    },
+    {
+      "codigo": "421305",
+      "titulo": "Cobrador externo",
+      "familia": "4213",
+      "sinonimos": [
+        {
+          "titulo": "Cobrador de aluguéis",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3488
+          }
+        },
+        {
+          "titulo": "Cobrador pracista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3489
+          }
+        },
+        {
+          "titulo": "Cobrador viajante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3490
+          }
+        },
+        {
+          "titulo": "Consultor de cobrança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3491
+          }
+        },
+        {
+          "titulo": "Recuperador externo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3492
+          }
+        },
+        {
+          "titulo": "Representante de cobrança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3493
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1343
+      }
+    },
+    {
+      "codigo": "421310",
+      "titulo": "Cobrador interno",
+      "familia": "4213",
+      "sinonimos": [
+        {
+          "titulo": "Analista de cobrança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3494
+          }
+        },
+        {
+          "titulo": "Assistente de cobrança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3495
+          }
+        },
+        {
+          "titulo": "Auxiliar de cobrança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3496
+          }
+        },
+        {
+          "titulo": "Monitor de cobrança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3497
+          }
+        },
+        {
+          "titulo": "Operador de cobrança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3498
+          }
+        },
+        {
+          "titulo": "Operador de telecobrança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3499
+          }
+        },
+        {
+          "titulo": "Recuperador de ativos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3500
+          }
+        },
+        {
+          "titulo": "Recuperador de crédito",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3501
+          }
+        },
+        {
+          "titulo": "Recuperador interno",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3502
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1344
+      }
+    },
+    {
+      "codigo": "421315",
+      "titulo": "Localizador (cobrador)",
+      "familia": "4213",
+      "sinonimos": [
+        {
+          "titulo": "Localizador externo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3503
+          }
+        },
+        {
+          "titulo": "Notificador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3504
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1345
+      }
+    },
+    {
+      "codigo": "422105",
+      "titulo": "Recepcionista, em geral",
+      "familia": "4221",
+      "sinonimos": [
+        {
+          "titulo": "Agente de tráfego",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3505
+          }
+        },
+        {
+          "titulo": "Atendente de clínica  veterinária",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3506
+          }
+        },
+        {
+          "titulo": "Atendente de consultório veterinário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3507
+          }
+        },
+        {
+          "titulo": "Encarregado da recepção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3508
+          }
+        },
+        {
+          "titulo": "Funcionário de setor de informação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3509
+          }
+        },
+        {
+          "titulo": "Recepcionista atendente",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3510
+          }
+        },
+        {
+          "titulo": "Recepcionista auxiliar de secretária",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3511
+          }
+        },
+        {
+          "titulo": "Recepcionista bilíngüe",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3512
+          }
+        },
+        {
+          "titulo": "Recepcionista de crediário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3513
+          }
+        },
+        {
+          "titulo": "Recepcionista de empresa de navegação aérea",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3514
+          }
+        },
+        {
+          "titulo": "Recepcionista secretária",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3515
+          }
+        },
+        {
+          "titulo": "Recepcionista telefonista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3516
+          }
+        },
+        {
+          "titulo": "Recepcionista vendedor de passagens aéreas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3517
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1346
+      }
+    },
+    {
+      "codigo": "422110",
+      "titulo": "Recepcionista de consultório médico ou dentário",
+      "familia": "4221",
+      "sinonimos": [
+        {
+          "titulo": "Atendente de ambulatório",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3518
+          }
+        },
+        {
+          "titulo": "Atendente de clínica  médica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3519
+          }
+        },
+        {
+          "titulo": "Atendente de consultório médico",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3520
+          }
+        },
+        {
+          "titulo": "Auxiliar de recepção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3521
+          }
+        },
+        {
+          "titulo": "Recepcionista de hospital",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3522
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1347
+      }
+    },
+    {
+      "codigo": "422115",
+      "titulo": "Recepcionista de seguro saúde",
+      "familia": "4221",
+      "sinonimos": [
+        {
+          "titulo": "Atendente de seguro saúde",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3523
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1348
+      }
+    },
+    {
+      "codigo": "422120",
+      "titulo": "Recepcionista de hotel",
+      "familia": "4221",
+      "sinonimos": [
+        {
+          "titulo": "Guest relations",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3524
+          }
+        },
+        {
+          "titulo": "Recepcionista caixa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3525
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1349
+      }
+    },
+    {
+      "codigo": "422125",
+      "titulo": "Recepcionista de banco",
+      "familia": "4221",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1350
+      }
+    },
+    {
+      "codigo": "422130",
+      "titulo": "Concierge",
+      "familia": "4221",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1351
+      }
+    },
+    {
+      "codigo": "422205",
+      "titulo": "Telefonista",
+      "familia": "4222",
+      "sinonimos": [
+        {
+          "titulo": "Operador de centro telefônico",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3526
+          }
+        },
+        {
+          "titulo": "Operador de mesa telefônica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3527
+          }
+        },
+        {
+          "titulo": "Operador de pabx",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3528
+          }
+        },
+        {
+          "titulo": "Telefonista bilíngüe",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3529
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1352
+      }
+    },
+    {
+      "codigo": "422210",
+      "titulo": "Teleoperador",
+      "familia": "4222",
+      "sinonimos": [
+        {
+          "titulo": "Operador bilíngüe (telefonia)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3530
+          }
+        },
+        {
+          "titulo": "Operador internacional (telefonia)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3531
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1353
+      }
+    },
+    {
+      "codigo": "422220",
+      "titulo": "Operador de rádio-chamada",
+      "familia": "4222",
+      "sinonimos": [
+        {
+          "titulo": "Operador de radiotelefonia",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3533
+          }
+        },
+        {
+          "titulo": "Operador de rádio (telefonia)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3532
+          }
+        },
+        {
+          "titulo": "Radioperador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3534
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1354
+      }
+    },
+    {
+      "codigo": "422305",
+      "titulo": "Operador de telemarketing ativo",
+      "familia": "4223",
+      "sinonimos": [
+        {
+          "titulo": "Operador de teleatendimento ativo (telemarketing)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3535
+          }
+        },
+        {
+          "titulo": "Teleoperador ativo (telemarketing)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3536
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1355
+      }
+    },
+    {
+      "codigo": "422310",
+      "titulo": "Operador de telemarketing ativo e receptivo",
+      "familia": "4223",
+      "sinonimos": [
+        {
+          "titulo": "Operador de teleatendimento híbrido (telemarketing)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3537
+          }
+        },
+        {
+          "titulo": "Operador de telemarketing (operações híbridas)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3538
+          }
+        },
+        {
+          "titulo": "Teleoperador de marketing (híbrido)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3539
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1356
+      }
+    },
+    {
+      "codigo": "422315",
+      "titulo": "Operador de telemarketing receptivo",
+      "familia": "4223",
+      "sinonimos": [
+        {
+          "titulo": "Atendente central telemarketing",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3540
+          }
+        },
+        {
+          "titulo": "Atendente de informações (telemarketing)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3541
+          }
+        },
+        {
+          "titulo": "Atendente de telemarketing",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3542
+          }
+        },
+        {
+          "titulo": "Operador de atendimento receptivo (telemarketing)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3543
+          }
+        },
+        {
+          "titulo": "Teleoperador receptivo (telemarketing)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3544
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1357
+      }
+    },
+    {
+      "codigo": "422320",
+      "titulo": "Operador de telemarketing técnico",
+      "familia": "4223",
+      "sinonimos": [
+        {
+          "titulo": "Operador de suporte técnico (telemarketing)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3545
+          }
+        },
+        {
+          "titulo": "Operador de telemarketing bilíngüe",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3546
+          }
+        },
+        {
+          "titulo": "Operador de telemarketing especializado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3547
+          }
+        },
+        {
+          "titulo": "Teleoperador de apoio (telemarketing)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3548
+          }
+        },
+        {
+          "titulo": "Teleoperador de suporte técnico (telemarketing)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3549
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1358
+      }
+    },
+    {
+      "codigo": "422330",
+      "titulo": "Teleatendente de emergência",
+      "familia": "4223",
+      "sinonimos": [
+        {
+          "titulo": "Atendente de emergência",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3550
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1359
+      }
+    },
+    {
+      "codigo": "422335",
+      "titulo": "Monitor de teleatendimento",
+      "familia": "4223",
+      "sinonimos": [
+        {
+          "titulo": "Monitor de apoio ao teleatendimento",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3551
+          }
+        },
+        {
+          "titulo": "Telefonista-líder",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3552
+          }
+        },
+        {
+          "titulo": "Telefonista-monitor",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3553
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1360
+      }
+    },
+    {
+      "codigo": "423105",
+      "titulo": "Despachante documentalista",
+      "familia": "4231",
+      "sinonimos": [
+        {
+          "titulo": "Despachante de documentos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3554
+          }
+        },
+        {
+          "titulo": "Despachante policial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3555
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1361
+      }
+    },
+    {
+      "codigo": "423110",
+      "titulo": "Despachante de trânsito",
+      "familia": "4231",
+      "sinonimos": [
+        {
+          "titulo": "Despachante de veículos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3556
+          }
+        },
+        {
+          "titulo": "Despachante emplacador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3557
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1362
+      }
+    },
+    {
+      "codigo": "423115",
+      "titulo": "Vistoriador veicular",
+      "familia": "4231",
+      "sinonimos": [
+        {
+          "titulo": "Vistoriador de identificação veicular",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3558
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1363
+      }
+    },
+    {
+      "codigo": "424105",
+      "titulo": "Entrevistador censitário e de pesquisas amostrais",
+      "familia": "4241",
+      "sinonimos": [
+        {
+          "titulo": "Agente de coleta ( censo e pesquisas amostrais)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3559
+          }
+        },
+        {
+          "titulo": "Agente de pesquisa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3560
+          }
+        },
+        {
+          "titulo": "Entrevistador de campo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3561
+          }
+        },
+        {
+          "titulo": "Recenseador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3562
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1364
+      }
+    },
+    {
+      "codigo": "424110",
+      "titulo": "Entrevistador de pesquisa de opinião e mídia",
+      "familia": "4241",
+      "sinonimos": [
+        {
+          "titulo": "Entrevistador de cati (computer assisted telephone interviewing)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3563
+          }
+        },
+        {
+          "titulo": "Entrevistador de mídia",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3564
+          }
+        },
+        {
+          "titulo": "Entrevistador de pesquisa em profundidade",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3565
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1365
+      }
+    },
+    {
+      "codigo": "424115",
+      "titulo": "Entrevistador de pesquisas de mercado",
+      "familia": "4241",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1366
+      }
+    },
+    {
+      "codigo": "424120",
+      "titulo": "Entrevistador de preços",
+      "familia": "4241",
+      "sinonimos": [
+        {
+          "titulo": "Coletador de preços",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3566
+          }
+        },
+        {
+          "titulo": "Pesquisador de preços",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3567
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1367
+      }
+    },
+    {
+      "codigo": "424125",
+      "titulo": "Escriturário  em  estatística",
+      "familia": "4241",
+      "sinonimos": [
+        {
+          "titulo": "Técnico em estatística (escriturário)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3568
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1368
+      }
+    },
+    {
+      "codigo": "424130",
+      "titulo": "Entrevistador social",
+      "familia": "4241",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1369
+      }
+    },
+    {
+      "codigo": "424205",
+      "titulo": "Coordenador de provas (concurso, avaliação, exame)",
+      "familia": "4242",
+      "sinonimos": [
+        {
+          "titulo": "Assistente de coordenação (concurso, avaliação, exame)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3569
+          }
+        },
+        {
+          "titulo": "Coordenador de provas de local de aplicação (concurso, avaliação, exame)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3570
+          }
+        },
+        {
+          "titulo": "Coordenador de provas estadual (concurso, avaliação, exame)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3571
+          }
+        },
+        {
+          "titulo": "Coordenador de provas municipal (concurso, avaliação, exame)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3572
+          }
+        },
+        {
+          "titulo": "Supervisor de local de aplicação (concurso, avaliação, exame)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3573
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1370
+      }
+    },
+    {
+      "codigo": "424210",
+      "titulo": "Aplicador de provas (concurso, avaliação,exame)",
+      "familia": "4242",
+      "sinonimos": [
+        {
+          "titulo": "Chefe de sala (concurso, avaliação, exame)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3574
+          }
+        },
+        {
+          "titulo": "Fiscal de banheiro (concurso, avaliação, exame)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3575
+          }
+        },
+        {
+          "titulo": "Fiscal de sala (concurso, avaliação, exame)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3576
+          }
+        },
+        {
+          "titulo": "Fiscal volante (concurso, avaliação, exame)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3577
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1371
+      }
+    }
+  ]
+}

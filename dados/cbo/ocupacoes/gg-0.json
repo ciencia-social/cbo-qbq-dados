@@ -1,0 +1,892 @@
+{
+  "grande_grupo": "0",
+  "versao_dados": "dados-2026.11",
+  "fonte": "fontes/cbo/cbo2002-ocupacao.csv",
+  "total": 28,
+  "ocupacoes": [
+    {
+      "codigo": "010105",
+      "titulo": "Oficial general da aeronáutica",
+      "familia": "0101",
+      "sinonimos": [
+        {
+          "titulo": "Brigadeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 2
+          }
+        },
+        {
+          "titulo": "Major-brigadeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3
+          }
+        },
+        {
+          "titulo": "Marechal-do-ar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4
+          }
+        },
+        {
+          "titulo": "Tenente-brigadeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 5
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2
+      }
+    },
+    {
+      "codigo": "010110",
+      "titulo": "Oficial general do exército",
+      "familia": "0101",
+      "sinonimos": [
+        {
+          "titulo": "General-de-brigada",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 6
+          }
+        },
+        {
+          "titulo": "General-de-divisão",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7
+          }
+        },
+        {
+          "titulo": "General-de-exército",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 8
+          }
+        },
+        {
+          "titulo": "Marechal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 9
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 3
+      }
+    },
+    {
+      "codigo": "010115",
+      "titulo": "Oficial general da marinha",
+      "familia": "0101",
+      "sinonimos": [
+        {
+          "titulo": "Almirante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 10
+          }
+        },
+        {
+          "titulo": "Almirante-de-esquadra",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 11
+          }
+        },
+        {
+          "titulo": "Contra-almirante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 12
+          }
+        },
+        {
+          "titulo": "Vice-almirante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 13
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 4
+      }
+    },
+    {
+      "codigo": "010205",
+      "titulo": "Oficial da aeronáutica",
+      "familia": "0102",
+      "sinonimos": [
+        {
+          "titulo": "Capitão da aeronáutica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 14
+          }
+        },
+        {
+          "titulo": "Coronel da aeronáutica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 15
+          }
+        },
+        {
+          "titulo": "Major da aeronáutica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 16
+          }
+        },
+        {
+          "titulo": "Primeiro-tenente da aeronáutica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 17
+          }
+        },
+        {
+          "titulo": "Segundo-tenente da aeronáutica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 18
+          }
+        },
+        {
+          "titulo": "Tenente-coronel da aeronáutica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 19
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 5
+      }
+    },
+    {
+      "codigo": "010210",
+      "titulo": "Oficial do exército",
+      "familia": "0102",
+      "sinonimos": [
+        {
+          "titulo": "Capitão do exército",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 20
+          }
+        },
+        {
+          "titulo": "Coronel do exército",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 21
+          }
+        },
+        {
+          "titulo": "Major do exército",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 22
+          }
+        },
+        {
+          "titulo": "Primeiro-tenente do exército",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 23
+          }
+        },
+        {
+          "titulo": "Segundo-tenente do exército",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 24
+          }
+        },
+        {
+          "titulo": "Tenente-coronel do exército",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 25
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 6
+      }
+    },
+    {
+      "codigo": "010215",
+      "titulo": "Oficial da marinha",
+      "familia": "0102",
+      "sinonimos": [
+        {
+          "titulo": "Capitão-de-corveta",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 26
+          }
+        },
+        {
+          "titulo": "Capitão-de-fragata",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 27
+          }
+        },
+        {
+          "titulo": "Capitão-de-mar-e-guerra",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 28
+          }
+        },
+        {
+          "titulo": "Capitão-tenente da marinha",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 29
+          }
+        },
+        {
+          "titulo": "Primeiro-tenente da marinha",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 30
+          }
+        },
+        {
+          "titulo": "Segundo-tenente da marinha",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 31
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 7
+      }
+    },
+    {
+      "codigo": "010305",
+      "titulo": "Praça da aeronáutica",
+      "familia": "0103",
+      "sinonimos": [
+        {
+          "titulo": "Cabo da aeronáutica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 32
+          }
+        },
+        {
+          "titulo": "Primeiro-sargento da aeronáutica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 33
+          }
+        },
+        {
+          "titulo": "Segundo-sargento da aeronáutica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 34
+          }
+        },
+        {
+          "titulo": "Soldado da aeronáutica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 35
+          }
+        },
+        {
+          "titulo": "Suboficial da aeronáutica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 36
+          }
+        },
+        {
+          "titulo": "Taifeiro da aeronáutica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 37
+          }
+        },
+        {
+          "titulo": "Taifeiro-mor da aeronáutica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 38
+          }
+        },
+        {
+          "titulo": "Terceiro-sargento da aeronáutica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 39
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 8
+      }
+    },
+    {
+      "codigo": "010310",
+      "titulo": "Praça do exército",
+      "familia": "0103",
+      "sinonimos": [
+        {
+          "titulo": "Cabo do exército",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 40
+          }
+        },
+        {
+          "titulo": "Primeiro-sargento do exército",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 41
+          }
+        },
+        {
+          "titulo": "Segundo-sargento",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 42
+          }
+        },
+        {
+          "titulo": "Soldado do exército",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 43
+          }
+        },
+        {
+          "titulo": "Subtenente do exército",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 44
+          }
+        },
+        {
+          "titulo": "Taifeiro do exército",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 45
+          }
+        },
+        {
+          "titulo": "Taifeiro-mor do exército",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 46
+          }
+        },
+        {
+          "titulo": "Terceiro-sargento do exército",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 47
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 9
+      }
+    },
+    {
+      "codigo": "010315",
+      "titulo": "Praça da marinha",
+      "familia": "0103",
+      "sinonimos": [
+        {
+          "titulo": "Cabo da marinha",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 48
+          }
+        },
+        {
+          "titulo": "Marinheiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 49
+          }
+        },
+        {
+          "titulo": "Primeiro-sargento da marinha",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 50
+          }
+        },
+        {
+          "titulo": "Segundo-sargento da marinha",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 51
+          }
+        },
+        {
+          "titulo": "Soldado fuzileiro naval",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 52
+          }
+        },
+        {
+          "titulo": "Suboficial da marinha",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 53
+          }
+        },
+        {
+          "titulo": "Terceiro-sargento da marinha",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 54
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 10
+      }
+    },
+    {
+      "codigo": "020105",
+      "titulo": "Coronel da polícia militar",
+      "familia": "0201",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 11
+      }
+    },
+    {
+      "codigo": "020110",
+      "titulo": "Tenente-coronel da polícia militar",
+      "familia": "0201",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 12
+      }
+    },
+    {
+      "codigo": "020115",
+      "titulo": "Major da polícia militar",
+      "familia": "0201",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 13
+      }
+    },
+    {
+      "codigo": "020205",
+      "titulo": "Capitão da polícia militar",
+      "familia": "0202",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 14
+      }
+    },
+    {
+      "codigo": "020305",
+      "titulo": "Primeiro tenente de polícia militar",
+      "familia": "0203",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 15
+      }
+    },
+    {
+      "codigo": "020310",
+      "titulo": "Segundo tenente de polícia militar",
+      "familia": "0203",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 16
+      }
+    },
+    {
+      "codigo": "021105",
+      "titulo": "Subtenente da policia militar",
+      "familia": "0211",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 17
+      }
+    },
+    {
+      "codigo": "021110",
+      "titulo": "Sargento da policia militar",
+      "familia": "0211",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 18
+      }
+    },
+    {
+      "codigo": "021205",
+      "titulo": "Cabo da polícia militar",
+      "familia": "0212",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 19
+      }
+    },
+    {
+      "codigo": "021210",
+      "titulo": "Soldado da polícia militar",
+      "familia": "0212",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 20
+      }
+    },
+    {
+      "codigo": "030105",
+      "titulo": "Coronel bombeiro militar",
+      "familia": "0301",
+      "sinonimos": [
+        {
+          "titulo": "Coronel do corpo de bombeiros militar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 55
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 21
+      }
+    },
+    {
+      "codigo": "030110",
+      "titulo": "Major bombeiro militar",
+      "familia": "0301",
+      "sinonimos": [
+        {
+          "titulo": "Major do corpo de bombeiros militar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 56
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 22
+      }
+    },
+    {
+      "codigo": "030115",
+      "titulo": "Tenente-coronel bombeiro militar",
+      "familia": "0301",
+      "sinonimos": [
+        {
+          "titulo": "Tenente-coronel do corpo de bombeiros militar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 57
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 23
+      }
+    },
+    {
+      "codigo": "030205",
+      "titulo": "Capitão bombeiro militar",
+      "familia": "0302",
+      "sinonimos": [
+        {
+          "titulo": "Capitão do corpo de bombeiros militar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 58
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 24
+      }
+    },
+    {
+      "codigo": "030305",
+      "titulo": "Tenente do corpo de bombeiros militar",
+      "familia": "0303",
+      "sinonimos": [
+        {
+          "titulo": "Oficial subalterno do corpo de bombeiros militar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 59
+          }
+        },
+        {
+          "titulo": "Primeiro-tenente bombeiro militar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 60
+          }
+        },
+        {
+          "titulo": "Primeiro-tenente do corpo de bombeiros",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 61
+          }
+        },
+        {
+          "titulo": "Segundo-tenente bombeiro militar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 62
+          }
+        },
+        {
+          "titulo": "Segundo-tenente do corpo de bombeiros",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 63
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 25
+      }
+    },
+    {
+      "codigo": "031105",
+      "titulo": "Subtenente bombeiro militar",
+      "familia": "0311",
+      "sinonimos": [
+        {
+          "titulo": "Subtenente do corpo de bombeiros militar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 64
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 26
+      }
+    },
+    {
+      "codigo": "031110",
+      "titulo": "Sargento bombeiro militar",
+      "familia": "0311",
+      "sinonimos": [
+        {
+          "titulo": "Sargento do corpo de bombeiros militar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 65
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 27
+      }
+    },
+    {
+      "codigo": "031205",
+      "titulo": "Cabo bombeiro militar",
+      "familia": "0312",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 28
+      }
+    },
+    {
+      "codigo": "031210",
+      "titulo": "Soldado bombeiro militar",
+      "familia": "0312",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 29
+      }
+    }
+  ]
+}

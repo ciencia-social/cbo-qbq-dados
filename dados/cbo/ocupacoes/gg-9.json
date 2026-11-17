@@ -1,0 +1,3408 @@
+{
+  "grande_grupo": "9",
+  "versao_dados": "dados-2026.11",
+  "fonte": "fontes/cbo/cbo2002-ocupacao.csv",
+  "total": 89,
+  "ocupacoes": [
+    {
+      "codigo": "910105",
+      "titulo": "Encarregado de manutenção mecânica de sistemas operacionais",
+      "familia": "9101",
+      "sinonimos": [
+        {
+          "titulo": "Chefe de manutenção mecânica de sistemas operacionais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7494
+          }
+        },
+        {
+          "titulo": "Coordenador de manutenção mecânica de sistemas operacionais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7495
+          }
+        },
+        {
+          "titulo": "Encarregado de turma de manutenção mecânica de sistemas operacionais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7496
+          }
+        },
+        {
+          "titulo": "Mestre de manutenção de máquinas de sistemas operacionais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7497
+          }
+        },
+        {
+          "titulo": "Mestre de manutenção industrial de máquinas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7498
+          }
+        },
+        {
+          "titulo": "Mestre de manutenção mecânica de sistemas operacionais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7499
+          }
+        },
+        {
+          "titulo": "Supervisor de manutenção mecânica de sistemas operacionais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7500
+          }
+        },
+        {
+          "titulo": "Supervisores de manutenção de máquinas e equipamentos comerciais e residenciais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7501
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2607
+      }
+    },
+    {
+      "codigo": "910110",
+      "titulo": "Supervisor de manutenção de aparelhos térmicos, de climatização e de refrigeração",
+      "familia": "9101",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2608
+      }
+    },
+    {
+      "codigo": "910115",
+      "titulo": "Supervisor de manutenção de bombas, motores, compressores e equipamentos de transmissão",
+      "familia": "9101",
+      "sinonimos": [
+        {
+          "titulo": "Coordenador de manutenção eletrônica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7502
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2609
+      }
+    },
+    {
+      "codigo": "910120",
+      "titulo": "Supervisor de manutenção de máquinas gráficas",
+      "familia": "9101",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2610
+      }
+    },
+    {
+      "codigo": "910125",
+      "titulo": "Supervisor de manutenção de máquinas industriais têxteis",
+      "familia": "9101",
+      "sinonimos": [
+        {
+          "titulo": "Mestre de manutenção de máquinas de cardas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7503
+          }
+        },
+        {
+          "titulo": "Mestre de manutenção de máquinas de estampar tecidos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7504
+          }
+        },
+        {
+          "titulo": "Mestre de manutenção de máquinas de fiação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7505
+          }
+        },
+        {
+          "titulo": "Mestre de manutenção de tecelagem",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7506
+          }
+        },
+        {
+          "titulo": "Mestre mecânico de conicaleira",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7507
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2611
+      }
+    },
+    {
+      "codigo": "910130",
+      "titulo": "Supervisor de manutenção de máquinas operatrizes e de usinagem",
+      "familia": "9101",
+      "sinonimos": [
+        {
+          "titulo": "Mestre de manutenção de máquinas operatrizes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7508
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2612
+      }
+    },
+    {
+      "codigo": "910205",
+      "titulo": "Supervisor da manutenção e reparação de veículos leves",
+      "familia": "9102",
+      "sinonimos": [
+        {
+          "titulo": "Supervisor de manutenção de veículos de passeio",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7509
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2613
+      }
+    },
+    {
+      "codigo": "910210",
+      "titulo": "Supervisor da manutenção e reparação de veículos pesados",
+      "familia": "9102",
+      "sinonimos": [
+        {
+          "titulo": "Supervisor de manutenção de veículos de carga",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7510
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2614
+      }
+    },
+    {
+      "codigo": "910905",
+      "titulo": "Supervisor de reparos linhas férreas",
+      "familia": "9109",
+      "sinonimos": [
+        {
+          "titulo": "Contramestre de conservação de vias permanentes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7511
+          }
+        },
+        {
+          "titulo": "Encarregado de conservação de vias permanentes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7512
+          }
+        },
+        {
+          "titulo": "Líder de conservação de vias permanentes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7513
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2615
+      }
+    },
+    {
+      "codigo": "910910",
+      "titulo": "Supervisor de manutenção de vias férreas",
+      "familia": "9109",
+      "sinonimos": [
+        {
+          "titulo": "Encarregado de lubrificação de vias permanentes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7514
+          }
+        },
+        {
+          "titulo": "Líder de lubrificação de vias permanentes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7515
+          }
+        },
+        {
+          "titulo": "Supervisor de manutenção em lubrificação de vias permanentes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7516
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2616
+      }
+    },
+    {
+      "codigo": "911105",
+      "titulo": "Mecânico de manutenção de bomba injetora (exceto de veículos automotores)",
+      "familia": "9111",
+      "sinonimos": [
+        {
+          "titulo": "Mecânico de bomba injetora (exceto de veículos automotores)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7517
+          }
+        },
+        {
+          "titulo": "Mecânico de bombas diesel (exceto de veículos automotores)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7518
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2617
+      }
+    },
+    {
+      "codigo": "911110",
+      "titulo": "Mecânico de manutenção de bombas",
+      "familia": "9111",
+      "sinonimos": [
+        {
+          "titulo": "Mecânico de bombas hidráulicas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7519
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de bombas centrífugas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7520
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de bombas hidráulicas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7521
+          }
+        },
+        {
+          "titulo": "Mecânico reparador de bombas hidráulicas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7522
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2618
+      }
+    },
+    {
+      "codigo": "911115",
+      "titulo": "Mecânico de manutenção de compressores de ar",
+      "familia": "9111",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2619
+      }
+    },
+    {
+      "codigo": "911120",
+      "titulo": "Mecânico de manutenção de motores diesel (exceto de veículos automotores)",
+      "familia": "9111",
+      "sinonimos": [
+        {
+          "titulo": "Afinador de motores diesel  (exceto de veículos automotores)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7523
+          }
+        },
+        {
+          "titulo": "Auxiliar de mecânico diesel (exceto de veículos automotores)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7524
+          }
+        },
+        {
+          "titulo": "Inspetor de manutenção de motores diesel (exceto de veículos automotores)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7525
+          }
+        },
+        {
+          "titulo": "Mecânico de afinação de motores diesel (exceto de veículos automotores)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7526
+          }
+        },
+        {
+          "titulo": "Mecânico de regulagem de motores diesel (exceto de veículos automotores)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7527
+          }
+        },
+        {
+          "titulo": "Mecânico diesel (exceto de veículos automotores)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7528
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2620
+      }
+    },
+    {
+      "codigo": "911125",
+      "titulo": "Mecânico de manutenção de redutores",
+      "familia": "9111",
+      "sinonimos": [
+        {
+          "titulo": "Mecânico de manutenção de transmissão",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7529
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2621
+      }
+    },
+    {
+      "codigo": "911130",
+      "titulo": "Mecânico de manutenção de turbinas (exceto de aeronaves)",
+      "familia": "9111",
+      "sinonimos": [
+        {
+          "titulo": "Mecânico de turbinas e caldeiras",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7530
+          }
+        },
+        {
+          "titulo": "Mecânico de turbinas exclusive de avião",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7531
+          }
+        },
+        {
+          "titulo": "Mecânicos de turbinas a vapor e gás",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7532
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2622
+      }
+    },
+    {
+      "codigo": "911135",
+      "titulo": "Mecânico de manutenção de turbocompressores",
+      "familia": "9111",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2623
+      }
+    },
+    {
+      "codigo": "911205",
+      "titulo": "Mecânico de manutenção e instalação de aparelhos de climatização e  refrigeração",
+      "familia": "9112",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar mecânico de ar condicionado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7533
+          }
+        },
+        {
+          "titulo": "Auxiliar mecânico de refrigeração",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7534
+          }
+        },
+        {
+          "titulo": "Mecânico de ar-condicionado e refrigeração",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7535
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de aparelhos de refrigeração",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7536
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de ar condicionado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7537
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de refrigerador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7538
+          }
+        },
+        {
+          "titulo": "Mecânico de máquina de ventilação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7539
+          }
+        },
+        {
+          "titulo": "Meio oficial de mecânico de refrigeração",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7540
+          }
+        },
+        {
+          "titulo": "Meio oficial mecânico de ar condicionado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7541
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2624
+      }
+    },
+    {
+      "codigo": "911305",
+      "titulo": "Mecânico de manutenção de máquinas, em geral",
+      "familia": "9113",
+      "sinonimos": [
+        {
+          "titulo": "Ajustador de máquinas de embalagem",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7542
+          }
+        },
+        {
+          "titulo": "Aprendiz de mecânica de manutenção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7543
+          }
+        },
+        {
+          "titulo": "Líder de manutenção mecânica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7544
+          }
+        },
+        {
+          "titulo": "Mecânico de caldeiras",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7545
+          }
+        },
+        {
+          "titulo": "Mecânico de equipamento pneumático",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7546
+          }
+        },
+        {
+          "titulo": "Mecânico de equipamentos industriais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7547
+          }
+        },
+        {
+          "titulo": "Mecânico de fundição (manutenção)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7548
+          }
+        },
+        {
+          "titulo": "Mecânico de gerador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7549
+          }
+        },
+        {
+          "titulo": "Mecânico de instalações industriais (manutenção)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7550
+          }
+        },
+        {
+          "titulo": "Mecânico de laminação (manutenção)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7551
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção (máquinas hidráulicas)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7564
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de bombas de refrigeração e hidráulicas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7552
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de equipamentos hidropneumáticos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7553
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de máquina de calçado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7554
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de máquina de curtume",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7555
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de máquina de embalagem",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7556
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de máquina de rotular",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7557
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de máquina industrial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7558
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de máquinas de acondicionar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7559
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de máquinas de embalagem",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7560
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de máquinas industriais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7561
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção e instalação elétrica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7562
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção hidráulica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7563
+          }
+        },
+        {
+          "titulo": "Mecânico de máquinas de pasteurização",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7565
+          }
+        },
+        {
+          "titulo": "Mecânico de máquinas operatrizes (manutenção)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7566
+          }
+        },
+        {
+          "titulo": "Mecânico reparador de máquinas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7567
+          }
+        },
+        {
+          "titulo": "Mestre de manutenção de equipamento de solda",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7568
+          }
+        },
+        {
+          "titulo": "Reparador de máquinas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7569
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2625
+      }
+    },
+    {
+      "codigo": "911310",
+      "titulo": "Mecânico de manutenção de máquinas gráficas",
+      "familia": "9113",
+      "sinonimos": [
+        {
+          "titulo": "Mecânico de rotativa (indústria gráfica)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7570
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2626
+      }
+    },
+    {
+      "codigo": "911315",
+      "titulo": "Mecânico de manutenção de máquinas operatrizes (lavra de madeira)",
+      "familia": "9113",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2627
+      }
+    },
+    {
+      "codigo": "911320",
+      "titulo": "Mecânico de manutenção de máquinas têxteis",
+      "familia": "9113",
+      "sinonimos": [
+        {
+          "titulo": "Mecânico de estamparia (máquinas têxteis)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7571
+          }
+        },
+        {
+          "titulo": "Mecânico de malharia (máquinas)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7572
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de bobinadeira (indústria têxtil)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7573
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de cardas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7574
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de espuladeira",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7575
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de máquinas de costura",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7576
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de máquinas maçaroqueiras",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7577
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de teares",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7578
+          }
+        },
+        {
+          "titulo": "Mecânico de máquinas de fiação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7579
+          }
+        },
+        {
+          "titulo": "Mecânico de penteadeiras (máquinas têxteis)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7580
+          }
+        },
+        {
+          "titulo": "Mecânico de urdideira e engomadeira",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7581
+          }
+        },
+        {
+          "titulo": "Reformador de pentes (máquinas têxteis)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7582
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2628
+      }
+    },
+    {
+      "codigo": "911325",
+      "titulo": "Mecânico de manutenção de máquinas-ferramentas (usinagem de metais)",
+      "familia": "9113",
+      "sinonimos": [
+        {
+          "titulo": "Mecânico de manutenção de máquinas de fundição (usinagem de metais)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7583
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de máquinas operatrizes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7584
+          }
+        },
+        {
+          "titulo": "Mecânico de prensas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7585
+          }
+        },
+        {
+          "titulo": "Mecânico de usinagem (manutenção)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7586
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2629
+      }
+    },
+    {
+      "codigo": "913105",
+      "titulo": "Mecânico de manutenção de aparelhos de levantamento",
+      "familia": "9131",
+      "sinonimos": [
+        {
+          "titulo": "Mecânico de estiva",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7587
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de empilhadeiras",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7588
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de guindaste",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7589
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de pontes-rolantes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7590
+          }
+        },
+        {
+          "titulo": "Mecânico de ponte-rolante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7591
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2630
+      }
+    },
+    {
+      "codigo": "913110",
+      "titulo": "Mecânico de manutenção de equipamento de mineração",
+      "familia": "9131",
+      "sinonimos": [
+        {
+          "titulo": "Mecânico de manutenção de britagem",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7592
+          }
+        },
+        {
+          "titulo": "Mecânico de mineração",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7594
+          }
+        },
+        {
+          "titulo": "Mecânico de máquina para trabalho de minas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7593
+          }
+        },
+        {
+          "titulo": "Mecânico de recravadeira",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7595
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2631
+      }
+    },
+    {
+      "codigo": "913115",
+      "titulo": "Mecânico de manutenção de máquinas agrícolas",
+      "familia": "9131",
+      "sinonimos": [
+        {
+          "titulo": "Mecânico de campo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7596
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de implementos agrícolas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7597
+          }
+        },
+        {
+          "titulo": "Mecânico de motores agrícolas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7599
+          }
+        },
+        {
+          "titulo": "Mecânico de máquina agrícola",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7598
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2632
+      }
+    },
+    {
+      "codigo": "913120",
+      "titulo": "Mecânico de manutenção de máquinas de construção e terraplenagem",
+      "familia": "9131",
+      "sinonimos": [
+        {
+          "titulo": "Mecânico de equipamento pesado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7600
+          }
+        },
+        {
+          "titulo": "Mecânico de escavadeira",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7601
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de máquinas de construção civil",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7602
+          }
+        },
+        {
+          "titulo": "Mecânico de máquinas pesadas (manutenção)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7603
+          }
+        },
+        {
+          "titulo": "Mecânico de perfuratrizes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7604
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2633
+      }
+    },
+    {
+      "codigo": "913125",
+      "titulo": "Vulcanizador de correias transportadoras",
+      "familia": "9131",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2634
+      }
+    },
+    {
+      "codigo": "914105",
+      "titulo": "Mecânico de manutenção de aeronaves, em geral",
+      "familia": "9141",
+      "sinonimos": [
+        {
+          "titulo": "Ajudante de manutenção de aeronave",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7606
+          }
+        },
+        {
+          "titulo": "Ajudante, auxiliar de mecânico de avião",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7605
+          }
+        },
+        {
+          "titulo": "Mecânico de aeronaves",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7607
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de aviões",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7608
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de helicópteros",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7609
+          }
+        },
+        {
+          "titulo": "Mecânico encarregado de manutenção de aeronave",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7610
+          }
+        },
+        {
+          "titulo": "Técnico em manutenção de aeronaves",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7611
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2635
+      }
+    },
+    {
+      "codigo": "914110",
+      "titulo": "Mecânico de manutenção de sistema hidráulico de aeronaves (serviços de pista e hangar)",
+      "familia": "9141",
+      "sinonimos": [
+        {
+          "titulo": "Técnico em manutenção de sistema hidráulico de aeronaves",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7612
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2636
+      }
+    },
+    {
+      "codigo": "914205",
+      "titulo": "Mecânico de manutenção de motores e equipamentos navais",
+      "familia": "9142",
+      "sinonimos": [
+        {
+          "titulo": "Mecânico de manutenção mariner",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7613
+          }
+        },
+        {
+          "titulo": "Mecânico naval",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7614
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2637
+      }
+    },
+    {
+      "codigo": "914305",
+      "titulo": "Mecânico de manutenção de veículos ferroviários",
+      "familia": "9143",
+      "sinonimos": [
+        {
+          "titulo": "Agente de manutenção de veículos ferroviários",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7615
+          }
+        },
+        {
+          "titulo": "Artífice de manutenção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7616
+          }
+        },
+        {
+          "titulo": "Mecânico de locomotivas e vagões",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7617
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de locomotiva",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7618
+          }
+        },
+        {
+          "titulo": "Mecânico ferroviário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7619
+          }
+        },
+        {
+          "titulo": "Mecânico reparador de vagões",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7620
+          }
+        },
+        {
+          "titulo": "Operador de produção metroferroviária",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7621
+          }
+        },
+        {
+          "titulo": "Truqueiro (ferrovias)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7622
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2638
+      }
+    },
+    {
+      "codigo": "914405",
+      "titulo": "Mecânico de manutenção de automóveis, motocicletas e veículos similares",
+      "familia": "9144",
+      "sinonimos": [
+        {
+          "titulo": "Afinador de motores de automóveis",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7623
+          }
+        },
+        {
+          "titulo": "Alinhador de direção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7624
+          }
+        },
+        {
+          "titulo": "Alinhador de rodas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7625
+          }
+        },
+        {
+          "titulo": "Auxiliar de mecânico de autos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7626
+          }
+        },
+        {
+          "titulo": "Encarregado de montagem de caixa diferencial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7627
+          }
+        },
+        {
+          "titulo": "Mecânico de amortecedores",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7628
+          }
+        },
+        {
+          "titulo": "Mecânico de auto em geral",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7629
+          }
+        },
+        {
+          "titulo": "Mecânico de automóvel",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7630
+          }
+        },
+        {
+          "titulo": "Mecânico de chassis",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7632
+          }
+        },
+        {
+          "titulo": "Mecânico de câmbio",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7631
+          }
+        },
+        {
+          "titulo": "Mecânico de direção e freios de automóveis",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7633
+          }
+        },
+        {
+          "titulo": "Mecânico de freios de automóveis",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7634
+          }
+        },
+        {
+          "titulo": "Mecânico de injeção eletrônica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7635
+          }
+        },
+        {
+          "titulo": "Mecânico de instalação de freios",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7636
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de automóveis",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7637
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de motores a álcool",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7638
+          }
+        },
+        {
+          "titulo": "Mecânico de motor a gasolina",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7639
+          }
+        },
+        {
+          "titulo": "Mecânico de motor de explosão",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7640
+          }
+        },
+        {
+          "titulo": "Mecânico de radiadores",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7641
+          }
+        },
+        {
+          "titulo": "Mecânico de socorro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7642
+          }
+        },
+        {
+          "titulo": "Mecânico de suspensão",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7643
+          }
+        },
+        {
+          "titulo": "Mecânico de testes de automotores",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7644
+          }
+        },
+        {
+          "titulo": "Mecânico de veículos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7645
+          }
+        },
+        {
+          "titulo": "Mecânicos de veículos automotores",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7646
+          }
+        },
+        {
+          "titulo": "Oficial mecânico de veículos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7647
+          }
+        },
+        {
+          "titulo": "Reparador de veículos automotores",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7648
+          }
+        },
+        {
+          "titulo": "Retificador de motores a diesel",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7650
+          }
+        },
+        {
+          "titulo": "Retificador de motores a gasolina",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7651
+          }
+        },
+        {
+          "titulo": "Retificador de motores a álcool",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7649
+          }
+        },
+        {
+          "titulo": "Retificador de motores de automóveis",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7652
+          }
+        },
+        {
+          "titulo": "Retificador de motores de carros",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7653
+          }
+        },
+        {
+          "titulo": "Retificador de motores de explosão",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7654
+          }
+        },
+        {
+          "titulo": "Retificador de motores de veículos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7655
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2639
+      }
+    },
+    {
+      "codigo": "914410",
+      "titulo": "Mecânico de manutenção de empilhadeiras e outros veículos de cargas leves",
+      "familia": "9144",
+      "sinonimos": [
+        {
+          "titulo": "Mecânico de empilhadeira",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7656
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de máquinas agrícolas (tratores)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7657
+          }
+        },
+        {
+          "titulo": "Reparador de empilhadeiras",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7658
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2640
+      }
+    },
+    {
+      "codigo": "914415",
+      "titulo": "Mecânico de manutenção de motocicletas",
+      "familia": "9144",
+      "sinonimos": [
+        {
+          "titulo": "Mecânico de motocicletas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7659
+          }
+        },
+        {
+          "titulo": "Mecânico de motonetas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7660
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2641
+      }
+    },
+    {
+      "codigo": "914420",
+      "titulo": "Mecânico de manutenção de tratores",
+      "familia": "9144",
+      "sinonimos": [
+        {
+          "titulo": "Reparador de tratores",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7661
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2642
+      }
+    },
+    {
+      "codigo": "914425",
+      "titulo": "Mecânico de veículos automotores a diesel (exceto tratores)",
+      "familia": "9144",
+      "sinonimos": [
+        {
+          "titulo": "Afinador de motores a diesel",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7662
+          }
+        },
+        {
+          "titulo": "Mecânico de automóveis e caminhões",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7663
+          }
+        },
+        {
+          "titulo": "Mecânico de diesel e eletricidade",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7664
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de caminhão a diesel",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7665
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de ônibus",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7666
+          }
+        },
+        {
+          "titulo": "Mecânico de motor a diesel",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7667
+          }
+        },
+        {
+          "titulo": "Mecânico eletricista de diesel (veículos automotores)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7668
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2643
+      }
+    },
+    {
+      "codigo": "915105",
+      "titulo": "Técnico em manutenção de instrumentos de medição e precisão",
+      "familia": "9151",
+      "sinonimos": [
+        {
+          "titulo": "Instrumentista de laboratório (manutenção)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7669
+          }
+        },
+        {
+          "titulo": "Técnico instrumentista (manutenção de instrumentos de medição e precisão)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7670
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2644
+      }
+    },
+    {
+      "codigo": "915110",
+      "titulo": "Técnico em manutenção de hidrômetros",
+      "familia": "9151",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2645
+      }
+    },
+    {
+      "codigo": "915115",
+      "titulo": "Técnico em manutenção de balanças",
+      "familia": "9151",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2646
+      }
+    },
+    {
+      "codigo": "915205",
+      "titulo": "Restaurador de instrumentos musicais (exceto cordas arcadas)",
+      "familia": "9152",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2647
+      }
+    },
+    {
+      "codigo": "915210",
+      "titulo": "Reparador de instrumentos musicais",
+      "familia": "9152",
+      "sinonimos": [
+        {
+          "titulo": "Afinador de piano",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7671
+          }
+        },
+        {
+          "titulo": "Técnico em instrumentos de sopro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7672
+          }
+        },
+        {
+          "titulo": "Técnico em teclado musical",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7673
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2648
+      }
+    },
+    {
+      "codigo": "915215",
+      "titulo": "Luthier (restauração de cordas arcadas)",
+      "familia": "9152",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2649
+      }
+    },
+    {
+      "codigo": "915305",
+      "titulo": "Técnico em manutenção de equipamentos e instrumentos médico-hospitalares",
+      "familia": "9153",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2650
+      }
+    },
+    {
+      "codigo": "915405",
+      "titulo": "Reparador de equipamentos fotográficos",
+      "familia": "9154",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar técnico na reparação de equipamentos fotográficos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7674
+          }
+        },
+        {
+          "titulo": "Mecânico de máquinas fotográficas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7675
+          }
+        },
+        {
+          "titulo": "Técnico em reparação de equipamentos fotográficos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7676
+          }
+        },
+        {
+          "titulo": "Técnico em reparação de máquinas fotográficas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7677
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2651
+      }
+    },
+    {
+      "codigo": "919105",
+      "titulo": "Lubrificador industrial",
+      "familia": "9191",
+      "sinonimos": [
+        {
+          "titulo": "Ajudante de lubrificação (indústria)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7678
+          }
+        },
+        {
+          "titulo": "Engraxador de máquinas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7679
+          }
+        },
+        {
+          "titulo": "Lubrificador auxiliar mecânico",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7680
+          }
+        },
+        {
+          "titulo": "Lubrificador de máquinas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7681
+          }
+        },
+        {
+          "titulo": "Mecânico lubrificador de manutenção industrial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7682
+          }
+        },
+        {
+          "titulo": "Mecânico lubrificador industrial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7683
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2652
+      }
+    },
+    {
+      "codigo": "919110",
+      "titulo": "Lubrificador de veículos automotores (exceto embarcações)",
+      "familia": "9191",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar de lubrificador de veículos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7684
+          }
+        },
+        {
+          "titulo": "Lubrificador de automóveis",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7685
+          }
+        },
+        {
+          "titulo": "Lubrificador de máquinas de terraplenagem",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7686
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2653
+      }
+    },
+    {
+      "codigo": "919115",
+      "titulo": "Lubrificador de embarcações",
+      "familia": "9191",
+      "sinonimos": [
+        {
+          "titulo": "Lubrificador naval",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7687
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção (embarcações)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7688
+          }
+        },
+        {
+          "titulo": "Mecânico lubrificador (embarcações)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7689
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2654
+      }
+    },
+    {
+      "codigo": "919205",
+      "titulo": "Mecânico de manutenção de máquinas cortadoras de grama, roçadeiras, motosserras e similares",
+      "familia": "9192",
+      "sinonimos": [
+        {
+          "titulo": "Mecânico",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7690
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de roçadeiras, motosserras e similares",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7691
+          }
+        },
+        {
+          "titulo": "Mecânico de motosserra",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7692
+          }
+        },
+        {
+          "titulo": "Técnico de máquinas (a explosão)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7693
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2655
+      }
+    },
+    {
+      "codigo": "919305",
+      "titulo": "Mecânico de manutenção de aparelhos esportivos e de ginástica",
+      "familia": "9193",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2656
+      }
+    },
+    {
+      "codigo": "919310",
+      "titulo": "Mecânico de manutenção de bicicletas e veículos similares",
+      "familia": "9193",
+      "sinonimos": [
+        {
+          "titulo": "Mecânico de bicicletas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7694
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de bicicletas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7695
+          }
+        },
+        {
+          "titulo": "Reparador de bicicletas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7696
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2657
+      }
+    },
+    {
+      "codigo": "919315",
+      "titulo": "Montador de bicicletas",
+      "familia": "9193",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2658
+      }
+    },
+    {
+      "codigo": "950105",
+      "titulo": "Supervisor de manutenção elétrica de alta tensão industrial",
+      "familia": "9501",
+      "sinonimos": [
+        {
+          "titulo": "Encarregado eletricista de instalações",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7697
+          }
+        },
+        {
+          "titulo": "Mestre de manutenção elétrica (alta tensão)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7698
+          }
+        },
+        {
+          "titulo": "Mestre de manutenção elétrica e equipamentos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7699
+          }
+        },
+        {
+          "titulo": "Mestre eletricista de manutenção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7700
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2659
+      }
+    },
+    {
+      "codigo": "950110",
+      "titulo": "Supervisor de manutenção eletromecânica industrial, comercial e predial",
+      "familia": "9501",
+      "sinonimos": [
+        {
+          "titulo": "Chefe de manutenção eletromecânica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7701
+          }
+        },
+        {
+          "titulo": "Coordenador técnico de eletromecânica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7702
+          }
+        },
+        {
+          "titulo": "Encarregado de turmas de eletromecânicos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7703
+          }
+        },
+        {
+          "titulo": "Encarregado de turno de manutenção eletromecânica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7704
+          }
+        },
+        {
+          "titulo": "Encarregado eletromecânico de instalações",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7705
+          }
+        },
+        {
+          "titulo": "Mestre de manutenção eletromecânica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7706
+          }
+        },
+        {
+          "titulo": "Mestre de manutenção eletromecânica de equipamentos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7707
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2660
+      }
+    },
+    {
+      "codigo": "950205",
+      "titulo": "Encarregado de manutenção elétrica de veículos",
+      "familia": "9502",
+      "sinonimos": [
+        {
+          "titulo": "Chefe de manutenção eletroeletrônica veicular",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7708
+          }
+        },
+        {
+          "titulo": "Líder produtivo de manutenção eletroeletrônica veicular",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7709
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2661
+      }
+    },
+    {
+      "codigo": "950305",
+      "titulo": "Supervisor de manutenção eletromecânica",
+      "familia": "9503",
+      "sinonimos": [
+        {
+          "titulo": "Supervisor de manutenção industrial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7710
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2662
+      }
+    },
+    {
+      "codigo": "951105",
+      "titulo": "Eletricista de manutenção eletroeletrônica",
+      "familia": "9511",
+      "sinonimos": [
+        {
+          "titulo": "Eletricista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7711
+          }
+        },
+        {
+          "titulo": "Eletricista de manutenção em geral",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7712
+          }
+        },
+        {
+          "titulo": "Eletricista de manutenção industrial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7713
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2663
+      }
+    },
+    {
+      "codigo": "951305",
+      "titulo": "Instalador de sistemas eletroeletrônicos de segurança",
+      "familia": "9513",
+      "sinonimos": [
+        {
+          "titulo": "Instalador de alarme",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7714
+          }
+        },
+        {
+          "titulo": "Instalador de alarmes residenciais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7715
+          }
+        },
+        {
+          "titulo": "Montador de sistemas eletroeletrônicos de segurança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7716
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2664
+      }
+    },
+    {
+      "codigo": "951310",
+      "titulo": "Mantenedor de sistemas eletroeletrônicos de segurança",
+      "familia": "9513",
+      "sinonimos": [
+        {
+          "titulo": "Rastreador de satélite",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7717
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2665
+      }
+    },
+    {
+      "codigo": "951315",
+      "titulo": "Monitor de sistemas eletrônicos de segurança interno",
+      "familia": "9513",
+      "sinonimos": [
+        {
+          "titulo": "Monitor interno de alarmes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7718
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2666
+      }
+    },
+    {
+      "codigo": "951320",
+      "titulo": "Monitor de sistemas eletrônicos de segurança externo",
+      "familia": "9513",
+      "sinonimos": [
+        {
+          "titulo": "Agente de vistoria de alarmes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7719
+          }
+        },
+        {
+          "titulo": "Monitor externo de alarmes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7720
+          }
+        },
+        {
+          "titulo": "Vistoriador de alarmes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7721
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2667
+      }
+    },
+    {
+      "codigo": "953105",
+      "titulo": "Eletricista de instalações (aeronaves)",
+      "familia": "9531",
+      "sinonimos": [
+        {
+          "titulo": "Especialista em sistema elétrico de aviões",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7722
+          }
+        },
+        {
+          "titulo": "Instrumentista de aviões",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7723
+          }
+        },
+        {
+          "titulo": "Mecânico eletricista de aviões",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7724
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2668
+      }
+    },
+    {
+      "codigo": "953110",
+      "titulo": "Eletricista de instalações (embarcações)",
+      "familia": "9531",
+      "sinonimos": [
+        {
+          "titulo": "Eletricista de embarcações",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7725
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2669
+      }
+    },
+    {
+      "codigo": "953115",
+      "titulo": "Eletricista de instalações (veículos automotores e máquinas operatrizes, exceto aeronaves e embarcações)",
+      "familia": "9531",
+      "sinonimos": [
+        {
+          "titulo": "Eletricista de instalações de veículos automotores",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7726
+          }
+        },
+        {
+          "titulo": "Eletricista de veículos de máquinas operatrizes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7727
+          }
+        },
+        {
+          "titulo": "Mecânico eletricista de automóveis",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7728
+          }
+        },
+        {
+          "titulo": "Mecânico eletricista de veículos automotores",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7729
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2670
+      }
+    },
+    {
+      "codigo": "954105",
+      "titulo": "Eletromecânico de manutenção de elevadores",
+      "familia": "9541",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2671
+      }
+    },
+    {
+      "codigo": "954110",
+      "titulo": "Eletromecânico de manutenção de escadas rolantes",
+      "familia": "9541",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2672
+      }
+    },
+    {
+      "codigo": "954115",
+      "titulo": "Eletromecânico de manutenção de portas automáticas",
+      "familia": "9541",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2673
+      }
+    },
+    {
+      "codigo": "954120",
+      "titulo": "Mecânico de manutenção de instalações mecânicas de edifícios",
+      "familia": "9541",
+      "sinonimos": [
+        {
+          "titulo": "Mecânico de manutenção (equipamento de edifícios)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7730
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2674
+      }
+    },
+    {
+      "codigo": "954125",
+      "titulo": "Operador eletromecânico",
+      "familia": "9541",
+      "sinonimos": [
+        {
+          "titulo": "Mecânico de manutenção e eletricista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7731
+          }
+        },
+        {
+          "titulo": "Operador de equipamentos elétricos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7732
+          }
+        },
+        {
+          "titulo": "Operador de manutenção eletromecânica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7733
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2675
+      }
+    },
+    {
+      "codigo": "954205",
+      "titulo": "Reparador de aparelhos eletrodomésticos (exceto imagem e som)",
+      "familia": "9542",
+      "sinonimos": [
+        {
+          "titulo": "Mecânico de aparelhos domésticos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7734
+          }
+        },
+        {
+          "titulo": "Mecânico de fogão",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7735
+          }
+        },
+        {
+          "titulo": "Mecânico de lavadora e secadora",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7736
+          }
+        },
+        {
+          "titulo": "Mecânico de refrigeração doméstica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7737
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2676
+      }
+    },
+    {
+      "codigo": "954210",
+      "titulo": "Reparador de rádio, tv e som",
+      "familia": "9542",
+      "sinonimos": [
+        {
+          "titulo": "Antenista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7738
+          }
+        },
+        {
+          "titulo": "Consertador de rádio",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7739
+          }
+        },
+        {
+          "titulo": "Eletrotécnico reparador de aparelhos de som",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7740
+          }
+        },
+        {
+          "titulo": "Radiotécnico",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7741
+          }
+        },
+        {
+          "titulo": "Técnico de rádio (reparo)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7742
+          }
+        },
+        {
+          "titulo": "Técnico de televisão",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7743
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2677
+      }
+    },
+    {
+      "codigo": "954305",
+      "titulo": "Reparador de equipamentos de escritório",
+      "familia": "9543",
+      "sinonimos": [
+        {
+          "titulo": "Mecanógrafo  (mecânico de máquina de escrever)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7746
+          }
+        },
+        {
+          "titulo": "Mecânico de máquinas de escrever",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7744
+          }
+        },
+        {
+          "titulo": "Mecânico de máquinas de escrever e calcular",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7745
+          }
+        },
+        {
+          "titulo": "Técnico de calculadora eletrônica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7747
+          }
+        },
+        {
+          "titulo": "Técnico de copiadora",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7748
+          }
+        },
+        {
+          "titulo": "Técnico de impressora (matricial)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7749
+          }
+        },
+        {
+          "titulo": "Técnico de máquina autenticadora",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7750
+          }
+        },
+        {
+          "titulo": "Técnico de máquina de escrever eletrônica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7752
+          }
+        },
+        {
+          "titulo": "Técnico de máquina de escrever elétrica e manual",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7751
+          }
+        },
+        {
+          "titulo": "Técnico de máquinas eletrônicas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7753
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2678
+      }
+    },
+    {
+      "codigo": "991105",
+      "titulo": "Conservador de via permanente (trilhos)",
+      "familia": "9911",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar de manutenção de linha férrea",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7754
+          }
+        },
+        {
+          "titulo": "Trabalhador de linha férrea",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7755
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2679
+      }
+    },
+    {
+      "codigo": "991110",
+      "titulo": "Inspetor de via permanente (trilhos)",
+      "familia": "9911",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2680
+      }
+    },
+    {
+      "codigo": "991115",
+      "titulo": "Operador de máquinas especiais em conservação de via permanente (trilhos)",
+      "familia": "9911",
+      "sinonimos": [
+        {
+          "titulo": "Operador de máquinas e veículos especiais na conservação de vias permanentes (trilhos)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7756
+          }
+        },
+        {
+          "titulo": "Operador de veículos especiais na conservação de vias permanentes (trilhos)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7757
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2681
+      }
+    },
+    {
+      "codigo": "991120",
+      "titulo": "Soldador aluminotérmico em conservação de trilhos",
+      "familia": "9911",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2682
+      }
+    },
+    {
+      "codigo": "991205",
+      "titulo": "Mantenedor de equipamentos de parques de diversões e similares",
+      "familia": "9912",
+      "sinonimos": [
+        {
+          "titulo": "Eletricista de manutenção de parques de diversões",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7758
+          }
+        },
+        {
+          "titulo": "Eletrônico de manutenção de parques de diversões",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7759
+          }
+        },
+        {
+          "titulo": "Mecânico de manutenção de parques de diversões",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7760
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2683
+      }
+    },
+    {
+      "codigo": "991305",
+      "titulo": "Funileiro de veículos (reparação)",
+      "familia": "9913",
+      "sinonimos": [
+        {
+          "titulo": "Chapista de veículos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7761
+          }
+        },
+        {
+          "titulo": "Funileiro de automóveis (reparação)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7762
+          }
+        },
+        {
+          "titulo": "Lanterneiro de automóveis (reparação)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7763
+          }
+        },
+        {
+          "titulo": "Latoeiro de veículos (reparação)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7764
+          }
+        },
+        {
+          "titulo": "Soldador de veículos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7765
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2684
+      }
+    },
+    {
+      "codigo": "991310",
+      "titulo": "Montador de veículos (reparação)",
+      "familia": "9913",
+      "sinonimos": [
+        {
+          "titulo": "Cabineiro de veículos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7766
+          }
+        },
+        {
+          "titulo": "Capoteiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7767
+          }
+        },
+        {
+          "titulo": "Tapeceiro de veículos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7768
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2685
+      }
+    },
+    {
+      "codigo": "991315",
+      "titulo": "Pintor de veículos (reparação)",
+      "familia": "9913",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2686
+      }
+    },
+    {
+      "codigo": "992105",
+      "titulo": "Alinhador de pneus",
+      "familia": "9921",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2687
+      }
+    },
+    {
+      "codigo": "992110",
+      "titulo": "Balanceador",
+      "familia": "9921",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2688
+      }
+    },
+    {
+      "codigo": "992115",
+      "titulo": "Borracheiro",
+      "familia": "9921",
+      "sinonimos": [
+        {
+          "titulo": "Borracheiro auxiliar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7769
+          }
+        },
+        {
+          "titulo": "Consertador de pneus",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7770
+          }
+        },
+        {
+          "titulo": "Emendador de câmaras de ar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7771
+          }
+        },
+        {
+          "titulo": "Montador de pneus",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7772
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2689
+      }
+    },
+    {
+      "codigo": "992120",
+      "titulo": "Lavador de peças",
+      "familia": "9921",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2690
+      }
+    },
+    {
+      "codigo": "992205",
+      "titulo": "Encarregado geral de operações de conservação de vias permanentes (exceto trilhos)",
+      "familia": "9922",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2691
+      }
+    },
+    {
+      "codigo": "992210",
+      "titulo": "Encarregado de equipe de conservação de vias permanentes (exceto trilhos)",
+      "familia": "9922",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2692
+      }
+    },
+    {
+      "codigo": "992215",
+      "titulo": "Operador de ceifadeira na conservação de vias permanentes",
+      "familia": "9922",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2693
+      }
+    },
+    {
+      "codigo": "992220",
+      "titulo": "Pedreiro de conservação de vias permanentes (exceto trilhos)",
+      "familia": "9922",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2694
+      }
+    },
+    {
+      "codigo": "992225",
+      "titulo": "Auxiliar geral de conservação de vias permanentes (exceto trilhos)",
+      "familia": "9922",
+      "sinonimos": [
+        {
+          "titulo": "Asfaltador na conservação de vias permanentes (exceto trilhos)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7773
+          }
+        },
+        {
+          "titulo": "Auxiliar de jardinagem na conservação de vias permanentes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7774
+          }
+        },
+        {
+          "titulo": "Buerista na conservação de vias permanentes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7775
+          }
+        },
+        {
+          "titulo": "Podador de árvores na conservação de vias permanentes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7776
+          }
+        },
+        {
+          "titulo": "Servente de pedreiro na conservação de vias permanentes (exceto trilhos)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7777
+          }
+        },
+        {
+          "titulo": "Servente de serviços gerais na conservação de vias permanentes (exceto trilhos)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7778
+          }
+        },
+        {
+          "titulo": "Varredor na conservação de vias permanentes (exceto trilhos)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 7779
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 2695
+      }
+    }
+  ]
+}

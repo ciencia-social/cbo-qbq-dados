@@ -160,3 +160,53 @@ duas grafias é corrigida: o vocabulário mantém a da planilha, o conceito
 mantém a do PDF em `termo`, e toda diferença encontrada é listada em
 `divergencias`, no próprio arquivo de conceitos, com aviso no validador. Assim
 a divergência fica auditável em vez de escondida no código do extrator.
+
+## D014 — Fonte sem data interna mantém o nome original
+
+**Contexto.** O D007 manda nomear o arquivo-fonte com a data de modificação do
+documento. Os CSVs da CBO não permitem isso: as respostas HTTP do gov.br não
+trazem `Last-Modified` e o CSV não tem metadado interno de versão. A única
+"versão" declarada é a da própria classificação (CBO 2002), já presente no
+nome original.
+
+**Decisão.** Quando a fonte não expõe data própria, o arquivo entra em
+`fontes/` com o nome original (`cbo2002-ocupacao.csv`), e a rastreabilidade
+fica na data de captura e no checksum registrados em `fontes/README.md`. A
+página de downloads vigente na captura é arquivada ao lado, como evidência das
+URLs de origem — URLs do gov.br mudam com reorganizações administrativas.
+Fonte substituída por versão nova = novo checksum e nova versão de dados, com
+a diferença visível no diff.
+
+## D015 — Divergências entre QBQ e CBO são dado, não defeito
+
+**Contexto.** As duas camadas usam a mesma chave (código CBO de 6 dígitos) e
+vêm de capturas diferentes da mesma classificação: a espinha da CBO é de
+2026-11-17, a planilha do QBQ é de 2025-03-18. Resultado do confronto: 25
+ocupações existem na CBO e não no QBQ (vinte delas em sete famílias inteiras do
+grande grupo 2), 4 existem no QBQ e não na CBO, e 35 têm título diferente sob o
+mesmo código.
+
+**Decisão.** Nenhuma das camadas é ajustada para caber na outra: não criamos
+registro faltante, não removemos o que sobra e não escolhemos um título
+"correto". As diferenças viram **aviso** no validador e tabela em
+`derivados/csv/cobertura-qbq-cbo.csv`, com a leitura narrativa em
+[`docs/cobertura-qbq-cbo.md`](docs/cobertura-qbq-cbo.md). Três das quatro
+ocupações só do QBQ têm aparência de substituídas por códigos novos na CBO, mas
+confirmar substituição exige o histórico de alterações (fase 4) — até lá a
+hipótese fica registrada como hipótese.
+
+## D016 — `versao_dados` é a publicação em que a camada foi gerada
+
+**Contexto.** A fase 1 publica `dados-2026.11` acrescentando a camada CBO, sem
+tocar na camada QBQ, cuja fonte não mudou. Reescrever `versao_dados` nos
+arquivos do QBQ exigiria regerá-los, e a regeração reescreveria também
+`vigencia.desde` de cada ocupação — que é histórico e tem de continuar
+apontando para a publicação em que o registro apareceu.
+
+**Decisão.** O campo `versao_dados` de cada arquivo registra a publicação em
+que **aquela camada** foi gerada pela última vez: os arquivos da CBO trazem
+`dados-2026.11`, os do QBQ seguem com `dados-2026.08`. A versão do conjunto é a
+tag do release e o `CHANGELOG.md`. Quando a camada QBQ for regerada em uma
+publicação futura, preservar `vigencia.desde` dos registros existentes é
+requisito — mecanismo previsto para a fase 4, junto com o histórico de
+alterações.

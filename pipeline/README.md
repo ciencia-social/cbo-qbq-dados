@@ -5,6 +5,7 @@ valida os contratos e gera os `derivados/`. Qualquer pessoa reproduz o
 dataset executando, na raiz do repositório:
 
 ```bash
+python3 pipeline/extrair_cbo.py       # CSVs oficiais da CBO -> dados/cbo/*.json
 python3 pipeline/extrair_qbq.py       # XLSX oficial do QBQ -> dados/qbq/*.json
 python3 pipeline/extrair_conceitos.py # PDF de conceitos -> dados/qbq/conceitos/
 python3 pipeline/validar_schema.py    # JSON Schemas (draft 2020-12)

@@ -9,8 +9,14 @@ Dois eixos independentes, como no bncc-dados:
   muda. Major = quebra de compatibilidade; minor = campo novo opcional;
   patch = correção de descrição.
 
-Versão atual: `dados-2026.08` · `schema-v0.1.0` (pré-1.0: o formato ainda
+Versão atual: `dados-2026.11` · `schema-v0.2.0` (pré-1.0: o formato ainda
 pode mudar sem major).
+
+O campo `versao_dados` **dentro de cada arquivo** indica a publicação em que
+aquela camada foi gerada pela última vez, e não a publicação corrente: os
+arquivos da CBO trazem `dados-2026.11` e os do QBQ seguem em `dados-2026.08`,
+porque a fonte do QBQ não mudou e regerá-los reescreveria `vigencia.desde` dos
+registros (D016). A versão do conjunto é a tag do release.
 
 ## Vigência
 

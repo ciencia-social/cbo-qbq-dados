@@ -15,6 +15,7 @@ jobs:
         run: |
           python3 pipeline/extrair_qbq.py
           python3 pipeline/extrair_conceitos.py
+          python3 pipeline/extrair_cbo.py
           git diff --exit-code dados/
       - run: python3 pipeline/validar_schema.py
       - run: python3 pipeline/validar.py

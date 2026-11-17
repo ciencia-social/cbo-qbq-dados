@@ -3,7 +3,10 @@
 Gerados por `pipeline/derivar.py` a partir de `dados/` — **nunca editar à
 mão**. Todos expõem as mesmas tabelas: `qbq_ocupacao`, `qbq_conhecimento`,
 `qbq_habilidade`, `qbq_atitude`, `qbq_vocabulario_*`, `qbq_conceito`,
-`qbq_nao_classificada`.
+`qbq_nao_classificada`, mais a camada CBO (`cbo_grande_grupo`,
+`cbo_subgrupo_principal`, `cbo_subgrupo`, `cbo_familia`, `cbo_ocupacao`,
+`cbo_sinonimo`) e `cobertura_qbq_cbo`, que lista as divergências entre as duas
+camadas na mesma chave (D015).
 
 ## O que está no git e o que não está
 

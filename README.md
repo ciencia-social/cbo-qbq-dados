@@ -10,10 +10,12 @@ proveniência. Este repositório resolve isso, nos moldes do
 proveniência por registro, pipeline reprodutível e derivados prontos para uso
 (CSV e SQLite).
 
-## O que tem aqui (versão `dados-2026.08`)
+## O que tem aqui (versão `dados-2026.11`)
 
 | Conjunto | Conteúdo | Onde |
 |---|---|---|
+| Espinha CBO | 10 grandes grupos → 49 subgrupos principais → 195 subgrupos → 626 famílias → 2.694 ocupações | `dados/cbo/estrutura/`, `dados/cbo/ocupacoes/` |
+| Sinônimos CBO | 7.778 denominações alternativas, em 1.865 ocupações | embutidos na ocupação |
 | Ocupações QBQ | 2.673 ocupações (2.621 com síntese, perfil ocupacional e níveis de qualificação 1–8) | `dados/qbq/ocupacoes/` |
 | Competências (CHA) | ~258 mil itens de conhecimento, habilidade e atitude por ocupação, com graus de profundidade, frequência e importância (1–5) | `dados/qbq/competencias/` |
 | Vocabulários | Taxonomias controladas de conhecimentos (I e II), habilidades e atitudes | `dados/qbq/vocabularios/` |
@@ -21,8 +23,13 @@ proveniência por registro, pipeline reprodutível e derivados prontos para uso
 | Não classificadas | 52 ocupações sem nível QBQ, com a justificativa oficial | `dados/qbq/nao-classificadas.json` |
 | Derivados | Os mesmos dados em CSV e SQLite, gerados pelo pipeline | `derivados/` |
 
-A **CBO enumerativa/descritiva** (estrutura completa, sinônimos, histórico de
-alterações) é a próxima fase — ver roadmap abaixo.
+As duas camadas compartilham a chave (código CBO de 6 dígitos) e **divergem em
+64 ocupações**: 25 existem só na CBO, 4 só no QBQ e 35 têm título diferente sob
+o mesmo código. Nenhuma é reconciliada — ver
+[`docs/cobertura-qbq-cbo.md`](docs/cobertura-qbq-cbo.md) e o D015.
+
+Os perfis descritivos da CBO e o histórico de alterações são as fases
+seguintes — ver roadmap abaixo.
 
 ## Uso rápido
 
@@ -79,7 +86,7 @@ python3 pipeline/extrair_qbq.py && python3 pipeline/validar_schema.py \
 
 - [x] **Fase 0-2 — QBQ**: fontes, schemas, ocupações, competências CHA,
   vocabulários e conceitos das habilidades
-- [ ] **Fase 1 — espinha CBO**: estrutura enumerativa completa (grandes grupos →
+- [x] **Fase 1 — espinha CBO**: estrutura enumerativa completa (grandes grupos →
       ocupações → sinônimos) a partir dos CSVs oficiais da CBO
 - [ ] **Fase 3 — perfis descritivos CBO** por família (GAC, atividades, recursos)
 - [ ] **Fase 4 — histórico de alterações** da CBO como dado estruturado

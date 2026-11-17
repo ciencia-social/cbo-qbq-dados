@@ -4,13 +4,50 @@
 
 Duas camadas sobre a mesma chave — o **código CBO de 6 dígitos**:
 
-1. **CBO** (fase 1, pendente): espinha enumerativa (grande grupo → subgrupo
-   principal → subgrupo → família → ocupação → sinônimos) e perfis descritivos
-   por família.
+1. **CBO**: espinha enumerativa (grande grupo → subgrupo principal → subgrupo
+   → família → ocupação → sinônimos). Os perfis descritivos por família ficam
+   para a fase 3.
 2. **QBQ** (esta versão): para cada ocupação classificada, níveis de
    qualificação (1–8) e itens de competência CHA com graus (1–5).
 
-## Entidades
+## Entidades — CBO
+
+### Estrutura (`dados/cbo/estrutura/*.json`)
+
+Os quatro níveis superiores, um arquivo por nível, com hierarquia por prefixo
+do código:
+
+| arquivo | registros | código |
+|---|---|---|
+| `grandes-grupos.json` | 10 | 1 dígito |
+| `subgrupos-principais.json` | 49 | 2 dígitos |
+| `subgrupos.json` | 195 | 3 dígitos |
+| `familias.json` | 626 | 4 dígitos |
+
+Cada registro: `codigo` (string, zero à esquerda), `titulo`, `pai` (ausente no
+topo) e `fonte` `{arquivo, linha}`. O `pai` é o prefixo do código, verificado
+contra o nível acima — na captura de 2026-11-17 não há um único órfão.
+
+### Ocupação CBO (`dados/cbo/ocupacoes/gg-N.json`)
+
+As 2.694 ocupações, particionadas pelo primeiro dígito do código, mesma
+convenção da camada QBQ — os dois arquivos do mesmo grande grupo ficam lado a
+lado, e o diff de qualquer um deles continua revisável.
+
+| campo | conteúdo |
+|---|---|
+| `codigo` | CBO 6 dígitos, string (D001) |
+| `titulo` | título oficial |
+| `familia` | código de 4 dígitos, o pai |
+| `sinonimos[]` | `titulo` e `fonte` de cada sinônimo (7.778 no total, em 1.865 ocupações) |
+| `vigencia` | `{status, desde, ate}` — registros nunca são deletados |
+| `fonte` | `{arquivo, linha}` no CSV oficial |
+
+Sinônimos ficam embutidos na ocupação, e não em arquivo próprio, porque são
+atributo dela: todo sinônimo da fonte referencia ocupação existente, e a
+proveniência de cada um aponta para o CSV de sinônimos.
+
+## Entidades — QBQ
 
 ### Ocupação (`dados/qbq/ocupacoes/gg-N.json`)
 
@@ -104,3 +141,11 @@ escala (D006).
    têm `descricao` inline obrigatória (D009)
 8. Não-classificadas coerentes: níveis todos nulos e zero competências (D008)
 9. Cobertura total: ocupação sem nenhum nível está em `nao-classificadas.json`
+10. Conceitos: todo termo não-balde do vocabulário tem definição oficial, e
+    todo conceito aponta para termo existente (D011, D012)
+11. CBO: código com o número de dígitos do nível, único, com `pai` igual ao
+    prefixo e existente no nível acima; ocupação no arquivo do seu grande
+    grupo, com família existente; sinônimos sem repetição
+12. Cruzamento QBQ × CBO: as diferenças entre as duas camadas viram aviso e
+    tabela (`derivados/csv/cobertura-qbq-cbo.csv`), nunca correção silenciosa
+    (D015) — ver [cobertura-qbq-cbo.md](cobertura-qbq-cbo.md)

@@ -40,10 +40,33 @@ modificado 2025-06-06) lista os campos de cada área, sem definições — é
 estrutura de vocabulário, não conceito, e a taxonomia correspondente já vem da
 planilha.
 
-## CBO — Classificação Brasileira de Ocupações (fase 1, pendente)
+## CBO — Classificação Brasileira de Ocupações
 
 - Downloads: <https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/cbo/servicos/downloads>
 - Histórico de alterações: <https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/cbo/servicos/historico-de-alteracoes>
+
+### Espinha enumerativa (CBO 2002)
+
+Seis CSVs, todos em `cp1252`, delimitador `;`, colunas `CODIGO` e `TITULO`:
+
+| arquivo | registros | nível |
+|---|---|---|
+| `cbo2002-grande-grupo.csv` | 10 | 1 dígito |
+| `cbo2002-subgrupo-principal.csv` | 49 | 2 dígitos |
+| `cbo2002-subgrupo.csv` | 195 | 3 dígitos |
+| `cbo2002-familia.csv` | 626 | 4 dígitos |
+| `cbo2002-ocupacao.csv` | 2.694 | 6 dígitos |
+| `cbo2002-sinonimo.csv` | 7.778 | sinônimos, por código de ocupação |
+
+Capturados em 2026-11-17; checksums em `fontes/README.md`. A página de
+downloads vigente na captura está arquivada junto, como evidência das URLs
+(D014) — as respostas HTTP não trazem `Last-Modified`.
+
+Ainda **não** incorporados, previstos para fases seguintes:
+`cbo2002-perfilocupacional.csv` (grande área de competência e atividades por
+ocupação, 174.296 linhas), os Livros 1–3 em PDF (condições e recursos de
+trabalho), as tábuas de conversão (`publico-geral.zip`, `usuario-medio.zip`) e
+os PDFs anuais de alterações (2012–2023).
 
 ## Instabilidade de URLs do gov.br
 

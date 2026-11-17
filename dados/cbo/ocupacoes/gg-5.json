@@ -1,0 +1,6329 @@
+{
+  "grande_grupo": "5",
+  "versao_dados": "dados-2026.11",
+  "fonte": "fontes/cbo/cbo2002-ocupacao.csv",
+  "total": 181,
+  "ocupacoes": [
+    {
+      "codigo": "510105",
+      "titulo": "Supervisor de transportes",
+      "familia": "5101",
+      "sinonimos": [
+        {
+          "titulo": "Chefe de bilheteria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3578
+          }
+        },
+        {
+          "titulo": "Encarregado de tráfego rodoviário e ferroviário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3579
+          }
+        },
+        {
+          "titulo": "Fiscal de transporte rodoviário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3580
+          }
+        },
+        {
+          "titulo": "Inspetor de bilheteria de transportes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3581
+          }
+        },
+        {
+          "titulo": "Supervisor de bilheteira de transportes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3582
+          }
+        },
+        {
+          "titulo": "Supervisor de estação ferroviária e rodoviária",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3583
+          }
+        },
+        {
+          "titulo": "Supervisor de movimento de trens",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3584
+          }
+        },
+        {
+          "titulo": "Supervisor de trens",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3585
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1372
+      }
+    },
+    {
+      "codigo": "510110",
+      "titulo": "Administrador de edifícios",
+      "familia": "5101",
+      "sinonimos": [
+        {
+          "titulo": "Administrador de prédios",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3586
+          }
+        },
+        {
+          "titulo": "Chefe de portaria (edifício)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3587
+          }
+        },
+        {
+          "titulo": "Encarregado de edifício",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3588
+          }
+        },
+        {
+          "titulo": "Síndico (edifícios)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3589
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1373
+      }
+    },
+    {
+      "codigo": "510115",
+      "titulo": "Supervisor de andar",
+      "familia": "5101",
+      "sinonimos": [
+        {
+          "titulo": "Encarregado de andar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3590
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1374
+      }
+    },
+    {
+      "codigo": "510120",
+      "titulo": "Chefe de portaria de hotel",
+      "familia": "5101",
+      "sinonimos": [
+        {
+          "titulo": "Encarregado de portaria de hotel",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3591
+          }
+        },
+        {
+          "titulo": "Supervisor de hospedagem",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3592
+          }
+        },
+        {
+          "titulo": "Supervisor de recepção de hotel",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3593
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1375
+      }
+    },
+    {
+      "codigo": "510130",
+      "titulo": "Chefe de bar",
+      "familia": "5101",
+      "sinonimos": [
+        {
+          "titulo": "Chefe de barewomen",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3594
+          }
+        },
+        {
+          "titulo": "Chefe de bartander",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3595
+          }
+        },
+        {
+          "titulo": "Encarregado de bar e restaurante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3596
+          }
+        },
+        {
+          "titulo": "Encarregado de cantina",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3597
+          }
+        },
+        {
+          "titulo": "Subchefe de bar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3598
+          }
+        },
+        {
+          "titulo": "Supervisor de bar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3599
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1376
+      }
+    },
+    {
+      "codigo": "510135",
+      "titulo": "Maître",
+      "familia": "5101",
+      "sinonimos": [
+        {
+          "titulo": "Chef executivo nos serviços de alimentação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3600
+          }
+        },
+        {
+          "titulo": "Chefe de fila nos serviços de alimentação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3601
+          }
+        },
+        {
+          "titulo": "Maître - no serviço de alimentação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3602
+          }
+        },
+        {
+          "titulo": "Maître de bar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3603
+          }
+        },
+        {
+          "titulo": "Maître de boate",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3604
+          }
+        },
+        {
+          "titulo": "Maître de hotel",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3605
+          }
+        },
+        {
+          "titulo": "Maître de restaurante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3606
+          }
+        },
+        {
+          "titulo": "Maître executivo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3607
+          }
+        },
+        {
+          "titulo": "Sommalier",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3608
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1377
+      }
+    },
+    {
+      "codigo": "510205",
+      "titulo": "Supervisor de lavanderia",
+      "familia": "5102",
+      "sinonimos": [
+        {
+          "titulo": "Chefe de lavagem de equipamentos de proteção individual  (epi)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3609
+          }
+        },
+        {
+          "titulo": "Chefe de lavanderia",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3610
+          }
+        },
+        {
+          "titulo": "Encarregado de lavanderia",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3611
+          }
+        },
+        {
+          "titulo": "Encarregado operacional de lavanderia",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3612
+          }
+        },
+        {
+          "titulo": "Supervisor operacional de lavanderia",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3613
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1378
+      }
+    },
+    {
+      "codigo": "510305",
+      "titulo": "Supervisor de bombeiros",
+      "familia": "5103",
+      "sinonimos": [
+        {
+          "titulo": "Encarregado de bombeiros",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3614
+          }
+        },
+        {
+          "titulo": "Líder de bombeiros",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3615
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1379
+      }
+    },
+    {
+      "codigo": "510310",
+      "titulo": "Supervisor de vigilantes",
+      "familia": "5103",
+      "sinonimos": [
+        {
+          "titulo": "Inspetor de segurança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3616
+          }
+        },
+        {
+          "titulo": "Supervisor de segurança (vigilância)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3618
+          }
+        },
+        {
+          "titulo": "Supervisor de segurança patrimonial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3617
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1380
+      }
+    },
+    {
+      "codigo": "511105",
+      "titulo": "Comissário de vôo",
+      "familia": "5111",
+      "sinonimos": [
+        {
+          "titulo": "Aeromoça",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3619
+          }
+        },
+        {
+          "titulo": "Comissário de bordo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3620
+          }
+        },
+        {
+          "titulo": "Inspetor de bordo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3621
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1381
+      }
+    },
+    {
+      "codigo": "511110",
+      "titulo": "Comissário de trem",
+      "familia": "5111",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1382
+      }
+    },
+    {
+      "codigo": "511115",
+      "titulo": "Taifeiro (exceto militares)",
+      "familia": "5111",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1383
+      }
+    },
+    {
+      "codigo": "511205",
+      "titulo": "Fiscal de transportes coletivos (exceto trem)",
+      "familia": "5112",
+      "sinonimos": [
+        {
+          "titulo": "Agente de serviços de fiscalização de transportes coletivos e licenciamento de veículos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3622
+          }
+        },
+        {
+          "titulo": "Encarregado de tráfego",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3623
+          }
+        },
+        {
+          "titulo": "Escalante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3624
+          }
+        },
+        {
+          "titulo": "Fiscal de linha",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3625
+          }
+        },
+        {
+          "titulo": "Fiscal de operação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3627
+          }
+        },
+        {
+          "titulo": "Fiscal de tráfego",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3628
+          }
+        },
+        {
+          "titulo": "Fiscal de viagens",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3629
+          }
+        },
+        {
+          "titulo": "Fiscal de ônibus",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3626
+          }
+        },
+        {
+          "titulo": "Fiscal nos transportes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3630
+          }
+        },
+        {
+          "titulo": "Fiscal rodoviário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3631
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1384
+      }
+    },
+    {
+      "codigo": "511210",
+      "titulo": "Despachante de transportes coletivos (exceto trem)",
+      "familia": "5112",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar de operação",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3632
+          }
+        },
+        {
+          "titulo": "Despachante de embarque",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3633
+          }
+        },
+        {
+          "titulo": "Despachante de tráfego",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3634
+          }
+        },
+        {
+          "titulo": "Despachante nos transportes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3635
+          }
+        },
+        {
+          "titulo": "Encarregado de transporte coletivo (exceto trem)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3636
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1385
+      }
+    },
+    {
+      "codigo": "511215",
+      "titulo": "Cobrador de transportes coletivos (exceto trem)",
+      "familia": "5112",
+      "sinonimos": [
+        {
+          "titulo": "Trocador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3637
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1386
+      }
+    },
+    {
+      "codigo": "511220",
+      "titulo": "Bilheteiro (estações de metrô, ferroviárias e assemelhadas)",
+      "familia": "5112",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1387
+      }
+    },
+    {
+      "codigo": "511405",
+      "titulo": "Guia de turismo",
+      "familia": "5114",
+      "sinonimos": [
+        {
+          "titulo": "Guia de turismo especializado em atrativo turístico",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3638
+          }
+        },
+        {
+          "titulo": "Guia de turismo especializado em excursão internacional",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3639
+          }
+        },
+        {
+          "titulo": "Guia de turismo especializado em excursão nacional",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3640
+          }
+        },
+        {
+          "titulo": "Guia de turismo especializado em turismo regional",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3641
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1388
+      }
+    },
+    {
+      "codigo": "511505",
+      "titulo": "Condutor de turismo de aventura",
+      "familia": "5115",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1389
+      }
+    },
+    {
+      "codigo": "511510",
+      "titulo": "Condutor de turismo de pesca",
+      "familia": "5115",
+      "sinonimos": [
+        {
+          "titulo": "Piloteiro de turismo de pesca",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3642
+          }
+        },
+        {
+          "titulo": "Pirangueiro de turismo de pesca",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3643
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1390
+      }
+    },
+    {
+      "codigo": "511515",
+      "titulo": "Condutor turismo náutico",
+      "familia": "5115",
+      "sinonimos": [
+        {
+          "titulo": "Barqueiro (turismo náutico)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3644
+          }
+        },
+        {
+          "titulo": "Canoeiro (turismo náutico)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3645
+          }
+        },
+        {
+          "titulo": "Jangadeiro (turismo náutico)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3646
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1391
+      }
+    },
+    {
+      "codigo": "512105",
+      "titulo": "Empregado  doméstico  nos serviços gerais",
+      "familia": "5121",
+      "sinonimos": [
+        {
+          "titulo": "Caseiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3647
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1392
+      }
+    },
+    {
+      "codigo": "512110",
+      "titulo": "Empregado doméstico  arrumador",
+      "familia": "5121",
+      "sinonimos": [
+        {
+          "titulo": "Arrumador no serviço doméstico",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3648
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1393
+      }
+    },
+    {
+      "codigo": "512115",
+      "titulo": "Empregado doméstico  faxineiro",
+      "familia": "5121",
+      "sinonimos": [
+        {
+          "titulo": "Faxineiro no serviço doméstico",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3649
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1394
+      }
+    },
+    {
+      "codigo": "512120",
+      "titulo": "Empregado doméstico diarista",
+      "familia": "5121",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1395
+      }
+    },
+    {
+      "codigo": "513105",
+      "titulo": "Mordomo de residência",
+      "familia": "5131",
+      "sinonimos": [
+        {
+          "titulo": "Governanta de residência",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3650
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1396
+      }
+    },
+    {
+      "codigo": "513110",
+      "titulo": "Mordomo de hotelaria",
+      "familia": "5131",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1397
+      }
+    },
+    {
+      "codigo": "513115",
+      "titulo": "Governanta de hotelaria",
+      "familia": "5131",
+      "sinonimos": [
+        {
+          "titulo": "Assistente de governanta",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3651
+          }
+        },
+        {
+          "titulo": "Governanta executiva",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3652
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1398
+      }
+    },
+    {
+      "codigo": "513205",
+      "titulo": "Cozinheiro geral",
+      "familia": "5132",
+      "sinonimos": [
+        {
+          "titulo": "Cozinheiro de restaurante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3653
+          }
+        },
+        {
+          "titulo": "Merendeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3654
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1399
+      }
+    },
+    {
+      "codigo": "513210",
+      "titulo": "Cozinheiro do serviço doméstico",
+      "familia": "5132",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1400
+      }
+    },
+    {
+      "codigo": "513215",
+      "titulo": "Cozinheiro industrial",
+      "familia": "5132",
+      "sinonimos": [
+        {
+          "titulo": "Cozinheiro de restaurante de indústria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3655
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1401
+      }
+    },
+    {
+      "codigo": "513220",
+      "titulo": "Cozinheiro de hospital",
+      "familia": "5132",
+      "sinonimos": [
+        {
+          "titulo": "Cozinheiro hospitalar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3656
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1402
+      }
+    },
+    {
+      "codigo": "513225",
+      "titulo": "Cozinheiro de embarcações",
+      "familia": "5132",
+      "sinonimos": [
+        {
+          "titulo": "Cozinheiro de bordo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3657
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1403
+      }
+    },
+    {
+      "codigo": "513305",
+      "titulo": "Camareiro de teatro",
+      "familia": "5133",
+      "sinonimos": [
+        {
+          "titulo": "Camareiro(a) de teatro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3658
+          }
+        },
+        {
+          "titulo": "Guarda-roupeiro de teatro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3659
+          }
+        },
+        {
+          "titulo": "Roupeiro de teatro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3660
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1404
+      }
+    },
+    {
+      "codigo": "513310",
+      "titulo": "Camareiro de televisão",
+      "familia": "5133",
+      "sinonimos": [
+        {
+          "titulo": "Camareiro(a) de televisão",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3661
+          }
+        },
+        {
+          "titulo": "Encarregado de guarda-roupa de televisão",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3662
+          }
+        },
+        {
+          "titulo": "Guarda-roupeiro de televisão",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3663
+          }
+        },
+        {
+          "titulo": "Roupeiro de televisão",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3664
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1405
+      }
+    },
+    {
+      "codigo": "513315",
+      "titulo": "Camareiro  de hotel",
+      "familia": "5133",
+      "sinonimos": [
+        {
+          "titulo": "Arrumadeira de hotel",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3665
+          }
+        },
+        {
+          "titulo": "Arrumador de hotel",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3666
+          }
+        },
+        {
+          "titulo": "Camareira de hotel",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3667
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1406
+      }
+    },
+    {
+      "codigo": "513320",
+      "titulo": "Camareiro de embarcações",
+      "familia": "5133",
+      "sinonimos": [
+        {
+          "titulo": "Camareiro no transporte marítimo e fluvial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3668
+          }
+        },
+        {
+          "titulo": "Comissário de bordo no transporte marítimo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3669
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1407
+      }
+    },
+    {
+      "codigo": "513325",
+      "titulo": "Guarda-roupeiro de cinema",
+      "familia": "5133",
+      "sinonimos": [
+        {
+          "titulo": "Encarregado de guarda-roupa de cinema",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3670
+          }
+        },
+        {
+          "titulo": "Roupeiro de cinema",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3671
+          }
+        },
+        {
+          "titulo": "Técnica de cinema",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3672
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1408
+      }
+    },
+    {
+      "codigo": "513405",
+      "titulo": "Garçom",
+      "familia": "5134",
+      "sinonimos": [
+        {
+          "titulo": "Atendente de buffet",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3673
+          }
+        },
+        {
+          "titulo": "Atendente de mesa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3674
+          }
+        },
+        {
+          "titulo": "Auxiliar de maître",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3675
+          }
+        },
+        {
+          "titulo": "Garçom de bar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3677
+          }
+        },
+        {
+          "titulo": "Garção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3676
+          }
+        },
+        {
+          "titulo": "Passador de guarnição",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3678
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1409
+      }
+    },
+    {
+      "codigo": "513410",
+      "titulo": "Sommelier",
+      "familia": "5134",
+      "sinonimos": [
+        {
+          "titulo": "Atendente de estabelecimento com cervejas artesanais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3679
+          }
+        },
+        {
+          "titulo": "Cachacier",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3680
+          }
+        },
+        {
+          "titulo": "Cachacista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3681
+          }
+        },
+        {
+          "titulo": "Degustador de vinho",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3682
+          }
+        },
+        {
+          "titulo": "Escanção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3683
+          }
+        },
+        {
+          "titulo": "Especialista em cerveja",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3684
+          }
+        },
+        {
+          "titulo": "Especialista em vinho",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3685
+          }
+        },
+        {
+          "titulo": "Garçom (serviços de vinhos)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3686
+          }
+        },
+        {
+          "titulo": "Organizador de degustações e harmonizações de bebidas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3687
+          }
+        },
+        {
+          "titulo": "Sommelier de cachaça",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3688
+          }
+        },
+        {
+          "titulo": "Sommelier de cerveja",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3689
+          }
+        },
+        {
+          "titulo": "Sommelier de saquê",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3690
+          }
+        },
+        {
+          "titulo": "Sommelier de vinho",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3691
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1410
+      }
+    },
+    {
+      "codigo": "513415",
+      "titulo": "Cumim",
+      "familia": "5134",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar de garçom",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3692
+          }
+        },
+        {
+          "titulo": "Auxiliar de mesa em restaurantes, hotéis e outros",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3693
+          }
+        },
+        {
+          "titulo": "Carregador de utensílios de cozinha",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3694
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1411
+      }
+    },
+    {
+      "codigo": "513420",
+      "titulo": "Barman",
+      "familia": "5134",
+      "sinonimos": [
+        {
+          "titulo": "Atendente de bar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3695
+          }
+        },
+        {
+          "titulo": "Auxiliar de barman",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3696
+          }
+        },
+        {
+          "titulo": "Balconista de bar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3697
+          }
+        },
+        {
+          "titulo": "Preparador de drinques e bebidas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3698
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1412
+      }
+    },
+    {
+      "codigo": "513425",
+      "titulo": "Copeiro",
+      "familia": "5134",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar de serviço de copa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3699
+          }
+        },
+        {
+          "titulo": "Chefe da copa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3700
+          }
+        },
+        {
+          "titulo": "Copeiro  de bar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3701
+          }
+        },
+        {
+          "titulo": "Copeiro  de eventos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3702
+          }
+        },
+        {
+          "titulo": "Copeiro  de hotel",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3703
+          }
+        },
+        {
+          "titulo": "Copeiro  de lanchonete",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3704
+          }
+        },
+        {
+          "titulo": "Copeiro  de restaurante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3705
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1413
+      }
+    },
+    {
+      "codigo": "513430",
+      "titulo": "Copeiro de hospital",
+      "familia": "5134",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1414
+      }
+    },
+    {
+      "codigo": "513435",
+      "titulo": "Atendente de lanchonete",
+      "familia": "5134",
+      "sinonimos": [
+        {
+          "titulo": "Ajudante, auxiliar de bar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3706
+          }
+        },
+        {
+          "titulo": "Ajudante, auxiliar de lanchonete",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3707
+          }
+        },
+        {
+          "titulo": "Atendente de balcão de café",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3708
+          }
+        },
+        {
+          "titulo": "Balconista de lanchonete",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3709
+          }
+        },
+        {
+          "titulo": "Cafeteiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3710
+          }
+        },
+        {
+          "titulo": "Cantineiro (escola)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3711
+          }
+        },
+        {
+          "titulo": "Chapista de lanchonete",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3712
+          }
+        },
+        {
+          "titulo": "Servente de lanche",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3713
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1415
+      }
+    },
+    {
+      "codigo": "513440",
+      "titulo": "Barista",
+      "familia": "5134",
+      "sinonimos": [
+        {
+          "titulo": "Atendente barista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3714
+          }
+        },
+        {
+          "titulo": "Atendente de cafeteria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3715
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1416
+      }
+    },
+    {
+      "codigo": "513505",
+      "titulo": "Auxiliar nos serviços de alimentação",
+      "familia": "5135",
+      "sinonimos": [
+        {
+          "titulo": "Ajudante de churrasqueiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3716
+          }
+        },
+        {
+          "titulo": "Ajudante de confeiteiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3717
+          }
+        },
+        {
+          "titulo": "Ajudante de cozinha",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3718
+          }
+        },
+        {
+          "titulo": "Ajudante de padeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3719
+          }
+        },
+        {
+          "titulo": "Ajudante de pizzaiolo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3720
+          }
+        },
+        {
+          "titulo": "Ajudante de sushiman",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3721
+          }
+        },
+        {
+          "titulo": "Auxiliar de churrasqueiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3722
+          }
+        },
+        {
+          "titulo": "Auxiliar de confeiteiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3723
+          }
+        },
+        {
+          "titulo": "Auxiliar de cozinha",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3724
+          }
+        },
+        {
+          "titulo": "Auxiliar de padeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3725
+          }
+        },
+        {
+          "titulo": "Auxiliar de pizzaiolo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3726
+          }
+        },
+        {
+          "titulo": "Auxiliar de sushiman",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3727
+          }
+        },
+        {
+          "titulo": "Forneiro(pizzaria)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3728
+          }
+        },
+        {
+          "titulo": "Lavador de pratos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3729
+          }
+        },
+        {
+          "titulo": "Saladeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3730
+          }
+        },
+        {
+          "titulo": "Salgadeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3731
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1417
+      }
+    },
+    {
+      "codigo": "513605",
+      "titulo": "Churrasqueiro",
+      "familia": "5136",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1418
+      }
+    },
+    {
+      "codigo": "513610",
+      "titulo": "Pizzaiolo",
+      "familia": "5136",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1419
+      }
+    },
+    {
+      "codigo": "513615",
+      "titulo": "Sushiman",
+      "familia": "5136",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1420
+      }
+    },
+    {
+      "codigo": "514105",
+      "titulo": "Ascensorista",
+      "familia": "5141",
+      "sinonimos": [
+        {
+          "titulo": "Cabineiro de elevador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3732
+          }
+        },
+        {
+          "titulo": "Encarregado de elevador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3733
+          }
+        },
+        {
+          "titulo": "Operador de elevador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3734
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1421
+      }
+    },
+    {
+      "codigo": "514110",
+      "titulo": "Garagista",
+      "familia": "5141",
+      "sinonimos": [
+        {
+          "titulo": "Encarregado de garagem",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3735
+          }
+        },
+        {
+          "titulo": "Manobrista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3736
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1422
+      }
+    },
+    {
+      "codigo": "514115",
+      "titulo": "Sacristão",
+      "familia": "5141",
+      "sinonimos": [
+        {
+          "titulo": "Fiscal de capela",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3737
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1423
+      }
+    },
+    {
+      "codigo": "514120",
+      "titulo": "Zelador de edifício",
+      "familia": "5141",
+      "sinonimos": [
+        {
+          "titulo": "Zelador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3738
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1424
+      }
+    },
+    {
+      "codigo": "514205",
+      "titulo": "Coletor de lixo domiciliar",
+      "familia": "5142",
+      "sinonimos": [
+        {
+          "titulo": "Agente de coleta de lixo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3739
+          }
+        },
+        {
+          "titulo": "Coletor de lixo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3740
+          }
+        },
+        {
+          "titulo": "Lixeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3741
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1425
+      }
+    },
+    {
+      "codigo": "514215",
+      "titulo": "Varredor de rua",
+      "familia": "5142",
+      "sinonimos": [
+        {
+          "titulo": "Gari",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3742
+          }
+        },
+        {
+          "titulo": "Margarida",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3743
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1426
+      }
+    },
+    {
+      "codigo": "514225",
+      "titulo": "Trabalhador de serviços de limpeza e conservação de áreas públicas",
+      "familia": "5142",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1427
+      }
+    },
+    {
+      "codigo": "514230",
+      "titulo": "Coletor de resíduos sólidos de serviços de saúde",
+      "familia": "5142",
+      "sinonimos": [
+        {
+          "titulo": "Coletor de lixo hospitalar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3744
+          }
+        },
+        {
+          "titulo": "Coletor de resíduos de saúde",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3745
+          }
+        },
+        {
+          "titulo": "Coletor de resíduos hospitalares",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3746
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1428
+      }
+    },
+    {
+      "codigo": "514305",
+      "titulo": "Limpador de vidros",
+      "familia": "5143",
+      "sinonimos": [
+        {
+          "titulo": "Cordeiro - limpeza de vidros",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3747
+          }
+        },
+        {
+          "titulo": "Lavador de fachadas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3748
+          }
+        },
+        {
+          "titulo": "Lavador de vidros",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3749
+          }
+        },
+        {
+          "titulo": "Limpador de janelas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3750
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1429
+      }
+    },
+    {
+      "codigo": "514310",
+      "titulo": "Auxiliar de manutenção predial",
+      "familia": "5143",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar de manutenção de edificações",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3751
+          }
+        },
+        {
+          "titulo": "Auxiliar de manutenção elétrica e hidráulica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3752
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1430
+      }
+    },
+    {
+      "codigo": "514315",
+      "titulo": "Limpador de fachadas",
+      "familia": "5143",
+      "sinonimos": [
+        {
+          "titulo": "Conservador de fachadas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3753
+          }
+        },
+        {
+          "titulo": "Cordista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3754
+          }
+        },
+        {
+          "titulo": "Limpador de fachadas com jato",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3755
+          }
+        },
+        {
+          "titulo": "Operador de balancim",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3756
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1431
+      }
+    },
+    {
+      "codigo": "514320",
+      "titulo": "Faxineiro",
+      "familia": "5143",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar de limpeza",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3757
+          }
+        },
+        {
+          "titulo": "Servente de limpeza",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3758
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1432
+      }
+    },
+    {
+      "codigo": "514325",
+      "titulo": "Trabalhador da manutenção de edificações",
+      "familia": "5143",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar de conservação de barragens",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3759
+          }
+        },
+        {
+          "titulo": "Auxiliar de conservação de obras civis",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3760
+          }
+        },
+        {
+          "titulo": "Auxiliar de manutenção de edifícios",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3761
+          }
+        },
+        {
+          "titulo": "Oficial de manutenção",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3762
+          }
+        },
+        {
+          "titulo": "Oficial de manutenção predial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3763
+          }
+        },
+        {
+          "titulo": "Oficial de serviços diversos na manutenção de edificações",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3764
+          }
+        },
+        {
+          "titulo": "Oficial de serviços gerais na manutenção de edificações",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3765
+          }
+        },
+        {
+          "titulo": "Trabalhador de manutenção de edifícios",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3766
+          }
+        },
+        {
+          "titulo": "Trabalhador na conservação de edifícios",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3767
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1433
+      }
+    },
+    {
+      "codigo": "514330",
+      "titulo": "Limpador de piscinas",
+      "familia": "5143",
+      "sinonimos": [
+        {
+          "titulo": "Piscineiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3768
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1434
+      }
+    },
+    {
+      "codigo": "515105",
+      "titulo": "Agente comunitário de saúde",
+      "familia": "5151",
+      "sinonimos": [
+        {
+          "titulo": "Agente de saúde",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3769
+          }
+        },
+        {
+          "titulo": "Visitador de saúde",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3770
+          }
+        },
+        {
+          "titulo": "Visitador de saúde em domicílio",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3771
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1435
+      }
+    },
+    {
+      "codigo": "515110",
+      "titulo": "Atendente de enfermagem",
+      "familia": "5151",
+      "sinonimos": [
+        {
+          "titulo": "Atendente de berçário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3772
+          }
+        },
+        {
+          "titulo": "Atendente de centro cirúrgico",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3773
+          }
+        },
+        {
+          "titulo": "Atendente de enfermagem no serviço doméstico",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3774
+          }
+        },
+        {
+          "titulo": "Atendente de hospital",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3775
+          }
+        },
+        {
+          "titulo": "Atendente de serviço de saúde",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3776
+          }
+        },
+        {
+          "titulo": "Atendente de serviço médico",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3777
+          }
+        },
+        {
+          "titulo": "Atendente hospitalar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3778
+          }
+        },
+        {
+          "titulo": "Atendente-enfermeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3779
+          }
+        },
+        {
+          "titulo": "Maqueiro de hospital",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3780
+          }
+        },
+        {
+          "titulo": "Maqueiro hospitalar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3781
+          }
+        },
+        {
+          "titulo": "Padioleiro-enfermeiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3782
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1436
+      }
+    },
+    {
+      "codigo": "515115",
+      "titulo": "Parteira leiga",
+      "familia": "5151",
+      "sinonimos": [
+        {
+          "titulo": "Assistente de parto",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3783
+          }
+        },
+        {
+          "titulo": "Parteira",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3784
+          }
+        },
+        {
+          "titulo": "Parteira prática",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3785
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1437
+      }
+    },
+    {
+      "codigo": "515120",
+      "titulo": "Visitador sanitário",
+      "familia": "5151",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar de sanitarista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3786
+          }
+        },
+        {
+          "titulo": "Educador sanitário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3787
+          }
+        },
+        {
+          "titulo": "Imunizador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3788
+          }
+        },
+        {
+          "titulo": "Vigilante de saúde",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3789
+          }
+        },
+        {
+          "titulo": "Visitador sanitário domiciliar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3790
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1438
+      }
+    },
+    {
+      "codigo": "515125",
+      "titulo": "Agente indígena de saúde",
+      "familia": "5151",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1439
+      }
+    },
+    {
+      "codigo": "515130",
+      "titulo": "Agente indígena de saneamento",
+      "familia": "5151",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1440
+      }
+    },
+    {
+      "codigo": "515135",
+      "titulo": "Socorrista (exceto médicos e enfermeiros)",
+      "familia": "5151",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar de enfermagem socorrista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3791
+          }
+        },
+        {
+          "titulo": "Bombeiro resgatista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3792
+          }
+        },
+        {
+          "titulo": "Bombeiro socorrista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3793
+          }
+        },
+        {
+          "titulo": "Resgatista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3794
+          }
+        },
+        {
+          "titulo": "Resgatista socorrista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3795
+          }
+        },
+        {
+          "titulo": "Técnico em enfermagem socorrista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3796
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1441
+      }
+    },
+    {
+      "codigo": "515140",
+      "titulo": "Agente de combate às endemias",
+      "familia": "5151",
+      "sinonimos": [
+        {
+          "titulo": "Agente de controle de vetores",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3797
+          }
+        },
+        {
+          "titulo": "Agente de contrrole de dengue",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3798
+          }
+        },
+        {
+          "titulo": "Guarda de endemias",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3799
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1442
+      }
+    },
+    {
+      "codigo": "515205",
+      "titulo": "Auxiliar de banco de sangue",
+      "familia": "5152",
+      "sinonimos": [
+        {
+          "titulo": "Flebotomista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3800
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1443
+      }
+    },
+    {
+      "codigo": "515210",
+      "titulo": "Auxiliar de farmácia de manipulação",
+      "familia": "5152",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1444
+      }
+    },
+    {
+      "codigo": "515215",
+      "titulo": "Auxiliar de laboratório de análises clínicas",
+      "familia": "5152",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar técnico em patologia cínica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3801
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1445
+      }
+    },
+    {
+      "codigo": "515220",
+      "titulo": "Auxiliar de laboratório de imunobiológicos",
+      "familia": "5152",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1446
+      }
+    },
+    {
+      "codigo": "515225",
+      "titulo": "Auxiliar de produção farmacêutica",
+      "familia": "5152",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1447
+      }
+    },
+    {
+      "codigo": "515305",
+      "titulo": "Educador social",
+      "familia": "5153",
+      "sinonimos": [
+        {
+          "titulo": "Arte educador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3802
+          }
+        },
+        {
+          "titulo": "Educador de rua",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3803
+          }
+        },
+        {
+          "titulo": "Educador social de rua",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3804
+          }
+        },
+        {
+          "titulo": "Instrutor educacional",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3805
+          }
+        },
+        {
+          "titulo": "Orientador sócio educativo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3806
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1448
+      }
+    },
+    {
+      "codigo": "515310",
+      "titulo": "Agente de ação social",
+      "familia": "5153",
+      "sinonimos": [
+        {
+          "titulo": "Agente de proteção social",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3807
+          }
+        },
+        {
+          "titulo": "Agente de proteção social de rua",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3808
+          }
+        },
+        {
+          "titulo": "Agente social",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3809
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1449
+      }
+    },
+    {
+      "codigo": "515315",
+      "titulo": "Monitor de dependente químico",
+      "familia": "5153",
+      "sinonimos": [
+        {
+          "titulo": "Conselheiro de dependente químico",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3810
+          }
+        },
+        {
+          "titulo": "Consultor em dependência química",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3811
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1450
+      }
+    },
+    {
+      "codigo": "515320",
+      "titulo": "Conselheiro tutelar",
+      "familia": "5153",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1451
+      }
+    },
+    {
+      "codigo": "515325",
+      "titulo": "Sócioeducador",
+      "familia": "5153",
+      "sinonimos": [
+        {
+          "titulo": "Agente de apoio socioeducativo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3812
+          }
+        },
+        {
+          "titulo": "Agente de segurança socioeducativa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3813
+          }
+        },
+        {
+          "titulo": "Agente educacional",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3814
+          }
+        },
+        {
+          "titulo": "Atendente de reintegração social",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3815
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1452
+      }
+    },
+    {
+      "codigo": "515330",
+      "titulo": "Monitor de ressocialização prisional",
+      "familia": "5153",
+      "sinonimos": [
+        {
+          "titulo": "Agente de ressocialização prisional",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3816
+          }
+        },
+        {
+          "titulo": "Monitor disciplinar prisional",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3817
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1453
+      }
+    },
+    {
+      "codigo": "516105",
+      "titulo": "Barbeiro",
+      "familia": "5161",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1454
+      }
+    },
+    {
+      "codigo": "516110",
+      "titulo": "Cabeleireiro",
+      "familia": "5161",
+      "sinonimos": [
+        {
+          "titulo": "Ajudante de cabeleireiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3818
+          }
+        },
+        {
+          "titulo": "Auxiliar de cabeleireiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3819
+          }
+        },
+        {
+          "titulo": "Cabeleireiro afro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3820
+          }
+        },
+        {
+          "titulo": "Cabeleireiro escovista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3821
+          }
+        },
+        {
+          "titulo": "Cabeleireiro feminino",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3822
+          }
+        },
+        {
+          "titulo": "Cabeleireiro masculino",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3823
+          }
+        },
+        {
+          "titulo": "Cabeleireiro penteador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3824
+          }
+        },
+        {
+          "titulo": "Cabeleireiro tinturista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3825
+          }
+        },
+        {
+          "titulo": "Cabeleireiro unissex",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3826
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1455
+      }
+    },
+    {
+      "codigo": "516120",
+      "titulo": "Manicure/pedicure",
+      "familia": "5161",
+      "sinonimos": [
+        {
+          "titulo": "Manicuro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3827
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1456
+      }
+    },
+    {
+      "codigo": "516125",
+      "titulo": "Maquiador",
+      "familia": "5161",
+      "sinonimos": [
+        {
+          "titulo": "Maquiador social",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3828
+          }
+        },
+        {
+          "titulo": "Maquilador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3829
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1457
+      }
+    },
+    {
+      "codigo": "516130",
+      "titulo": "Maquiador de caracterização",
+      "familia": "5161",
+      "sinonimos": [
+        {
+          "titulo": "Maquiador artístico",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3830
+          }
+        },
+        {
+          "titulo": "Maquiador de cinema, teatro e tv",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3831
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1458
+      }
+    },
+    {
+      "codigo": "516145",
+      "titulo": "Designer de unhas",
+      "familia": "5161",
+      "sinonimos": [
+        {
+          "titulo": "Nail designer",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3832
+          }
+        },
+        {
+          "titulo": "Porcelanista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3833
+          }
+        },
+        {
+          "titulo": "Técnico em unhas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3834
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1459
+      }
+    },
+    {
+      "codigo": "516150",
+      "titulo": "Designer de sobrancelhas",
+      "familia": "5161",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1460
+      }
+    },
+    {
+      "codigo": "516155",
+      "titulo": "Designer de cílios",
+      "familia": "5161",
+      "sinonimos": [
+        {
+          "titulo": "Extensionista de cílios",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3835
+          }
+        },
+        {
+          "titulo": "Lash designer",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3836
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1461
+      }
+    },
+    {
+      "codigo": "516205",
+      "titulo": "Babá",
+      "familia": "5162",
+      "sinonimos": [
+        {
+          "titulo": "Baby-sitter",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3837
+          }
+        },
+        {
+          "titulo": "Pajém (baby-sitter em início de carreira)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3838
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1462
+      }
+    },
+    {
+      "codigo": "516210",
+      "titulo": "Cuidador de idosos",
+      "familia": "5162",
+      "sinonimos": [
+        {
+          "titulo": "Acompanhante de idosos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3839
+          }
+        },
+        {
+          "titulo": "Cuidador de  pessoas idosas e dependentes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3840
+          }
+        },
+        {
+          "titulo": "Cuidador de idosos domiciliar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3841
+          }
+        },
+        {
+          "titulo": "Cuidador de idosos institucional",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3842
+          }
+        },
+        {
+          "titulo": "Gero-sitter",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3843
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1463
+      }
+    },
+    {
+      "codigo": "516215",
+      "titulo": "Mãe social",
+      "familia": "5162",
+      "sinonimos": [
+        {
+          "titulo": "Mãe crecheira",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3844
+          }
+        },
+        {
+          "titulo": "Mãe substituta",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3845
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1464
+      }
+    },
+    {
+      "codigo": "516220",
+      "titulo": "Cuidador em saúde",
+      "familia": "5162",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1465
+      }
+    },
+    {
+      "codigo": "516305",
+      "titulo": "Lavadeiro, em geral",
+      "familia": "5163",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1466
+      }
+    },
+    {
+      "codigo": "516310",
+      "titulo": "Lavador de roupas  a maquina",
+      "familia": "5163",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar de lavador de roupas, a máquina industrial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3846
+          }
+        },
+        {
+          "titulo": "Lavador de roupa hospitalar",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3847
+          }
+        },
+        {
+          "titulo": "Lavador de roupas à maquina industrial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3848
+          }
+        },
+        {
+          "titulo": "Operador de centrífuga de roupas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3849
+          }
+        },
+        {
+          "titulo": "Operador de máquina de lavar roupas, em geral",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3850
+          }
+        },
+        {
+          "titulo": "Operador de secadora de roupas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3851
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1467
+      }
+    },
+    {
+      "codigo": "516315",
+      "titulo": "Lavador de artefatos de tapeçaria",
+      "familia": "5163",
+      "sinonimos": [
+        {
+          "titulo": "Ajudante de lavador de tapetes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3852
+          }
+        },
+        {
+          "titulo": "Ajudante de lavanderia de artefatos da tapeçaria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3853
+          }
+        },
+        {
+          "titulo": "Auxiliar de lavador de tapetes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3854
+          }
+        },
+        {
+          "titulo": "Lavador de tapetes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3855
+          }
+        },
+        {
+          "titulo": "Operador de lavadora de tapetes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3856
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1468
+      }
+    },
+    {
+      "codigo": "516320",
+      "titulo": "Limpador a seco, à máquina",
+      "familia": "5163",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1469
+      }
+    },
+    {
+      "codigo": "516325",
+      "titulo": "Passador de roupas em geral",
+      "familia": "5163",
+      "sinonimos": [
+        {
+          "titulo": "Passador de roupas em calandra",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3858
+          }
+        },
+        {
+          "titulo": "Passador de roupas em manequim",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3859
+          }
+        },
+        {
+          "titulo": "Passador de roupas à prensa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3857
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1470
+      }
+    },
+    {
+      "codigo": "516330",
+      "titulo": "Tingidor de roupas",
+      "familia": "5163",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1471
+      }
+    },
+    {
+      "codigo": "516335",
+      "titulo": "Conferente-expedidor de roupas (lavanderias)",
+      "familia": "5163",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1472
+      }
+    },
+    {
+      "codigo": "516340",
+      "titulo": "Atendente de lavanderia",
+      "familia": "5163",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1473
+      }
+    },
+    {
+      "codigo": "516345",
+      "titulo": "Auxiliar de lavanderia",
+      "familia": "5163",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1474
+      }
+    },
+    {
+      "codigo": "516405",
+      "titulo": "Lavador de roupas",
+      "familia": "5164",
+      "sinonimos": [
+        {
+          "titulo": "Lavador de roupa a seco",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3860
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1475
+      }
+    },
+    {
+      "codigo": "516410",
+      "titulo": "Limpador de roupas a seco, à mão",
+      "familia": "5164",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1476
+      }
+    },
+    {
+      "codigo": "516415",
+      "titulo": "Passador de roupas, à mão",
+      "familia": "5164",
+      "sinonimos": [
+        {
+          "titulo": "Passador - no serviço do vestuário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3861
+          }
+        },
+        {
+          "titulo": "Passador a ferro a vapor",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3862
+          }
+        },
+        {
+          "titulo": "Passador de amostras de roupas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3863
+          }
+        },
+        {
+          "titulo": "Passador de roupas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3864
+          }
+        },
+        {
+          "titulo": "Passador de tecidos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3865
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1477
+      }
+    },
+    {
+      "codigo": "516505",
+      "titulo": "Agente funerário",
+      "familia": "5165",
+      "sinonimos": [
+        {
+          "titulo": "Agente funerário - tanatopraxista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3866
+          }
+        },
+        {
+          "titulo": "Atendente funerário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3867
+          }
+        },
+        {
+          "titulo": "Auxiliar de funerária",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3868
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1478
+      }
+    },
+    {
+      "codigo": "516605",
+      "titulo": "Operador de forno (serviços funerários)",
+      "familia": "5166",
+      "sinonimos": [
+        {
+          "titulo": "Crematório",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3869
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1479
+      }
+    },
+    {
+      "codigo": "516610",
+      "titulo": "Sepultador",
+      "familia": "5166",
+      "sinonimos": [
+        {
+          "titulo": "Coveiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3870
+          }
+        },
+        {
+          "titulo": "Oficial de obras - sepultador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3871
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1480
+      }
+    },
+    {
+      "codigo": "516705",
+      "titulo": "Astrólogo",
+      "familia": "5167",
+      "sinonimos": [
+        {
+          "titulo": "Cosmoanalista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3872
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1481
+      }
+    },
+    {
+      "codigo": "516710",
+      "titulo": "Numerólogo",
+      "familia": "5167",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1482
+      }
+    },
+    {
+      "codigo": "516805",
+      "titulo": "Esotérico",
+      "familia": "5168",
+      "sinonimos": [
+        {
+          "titulo": "Analista kirlian",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3873
+          }
+        },
+        {
+          "titulo": "Cartomante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3874
+          }
+        },
+        {
+          "titulo": "Cristalomante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3875
+          }
+        },
+        {
+          "titulo": "Frenólogo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3876
+          }
+        },
+        {
+          "titulo": "Leitor de oráculos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3877
+          }
+        },
+        {
+          "titulo": "Quiromante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3879
+          }
+        },
+        {
+          "titulo": "Quirólogo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3878
+          }
+        },
+        {
+          "titulo": "Radioestesista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3880
+          }
+        },
+        {
+          "titulo": "Rumenal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3881
+          }
+        },
+        {
+          "titulo": "Tarólogo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3882
+          }
+        },
+        {
+          "titulo": "Vidente",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3883
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1483
+      }
+    },
+    {
+      "codigo": "516810",
+      "titulo": "Paranormal",
+      "familia": "5168",
+      "sinonimos": [
+        {
+          "titulo": "Parapsicólogo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3884
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1484
+      }
+    },
+    {
+      "codigo": "516905",
+      "titulo": "Tatuador",
+      "familia": "5169",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1485
+      }
+    },
+    {
+      "codigo": "516910",
+      "titulo": "Micropigmentador",
+      "familia": "5169",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1486
+      }
+    },
+    {
+      "codigo": "516915",
+      "titulo": "Body piercer",
+      "familia": "5169",
+      "sinonimos": [
+        {
+          "titulo": "Piercer",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3885
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1487
+      }
+    },
+    {
+      "codigo": "517105",
+      "titulo": "Bombeiro de aeródromo",
+      "familia": "5171",
+      "sinonimos": [
+        {
+          "titulo": "Bombeiro de aeroporto",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3886
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1488
+      }
+    },
+    {
+      "codigo": "517110",
+      "titulo": "Bombeiro civil",
+      "familia": "5171",
+      "sinonimos": [
+        {
+          "titulo": "Agente de investigação de incêndio",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3887
+          }
+        },
+        {
+          "titulo": "Bombeiro de empresas particulares",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3888
+          }
+        },
+        {
+          "titulo": "Bombeiro de estabelecimentos comerciais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3889
+          }
+        },
+        {
+          "titulo": "Bombeiro de estabelecimentos industriais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3890
+          }
+        },
+        {
+          "titulo": "Bombeiro de segurança do trabalho",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3891
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1489
+      }
+    },
+    {
+      "codigo": "517115",
+      "titulo": "Salva-vidas",
+      "familia": "5171",
+      "sinonimos": [
+        {
+          "titulo": "Guarda-vidas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3892
+          }
+        },
+        {
+          "titulo": "Salva-surf",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3893
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1490
+      }
+    },
+    {
+      "codigo": "517120",
+      "titulo": "Brigadista florestal",
+      "familia": "5171",
+      "sinonimos": [
+        {
+          "titulo": "Chefe de esquadrão",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3894
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1491
+      }
+    },
+    {
+      "codigo": "517125",
+      "titulo": "Chefe de brigada",
+      "familia": "5171",
+      "sinonimos": [
+        {
+          "titulo": "Gerente de fogo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3895
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1492
+      }
+    },
+    {
+      "codigo": "517130",
+      "titulo": "Agente de proteção e defesa civil",
+      "familia": "5171",
+      "sinonimos": [
+        {
+          "titulo": "Agente de proteção e defesa civil operacional",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3896
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1493
+      }
+    },
+    {
+      "codigo": "517205",
+      "titulo": "Agente de polícia federal",
+      "familia": "5172",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1494
+      }
+    },
+    {
+      "codigo": "517210",
+      "titulo": "Policial rodoviário federal",
+      "familia": "5172",
+      "sinonimos": [
+        {
+          "titulo": "Inspetor de polícia rodoviária federal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3897
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1495
+      }
+    },
+    {
+      "codigo": "517215",
+      "titulo": "Guarda-civil municipal",
+      "familia": "5172",
+      "sinonimos": [
+        {
+          "titulo": "Guarda-civil metropolitano",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3898
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1496
+      }
+    },
+    {
+      "codigo": "517220",
+      "titulo": "Agente de trânsito",
+      "familia": "5172",
+      "sinonimos": [
+        {
+          "titulo": "Agente de transporte e trânsito",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3899
+          }
+        },
+        {
+          "titulo": "Auxiliar de tráfego",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3900
+          }
+        },
+        {
+          "titulo": "Operador de tráfego",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3901
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1497
+      }
+    },
+    {
+      "codigo": "517225",
+      "titulo": "Policial legislativo",
+      "familia": "5172",
+      "sinonimos": [
+        {
+          "titulo": "Agente de polícia legislativa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3902
+          }
+        },
+        {
+          "titulo": "Policial legislativo federal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3903
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1498
+      }
+    },
+    {
+      "codigo": "517230",
+      "titulo": "Policial penal",
+      "familia": "5172",
+      "sinonimos": [
+        {
+          "titulo": "Agente de execução penal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3904
+          }
+        },
+        {
+          "titulo": "Agente de segurança penitenciária",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3905
+          }
+        },
+        {
+          "titulo": "Agente penitenciário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3906
+          }
+        },
+        {
+          "titulo": "Guarda de presídio",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3907
+          }
+        },
+        {
+          "titulo": "Inspetor penitenciário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3908
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1499
+      }
+    },
+    {
+      "codigo": "517235",
+      "titulo": "Guarda portuário",
+      "familia": "5172",
+      "sinonimos": [
+        {
+          "titulo": "Agente da guarda portuária",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3909
+          }
+        },
+        {
+          "titulo": "Inspetor de guarda portuária",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3910
+          }
+        },
+        {
+          "titulo": "Rondante de guarda portuária",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3911
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1500
+      }
+    },
+    {
+      "codigo": "517305",
+      "titulo": "Vigilante de proteção de aeroporto",
+      "familia": "5173",
+      "sinonimos": [
+        {
+          "titulo": "Vigilante de aeroporto",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3912
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1501
+      }
+    },
+    {
+      "codigo": "517310",
+      "titulo": "Agente de segurança",
+      "familia": "5173",
+      "sinonimos": [
+        {
+          "titulo": "Segurança comunitário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3913
+          }
+        },
+        {
+          "titulo": "Segurança de evento",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3914
+          }
+        },
+        {
+          "titulo": "Segurança pessoal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3915
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1502
+      }
+    },
+    {
+      "codigo": "517320",
+      "titulo": "Vigia florestal",
+      "familia": "5173",
+      "sinonimos": [
+        {
+          "titulo": "Guarda-rural",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3916
+          }
+        },
+        {
+          "titulo": "Guarda-territorial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3917
+          }
+        },
+        {
+          "titulo": "Inspetor de guarda-territorial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3918
+          }
+        },
+        {
+          "titulo": "Mateiro-guarda florestal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3919
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1503
+      }
+    },
+    {
+      "codigo": "517325",
+      "titulo": "Vigia portuário",
+      "familia": "5173",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1504
+      }
+    },
+    {
+      "codigo": "517330",
+      "titulo": "Vigilante",
+      "familia": "5173",
+      "sinonimos": [
+        {
+          "titulo": "Agente de segurança ferroviária",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3920
+          }
+        },
+        {
+          "titulo": "Assistente de segurança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3921
+          }
+        },
+        {
+          "titulo": "Auxiliar de segurança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3922
+          }
+        },
+        {
+          "titulo": "Auxiliar de serviço de segurança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3923
+          }
+        },
+        {
+          "titulo": "Encarregado de portaria e segurança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3924
+          }
+        },
+        {
+          "titulo": "Encarregado de segurança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3925
+          }
+        },
+        {
+          "titulo": "Encarregado de vigilância - organizações particulares de segurança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3926
+          }
+        },
+        {
+          "titulo": "Fiscal de segurança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3927
+          }
+        },
+        {
+          "titulo": "Fiscal de vigilância - organizações particulares de segurança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3928
+          }
+        },
+        {
+          "titulo": "Fiscal de vigilância bancária",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3929
+          }
+        },
+        {
+          "titulo": "Guarda de banco - organizações particulares de segurança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3930
+          }
+        },
+        {
+          "titulo": "Guarda de segurança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3931
+          }
+        },
+        {
+          "titulo": "Guarda de segurança - empresa particular de segurança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3932
+          }
+        },
+        {
+          "titulo": "Guarda de vigilância",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3933
+          }
+        },
+        {
+          "titulo": "Guarda ferroviário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3934
+          }
+        },
+        {
+          "titulo": "Guarda valores",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3935
+          }
+        },
+        {
+          "titulo": "Guarda vigia",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3936
+          }
+        },
+        {
+          "titulo": "Guarda-civil",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3937
+          }
+        },
+        {
+          "titulo": "Guarda-costas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3938
+          }
+        },
+        {
+          "titulo": "Inspetor de vigilância",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3939
+          }
+        },
+        {
+          "titulo": "Ronda - organizações particulares de segurança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3940
+          }
+        },
+        {
+          "titulo": "Rondante - organizações particulares de segurança",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3941
+          }
+        },
+        {
+          "titulo": "Vigilante bancário",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3942
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1505
+      }
+    },
+    {
+      "codigo": "517405",
+      "titulo": "Porteiro (hotel)",
+      "familia": "5174",
+      "sinonimos": [
+        {
+          "titulo": "Atendente de portaria de hotel",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3943
+          }
+        },
+        {
+          "titulo": "Capitão porteiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3944
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1506
+      }
+    },
+    {
+      "codigo": "517410",
+      "titulo": "Porteiro de edifícios",
+      "familia": "5174",
+      "sinonimos": [
+        {
+          "titulo": "Guariteiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3945
+          }
+        },
+        {
+          "titulo": "Porteiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3946
+          }
+        },
+        {
+          "titulo": "Porteiro industrial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3947
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1507
+      }
+    },
+    {
+      "codigo": "517415",
+      "titulo": "Agente de portaria",
+      "familia": "5174",
+      "sinonimos": [
+        {
+          "titulo": "Controlador de acesso",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3948
+          }
+        },
+        {
+          "titulo": "Medidor de temperatura corporal",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3949
+          }
+        },
+        {
+          "titulo": "Porteiro de locais de diversão",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3950
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1508
+      }
+    },
+    {
+      "codigo": "517420",
+      "titulo": "Vigia",
+      "familia": "5174",
+      "sinonimos": [
+        {
+          "titulo": "Vigia de rua",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3951
+          }
+        },
+        {
+          "titulo": "Vigia noturno",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3952
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1509
+      }
+    },
+    {
+      "codigo": "517425",
+      "titulo": "Fiscal de loja",
+      "familia": "5174",
+      "sinonimos": [
+        {
+          "titulo": "Assistente de prevenção de perdas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3953
+          }
+        },
+        {
+          "titulo": "Fiscal de piso",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3954
+          }
+        },
+        {
+          "titulo": "Fiscal de prevenção de perdas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3955
+          }
+        },
+        {
+          "titulo": "Monitor de prevenção de perdas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3956
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1510
+      }
+    },
+    {
+      "codigo": "519105",
+      "titulo": "Ciclista mensageiro",
+      "familia": "5191",
+      "sinonimos": [
+        {
+          "titulo": "Bikeboy",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3957
+          }
+        },
+        {
+          "titulo": "Condutor de bicicleta no transporte de mercadorias",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3958
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1511
+      }
+    },
+    {
+      "codigo": "519110",
+      "titulo": "Motofretista",
+      "familia": "5191",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1512
+      }
+    },
+    {
+      "codigo": "519115",
+      "titulo": "Mototaxista",
+      "familia": "5191",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1513
+      }
+    },
+    {
+      "codigo": "519205",
+      "titulo": "Catador de material reciclável",
+      "familia": "5192",
+      "sinonimos": [
+        {
+          "titulo": "Agente de reciclagem de materiais",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3959
+          }
+        },
+        {
+          "titulo": "Catador de ferro-velho",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3960
+          }
+        },
+        {
+          "titulo": "Catador de papel e papelão",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3961
+          }
+        },
+        {
+          "titulo": "Catador de sucata",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3962
+          }
+        },
+        {
+          "titulo": "Catador de vasilhame",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3963
+          }
+        },
+        {
+          "titulo": "Coletor de materiais recicláveis",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3964
+          }
+        },
+        {
+          "titulo": "Enfardador de sucata (cooperativa)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3965
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1514
+      }
+    },
+    {
+      "codigo": "519210",
+      "titulo": "Selecionador de material reciclável",
+      "familia": "5192",
+      "sinonimos": [
+        {
+          "titulo": "Separador de material reciclável",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3966
+          }
+        },
+        {
+          "titulo": "Separador de sucata",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3967
+          }
+        },
+        {
+          "titulo": "Triador de material reciclável",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3968
+          }
+        },
+        {
+          "titulo": "Triador de sucata",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3969
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1515
+      }
+    },
+    {
+      "codigo": "519215",
+      "titulo": "Operador de prensa de material reciclável",
+      "familia": "5192",
+      "sinonimos": [
+        {
+          "titulo": "Enfardador de material de sucata (cooperativa)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3970
+          }
+        },
+        {
+          "titulo": "Prenseiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3971
+          }
+        },
+        {
+          "titulo": "Prensista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3972
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1516
+      }
+    },
+    {
+      "codigo": "519305",
+      "titulo": "Auxiliar de veterinário",
+      "familia": "5193",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1517
+      }
+    },
+    {
+      "codigo": "519310",
+      "titulo": "Esteticista de animais domésticos",
+      "familia": "5193",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1518
+      }
+    },
+    {
+      "codigo": "519315",
+      "titulo": "Banhista de animais domésticos",
+      "familia": "5193",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1519
+      }
+    },
+    {
+      "codigo": "519320",
+      "titulo": "Tosador de animais domésticos",
+      "familia": "5193",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1520
+      }
+    },
+    {
+      "codigo": "519805",
+      "titulo": "Profissional do sexo",
+      "familia": "5198",
+      "sinonimos": [
+        {
+          "titulo": "Garota de programa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3973
+          }
+        },
+        {
+          "titulo": "Garoto de programa",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3974
+          }
+        },
+        {
+          "titulo": "Meretriz",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3975
+          }
+        },
+        {
+          "titulo": "Messalina",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3976
+          }
+        },
+        {
+          "titulo": "Michê",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3977
+          }
+        },
+        {
+          "titulo": "Mulher da vida",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3978
+          }
+        },
+        {
+          "titulo": "Prostituta",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3979
+          }
+        },
+        {
+          "titulo": "Trabalhador do sexo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3980
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1521
+      }
+    },
+    {
+      "codigo": "519905",
+      "titulo": "Cartazeiro",
+      "familia": "5199",
+      "sinonimos": [
+        {
+          "titulo": "Colador de cartazes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3981
+          }
+        },
+        {
+          "titulo": "Colocador de cartazes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3982
+          }
+        },
+        {
+          "titulo": "Colocador de painéis",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3983
+          }
+        },
+        {
+          "titulo": "Emendador de cartazes",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3984
+          }
+        },
+        {
+          "titulo": "Instalador de painéis",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3985
+          }
+        },
+        {
+          "titulo": "Panfleteiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3986
+          }
+        },
+        {
+          "titulo": "Plaqueiro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3987
+          }
+        },
+        {
+          "titulo": "Propagandista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3988
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1522
+      }
+    },
+    {
+      "codigo": "519910",
+      "titulo": "Controlador de pragas",
+      "familia": "5199",
+      "sinonimos": [
+        {
+          "titulo": "Aplicador de inseticida",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3989
+          }
+        },
+        {
+          "titulo": "Dedetizador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3990
+          }
+        },
+        {
+          "titulo": "Descupinizador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3991
+          }
+        },
+        {
+          "titulo": "Desinfestador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3992
+          }
+        },
+        {
+          "titulo": "Desratizador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3993
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1523
+      }
+    },
+    {
+      "codigo": "519915",
+      "titulo": "Engraxate",
+      "familia": "5199",
+      "sinonimos": [
+        {
+          "titulo": "Lustrador - engraxate",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3994
+          }
+        },
+        {
+          "titulo": "Polidor de artefatos de couro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3995
+          }
+        },
+        {
+          "titulo": "Polidor de calçados",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3996
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1524
+      }
+    },
+    {
+      "codigo": "519920",
+      "titulo": "Gandula",
+      "familia": "5199",
+      "sinonimos": [
+        {
+          "titulo": "Enxugador de quadra",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3997
+          }
+        },
+        {
+          "titulo": "Pegador de bola",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3998
+          }
+        },
+        {
+          "titulo": "Rodoboy",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 3999
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1525
+      }
+    },
+    {
+      "codigo": "519925",
+      "titulo": "Guardador de veículos",
+      "familia": "5199",
+      "sinonimos": [
+        {
+          "titulo": "Flanelinha",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4000
+          }
+        },
+        {
+          "titulo": "Guardador autônomo de veículos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4001
+          }
+        },
+        {
+          "titulo": "Guardador de carro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4002
+          }
+        },
+        {
+          "titulo": "Orientador de tráfego para estacionamento",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4003
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1526
+      }
+    },
+    {
+      "codigo": "519930",
+      "titulo": "Lavador de garrafas, vidros e outros utensílios",
+      "familia": "5199",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1527
+      }
+    },
+    {
+      "codigo": "519935",
+      "titulo": "Lavador de veículos",
+      "familia": "5199",
+      "sinonimos": [
+        {
+          "titulo": "Ajudante de lavador de automóvel",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4004
+          }
+        },
+        {
+          "titulo": "Ajudante de polidor de veículos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4005
+          }
+        },
+        {
+          "titulo": "Enxugador de veículos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4006
+          }
+        },
+        {
+          "titulo": "Enxugador e acabador na lavagem de veículos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4007
+          }
+        },
+        {
+          "titulo": "Lavador de automóveis",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4008
+          }
+        },
+        {
+          "titulo": "Lavador de carros",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4009
+          }
+        },
+        {
+          "titulo": "Lavador de ônibus",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4010
+          }
+        },
+        {
+          "titulo": "Limpador de aviões, bondes, coletivos, ônibus e trens",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4011
+          }
+        },
+        {
+          "titulo": "Operador de lavador de veículos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4012
+          }
+        },
+        {
+          "titulo": "Polidor de automóveis",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4013
+          }
+        },
+        {
+          "titulo": "Polidor de veículos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4014
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1528
+      }
+    },
+    {
+      "codigo": "519940",
+      "titulo": "Leiturista",
+      "familia": "5199",
+      "sinonimos": [
+        {
+          "titulo": "Anotador de consumo de energia elétrica, água e gás",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4015
+          }
+        },
+        {
+          "titulo": "Encarregado de serviços de leitura e verificação de consumo de energia elétrica, água e gás",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4016
+          }
+        },
+        {
+          "titulo": "Hidrometrista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4017
+          }
+        },
+        {
+          "titulo": "Leitor de hidrômetro",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4018
+          }
+        },
+        {
+          "titulo": "Leitor de medidores de água, gás e energia elétrica",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4019
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1529
+      }
+    },
+    {
+      "codigo": "519945",
+      "titulo": "Recepcionista de casas de espetáculos",
+      "familia": "5199",
+      "sinonimos": [
+        {
+          "titulo": "Indicador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4020
+          }
+        },
+        {
+          "titulo": "Lanterninha",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4021
+          }
+        },
+        {
+          "titulo": "Vagalume",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4022
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1530
+      }
+    },
+    {
+      "codigo": "520105",
+      "titulo": "Supervisor de vendas de serviços",
+      "familia": "5201",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1531
+      }
+    },
+    {
+      "codigo": "520110",
+      "titulo": "Supervisor de vendas comercial",
+      "familia": "5201",
+      "sinonimos": [
+        {
+          "titulo": "Supervisor comercial",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4023
+          }
+        },
+        {
+          "titulo": "Supervisor de vendas no atacado",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4024
+          }
+        },
+        {
+          "titulo": "Supervisor de vendas no varejo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4025
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1532
+      }
+    },
+    {
+      "codigo": "521105",
+      "titulo": "Vendedor em comércio atacadista",
+      "familia": "5211",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1533
+      }
+    },
+    {
+      "codigo": "521110",
+      "titulo": "Vendedor de comércio varejista",
+      "familia": "5211",
+      "sinonimos": [
+        {
+          "titulo": "Consultor de vendas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4026
+          }
+        },
+        {
+          "titulo": "Operador de vendas (lojas)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4027
+          }
+        },
+        {
+          "titulo": "Vendedor - no comércio de mercadorias",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4028
+          }
+        },
+        {
+          "titulo": "Vendedor interno",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4029
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1534
+      }
+    },
+    {
+      "codigo": "521115",
+      "titulo": "Promotor de vendas",
+      "familia": "5211",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1535
+      }
+    },
+    {
+      "codigo": "521120",
+      "titulo": "Demonstrador de mercadorias",
+      "familia": "5211",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1536
+      }
+    },
+    {
+      "codigo": "521125",
+      "titulo": "Repositor de mercadorias",
+      "familia": "5211",
+      "sinonimos": [
+        {
+          "titulo": "Arrumador de prateleiras - em supermercados",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4030
+          }
+        },
+        {
+          "titulo": "Arrumador de prateleiras - no comércio",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4031
+          }
+        },
+        {
+          "titulo": "Repositor - em supermercados",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4032
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1537
+      }
+    },
+    {
+      "codigo": "521130",
+      "titulo": "Atendente de farmácia - balconista",
+      "familia": "5211",
+      "sinonimos": [
+        {
+          "titulo": "Ajudante de farmácia",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4033
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1538
+      }
+    },
+    {
+      "codigo": "521135",
+      "titulo": "Frentista",
+      "familia": "5211",
+      "sinonimos": [
+        {
+          "titulo": "Atendente de posto de gasolina",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4034
+          }
+        },
+        {
+          "titulo": "Bombeiro de posto de gasolina",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4035
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1539
+      }
+    },
+    {
+      "codigo": "521140",
+      "titulo": "Atendente de lojas e mercados",
+      "familia": "5211",
+      "sinonimos": [
+        {
+          "titulo": "Atendente balconista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4036
+          }
+        },
+        {
+          "titulo": "Atendente de balcão",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4037
+          }
+        },
+        {
+          "titulo": "Atendente de lojas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4038
+          }
+        },
+        {
+          "titulo": "Atendente de padaria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4039
+          }
+        },
+        {
+          "titulo": "Atendente de peixaria",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4040
+          }
+        },
+        {
+          "titulo": "Atendente do setor de frios e laticínios",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4041
+          }
+        },
+        {
+          "titulo": "Atendente do setor de hortifrutigranjeiros",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4042
+          }
+        },
+        {
+          "titulo": "Atendente do setor de rotisserie (pratos prontos)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4043
+          }
+        },
+        {
+          "titulo": "Atendente do setor de vinhos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4044
+          }
+        },
+        {
+          "titulo": "Balconista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4045
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1540
+      }
+    },
+    {
+      "codigo": "523105",
+      "titulo": "Instalador de cortinas e persianas, portas sanfonadas e boxe",
+      "familia": "5231",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1541
+      }
+    },
+    {
+      "codigo": "523110",
+      "titulo": "Instalador de som e acessórios de veículos",
+      "familia": "5231",
+      "sinonimos": [
+        {
+          "titulo": "Instalador de película solar (insulfilm)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4046
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1542
+      }
+    },
+    {
+      "codigo": "523115",
+      "titulo": "Chaveiro",
+      "familia": "5231",
+      "sinonimos": [
+        {
+          "titulo": "Montador de fechaduras",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4047
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1543
+      }
+    },
+    {
+      "codigo": "523120",
+      "titulo": "Aplicador de vinil autoadesivo",
+      "familia": "5231",
+      "sinonimos": [
+        {
+          "titulo": "Adesivador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4048
+          }
+        },
+        {
+          "titulo": "Aplicador de adesivos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4049
+          }
+        },
+        {
+          "titulo": "Aplicador de adesivos em superfícies",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4050
+          }
+        },
+        {
+          "titulo": "Aplicador de autoadesivo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4051
+          }
+        },
+        {
+          "titulo": "Envelopador",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4052
+          }
+        },
+        {
+          "titulo": "Instalador de vinil adesivo",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4053
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1544
+      }
+    },
+    {
+      "codigo": "523125",
+      "titulo": "Estampador de placa de identificação veicular (epiv)",
+      "familia": "5231",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1545
+      }
+    },
+    {
+      "codigo": "524105",
+      "titulo": "Vendedor em domicílio",
+      "familia": "5241",
+      "sinonimos": [
+        {
+          "titulo": "Vendedor de consórcio",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4054
+          }
+        },
+        {
+          "titulo": "Vendedor de livros",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4055
+          }
+        },
+        {
+          "titulo": "Vendedor de plano de saúde",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4056
+          }
+        },
+        {
+          "titulo": "Vendedor de serviços",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4057
+          }
+        },
+        {
+          "titulo": "Vendedor orçamentista",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4058
+          }
+        },
+        {
+          "titulo": "Vendedor por catálogos",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4059
+          }
+        },
+        {
+          "titulo": "Vendedor porta a porta",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4060
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1546
+      }
+    },
+    {
+      "codigo": "524205",
+      "titulo": "Feirante",
+      "familia": "5242",
+      "sinonimos": [
+        {
+          "titulo": "Auxiliar de feirante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4061
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1547
+      }
+    },
+    {
+      "codigo": "524210",
+      "titulo": "Jornaleiro (em banca de jornal)",
+      "familia": "5242",
+      "sinonimos": [
+        {
+          "titulo": "Vendedor de jornais e revistas",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4062
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1548
+      }
+    },
+    {
+      "codigo": "524215",
+      "titulo": "Vendedor  permissionário",
+      "familia": "5242",
+      "sinonimos": [
+        {
+          "titulo": "Camelô (permissionário em ponto fixo)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4063
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1549
+      }
+    },
+    {
+      "codigo": "524305",
+      "titulo": "Vendedor ambulante",
+      "familia": "5243",
+      "sinonimos": [
+        {
+          "titulo": "Ambulante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4064
+          }
+        },
+        {
+          "titulo": "Baleiro (ambulante)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4065
+          }
+        },
+        {
+          "titulo": "Camelô (comércio ambulante)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4066
+          }
+        },
+        {
+          "titulo": "Doceiro (comércio ambulante)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4067
+          }
+        },
+        {
+          "titulo": "Garrafeiro (comércio ambulante)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4068
+          }
+        },
+        {
+          "titulo": "Jornaleiro (ambulante)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4069
+          }
+        },
+        {
+          "titulo": "Leiteiro (comércio ambulante)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4070
+          }
+        },
+        {
+          "titulo": "Sorveteiro (comércio ambulante)",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4071
+          }
+        },
+        {
+          "titulo": "Vendedor de cachorro quente",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4072
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1550
+      }
+    },
+    {
+      "codigo": "524310",
+      "titulo": "Pipoqueiro ambulante",
+      "familia": "5243",
+      "sinonimos": [
+        {
+          "titulo": "Vendedor de pipocas ambulante",
+          "fonte": {
+            "arquivo": "cbo2002-sinonimo.csv",
+            "linha": 4073
+          }
+        }
+      ],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1551
+      }
+    },
+    {
+      "codigo": "524315",
+      "titulo": "Baiana de acarajé",
+      "familia": "5243",
+      "sinonimos": [],
+      "vigencia": {
+        "status": "vigente",
+        "desde": "dados-2026.11",
+        "ate": null
+      },
+      "fonte": {
+        "arquivo": "cbo2002-ocupacao.csv",
+        "linha": 1552
+      }
+    }
+  ]
+}

@@ -27,6 +27,8 @@ def registro_local():
     return Registry().with_resources(recursos)
 
 MAPA = {
+    "schema/cbo-estrutura.schema.json": "dados/cbo/estrutura/*.json",
+    "schema/cbo-ocupacoes.schema.json": "dados/cbo/ocupacoes/gg-*.json",
     "schema/qbq-ocupacoes.schema.json": "dados/qbq/ocupacoes/gg-*.json",
     "schema/qbq-competencias.schema.json": "dados/qbq/competencias/gg-*.json",
     "schema/qbq-vocabularios.schema.json": "dados/qbq/vocabularios/*.json",
