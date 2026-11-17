@@ -14,6 +14,9 @@ Fase 3: perfil ocupacional da CBO.
   escala de autonomia e não catálogo de comportamento
 - D017 (só o código da ocupação é chave no CSV de perfil) e D018 (sufixo
   sequencial para duas publicações no mesmo mês)
+- Seção "Como os dados se encaixam" no README, com diagrama conceitual em
+  Mermaid: a ocupação no centro, a classificação da CBO acima, o perfil ao
+  lado e a qualificação do QBQ abaixo
 
 ## dados-2026.11 · schema-v0.2.0 — 2026-11-17
 

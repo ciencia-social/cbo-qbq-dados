@@ -1,5 +1,7 @@
 # Modelo de dados
 
+O diagrama conceitual do modelo está no [README](../README.md#como-os-dados-se-encaixam); esta página detalha cada entidade, seus campos e os contratos verificados.
+
 ## Visão geral
 
 Duas camadas sobre a mesma chave — o **código CBO de 6 dígitos**:
