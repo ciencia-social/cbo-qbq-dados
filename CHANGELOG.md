@@ -4,7 +4,7 @@
 
 Mesmo dado de `dados-2026.11.1`. O conteúdo não muda: o que esta publicação acrescenta é o identificador persistente, os metadados de citação e a descrição Frictionless dos derivados.
 
-- `.zenodo.json` e `CITATION.cff` para o depósito Zenodo e o botão de citação do GitHub, com autoria Fernandes, Wil e licença CC BY 4.0. Os campos de DOI ficam vazios até a reserva no Zenodo e entram num commit de acerto
+- `.zenodo.json` e `CITATION.cff` para o depósito Zenodo e o botão de citação do GitHub, com autoria Fernandes, Wil e licença CC BY 4.0. O commit de acerto preenche os DOIs cunhados no depósito 24353525: conceito `10.5281/zenodo.24353524` e versão `10.5281/zenodo.24353525`
 - `VERSAO.json` e `derivados/csv/datapackage.json`, gerados por `pipeline/derivar.py` e conferidos byte a byte no CI (D020)
 - Contrato 14 no validador: a versão declarada nos quatro metadados tem de ser a versão corrente, e divergência é erro
 - D019, atribuição com autoria, ano e licença em `dados/LICENSE.md`, e titular do `LICENSE` no nome legal

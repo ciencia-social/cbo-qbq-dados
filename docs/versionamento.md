@@ -11,9 +11,9 @@ O campo `versao_dados` **dentro de cada arquivo** indica a publicação em que a
 
 ## Identificadores
 
-Três identificadores nomeiam a mesma publicação, cada um com um papel. A tag git fixa o commit. O DOI de versão fixa o conteúdo depositado daquela tag no Zenodo e não se move. O DOI de conceito identifica o dataset como obra contínua e resolve sempre para a versão mais recente; é o identificador do selo do README (D019). O selo entra quando esse número existir.
+Três identificadores nomeiam a mesma publicação, cada um com um papel. A tag git fixa o commit. O DOI de versão fixa o conteúdo depositado daquela tag no Zenodo e não se move; é o que aparece na citação. O DOI de conceito identifica o dataset como obra contínua e resolve sempre para a versão mais recente; é o selo do README (D019).
 
-As tags `dados-2026.08`, `dados-2026.11` e `dados-2026.11.1` foram publicadas antes da integração com o Zenodo e não têm DOI. A primeira versão com identificador persistente é `dados-2026.11.2`. O número em si entra nos metadados quando for reservado; até lá `VERSAO.json` grava os dois campos vazios.
+As tags `dados-2026.08`, `dados-2026.11` e `dados-2026.11.1` foram publicadas antes da integração com o Zenodo e não têm DOI. A primeira versão com identificador persistente é `dados-2026.11.2`: conceito `10.5281/zenodo.24353524`, versão `10.5281/zenodo.24353525`. Os dois estão em `VERSAO.json`.
 
 ## Vigência
 

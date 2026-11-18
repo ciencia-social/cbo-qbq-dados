@@ -4,4 +4,4 @@ Os dados de `dados/` e `derivados/` derivam de atos oficiais do Estado brasileir
 
 A **compilação estruturada** aqui distribuída (modelagem, normalizações documentadas, metadados de proveniência e vigência) é licenciada sob [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br).
 
-Atribuição sugerida: Fernandes, W. (2026). cbo-qbq-dados: Classificação Brasileira de Ocupações e Quadro Brasileiro de Qualificações como dados abertos (Versão dados-2026.11.2) [Conjunto de dados]. Zenodo. Licença CC BY 4.0.
+Atribuição sugerida: Fernandes, W. (2026). cbo-qbq-dados: Classificação Brasileira de Ocupações e Quadro Brasileiro de Qualificações como dados abertos (Versão dados-2026.11.2) [Conjunto de dados]. Zenodo. https://doi.org/10.5281/zenodo.24353525. Licença CC BY 4.0.

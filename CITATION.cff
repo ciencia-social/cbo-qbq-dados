@@ -11,9 +11,7 @@ authors:
 version: "dados-2026.11.2"
 date-released: "2026-11-18"
 license: CC-BY-4.0
-# doi de versão: omitido enquanto pipeline/publicacao.py:DOI_VERSAO estiver
-# vazio. O esquema CFF 1.2.0 recusa string vazia; o campo entra quando o
-# número for reservado no Zenodo (D019).
+doi: "10.5281/zenodo.24353525"
 url: "https://cbo.ciencia.social"
 repository-code: "https://github.com/ciencia-social/cbo-qbq-dados"
 keywords:

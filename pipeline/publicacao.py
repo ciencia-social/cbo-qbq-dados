@@ -4,9 +4,9 @@
 A data é a da release, não o relógio: um carimbo de `datetime.now()` quebraria
 a regeneração byte a byte conferida no CI.
 
-Os DOI ficam vazios até a reserva no Zenodo. O esquema do CITATION.cff recusa
-string vazia, então o campo `doi` é omitido lá enquanto `DOI_VERSAO` for
-vazio; `VERSAO.json` grava as duas strings, vazias ou não.
+Os DOI vêm do depósito Zenodo de `dados-2026.11.2` (registro 24353525).
+`DOI_CONCEITO` é o da obra contínua; `DOI_VERSAO` fixa essa publicação.
+`VERSAO.json` grava os dois. O `doi` do CITATION.cff é o de versão.
 """
 import json
 from pathlib import Path
@@ -15,8 +15,8 @@ VERSAO_DADOS = "dados-2026.11.2"
 VERSAO_SCHEMA = "schema-v0.3.0"
 DATA_RELEASE = "2026-11-18"
 
-DOI_CONCEITO = ""
-DOI_VERSAO = ""
+DOI_CONCEITO = "10.5281/zenodo.24353524"
+DOI_VERSAO = "10.5281/zenodo.24353525"
 
 REPOSITORIO = "https://github.com/ciencia-social/cbo-qbq-dados"
 SITE = "https://cbo.ciencia.social"
