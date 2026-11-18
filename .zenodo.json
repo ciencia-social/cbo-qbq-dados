@@ -1,0 +1,54 @@
+{
+  "upload_type": "dataset",
+  "title": "cbo-qbq-dados: Classificação Brasileira de Ocupações e Quadro Brasileiro de Qualificações como dados abertos",
+  "description": "<p>Dados abertos, estruturados e verificáveis da Classificação Brasileira de Ocupações (CBO 2002) e do Quadro Brasileiro de Qualificações (QBQ), a partir dos arquivos oficiais do Ministério do Trabalho e Emprego. Inclui a espinha enumerativa da CBO (10 grandes grupos a 2.694 ocupações, com 7.778 sinônimos), o perfil ocupacional (20.723 grandes áreas de competência e 174.296 atividades), as 2.673 ocupações classificadas pelo QBQ com cerca de 258 mil itens de competência (conhecimentos, habilidades e atitudes), os vocabulários controlados das quatro dimensões e os conceitos oficiais das habilidades.</p><p>Cada arquivo oficial está arquivado com checksum em <code>fontes/</code>; o dado canônico em <code>dados/</code> é gerado dele por um pipeline reprodutível, verificado na integração contínua por regeneração byte a byte. As decisões de interpretação estão numeradas em <code>DECISOES.md</code> e as divergências entre as duas fontes são preservadas como dado, nunca reconciliadas em silêncio.</p><p>Licenças: a compilação estruturada em <code>dados/</code> e <code>derivados/</code> é CC BY 4.0; o código de <code>pipeline/</code> e os esquemas de <code>schema/</code> são MIT. O conteúdo normativo provém de atos oficiais do Estado brasileiro, não protegidos por direito autoral nos termos do art. 8º, IV, da Lei 9.610/1998.</p><p>Consulta navegável, API REST e servidor MCP em https://cbo.ciencia.social</p>",
+  "creators": [
+    {
+      "name": "Fernandes, Wil",
+      "orcid": "0009-0008-3477-5521"
+    }
+  ],
+  "version": "dados-2026.11.2",
+  "language": "por",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Classificação Brasileira de Ocupações",
+    "CBO",
+    "Quadro Brasileiro de Qualificações",
+    "QBQ",
+    "ocupações",
+    "qualificação profissional",
+    "mercado de trabalho",
+    "Brasil",
+    "dados abertos",
+    "taxonomia ocupacional"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/cbo/servicos/downloads",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/quadro-brasileiro-de-qualificacoes-qbq",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://cbo.ciencia.social",
+      "relation": "isDocumentedBy",
+      "resource_type": "other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/ciencia-social/cbo-qbq-dados",
+      "relation": "isSupplementTo",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Os anexos monolíticos da release no GitHub (qbq.sql.gz, qbq.sqlite.gz, MANIFEST.sha256) não fazem parte deste depósito; são regeneráveis a partir dos arquivos aqui contidos com 'python3 pipeline/derivar.py'."
+}

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Se usar estes dados, cite conforme abaixo."
+type: dataset
+title: "cbo-qbq-dados: Classificação Brasileira de Ocupações e Quadro Brasileiro de Qualificações como dados abertos"
+abstract: "Dados abertos, estruturados e verificáveis da CBO 2002 e do QBQ, derivados dos arquivos oficiais do Ministério do Trabalho e Emprego por pipeline reprodutível, com proveniência por registro e decisões de interpretação documentadas."
+authors:
+  - family-names: "Fernandes"
+    given-names: "Wil"
+    alias: "Wilmar Fernandes da Silva Junior"
+    orcid: "https://orcid.org/0009-0008-3477-5521"
+version: "dados-2026.11.2"
+date-released: "2026-11-18"
+license: CC-BY-4.0
+# doi de versão: omitido enquanto pipeline/publicacao.py:DOI_VERSAO estiver
+# vazio. O esquema CFF 1.2.0 recusa string vazia; o campo entra quando o
+# número for reservado no Zenodo (D019).
+url: "https://cbo.ciencia.social"
+repository-code: "https://github.com/ciencia-social/cbo-qbq-dados"
+keywords:
+  - Classificação Brasileira de Ocupações
+  - Quadro Brasileiro de Qualificações
+  - ocupações
+  - qualificação profissional
+  - dados abertos
+  - Brasil
