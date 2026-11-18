@@ -1,0 +1,33 @@
+{
+  "versao_dados": "dados-2026.11.2",
+  "versao_schema": "schema-v0.3.0",
+  "camadas": {
+    "cbo_espinha": "dados-2026.11",
+    "cbo_perfil": "dados-2026.11.1",
+    "qbq": "dados-2026.08"
+  },
+  "doi": {
+    "conceito": "",
+    "versao": ""
+  },
+  "licencas": {
+    "dados": "CC-BY-4.0",
+    "codigo": "MIT"
+  },
+  "repositorio": "https://github.com/ciencia-social/cbo-qbq-dados",
+  "site": "https://cbo.ciencia.social",
+  "contagens": {
+    "cbo_grandes_grupos": 10,
+    "cbo_subgrupos_principais": 49,
+    "cbo_subgrupos": 195,
+    "cbo_familias": 626,
+    "cbo_ocupacoes": 2694,
+    "cbo_sinonimos": 7778,
+    "cbo_atividades": 174296,
+    "qbq_ocupacoes": 2673,
+    "qbq_com_competencias": 2618,
+    "qbq_nao_classificadas": 52,
+    "qbq_conceitos": 96
+  },
+  "gerado_em": "2026-11-18"
+}

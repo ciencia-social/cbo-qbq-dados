@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
-"""Gera derivados/ (CSV e SQLite) a partir de dados/qbq/. Nunca editar
-derivados/ à mão. Uso: python3 pipeline/derivar.py"""
+"""Gera derivados/ (CSV, SQLite, datapackage) e VERSAO.json a partir de dados/.
+
+Nunca editar derivados/ nem VERSAO.json à mão. Uso: python3 pipeline/derivar.py
+"""
 import csv
 import hashlib
 import re
@@ -8,6 +10,20 @@ import unicodedata
 import json
 import sqlite3
 from pathlib import Path
+
+from esquemas_csv import DIALETO, ESQUEMAS
+from publicacao import (
+    DATA_RELEASE,
+    DOI_CONCEITO,
+    DOI_VERSAO,
+    LICENCA_CODIGO,
+    LICENCA_DADOS,
+    REPOSITORIO,
+    SITE,
+    VERSAO_DADOS,
+    VERSAO_SCHEMA,
+    camadas_nos_dados,
+)
 
 RAIZ = Path(__file__).resolve().parent.parent
 QBQ = RAIZ / "dados" / "qbq"
@@ -36,7 +52,85 @@ def escrever_csv(nome, colunas, linhas):
         w.writerow(colunas)
         w.writerows(linhas)
     print(f"  gravado derivados/csv/{nome} ({len(linhas)} linhas)")
-    return colunas, linhas
+    return nome, colunas, linhas
+
+
+def escrever_json(caminho, doc):
+    caminho.write_text(
+        json.dumps(doc, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    print(f"  gravado {caminho.relative_to(RAIZ)}")
+
+
+def escrever_datapackage(tabelas):
+    if set(tabelas) != set(ESQUEMAS):
+        faltam = sorted(set(tabelas) - set(ESQUEMAS))
+        sobram = sorted(set(ESQUEMAS) - set(tabelas))
+        raise SystemExit(f"esquema CSV incompleto: faltam {faltam} sobram {sobram}")
+    recursos = []
+    for nome, (arquivo, colunas, _linhas) in tabelas.items():
+        spec = ESQUEMAS[nome]
+        if spec["path"] != arquivo:
+            raise SystemExit(f"{nome}: path do esquema {spec['path']} != {arquivo}")
+        nomes = [c["name"] for c in spec["fields"]]
+        if nomes != colunas:
+            raise SystemExit(f"{nome}: colunas {colunas} != esquema {nomes}")
+        schema = {"fields": spec["fields"]}
+        if spec.get("primaryKey"):
+            schema["primaryKey"] = spec["primaryKey"]
+        if spec.get("foreignKeys"):
+            schema["foreignKeys"] = spec["foreignKeys"]
+        recursos.append({
+            "name": nome,
+            "path": arquivo,
+            "title": spec["title"],
+            "description": spec["description"],
+            "profile": "tabular-data-resource",
+            "encoding": "utf-8",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "dialect": DIALETO,
+            "schema": schema,
+        })
+    pacote = {
+        "profile": "tabular-data-package",
+        "name": "cbo-qbq-dados",
+        "title": (
+            "cbo-qbq-dados: Classificação Brasileira de Ocupações e "
+            "Quadro Brasileiro de Qualificações como dados abertos"
+        ),
+        "description": (
+            "Tabelas derivadas da CBO 2002 e do QBQ. Códigos são texto, "
+            "para preservar o zero à esquerda (D001); graus e níveis são inteiros."
+        ),
+        "version": VERSAO_DADOS,
+        "homepage": SITE,
+        "licenses": [
+            {
+                "name": LICENCA_DADOS,
+                "path": "https://creativecommons.org/licenses/by/4.0/",
+                "title": "Creative Commons Attribution 4.0 International",
+            }
+        ],
+        "resources": recursos,
+    }
+    escrever_json(DER / "csv" / "datapackage.json", pacote)
+
+
+def escrever_versao(contagens):
+    doc = {
+        "versao_dados": VERSAO_DADOS,
+        "versao_schema": VERSAO_SCHEMA,
+        "camadas": camadas_nos_dados(RAIZ),
+        "doi": {"conceito": DOI_CONCEITO, "versao": DOI_VERSAO},
+        "licencas": {"dados": LICENCA_DADOS, "codigo": LICENCA_CODIGO},
+        "repositorio": REPOSITORIO,
+        "site": SITE,
+        "contagens": contagens,
+        "gerado_em": DATA_RELEASE,
+    }
+    escrever_json(RAIZ / "VERSAO.json", doc)
 
 
 NIVEIS_CBO = [("grandes-grupos", "cbo_grande_grupo", "cbo-grandes-grupos.csv"),
@@ -122,8 +216,10 @@ def main():
          "nivel_habilidade", "nivel_atitude", "nivel_qualificacao", "vigencia"], ocup)
 
     con, hab, ati = [], [], []
+    n_comp = 0
     for arq in sorted((QBQ / "competencias").glob("gg-*.json")):
         for oc in carregar(arq)["ocupacoes"]:
+            n_comp += 1
             for i in oc["conhecimentos"]:
                 con.append([oc["codigo"], oc["taxonomia_conhecimento"], i["codigo"],
                             i.get("profundidade"), i.get("frequencia"),
@@ -180,7 +276,7 @@ def main():
     db_path = DER / "qbq.sqlite"
     db_path.unlink(missing_ok=True)
     db = sqlite3.connect(db_path)
-    for tabela, (colunas, linhas) in tabelas.items():
+    for tabela, (_arquivo, colunas, linhas) in tabelas.items():
         cols = ", ".join(f'"{c}"' for c in colunas)
         db.execute(f'CREATE TABLE {tabela} ({cols})')
         db.executemany(
@@ -202,6 +298,22 @@ def main():
             h = hashlib.sha256((DER / rel).read_bytes()).hexdigest()
             f.write(f"{h}  derivados/{rel}\n")
     print(f"  gravado derivados/MANIFEST.sha256 ({manifesto.stat().st_size} bytes)")
+
+    contagens = {
+        "cbo_grandes_grupos": len(tabelas["cbo_grande_grupo"][2]),
+        "cbo_subgrupos_principais": len(tabelas["cbo_subgrupo_principal"][2]),
+        "cbo_subgrupos": len(tabelas["cbo_subgrupo"][2]),
+        "cbo_familias": len(tabelas["cbo_familia"][2]),
+        "cbo_ocupacoes": len(tabelas["cbo_ocupacao"][2]),
+        "cbo_sinonimos": len(tabelas["cbo_sinonimo"][2]),
+        "cbo_atividades": len(tabelas["cbo_atividade"][2]),
+        "qbq_ocupacoes": len(tabelas["qbq_ocupacao"][2]),
+        "qbq_com_competencias": n_comp,
+        "qbq_nao_classificadas": len(tabelas["qbq_nao_classificada"][2]),
+        "qbq_conceitos": len(tabelas["qbq_conceito"][2]),
+    }
+    escrever_datapackage(tabelas)
+    escrever_versao(contagens)
 
 
 if __name__ == "__main__":

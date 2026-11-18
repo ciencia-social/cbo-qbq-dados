@@ -21,9 +21,12 @@ jobs:
       - run: python3 pipeline/validar_schema.py
       - run: python3 pipeline/validar.py
       - name: Derivados reprodutíveis
+        # derivados/csv inclui os CSVs e o datapackage.json gerado.
+        # VERSAO.json também é saída do pipeline (D020): os dois têm de
+        # regenerar byte a byte idênticos ao que está commitado.
         run: |
           python3 pipeline/derivar.py
-          git diff --exit-code derivados/csv
+          git diff --exit-code -- derivados/csv VERSAO.json
       - name: Ativos de release conferem com o manifesto
         # qbq.sql e qbq.sqlite não são versionados; o manifesto é. A linha do
         # qbq.sql é texto gerado por Python puro e determinística, então vale

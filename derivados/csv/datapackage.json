@@ -1,0 +1,1053 @@
+{
+  "profile": "tabular-data-package",
+  "name": "cbo-qbq-dados",
+  "title": "cbo-qbq-dados: Classificação Brasileira de Ocupações e Quadro Brasileiro de Qualificações como dados abertos",
+  "description": "Tabelas derivadas da CBO 2002 e do QBQ. Códigos são texto, para preservar o zero à esquerda (D001); graus e níveis são inteiros.",
+  "version": "dados-2026.11.2",
+  "homepage": "https://cbo.ciencia.social",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "resources": [
+    {
+      "name": "cbo_grande_grupo",
+      "path": "cbo-grandes-grupos.csv",
+      "title": "Grandes grupos da CBO",
+      "description": "Primeiro nível da hierarquia da CBO: um dígito, dez grupos.",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "lineTerminator": "\r\n"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo",
+            "type": "string",
+            "description": "Código CBO deste nível, preservado como texto. Inteiro apagaria o zero à esquerda (D001)."
+          },
+          {
+            "name": "titulo",
+            "type": "string",
+            "description": "Título oficial, como publicado na fonte."
+          },
+          {
+            "name": "pai",
+            "type": "string",
+            "description": "Código do nível imediatamente acima. Vazio na raiz."
+          }
+        ],
+        "primaryKey": [
+          "codigo"
+        ]
+      }
+    },
+    {
+      "name": "cbo_subgrupo_principal",
+      "path": "cbo-subgrupos-principais.csv",
+      "title": "Subgrupos principais da CBO",
+      "description": "Segundo nível da hierarquia da CBO, dois dígitos.",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "lineTerminator": "\r\n"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo",
+            "type": "string",
+            "description": "Código CBO deste nível, preservado como texto. Inteiro apagaria o zero à esquerda (D001)."
+          },
+          {
+            "name": "titulo",
+            "type": "string",
+            "description": "Título oficial, como publicado na fonte."
+          },
+          {
+            "name": "pai",
+            "type": "string",
+            "description": "Código do nível imediatamente acima. Vazio na raiz."
+          }
+        ],
+        "primaryKey": [
+          "codigo"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "pai"
+            ],
+            "reference": {
+              "resource": "cbo_grande_grupo",
+              "fields": [
+                "codigo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "cbo_subgrupo",
+      "path": "cbo-subgrupos.csv",
+      "title": "Subgrupos da CBO",
+      "description": "Terceiro nível da hierarquia da CBO, três dígitos.",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "lineTerminator": "\r\n"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo",
+            "type": "string",
+            "description": "Código CBO deste nível, preservado como texto. Inteiro apagaria o zero à esquerda (D001)."
+          },
+          {
+            "name": "titulo",
+            "type": "string",
+            "description": "Título oficial, como publicado na fonte."
+          },
+          {
+            "name": "pai",
+            "type": "string",
+            "description": "Código do nível imediatamente acima. Vazio na raiz."
+          }
+        ],
+        "primaryKey": [
+          "codigo"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "pai"
+            ],
+            "reference": {
+              "resource": "cbo_subgrupo_principal",
+              "fields": [
+                "codigo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "cbo_familia",
+      "path": "cbo-familias.csv",
+      "title": "Famílias da CBO",
+      "description": "Quarto nível da hierarquia da CBO, quatro dígitos. A família é o prefixo do código da ocupação.",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "lineTerminator": "\r\n"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo",
+            "type": "string",
+            "description": "Código CBO deste nível, preservado como texto. Inteiro apagaria o zero à esquerda (D001)."
+          },
+          {
+            "name": "titulo",
+            "type": "string",
+            "description": "Título oficial, como publicado na fonte."
+          },
+          {
+            "name": "pai",
+            "type": "string",
+            "description": "Código do nível imediatamente acima. Vazio na raiz."
+          }
+        ],
+        "primaryKey": [
+          "codigo"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "pai"
+            ],
+            "reference": {
+              "resource": "cbo_subgrupo",
+              "fields": [
+                "codigo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "cbo_area",
+      "path": "cbo-areas.csv",
+      "title": "Grandes áreas de competência da CBO",
+      "description": "Frentes de trabalho do perfil ocupacional, uma linha por par ocupação e sigla.",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "lineTerminator": "\r\n"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ocupacao",
+            "type": "string",
+            "description": "Código CBO da ocupação, seis dígitos, preservado como texto para não perder o zero à esquerda (D001)."
+          },
+          {
+            "name": "sigla",
+            "type": "string",
+            "description": "Sigla da grande área de competência, como publicada."
+          },
+          {
+            "name": "nome",
+            "type": "string",
+            "description": "Nome da grande área de competência."
+          }
+        ],
+        "primaryKey": [
+          "ocupacao",
+          "sigla"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "ocupacao"
+            ],
+            "reference": {
+              "resource": "cbo_ocupacao",
+              "fields": [
+                "codigo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "cbo_atividade",
+      "path": "cbo-atividades.csv",
+      "title": "Atividades do perfil ocupacional da CBO",
+      "description": "Atividades de cada grande área de competência. O número é o da fonte, com lacunas e eventual repetição (D017).",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "lineTerminator": "\r\n"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ocupacao",
+            "type": "string",
+            "description": "Código CBO da ocupação, seis dígitos, preservado como texto para não perder o zero à esquerda (D001)."
+          },
+          {
+            "name": "sigla",
+            "type": "string",
+            "description": "Sigla da grande área de competência a que a atividade pertence."
+          },
+          {
+            "name": "numero",
+            "type": "integer",
+            "description": "Número da atividade como publicado na fonte, não a posição na lista (D017)."
+          },
+          {
+            "name": "descricao",
+            "type": "string",
+            "description": "Descrição da atividade, como publicada."
+          }
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "ocupacao"
+            ],
+            "reference": {
+              "resource": "cbo_ocupacao",
+              "fields": [
+                "codigo"
+              ]
+            }
+          },
+          {
+            "fields": [
+              "ocupacao",
+              "sigla"
+            ],
+            "reference": {
+              "resource": "cbo_area",
+              "fields": [
+                "ocupacao",
+                "sigla"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "cbo_ocupacao",
+      "path": "cbo-ocupacoes.csv",
+      "title": "Ocupações da CBO",
+      "description": "Espinha enumerativa: uma linha por ocupação da CBO 2002.",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "lineTerminator": "\r\n"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo",
+            "type": "string",
+            "description": "Código CBO da ocupação, seis dígitos, preservado como texto para não perder o zero à esquerda (D001)."
+          },
+          {
+            "name": "titulo",
+            "type": "string",
+            "description": "Título oficial, como publicado na fonte."
+          },
+          {
+            "name": "familia",
+            "type": "string",
+            "description": "Código da família (quatro dígitos), prefixo do código da ocupação, como texto (D001)."
+          },
+          {
+            "name": "vigencia",
+            "type": "string",
+            "description": "Status de vigência do registro: vigente ou revogado."
+          }
+        ],
+        "primaryKey": [
+          "codigo"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "familia"
+            ],
+            "reference": {
+              "resource": "cbo_familia",
+              "fields": [
+                "codigo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "cbo_sinonimo",
+      "path": "cbo-sinonimos.csv",
+      "title": "Sinônimos da CBO",
+      "description": "Denominações alternativas da ocupação. A relação é 1:N e a fonte pode repetir um sinônimo; por isso não há chave primária.",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "lineTerminator": "\r\n"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ocupacao",
+            "type": "string",
+            "description": "Código CBO da ocupação, seis dígitos, preservado como texto para não perder o zero à esquerda (D001)."
+          },
+          {
+            "name": "sinonimo",
+            "type": "string",
+            "description": "Denominação alternativa, como publicada na fonte."
+          }
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "ocupacao"
+            ],
+            "reference": {
+              "resource": "cbo_ocupacao",
+              "fields": [
+                "codigo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "qbq_ocupacao",
+      "path": "qbq-ocupacoes.csv",
+      "title": "Ocupações do QBQ",
+      "description": "Ocupações com a qualificação do QBQ. Nível vazio significa que a ocupação não foi classificada.",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "lineTerminator": "\r\n"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo",
+            "type": "string",
+            "description": "Código CBO da ocupação, seis dígitos, preservado como texto para não perder o zero à esquerda (D001)."
+          },
+          {
+            "name": "titulo",
+            "type": "string",
+            "description": "Título oficial, como publicado na fonte."
+          },
+          {
+            "name": "sintese",
+            "type": "string",
+            "description": "Síntese da ocupação no QBQ. Vazia quando a fonte não traz."
+          },
+          {
+            "name": "perfil_ocupacional",
+            "type": "string",
+            "description": "Perfil ocupacional textual publicado no QBQ. Vazio quando a fonte não traz."
+          },
+          {
+            "name": "nivel_conhecimento",
+            "type": "integer",
+            "description": "Nível de qualificação do conhecimento, de 1 a 8. Vazio quando não classificado."
+          },
+          {
+            "name": "nivel_habilidade",
+            "type": "integer",
+            "description": "Nível de qualificação da habilidade, de 1 a 8. Vazio quando não classificado."
+          },
+          {
+            "name": "nivel_atitude",
+            "type": "integer",
+            "description": "Nível de qualificação da atitude, de 1 a 8. Vazio quando não classificado."
+          },
+          {
+            "name": "nivel_qualificacao",
+            "type": "integer",
+            "description": "Nível de qualificação da ocupação, de 1 a 8. Vazio quando não classificado."
+          },
+          {
+            "name": "vigencia",
+            "type": "string",
+            "description": "Status de vigência do registro: vigente ou revogado."
+          }
+        ],
+        "primaryKey": [
+          "codigo"
+        ]
+      }
+    },
+    {
+      "name": "qbq_conhecimento",
+      "path": "qbq-conhecimentos.csv",
+      "title": "Conhecimentos exigidos por ocupação",
+      "description": "Itens de conhecimento do QBQ. O código do item aponta para o vocabulário nomeado em taxonomia; não há uma chave estrangeira única porque o alvo depende dessa coluna e, nos dois vocabulários de conhecimento, o mesmo código se repete entre níveis.",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "lineTerminator": "\r\n"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ocupacao",
+            "type": "string",
+            "description": "Código CBO da ocupação, seis dígitos, preservado como texto para não perder o zero à esquerda (D001)."
+          },
+          {
+            "name": "taxonomia",
+            "type": "string",
+            "description": "Vocabulário de conhecimento: conhecimentos-i (níveis 1 a 5) ou conhecimentos-ii (níveis 6 a 8)."
+          },
+          {
+            "name": "item",
+            "type": "string",
+            "description": "Código do item no vocabulário indicado por taxonomia, preservado como texto."
+          },
+          {
+            "name": "profundidade",
+            "type": "integer",
+            "description": "Grau de profundidade, de 1 a 5. Vazio quando a fonte não informa."
+          },
+          {
+            "name": "frequencia",
+            "type": "integer",
+            "description": "Grau de frequência, de 1 a 5. Vazio quando a fonte não informa."
+          },
+          {
+            "name": "importancia",
+            "type": "integer",
+            "description": "Grau de importância, de 1 a 5. Vazio quando a fonte não informa."
+          },
+          {
+            "name": "descricao",
+            "type": "string",
+            "description": "Descrição inline. Nos baldes 'outros' (segmento 90 ou 99) distingue itens de mesmo código (D009)."
+          }
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "ocupacao"
+            ],
+            "reference": {
+              "resource": "qbq_ocupacao",
+              "fields": [
+                "codigo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "qbq_habilidade",
+      "path": "qbq-habilidades.csv",
+      "title": "Habilidades exigidas por ocupação",
+      "description": "Itens de habilidade do QBQ, um por linha, com graus quando a fonte os traz.",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "lineTerminator": "\r\n"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ocupacao",
+            "type": "string",
+            "description": "Código CBO da ocupação, seis dígitos, preservado como texto para não perder o zero à esquerda (D001)."
+          },
+          {
+            "name": "item",
+            "type": "string",
+            "description": "Código da habilidade no vocabulário controlado, preservado como texto."
+          },
+          {
+            "name": "frequencia",
+            "type": "integer",
+            "description": "Grau de frequência, de 1 a 5. Vazio quando a fonte não informa."
+          },
+          {
+            "name": "importancia",
+            "type": "integer",
+            "description": "Grau de importância, de 1 a 5. Vazio quando a fonte não informa."
+          },
+          {
+            "name": "descricao",
+            "type": "string",
+            "description": "Descrição inline. Nos baldes 'outros' distingue itens de mesmo código (D009)."
+          }
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "ocupacao"
+            ],
+            "reference": {
+              "resource": "qbq_ocupacao",
+              "fields": [
+                "codigo"
+              ]
+            }
+          },
+          {
+            "fields": [
+              "item"
+            ],
+            "reference": {
+              "resource": "qbq_vocabulario_habilidades",
+              "fields": [
+                "codigo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "qbq_atitude",
+      "path": "qbq-atitudes.csv",
+      "title": "Atitudes exigidas por ocupação",
+      "description": "Itens de atitude do QBQ. A atitude no QBQ é escala de autonomia, não catálogo de comportamento.",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "lineTerminator": "\r\n"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ocupacao",
+            "type": "string",
+            "description": "Código CBO da ocupação, seis dígitos, preservado como texto para não perder o zero à esquerda (D001)."
+          },
+          {
+            "name": "item",
+            "type": "string",
+            "description": "Código da atitude no vocabulário controlado, preservado como texto."
+          },
+          {
+            "name": "importancia",
+            "type": "integer",
+            "description": "Grau de importância, de 1 a 5. Vazio quando a fonte não informa."
+          },
+          {
+            "name": "descricao",
+            "type": "string",
+            "description": "Descrição inline. Nos baldes 'outros' distingue itens de mesmo código (D009)."
+          }
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "ocupacao"
+            ],
+            "reference": {
+              "resource": "qbq_ocupacao",
+              "fields": [
+                "codigo"
+              ]
+            }
+          },
+          {
+            "fields": [
+              "item"
+            ],
+            "reference": {
+              "resource": "qbq_vocabulario_atitudes",
+              "fields": [
+                "codigo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "qbq_vocabulario_conhecimentos_i",
+      "path": "qbq-vocabulario-conhecimentos-i.csv",
+      "title": "Vocabulário de conhecimentos I",
+      "description": "Taxonomia de conhecimentos para ocupações de nível 1 a 5. O código se repete entre níveis, então a chave é nível mais código e o pai não vira chave estrangeira.",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "lineTerminator": "\r\n"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "vocabulario",
+            "type": "string",
+            "description": "Nome do vocabulário: conhecimentos-i, conhecimentos-ii, habilidades ou atitudes."
+          },
+          {
+            "name": "nivel",
+            "type": "string",
+            "description": "Nível do termo dentro do vocabulário (domínio, categoria, elemento ou equivalente)."
+          },
+          {
+            "name": "codigo",
+            "type": "string",
+            "description": "Código do termo, preservado como texto. Pode se repetir entre níveis."
+          },
+          {
+            "name": "descricao",
+            "type": "string",
+            "description": "Descrição oficial do termo."
+          },
+          {
+            "name": "pai",
+            "type": "string",
+            "description": "Código do termo pai. Vazio na raiz do vocabulário."
+          }
+        ],
+        "primaryKey": [
+          "nivel",
+          "codigo"
+        ]
+      }
+    },
+    {
+      "name": "qbq_vocabulario_conhecimentos_ii",
+      "path": "qbq-vocabulario-conhecimentos-ii.csv",
+      "title": "Vocabulário de conhecimentos II",
+      "description": "Taxonomia de conhecimentos para ocupações de nível 6 a 8, com elementos no estilo CNPq. O código se repete entre níveis, então a chave é nível mais código.",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "lineTerminator": "\r\n"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "vocabulario",
+            "type": "string",
+            "description": "Nome do vocabulário: conhecimentos-i, conhecimentos-ii, habilidades ou atitudes."
+          },
+          {
+            "name": "nivel",
+            "type": "string",
+            "description": "Nível do termo dentro do vocabulário (domínio, categoria, elemento ou equivalente)."
+          },
+          {
+            "name": "codigo",
+            "type": "string",
+            "description": "Código do termo, preservado como texto. Pode se repetir entre níveis."
+          },
+          {
+            "name": "descricao",
+            "type": "string",
+            "description": "Descrição oficial do termo."
+          },
+          {
+            "name": "pai",
+            "type": "string",
+            "description": "Código do termo pai. Vazio na raiz do vocabulário."
+          }
+        ],
+        "primaryKey": [
+          "nivel",
+          "codigo"
+        ]
+      }
+    },
+    {
+      "name": "qbq_vocabulario_habilidades",
+      "path": "qbq-vocabulario-habilidades.csv",
+      "title": "Vocabulário de habilidades",
+      "description": "Domínios, categorias e habilidades do QBQ. O código é único no arquivo.",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "lineTerminator": "\r\n"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "vocabulario",
+            "type": "string",
+            "description": "Nome do vocabulário: conhecimentos-i, conhecimentos-ii, habilidades ou atitudes."
+          },
+          {
+            "name": "nivel",
+            "type": "string",
+            "description": "Nível do termo dentro do vocabulário (domínio, categoria, elemento ou equivalente)."
+          },
+          {
+            "name": "codigo",
+            "type": "string",
+            "description": "Código do termo, preservado como texto. Pode se repetir entre níveis."
+          },
+          {
+            "name": "descricao",
+            "type": "string",
+            "description": "Descrição oficial do termo."
+          },
+          {
+            "name": "pai",
+            "type": "string",
+            "description": "Código do termo pai. Vazio na raiz do vocabulário."
+          }
+        ],
+        "primaryKey": [
+          "nivel",
+          "codigo"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "pai"
+            ],
+            "reference": {
+              "resource": "qbq_vocabulario_habilidades",
+              "fields": [
+                "codigo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "qbq_vocabulario_atitudes",
+      "path": "qbq-vocabulario-atitudes.csv",
+      "title": "Vocabulário de atitudes",
+      "description": "Categorias e atitudes do QBQ, escala de autonomia e supervisão. O código é único no arquivo.",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "lineTerminator": "\r\n"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "vocabulario",
+            "type": "string",
+            "description": "Nome do vocabulário: conhecimentos-i, conhecimentos-ii, habilidades ou atitudes."
+          },
+          {
+            "name": "nivel",
+            "type": "string",
+            "description": "Nível do termo dentro do vocabulário (domínio, categoria, elemento ou equivalente)."
+          },
+          {
+            "name": "codigo",
+            "type": "string",
+            "description": "Código do termo, preservado como texto. Pode se repetir entre níveis."
+          },
+          {
+            "name": "descricao",
+            "type": "string",
+            "description": "Descrição oficial do termo."
+          },
+          {
+            "name": "pai",
+            "type": "string",
+            "description": "Código do termo pai. Vazio na raiz do vocabulário."
+          }
+        ],
+        "primaryKey": [
+          "nivel",
+          "codigo"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "pai"
+            ],
+            "reference": {
+              "resource": "qbq_vocabulario_atitudes",
+              "fields": [
+                "codigo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "qbq_conceito",
+      "path": "qbq-conceitos.csv",
+      "title": "Conceitos oficiais das habilidades",
+      "description": "Definição oficial de cada termo de habilidade, vinda do PDF de conceitos. Baldes 'outros' não têm conceito (D012).",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "lineTerminator": "\r\n"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "vocabulario",
+            "type": "string",
+            "description": "Dimensão a que o conceito pertence. Nesta publicação, habilidades."
+          },
+          {
+            "name": "nivel",
+            "type": "string",
+            "description": "Nível do termo no vocabulário: dominios, categorias ou habilidades."
+          },
+          {
+            "name": "codigo",
+            "type": "string",
+            "description": "Código do termo no vocabulário, preservado como texto."
+          },
+          {
+            "name": "termo",
+            "type": "string",
+            "description": "Rótulo do termo no documento de conceitos."
+          },
+          {
+            "name": "conceito",
+            "type": "string",
+            "description": "Definição oficial do termo."
+          }
+        ],
+        "primaryKey": [
+          "nivel",
+          "codigo"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "codigo"
+            ],
+            "reference": {
+              "resource": "qbq_vocabulario_habilidades",
+              "fields": [
+                "codigo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "qbq_nao_classificada",
+      "path": "qbq-nao-classificadas.csv",
+      "title": "Ocupações sem nível no QBQ",
+      "description": "Ocupações que a fonte declara sem classificação de nível, com a justificativa oficial.",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "lineTerminator": "\r\n"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo",
+            "type": "string",
+            "description": "Código CBO da ocupação, seis dígitos, preservado como texto para não perder o zero à esquerda (D001)."
+          },
+          {
+            "name": "titulo",
+            "type": "string",
+            "description": "Título oficial, como publicado na fonte."
+          },
+          {
+            "name": "justificativa",
+            "type": "string",
+            "description": "Justificativa oficial para a ausência de nível no QBQ."
+          }
+        ],
+        "primaryKey": [
+          "codigo"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "codigo"
+            ],
+            "reference": {
+              "resource": "qbq_ocupacao",
+              "fields": [
+                "codigo"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "cobertura_qbq_cbo",
+      "path": "cobertura-qbq-cbo.csv",
+      "title": "Divergências entre QBQ e CBO",
+      "description": "Ocupações em que as duas camadas não coincidem na mesma chave. Não há chave estrangeira: o código pode existir em só uma delas (D015).",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "lineTerminator": "\r\n"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo",
+            "type": "string",
+            "description": "Código CBO da ocupação, seis dígitos, preservado como texto para não perder o zero à esquerda (D001)."
+          },
+          {
+            "name": "situacao",
+            "type": "string",
+            "description": "Relação entre as camadas: so_cbo, so_qbq ou titulo_divergente (D015)."
+          },
+          {
+            "name": "titulo_cbo",
+            "type": "string",
+            "description": "Título na CBO. Vazio quando a ocupação não existe nessa camada."
+          },
+          {
+            "name": "titulo_qbq",
+            "type": "string",
+            "description": "Título no QBQ. Vazio quando a ocupação não existe nessa camada."
+          }
+        ],
+        "primaryKey": [
+          "codigo"
+        ]
+      }
+    }
+  ]
+}

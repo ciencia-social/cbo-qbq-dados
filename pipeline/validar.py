@@ -1,12 +1,30 @@
 #!/usr/bin/env python3
-"""Checagens de contrato sobre dados/ (camadas CBO e QBQ). Falha (exit 1)
-se algum contrato
-for violado. Uso: python3 pipeline/validar.py"""
+"""Checagens de contrato sobre dados/ (camadas CBO e QBQ) e sobre os metadados
+da publicação (contrato 14, D020). Falha (exit 1) se algum contrato for
+violado. Uso: python3 pipeline/validar.py"""
+import csv
 import json
 import re
 import sys
 import unicodedata
 from pathlib import Path
+
+from publicacao import (
+    AUTOR_FAMILY,
+    AUTOR_GIVEN,
+    AUTOR_ZENODO,
+    CHAVES_CONTAGEM,
+    DATA_RELEASE,
+    DOI_CONCEITO,
+    DOI_VERSAO,
+    LICENCA_CODIGO,
+    LICENCA_DADOS,
+    LICENCA_ZENODO,
+    ORCID,
+    VERSAO_DADOS,
+    VERSAO_SCHEMA,
+    camadas_nos_dados,
+)
 
 RAIZ = Path(__file__).resolve().parent.parent
 QBQ = RAIZ / "dados" / "qbq"
@@ -144,6 +162,216 @@ def validar_cbo():
                   f"(ex.: {', '.join(sorted(sem_perfil)[:3])}) — lacuna da fonte")
 
     return codigos, ocupacoes, sinonimos, atividades
+
+
+def _limpar(valor):
+    valor = valor.strip()
+    if len(valor) >= 2 and valor[0] == valor[-1] and valor[0] in "\"'":
+        return valor[1:-1]
+    return valor
+
+
+def ler_cff(texto):
+    """Lê os campos planos e o primeiro autor de CITATION.cff.
+
+    O arquivo é escrito à mão nesse formato (chaves no começo da linha,
+    primeiro autor indentado). Não puxa PyYAML para o CI.
+    """
+    campos = {}
+    autor = {}
+    em_autor = False
+    for linha in texto.splitlines():
+        if not linha.strip() or linha.lstrip().startswith("#"):
+            continue
+        if linha.startswith("authors:"):
+            em_autor = True
+            continue
+        if em_autor and linha.startswith("  - "):
+            resto = linha.strip()[2:]
+            if ":" in resto and not autor:
+                chave, valor = resto.split(":", 1)
+                autor[chave.strip()] = _limpar(valor)
+            continue
+        if em_autor and linha.startswith("    ") and ":" in linha:
+            chave, valor = linha.strip().split(":", 1)
+            autor[chave.strip()] = _limpar(valor)
+            continue
+        if linha[:1].isspace():
+            continue
+        em_autor = False
+        if ":" in linha:
+            chave, valor = linha.split(":", 1)
+            campos[chave.strip()] = _limpar(valor)
+    campos["author"] = autor
+    return campos
+
+
+def _ler_json_metadado(rel):
+    caminho = RAIZ / rel
+    if not caminho.is_file():
+        erro(f"metadados: {rel} ausente")
+        return None
+    try:
+        return carregar(caminho)
+    except json.JSONDecodeError as exc:
+        erro(f"metadados: {rel} não é JSON válido ({exc})")
+        return None
+
+
+def _exigir_versao(arquivo, achada):
+    if achada != VERSAO_DADOS:
+        erro(
+            f"metadados: {arquivo} declara {achada!r}, "
+            f"a versão corrente é {VERSAO_DADOS!r}"
+        )
+
+
+def validar_metadados(contagens):
+    """14. Versão única nos metadados, e VERSAO.json fiel a dados/ (D020).
+
+    .zenodo.json, CITATION.cff, VERSAO.json e o datapackage têm de declarar
+    a versão desta publicação. VERSAO.json ainda repete as contagens reais
+    e a versao_dados de cada camada nos arquivos de dados/ (D016). Os
+    arquivos de dados/ guardam a publicação em que a camada foi gerada, não
+    a versão corrente — por isso a comparação da versão corrente é com a
+    constante do pipeline, e a das camadas é com os JSON de dados/.
+    Divergência é erro.
+    """
+    if tuple(contagens) != CHAVES_CONTAGEM:
+        erro("metadados: contagens internas fora da ordem de CHAVES_CONTAGEM")
+
+    zenodo = _ler_json_metadado(".zenodo.json")
+    if zenodo is not None:
+        if "doi" in zenodo:
+            erro(".zenodo.json: o campo doi não deve ser escrito; o Zenodo cunha o identificador")
+        _exigir_versao(".zenodo.json", zenodo.get("version"))
+        if zenodo.get("license") != LICENCA_ZENODO:
+            erro(
+                f".zenodo.json: license {zenodo.get('license')!r} discorda de "
+                f"{LICENCA_ZENODO!r}, o identificador Zenodo de {LICENCA_DADOS}"
+            )
+        criadores = zenodo.get("creators") or [{}]
+        if criadores[0].get("name") != AUTOR_ZENODO:
+            erro(
+                f".zenodo.json: creators[0].name {criadores[0].get('name')!r} "
+                f"discorda de {AUTOR_ZENODO!r}"
+            )
+        if criadores[0].get("orcid") != ORCID:
+            erro(f".zenodo.json: orcid {criadores[0].get('orcid')!r} discorda de {ORCID!r}")
+
+    cff_caminho = RAIZ / "CITATION.cff"
+    cff = None
+    if not cff_caminho.is_file():
+        erro("metadados: CITATION.cff ausente")
+    else:
+        cff = ler_cff(cff_caminho.read_text(encoding="utf-8"))
+        if "version" not in cff:
+            erro("CITATION.cff: campo version ilegível")
+        else:
+            _exigir_versao("CITATION.cff", cff.get("version"))
+        if cff.get("date-released") != DATA_RELEASE:
+            erro(
+                f"CITATION.cff: date-released {cff.get('date-released')!r} "
+                f"discorda da data da release {DATA_RELEASE!r}"
+            )
+        if cff.get("license") != LICENCA_DADOS:
+            erro(f"CITATION.cff: license {cff.get('license')!r} discorda de {LICENCA_DADOS!r}")
+        autor = cff.get("author") or {}
+        if autor.get("family-names") != AUTOR_FAMILY or autor.get("given-names") != AUTOR_GIVEN:
+            erro(
+                "CITATION.cff: autoria discorda de "
+                f"family-names {AUTOR_FAMILY}, given-names {AUTOR_GIVEN}"
+            )
+        if ORCID not in (autor.get("orcid") or ""):
+            erro(f"CITATION.cff: orcid {autor.get('orcid')!r} não contém {ORCID}")
+        doi_cff = cff.get("doi")
+        if DOI_VERSAO:
+            if doi_cff != DOI_VERSAO:
+                erro(f"CITATION.cff: doi {doi_cff!r} discorda do DOI de versão {DOI_VERSAO!r}")
+        elif doi_cff:
+            erro(
+                f"CITATION.cff: doi {doi_cff!r} está preenchido, "
+                "mas o DOI de versão ainda não foi reservado"
+            )
+        if zenodo is not None and cff.get("title") and zenodo.get("title") != cff.get("title"):
+            erro("metadados: título de .zenodo.json discorda do de CITATION.cff")
+
+    versao = _ler_json_metadado("VERSAO.json")
+    if versao is not None:
+        _exigir_versao("VERSAO.json", versao.get("versao_dados"))
+        if versao.get("versao_schema") != VERSAO_SCHEMA:
+            erro(
+                f"VERSAO.json: versao_schema {versao.get('versao_schema')!r} "
+                f"discorda de {VERSAO_SCHEMA!r}"
+            )
+        if versao.get("gerado_em") != DATA_RELEASE:
+            erro(
+                f"VERSAO.json: gerado_em {versao.get('gerado_em')!r} "
+                f"discorda da data da release {DATA_RELEASE!r}"
+            )
+        if versao.get("licencas") != {"dados": LICENCA_DADOS, "codigo": LICENCA_CODIGO}:
+            erro("VERSAO.json: licencas discordam dos identificadores SPDX da publicação")
+        doi = versao.get("doi") or {}
+        if doi.get("conceito") != DOI_CONCEITO or doi.get("versao") != DOI_VERSAO:
+            erro(
+                "VERSAO.json: doi discorda das constantes do pipeline "
+                f"(conceito {doi.get('conceito')!r}, versao {doi.get('versao')!r})"
+            )
+        try:
+            reais = camadas_nos_dados(RAIZ)
+        except ValueError as exc:
+            erro(f"VERSAO.json: {exc}")
+            reais = None
+        declaradas = versao.get("camadas")
+        if not isinstance(declaradas, dict):
+            erro("VERSAO.json: campo camadas ausente ou ilegível")
+        elif reais is not None:
+            for chave in reais:
+                if declaradas.get(chave) != reais[chave]:
+                    erro(
+                        f"VERSAO.json: camada {chave}={declaradas.get(chave)!r} "
+                        f"discorda dos arquivos de dados/ ({reais[chave]!r})"
+                    )
+            extras = sorted(set(declaradas) - set(reais))
+            if extras:
+                erro(f"VERSAO.json: camadas desconhecidas {extras}")
+        declaradas_cont = versao.get("contagens")
+        if not isinstance(declaradas_cont, dict):
+            erro("VERSAO.json: campo contagens ausente ou ilegível")
+        else:
+            for chave in CHAVES_CONTAGEM:
+                if declaradas_cont.get(chave) != contagens[chave]:
+                    erro(
+                        f"VERSAO.json: contagem {chave}={declaradas_cont.get(chave)!r} "
+                        f"discorda da contagem real {contagens[chave]}"
+                    )
+            extras = sorted(set(declaradas_cont) - set(CHAVES_CONTAGEM))
+            if extras:
+                erro(f"VERSAO.json: contagens desconhecidas {extras}")
+
+    pacote = _ler_json_metadado("derivados/csv/datapackage.json")
+    if pacote is not None:
+        _exigir_versao("derivados/csv/datapackage.json", pacote.get("version"))
+        licencas = pacote.get("licenses") or []
+        nomes = {item.get("name") for item in licencas if isinstance(item, dict)}
+        if LICENCA_DADOS not in nomes:
+            erro(f"derivados/csv/datapackage.json: licenses não declara {LICENCA_DADOS}")
+        for rec in pacote.get("resources") or []:
+            if not isinstance(rec, dict):
+                erro("derivados/csv/datapackage.json: recurso ilegível")
+                continue
+            caminho = RAIZ / "derivados" / "csv" / rec.get("path", "")
+            if not caminho.is_file():
+                erro(f"datapackage: path inexistente {rec.get('path')!r}")
+                continue
+            with open(caminho, encoding="utf-8", newline="") as f:
+                cabecalho = next(csv.reader(f))
+            nomes_campos = [c.get("name") for c in rec.get("schema", {}).get("fields", [])]
+            if nomes_campos != cabecalho:
+                erro(
+                    f"datapackage: campos de {rec.get('path')} {nomes_campos} "
+                    f"discordam do cabeçalho {cabecalho}"
+                )
 
 
 def main():
@@ -309,6 +537,21 @@ def main():
     if divergentes:
         aviso(f"{len(divergentes)} ocupações com título diferente entre QBQ e CBO "
               f"(ex.: {divergentes[0]}) — D015")
+
+    contagens = {
+        "cbo_grandes_grupos": len(cbo_niveis["grandes-grupos"]),
+        "cbo_subgrupos_principais": len(cbo_niveis["subgrupos-principais"]),
+        "cbo_subgrupos": len(cbo_niveis["subgrupos"]),
+        "cbo_familias": len(cbo_niveis["familias"]),
+        "cbo_ocupacoes": len(cbo_ocupacoes),
+        "cbo_sinonimos": cbo_sinonimos,
+        "cbo_atividades": cbo_atividades,
+        "qbq_ocupacoes": len(ocupacoes),
+        "qbq_com_competencias": total_comp,
+        "qbq_nao_classificadas": nc["total"],
+        "qbq_conceitos": total_conceitos,
+    }
+    validar_metadados(contagens)
 
     print(f"CBO: {len(cbo_ocupacoes)} ocupações | {cbo_sinonimos} sinônimos | "
           f"{cbo_atividades} atividades de perfil | "

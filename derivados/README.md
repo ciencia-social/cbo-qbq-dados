@@ -7,9 +7,12 @@ Gerados por `pipeline/derivar.py` a partir de `dados/` — **nunca editar à mã
 | Formato | No git? | Como obter |
 |---|---|---|
 | CSVs (`csv/`, 28 MB) | Sim | Clone ou raw link |
+| `csv/datapackage.json` | Sim | Clone; descreve os CSVs no padrão Frictionless. Gerado por `pipeline/derivar.py`, não editar (D020) |
 | `MANIFEST.sha256` | Sim | Clone |
 | `qbq.sqlite` (29 MB) | **Não** | Anexo do release, ou `python3 pipeline/derivar.py` |
 | `qbq.sql` (38 MB) | **Não** | Anexo do release, ou `python3 pipeline/derivar.py` |
+
+`datapackage.json` declara, para cada CSV, o tipo de cada coluna, a chave primária onde ela existe e as chaves estrangeiras. Códigos da CBO são `string`, para não perder o zero à esquerda (D001); graus e níveis são `integer`. Um consumidor Frictionless carrega as tabelas com esses tipos, sem inferir.
 
 Os dois arquivos monolíticos ficam fora do histórico do git de propósito: são conteúdo gerado, e cada nova versão `dados-AAAA.MM` acrescentaria ao histórico uma cópia inteira dos dois — o clone cresceria dezenas de MB por publicação sem ganho de informação, já que `dados/` (a fonte da verdade) e os CSVs já estão versionados. Eles são anexados a cada release pelo workflow `.github/workflows/release.yml`.
 
