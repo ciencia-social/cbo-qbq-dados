@@ -113,3 +113,15 @@ Hoje só a dimensão `habilidades` tem documento de conceitos publicado. Quando 
 **Contexto.** O esquema `dados-AAAA.MM` supõe no máximo uma publicação por mês. A fase 3 ficou pronta no mesmo dia em que `dados-2026.11` foi publicada, então a próxima versão não tem mês livre para ocupar.
 
 **Decisão.** A segunda publicação de um mesmo mês e as seguintes recebem sufixo sequencial: `dados-2026.11.1`, `dados-2026.11.2`. O glob `dados-*` do workflow de release continua casando, a ordenação lexicográfica continua cronológica e o mês segue identificando a captura. Versão sem sufixo é sempre a primeira do mês.
+
+## D019 — Identificador persistente e política de DOI
+
+**Contexto.** A citação do dataset era a URL do GitHub. O repositório já mudou de nome uma vez (`qbq-dados` para `cbo-qbq-dados`), e um endereço que depende da plataforma deixa de resolver se a conta, o nome ou o serviço mudarem. Uma tag git pode ser movida; um depósito publicado não.
+
+**Decisão.** Cada tag `dados-*` gera um depósito no Zenodo e um DOI de versão, que fixa o conteúdo depositado daquela tag. O DOI de conceito identifica o dataset como obra contínua e resolve sempre para a versão mais recente; o selo do README usa esse, não o de versão, e entra no arquivo quando o número existir. O depósito é do tipo *dataset*, licenciado CC BY 4.0; o código de `pipeline/` e os esquemas de `schema/` são MIT, e a descrição do registro diz isso, porque o Zenodo aceita uma licença só. Os anexos monolíticos (`qbq.sql.gz`, `qbq.sqlite.gz`, `MANIFEST.sha256`) ficam fora do depósito: o Zenodo arquiva a árvore do git, não os anexos da release, e os três se regeneram com `python3 pipeline/derivar.py`. O campo `notes` do registro diz isso. As tags anteriores à integração (`dados-2026.08`, `dados-2026.11`, `dados-2026.11.1`) não recebem DOI retroativo; a primeira versão com identificador é `dados-2026.11.2`.
+
+## D020 — Metadado estruturado é gerado, não escrito
+
+**Contexto.** `derivados/csv/datapackage.json` e `VERSAO.json` descrevem contagens, versões e esquemas de coluna que mudam a cada publicação. Texto escrito à mão nesse lugar envelhece em silêncio, que é o mesmo defeito que o pipeline já evita nos derivados.
+
+**Decisão.** Os dois arquivos são saída de `pipeline/derivar.py`, conferidos pelo CI como os demais derivados. A data em `VERSAO.json` é a data da release, lida de `pipeline/publicacao.py`, e não o relógio da execução — um carimbo de `datetime.now()` quebraria a regeneração byte a byte. `.zenodo.json` e `CITATION.cff` continuam escritos à mão, porque descrevem autoria e intenção, mas o contrato 14 do validador exige que a versão declarada neles, em `VERSAO.json` e no datapackage seja a mesma, e que seja a versão corrente. Divergência é erro, não aviso. Os DOI ficam vazios até a reserva no Zenodo; o campo `doi` do `CITATION.cff` é omitido enquanto não houver número, porque o esquema CFF recusa string vazia.

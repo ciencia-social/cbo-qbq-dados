@@ -1,5 +1,14 @@
 # Changelog
 
+## dados-2026.11.2 · schema-v0.3.0 — 2026-11-18
+
+Mesmo dado de `dados-2026.11.1`. O conteúdo não muda: o que esta publicação acrescenta é o identificador persistente, os metadados de citação e a descrição Frictionless dos derivados.
+
+- `.zenodo.json` e `CITATION.cff` para o depósito Zenodo e o botão de citação do GitHub, com autoria Fernandes, Wil e licença CC BY 4.0. Os campos de DOI ficam vazios até a reserva no Zenodo e entram num commit de acerto
+- `VERSAO.json` e `derivados/csv/datapackage.json`, gerados por `pipeline/derivar.py` e conferidos byte a byte no CI (D020)
+- Contrato 14 no validador: a versão declarada nos quatro metadados tem de ser a versão corrente, e divergência é erro
+- D019, atribuição com autoria, ano e licença em `dados/LICENSE.md`, e titular do `LICENSE` no nome legal
+
 ## dados-2026.11.1 · schema-v0.3.0 — 2026-11-17
 
 Fase 3: perfil ocupacional da CBO.

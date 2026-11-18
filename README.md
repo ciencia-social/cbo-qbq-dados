@@ -4,7 +4,7 @@
 
 Os dados oficiais existem — mas espalhados em planilhas XLSX, sistemas de consulta e PDFs, sem formato canônico legível por máquina, sem histórico e sem proveniência. Este repositório resolve isso, nos moldes do [bncc-dados](https://github.com/bncc-dev/bncc-dados): JSON canônico com proveniência por registro, pipeline reprodutível e derivados prontos para uso (CSV e SQLite).
 
-## O que tem aqui (versão `dados-2026.11.1`)
+## O que tem aqui (versão `dados-2026.11.2`)
 
 | Conjunto | Conteúdo | Onde |
 |---|---|---|
@@ -21,6 +21,27 @@ Os dados oficiais existem — mas espalhados em planilhas XLSX, sistemas de cons
 As duas camadas compartilham a chave (código CBO de 6 dígitos) e **divergem em 64 ocupações**: 25 existem só na CBO, 4 só no QBQ e 35 têm título diferente sob o mesmo código. Nenhuma é reconciliada — ver [`docs/cobertura-qbq-cbo.md`](docs/cobertura-qbq-cbo.md) e o D015.
 
 Os Livros em PDF da CBO e o histórico de alterações são as fases seguintes — ver roadmap abaixo.
+
+## Como citar
+
+Fernandes, W. (2026). *cbo-qbq-dados: Classificação Brasileira de Ocupações e Quadro Brasileiro de Qualificações como dados abertos* (Versão dados-2026.11.2) [Conjunto de dados]. Zenodo. Licença CC BY 4.0.
+
+```bibtex
+@dataset{fernandes_cbo_qbq_dados_2026,
+  author    = {Fernandes, Wil},
+  title     = {cbo-qbq-dados: Classificação Brasileira de Ocupações e Quadro Brasileiro de Qualificações como dados abertos},
+  year      = {2026},
+  publisher = {Zenodo},
+  version   = {dados-2026.11.2},
+  url       = {https://cbo.ciencia.social}
+}
+```
+
+O DOI de versão fixa o conjunto que foi usado; o DOI de conceito aponta para a versão mais recente. Os dois entram nesta citação quando o depósito Zenodo de `dados-2026.11.2` for publicado; até lá os campos ficam vazios.
+
+## Onde consultar
+
+Os mesmos dados estão servidos para navegação em [https://cbo.ciencia.social](https://cbo.ciencia.social). A API REST é aberta, sem chave, em [https://cbo.ciencia.social/api/v1](https://cbo.ciencia.social/api/v1). O servidor MCP está em [https://cbo.ciencia.social/mcp](https://cbo.ciencia.social/mcp). A API e o MCP servem a versão fixada desta publicação; qual é ela está em [https://cbo.ciencia.social/api/v1/versao](https://cbo.ciencia.social/api/v1/versao).
 
 ## Como os dados se encaixam
 
@@ -150,7 +171,9 @@ python3 pipeline/extrair_qbq.py && python3 pipeline/validar_schema.py \
 
 ## Licenças
 
-- **Dados** (`dados/`, `derivados/`): [CC BY 4.0](dados/LICENSE.md) — o conteúdo provém de atos oficiais (art. 8º, IV, Lei 9.610/1998); a compilação estruturada é licenciada abertamente.
-- **Código** (`pipeline/`, `schema/`): [MIT](LICENSE).
+- **Dados** (`dados/`, `derivados/`): [CC BY 4.0](dados/LICENSE.md), identificador SPDX `CC-BY-4.0`. O conteúdo provém de atos oficiais (art. 8º, IV, Lei 9.610/1998); a compilação estruturada é licenciada abertamente.
+- **Código** (`pipeline/`, `schema/`): [MIT](LICENSE), identificador SPDX `MIT`.
+
+Atribuição: Fernandes, W. (2026). *cbo-qbq-dados: Classificação Brasileira de Ocupações e Quadro Brasileiro de Qualificações como dados abertos* (Versão dados-2026.11.2) [Conjunto de dados]. Zenodo. Licença CC BY 4.0.
 
 Decisões de modelagem e inconsistências encontradas nas fontes ficam registradas em [DECISOES.md](DECISOES.md).
